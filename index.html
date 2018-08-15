@@ -199,7 +199,7 @@
     <div style="position:relative; padding:50px">
         <div class="container-fluid">
             <div class="page-header">
-                <h1><i class="tilt fa fa-graduation-cap"></i> Sample Implementation and Results </h1>
+                <h1> Sample Implementation and Results </h1>
             </div>
             <div id="trainingProject" class="row row-eq-height"
                  data-bind="template: { name: 'trainingProject-template', foreach: trainingProject }"></div>
@@ -295,7 +295,7 @@
 <script id="trainSyl-template" type="text/html">
     <li data-bind="css: $index()%2==0 ? '' : 'timeline-inverted'">
         <a class="btn btn-warning timeline-badge"><i
-                data-bind="css: type=='research' ? 'fa fa-flask': type=='teaching'? 'fa fa-book':'fa fa-briefcase'"></i></a>
+                data-bind="css: type=='research' ? 'fa fa-desktop': type=='teaching'? 'fa fa-book':'fa fa-briefcase'"></i></a>
         <div class="timeline-panel">
             <div class="timeline-heading">
                 <p data-bind="text:title" style="display:inline; font-weight:900"></p>,
