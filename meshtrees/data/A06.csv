@@ -1,0 +1,75 @@
+id,value
+Endocrine System,A06
+Endocrine System.Chromaffin System,A06.224
+Endocrine System.Chromaffin System.Chromaffin Cells,A06.224.161
+Endocrine System.Chromaffin System.Chromaffin Cells.Chromaffin Granules,A06.224.161.500
+Endocrine System.Chromaffin System.Enterochromaffin Cells,A06.224.358
+Endocrine System.Chromaffin System.Enterochromaffin-like Cells,A06.224.365
+Endocrine System.Chromaffin System.Para-Aortic Bodies,A06.224.636
+"Endocrine System.Chromaffin System.Paraganglia, Chromaffin",A06.224.736
+Endocrine System.Enteroendocrine Cells,A06.390
+Endocrine System.Enteroendocrine Cells.Enterochromaffin Cells,A06.390.021
+Endocrine System.Enteroendocrine Cells.Enterochromaffin-like Cells,A06.390.043
+Endocrine System.Enteroendocrine Cells.Gastrin-Secreting Cells,A06.390.065
+Endocrine System.Enteroendocrine Cells.Glucagon-Secreting Cells,A06.390.087
+Endocrine System.Enteroendocrine Cells.Insulin-Secreting Cells,A06.390.131
+Endocrine System.Enteroendocrine Cells.Pancreatic Polypeptide-Secreting Cells,A06.390.650
+Endocrine System.Enteroendocrine Cells.Somatostatin-Secreting Cells,A06.390.825
+Endocrine System.Endocrine Glands,A06.407
+Endocrine System.Endocrine Glands.Adrenal Glands,A06.407.071
+Endocrine System.Endocrine Glands.Adrenal Glands.Adrenal Cortex,A06.407.071.140
+Endocrine System.Endocrine Glands.Adrenal Glands.Adrenal Cortex.Zona Fasciculata,A06.407.071.140.950
+Endocrine System.Endocrine Glands.Adrenal Glands.Adrenal Cortex.Zona Glomerulosa,A06.407.071.140.960
+Endocrine System.Endocrine Glands.Adrenal Glands.Adrenal Cortex.Zona Reticularis,A06.407.071.140.970
+Endocrine System.Endocrine Glands.Adrenal Glands.Adrenal Medulla,A06.407.071.265
+Endocrine System.Endocrine Glands.Gonads,A06.407.312
+Endocrine System.Endocrine Glands.Gonads.Ovary,A06.407.312.497
+Endocrine System.Endocrine Glands.Gonads.Ovary.Corpus Luteum,A06.407.312.497.278
+Endocrine System.Endocrine Glands.Gonads.Ovary.Corpus Luteum.Luteal Cells,A06.407.312.497.278.400
+Endocrine System.Endocrine Glands.Gonads.Ovary.Ovarian Follicle,A06.407.312.497.535
+Endocrine System.Endocrine Glands.Gonads.Ovary.Ovarian Follicle.Follicular Fluid,A06.407.312.497.535.150
+Endocrine System.Endocrine Glands.Gonads.Ovary.Ovarian Follicle.Granulosa Cells,A06.407.312.497.535.300
+Endocrine System.Endocrine Glands.Gonads.Ovary.Ovarian Follicle.Granulosa Cells.Cumulus Cells,A06.407.312.497.535.300.500
+Endocrine System.Endocrine Glands.Gonads.Ovary.Ovarian Follicle.Theca Cells,A06.407.312.497.535.600
+Endocrine System.Endocrine Glands.Gonads.Testis,A06.407.312.782
+Endocrine System.Endocrine Glands.Gonads.Testis.Leydig Cells,A06.407.312.782.513
+Endocrine System.Endocrine Glands.Islets of Langerhans,A06.407.414
+Endocrine System.Endocrine Glands.Islets of Langerhans.Glucagon-Secreting Cells,A06.407.414.043
+Endocrine System.Endocrine Glands.Islets of Langerhans.Insulin-Secreting Cells,A06.407.414.087
+Endocrine System.Endocrine Glands.Islets of Langerhans.Pancreatic Polypeptide-Secreting Cells,A06.407.414.587
+Endocrine System.Endocrine Glands.Islets of Langerhans.Somatostatin-Secreting Cells,A06.407.414.793
+Endocrine System.Endocrine Glands.Parathyroid Glands,A06.407.560
+Endocrine System.Endocrine Glands.Pineal Gland,A06.407.635
+Endocrine System.Endocrine Glands.Pituitary-Adrenal System,A06.407.691
+Endocrine System.Endocrine Glands.Pituitary Gland,A06.407.747
+"Endocrine System.Endocrine Glands.Pituitary Gland.Pituitary Gland, Anterior",A06.407.747.500
+"Endocrine System.Endocrine Glands.Pituitary Gland.Pituitary Gland, Anterior.Corticotrophs",A06.407.747.500.500
+"Endocrine System.Endocrine Glands.Pituitary Gland.Pituitary Gland, Anterior.Gonadotrophs",A06.407.747.500.750
+"Endocrine System.Endocrine Glands.Pituitary Gland.Pituitary Gland, Anterior.Lactotrophs",A06.407.747.500.812
+"Endocrine System.Endocrine Glands.Pituitary Gland.Pituitary Gland, Anterior.Somatotrophs",A06.407.747.500.937
+"Endocrine System.Endocrine Glands.Pituitary Gland.Pituitary Gland, Anterior.Thyrotrophs",A06.407.747.500.968
+"Endocrine System.Endocrine Glands.Pituitary Gland.Pituitary Gland, Intermediate",A06.407.747.750
+"Endocrine System.Endocrine Glands.Pituitary Gland.Pituitary Gland, Intermediate.Melanotrophs",A06.407.747.750.500
+"Endocrine System.Endocrine Glands.Pituitary Gland.Pituitary Gland, Posterior",A06.407.747.875
+Endocrine System.Endocrine Glands.Thyroid Gland,A06.407.900
+Endocrine System.Neurosecretory Systems,A06.688
+Endocrine System.Neurosecretory Systems.Circumventricular Organs,A06.688.178
+Endocrine System.Neurosecretory Systems.Circumventricular Organs.Area Postrema,A06.688.178.500
+Endocrine System.Neurosecretory Systems.Circumventricular Organs.Median Eminence,A06.688.178.750
+"Endocrine System.Neurosecretory Systems.Circumventricular Organs.Pituitary Gland, Posterior",A06.688.178.875
+Endocrine System.Neurosecretory Systems.Circumventricular Organs.Subcommissural Organ,A06.688.178.937
+Endocrine System.Neurosecretory Systems.Circumventricular Organs.Subfornical Organ,A06.688.178.968
+Endocrine System.Neurosecretory Systems.Glomus Tympanicum,A06.688.267
+Endocrine System.Neurosecretory Systems.Hypothalamo-Hypophyseal System,A06.688.357
+Endocrine System.Neurosecretory Systems.Hypothalamo-Hypophyseal System.Median Eminence,A06.688.357.500
+Endocrine System.Neurosecretory Systems.Hypothalamo-Hypophyseal System.Pituitary Gland,A06.688.357.750
+"Endocrine System.Neurosecretory Systems.Hypothalamo-Hypophyseal System.Pituitary Gland.Pituitary Gland, Anterior",A06.688.357.750.500
+"Endocrine System.Neurosecretory Systems.Hypothalamo-Hypophyseal System.Pituitary Gland.Pituitary Gland, Anterior.Corticotrophs",A06.688.357.750.500.500
+"Endocrine System.Neurosecretory Systems.Hypothalamo-Hypophyseal System.Pituitary Gland.Pituitary Gland, Anterior.Gonadotrophs",A06.688.357.750.500.750
+"Endocrine System.Neurosecretory Systems.Hypothalamo-Hypophyseal System.Pituitary Gland.Pituitary Gland, Anterior.Lactotrophs",A06.688.357.750.500.812
+"Endocrine System.Neurosecretory Systems.Hypothalamo-Hypophyseal System.Pituitary Gland.Pituitary Gland, Anterior.Somatotrophs",A06.688.357.750.500.937
+"Endocrine System.Neurosecretory Systems.Hypothalamo-Hypophyseal System.Pituitary Gland.Pituitary Gland, Anterior.Thyrotrophs",A06.688.357.750.500.968
+"Endocrine System.Neurosecretory Systems.Hypothalamo-Hypophyseal System.Pituitary Gland.Pituitary Gland, Intermediate",A06.688.357.750.750
+"Endocrine System.Neurosecretory Systems.Hypothalamo-Hypophyseal System.Pituitary Gland.Pituitary Gland, Intermediate.Melanotrophs",A06.688.357.750.750.500
+"Endocrine System.Neurosecretory Systems.Hypothalamo-Hypophyseal System.Pituitary Gland.Pituitary Gland, Posterior",A06.688.357.750.875
+Endocrine System.Neurosecretory Systems.Pineal Gland,A06.688.733

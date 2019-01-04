@@ -1,0 +1,547 @@
+id,name
+C01,Bacterial Infections and Mycoses
+C01.252,Bacterial Infections
+C01.252.100,Bacteremia
+C01.252.100.375,Hemorrhagic Septicemia
+C01.252.200,Central Nervous System Bacterial Infections
+C01.252.200.450,Lyme Neuroborreliosis
+C01.252.200.500,"Meningitis, Bacterial"
+C01.252.200.500.400,"Meningitis, Escherichia coli"
+C01.252.200.500.450,"Meningitis, Haemophilus"
+C01.252.200.500.500,"Meningitis, Listeria"
+C01.252.200.500.550,"Meningitis, Meningococcal"
+C01.252.200.500.550.800,Waterhouse-Friderichsen Syndrome
+C01.252.200.500.600,"Meningitis, Pneumococcal"
+C01.252.200.500.800,"Tuberculosis, Meningeal"
+C01.252.200.750,Neurosyphilis
+C01.252.300,"Endocarditis, Bacterial"
+C01.252.300.407,"Endocarditis, Subacute Bacterial"
+C01.252.354,"Eye Infections, Bacterial"
+C01.252.354.225,"Conjunctivitis, Bacterial"
+C01.252.354.225.250,"Conjunctivitis, Inclusion"
+C01.252.354.225.625,Ophthalmia Neonatorum
+C01.252.354.225.800,Trachoma
+C01.252.354.400,Hordeolum
+C01.252.354.450,"Keratoconjunctivitis, Infectious"
+C01.252.354.800,"Tuberculosis, Ocular"
+C01.252.354.900,"Uveitis, Suppurative"
+C01.252.354.900.675,Panophthalmitis
+C01.252.377,Fournier Gangrene
+C01.252.400,Gram-Negative Bacterial Infections
+C01.252.400.050,Aliivibrio Infections
+C01.252.400.054,Anaplasmataceae Infections
+C01.252.400.054.050,Anaplasmosis
+C01.252.400.054.160,Ehrlichiosis
+C01.252.400.054.160.400,Heartwater Disease
+C01.252.400.110,Bacteroidaceae Infections
+C01.252.400.110.109,Bacteroides Infections
+C01.252.400.126,Bartonellaceae Infections
+C01.252.400.126.100,Bartonella Infections
+C01.252.400.126.100.050,"Angiomatosis, Bacillary"
+C01.252.400.126.100.150,Cat-Scratch Disease
+C01.252.400.126.100.800,Trench Fever
+C01.252.400.143,Bordetella Infections
+C01.252.400.143.740,Whooping Cough
+C01.252.400.155,Borrelia Infections
+C01.252.400.155.569,Lyme Disease
+C01.252.400.155.569.200,Erythema Chronicum Migrans
+C01.252.400.155.569.600,Lyme Neuroborreliosis
+C01.252.400.155.644,Relapsing Fever
+C01.252.400.167,Brucellosis
+C01.252.400.167.322,"Brucellosis, Bovine"
+C01.252.400.170,Burkholderia Infections
+C01.252.400.170.400,Glanders
+C01.252.400.170.531,Melioidosis
+C01.252.400.177,Campylobacter Infections
+C01.252.400.200,Cat-Scratch Disease
+C01.252.400.210,Chlamydiaceae Infections
+C01.252.400.210.210,Chlamydia Infections
+C01.252.400.210.210.124,Chlamydial Pneumonia
+C01.252.400.210.210.250,"Conjunctivitis, Inclusion"
+C01.252.400.210.210.490,Lymphogranuloma Venereum
+C01.252.400.210.210.800,Trachoma
+C01.252.400.210.250,Chlamydophila Infections
+C01.252.400.210.250.299,Chlamydial Pneumonia
+C01.252.400.210.250.600,Psittacosis
+C01.252.400.245,Cytophagaceae Infections
+C01.252.400.260,Desulfovibrionaceae Infections
+C01.252.400.310,Enterobacteriaceae Infections
+C01.252.400.310.229,"Dysentery, Bacillary"
+C01.252.400.310.330,Escherichia coli Infections
+C01.252.400.310.330.500,"Meningitis, Escherichia coli"
+C01.252.400.310.416,Granuloma Inguinale
+C01.252.400.310.503,Klebsiella Infections
+C01.252.400.310.503.650,Rhinoscleroma
+C01.252.400.310.708,Proteus Infections
+C01.252.400.310.821,Salmonella Infections
+C01.252.400.310.821.438,Paratyphoid Fever
+C01.252.400.310.821.606,Salmonella Food Poisoning
+C01.252.400.310.821.706,"Salmonella Infections, Animal"
+C01.252.400.310.821.873,Typhoid Fever
+C01.252.400.310.850,Serratia Infections
+C01.252.400.310.980,Yersinia Infections
+C01.252.400.310.980.745,Plague
+C01.252.400.310.980.780,Yersinia pseudotuberculosis Infections
+C01.252.400.349,Flavobacteriaceae Infections
+C01.252.400.388,Fusobacteriaceae Infections
+C01.252.400.388.350,Fusobacterium Infections
+C01.252.400.388.350.400,"Gingivitis, Necrotizing Ulcerative"
+C01.252.400.388.350.700,Lemierre Syndrome
+C01.252.400.466,Helicobacter Infections
+C01.252.400.500,Legionellosis
+C01.252.400.500.501,Legionnaires' Disease
+C01.252.400.511,Leptospirosis
+C01.252.400.511.739,Weil Disease
+C01.252.400.560,Moraxellaceae Infections
+C01.252.400.560.022,Acinetobacter Infections
+C01.252.400.610,Mycoplasmatales Infections
+C01.252.400.610.610,Mycoplasma Infections
+C01.252.400.610.610.717,"Pleuropneumonia, Contagious"
+C01.252.400.610.610.760,"Pneumonia, Mycoplasma"
+C01.252.400.610.850,Ureaplasma Infections
+C01.252.400.625,Neisseriaceae Infections
+C01.252.400.625.391,Gonorrhea
+C01.252.400.625.391.658,Ophthalmia Neonatorum
+C01.252.400.625.549,Meningococcal Infections
+C01.252.400.625.549.449,"Meningitis, Meningococcal"
+C01.252.400.625.549.449.800,Waterhouse-Friderichsen Syndrome
+C01.252.400.700,Pasteurellaceae Infections
+C01.252.400.700.030,Actinobacillus Infections
+C01.252.400.700.030.178,Actinobacillosis
+C01.252.400.700.433,Haemophilus Infections
+C01.252.400.700.433.257,Chancroid
+C01.252.400.700.433.615,"Meningitis, Haemophilus"
+C01.252.400.700.662,Pasteurella Infections
+C01.252.400.700.662.297,Hemorrhagic Septicemia
+C01.252.400.700.675,"Pasteurellosis, Pneumonic"
+C01.252.400.719,Piscirickettsiaceae Infections
+C01.252.400.739,Pseudomonas Infections
+C01.252.400.755,Q Fever
+C01.252.400.771,Rat-Bite Fever
+C01.252.400.780,Rickettsiaceae Infections
+C01.252.400.780.600,"Pneumonia, Rickettsial"
+C01.252.400.780.790,Rickettsia Infections
+C01.252.400.780.790.750,Spotted Fever Group Rickettsiosis
+C01.252.400.780.790.750.250,Boutonneuse Fever
+C01.252.400.780.790.750.500,Rocky Mountain Spotted Fever
+C01.252.400.780.790.800,"Typhus, Endemic Flea-Borne"
+C01.252.400.780.790.805,"Typhus, Epidemic Louse-Borne"
+C01.252.400.780.850,Scrub Typhus
+C01.252.400.825,Tick-Borne Diseases
+C01.252.400.825.050,Anaplasmosis
+C01.252.400.825.200,Ehrlichiosis
+C01.252.400.825.300,Heartwater Disease
+C01.252.400.825.480,Lyme Disease
+C01.252.400.825.480.400,Erythema Chronicum Migrans
+C01.252.400.825.480.700,Lyme Neuroborreliosis
+C01.252.400.825.750,Relapsing Fever
+C01.252.400.825.887,Spotted Fever Group Rickettsiosis
+C01.252.400.825.887.250,Boutonneuse Fever
+C01.252.400.825.887.500,Rocky Mountain Spotted Fever
+C01.252.400.840,Treponemal Infections
+C01.252.400.840.558,Pinta
+C01.252.400.840.744,Syphilis
+C01.252.400.840.744.161,Chancre
+C01.252.400.840.744.456,Neurosyphilis
+C01.252.400.840.744.456.778,Tabes Dorsalis
+C01.252.400.840.744.657,"Syphilis, Cardiovascular"
+C01.252.400.840.744.725,"Syphilis, Congenital"
+C01.252.400.840.744.800,"Syphilis, Cutaneous"
+C01.252.400.840.744.871,"Syphilis, Latent"
+C01.252.400.840.892,Yaws
+C01.252.400.939,Tularemia
+C01.252.400.959,Vibrio Infections
+C01.252.400.959.347,Cholera
+C01.252.410,Gram-Positive Bacterial Infections
+C01.252.410.040,Actinomycetales Infections
+C01.252.410.040.137,Actinomycosis
+C01.252.410.040.137.262,"Actinomycosis, Cervicofacial"
+C01.252.410.040.137.631,Whipple Disease
+C01.252.410.040.246,Corynebacterium Infections
+C01.252.410.040.246.388,Diphtheria
+C01.252.410.040.246.430,Erythrasma
+C01.252.410.040.552,Mycobacterium Infections
+C01.252.410.040.552.386,Leprosy
+C01.252.410.040.552.386.775,"Leprosy, Multibacillary"
+C01.252.410.040.552.386.775.500,"Leprosy, Lepromatous"
+C01.252.410.040.552.386.850,"Leprosy, Paucibacillary"
+C01.252.410.040.552.386.850.249,"Leprosy, Borderline"
+C01.252.410.040.552.386.850.500,"Leprosy, Tuberculoid"
+C01.252.410.040.552.475,"Mycobacterium Infections, Nontuberculous"
+C01.252.410.040.552.475.247,Buruli Ulcer
+C01.252.410.040.552.475.495,Mycobacterium avium-intracellulare Infection
+C01.252.410.040.552.588,Paratuberculosis
+C01.252.410.040.552.846,Tuberculosis
+C01.252.410.040.552.846.122,Latent Tuberculosis
+C01.252.410.040.552.846.246,"Peritonitis, Tuberculous"
+C01.252.410.040.552.846.493,Tuberculoma
+C01.252.410.040.552.846.493.400,"Tuberculoma, Intracranial"
+C01.252.410.040.552.846.516,"Tuberculosis, Avian"
+C01.252.410.040.552.846.538,"Tuberculosis, Bovine"
+C01.252.410.040.552.846.561,"Tuberculosis, Cardiovascular"
+C01.252.410.040.552.846.561.595,"Pericarditis, Tuberculous"
+C01.252.410.040.552.846.570,"Tuberculosis, Central Nervous System"
+C01.252.410.040.552.846.570.300,"Tuberculoma, Intracranial"
+C01.252.410.040.552.846.570.600,"Tuberculosis, Meningeal"
+C01.252.410.040.552.846.583,"Tuberculosis, Cutaneous"
+C01.252.410.040.552.846.583.260,Erythema Induratum
+C01.252.410.040.552.846.583.470,Lupus Vulgaris
+C01.252.410.040.552.846.606,"Tuberculosis, Endocrine"
+C01.252.410.040.552.846.628,"Tuberculosis, Gastrointestinal"
+C01.252.410.040.552.846.651,"Tuberculosis, Hepatic"
+C01.252.410.040.552.846.696,"Tuberculosis, Laryngeal"
+C01.252.410.040.552.846.719,"Tuberculosis, Lymph Node"
+C01.252.410.040.552.846.719.500,King's Evil
+C01.252.410.040.552.846.764,"Tuberculosis, Miliary"
+C01.252.410.040.552.846.775,"Tuberculosis, Multidrug-Resistant"
+C01.252.410.040.552.846.775.500,Extensively Drug-Resistant Tuberculosis
+C01.252.410.040.552.846.786,"Tuberculosis, Ocular"
+C01.252.410.040.552.846.809,"Tuberculosis, Oral"
+C01.252.410.040.552.846.831,"Tuberculosis, Osteoarticular"
+C01.252.410.040.552.846.831.722,"Tuberculosis, Spinal"
+C01.252.410.040.552.846.877,"Tuberculosis, Pleural"
+C01.252.410.040.552.846.877.405,"Empyema, Tuberculous"
+C01.252.410.040.552.846.899,"Tuberculosis, Pulmonary"
+C01.252.410.040.552.846.899.669,Silicotuberculosis
+C01.252.410.040.552.846.922,"Tuberculosis, Splenic"
+C01.252.410.040.552.846.944,"Tuberculosis, Urogenital"
+C01.252.410.040.552.846.944.596,"Tuberculosis, Female Genital"
+C01.252.410.040.552.846.944.721,"Tuberculosis, Male Genital"
+C01.252.410.040.552.846.944.847,"Tuberculosis, Renal"
+C01.252.410.040.692,Nocardia Infections
+C01.252.410.040.692.606,Mycetoma
+C01.252.410.090,Bacillaceae Infections
+C01.252.410.090.072,Anthrax
+C01.252.410.110,Bifidobacteriales Infections
+C01.252.410.222,Clostridium Infections
+C01.252.410.222.151,Botulism
+C01.252.410.222.310,"Enterocolitis, Pseudomembranous"
+C01.252.410.222.325,Enterotoxemia
+C01.252.410.222.440,Gas Gangrene
+C01.252.410.222.864,Tetanus
+C01.252.410.334,Erysipelothrix Infections
+C01.252.410.334.329,Erysipeloid
+C01.252.410.334.776,Swine Erysipelas
+C01.252.410.514,Listeriosis
+C01.252.410.514.533,"Meningitis, Listeria"
+C01.252.410.868,Staphylococcal Infections
+C01.252.410.868.675,"Pneumonia, Staphylococcal"
+C01.252.410.868.806,Staphylococcal Food Poisoning
+C01.252.410.868.820,Staphylococcal Skin Infections
+C01.252.410.868.820.270,Furunculosis
+C01.252.410.868.820.270.200,Carbuncle
+C01.252.410.868.820.504,Impetigo
+C01.252.410.868.820.770,Staphylococcal Scalded Skin Syndrome
+C01.252.410.890,Streptococcal Infections
+C01.252.410.890.210,Ecthyma
+C01.252.410.890.240,"Endocarditis, Subacute Bacterial"
+C01.252.410.890.328,Erysipelas
+C01.252.410.890.485,Impetigo
+C01.252.410.890.670,Pneumococcal Infections
+C01.252.410.890.670.595,"Meningitis, Pneumococcal"
+C01.252.410.890.670.750,"Pneumonia, Pneumococcal"
+C01.252.410.890.731,Rheumatic Fever
+C01.252.410.890.731.649,Rheumatic Heart Disease
+C01.252.410.890.823,Scarlet Fever
+C01.252.620,"Pneumonia, Bacterial"
+C01.252.620.249,Chlamydial Pneumonia
+C01.252.620.500,"Pneumonia, Mycoplasma"
+C01.252.620.530,"Pneumonia of Calves, Enzootic"
+C01.252.620.540,"Pneumonia of Swine, Mycoplasmal"
+C01.252.620.550,"Pneumonia, Pneumococcal"
+C01.252.620.600,"Pneumonia, Rickettsial"
+C01.252.620.620,"Pneumonia, Staphylococcal"
+C01.252.810,"Sexually Transmitted Diseases, Bacterial"
+C01.252.810.201,Chancroid
+C01.252.810.301,Chlamydia Infections
+C01.252.810.301.490,Lymphogranuloma Venereum
+C01.252.810.401,Gonorrhea
+C01.252.810.451,Granuloma Inguinale
+C01.252.810.859,Syphilis
+C01.252.825,"Skin Diseases, Bacterial"
+C01.252.825.110,"Actinomycosis, Cervicofacial"
+C01.252.825.150,"Angiomatosis, Bacillary"
+C01.252.825.180,Digital Dermatitis
+C01.252.825.210,Ecthyma
+C01.252.825.260,Erysipelas
+C01.252.825.310,Erythema Chronicum Migrans
+C01.252.825.320,Erythrasma
+C01.252.825.340,"Fasciitis, Necrotizing"
+C01.252.825.360,Granuloma Inguinale
+C01.252.825.420,Hidradenitis Suppurativa
+C01.252.825.557,Mycetoma
+C01.252.825.630,Pinta
+C01.252.825.705,Rhinoscleroma
+C01.252.825.770,Staphylococcal Skin Infections
+C01.252.825.770.270,Furunculosis
+C01.252.825.770.270.200,Carbuncle
+C01.252.825.770.360,Impetigo
+C01.252.825.770.770,Staphylococcal Scalded Skin Syndrome
+C01.252.825.790,"Syphilis, Cutaneous"
+C01.252.825.820,"Tuberculosis, Cutaneous"
+C01.252.825.820.260,Erythema Induratum
+C01.252.825.820.470,Lupus Vulgaris
+C01.252.825.910,Yaws
+C01.252.847,Spirochaetales Infections
+C01.252.847.193,Borrelia Infections
+C01.252.847.193.569,Lyme Disease
+C01.252.847.193.569.200,Erythema Chronicum Migrans
+C01.252.847.193.569.600,Lyme Neuroborreliosis
+C01.252.847.193.644,Relapsing Fever
+C01.252.847.511,Leptospirosis
+C01.252.847.511.739,Weil Disease
+C01.252.847.840,Treponemal Infections
+C01.252.847.840.558,Pinta
+C01.252.847.840.744,Syphilis
+C01.252.847.840.744.161,Chancre
+C01.252.847.840.744.456,Neurosyphilis
+C01.252.847.840.744.456.778,Tabes Dorsalis
+C01.252.847.840.744.657,"Syphilis, Cardiovascular"
+C01.252.847.840.744.725,"Syphilis, Congenital"
+C01.252.847.840.744.800,"Syphilis, Cutaneous"
+C01.252.847.840.744.871,"Syphilis, Latent"
+C01.252.847.840.892,Yaws
+C01.252.954,"Vaginosis, Bacterial"
+C01.395,Central Nervous System Infections
+C01.395.250,Brain Abscess
+C01.395.250.500,"Toxoplasmosis, Cerebral"
+C01.395.500,Central Nervous System Bacterial Infections
+C01.539,Infection
+C01.539.069,"Aneurysm, Infected"
+C01.539.100,"Arthritis, Infectious"
+C01.539.100.500,"Arthritis, Reactive"
+C01.539.160,"Bone Diseases, Infectious"
+C01.539.160.495,Osteomyelitis
+C01.539.160.495.500,Mastoiditis
+C01.539.160.495.750,Petrositis
+C01.539.160.495.875,Pott Puffy Tumor
+C01.539.160.595,Periostitis
+C01.539.160.762,Spondylitis
+C01.539.160.762.301,Discitis
+C01.539.160.886,"Tuberculosis, Osteoarticular"
+C01.539.160.886.722,"Tuberculosis, Spinal"
+C01.539.190,Cardiovascular Infections
+C01.539.190.249,"Endocarditis, Bacterial"
+C01.539.190.249.407,"Endocarditis, Subacute Bacterial"
+C01.539.190.500,"Syphilis, Cardiovascular"
+C01.539.190.750,"Tuberculosis, Cardiovascular"
+C01.539.190.750.595,"Pericarditis, Tuberculous"
+C01.539.195,Catheter-Related Infections
+C01.539.218,Coinfection
+C01.539.221,Communicable Diseases
+C01.539.221.500,"Communicable Diseases, Emerging"
+C01.539.221.625,"Communicable Diseases, Imported"
+C01.539.221.750,Waterborne Diseases
+C01.539.234,Community-Acquired Infections
+C01.539.248,Cross Infection
+C01.539.248.500,"Pneumonia, Ventilator-Associated"
+C01.539.375,Eye Infections
+C01.539.375.177,Corneal Ulcer
+C01.539.375.265,Endophthalmitis
+C01.539.375.265.500,"Uveitis, Suppurative"
+C01.539.375.354,"Eye Infections, Bacterial"
+C01.539.375.354.220,"Conjunctivitis, Bacterial"
+C01.539.375.354.220.250,"Conjunctivitis, Inclusion"
+C01.539.375.354.220.625,Ophthalmia Neonatorum
+C01.539.375.354.220.800,Trachoma
+C01.539.375.354.400,Hordeolum
+C01.539.375.354.450,"Keratoconjunctivitis, Infectious"
+C01.539.375.354.800,"Tuberculosis, Ocular"
+C01.539.375.354.900,"Uveitis, Suppurative"
+C01.539.375.354.900.675,Panophthalmitis
+C01.539.375.450,"Eye Infections, Fungal"
+C01.539.375.450.900,"Uveitis, Suppurative"
+C01.539.375.450.900.675,Panophthalmitis
+C01.539.392,Focal Infection
+C01.539.392.433,"Focal Infection, Dental"
+C01.539.424,"Gingivitis, Necrotizing Ulcerative"
+C01.539.463,Intraabdominal Infections
+C01.539.463.099,Appendicitis
+C01.539.463.199,Diverticular Diseases
+C01.539.463.199.375,Diverticulitis
+C01.539.463.199.375.250,"Diverticulitis, Colonic"
+C01.539.463.199.375.625,"Diverticulosis, Stomach"
+C01.539.463.199.750,Diverticulum
+C01.539.463.199.750.500,"Diverticulum, Colon"
+C01.539.463.199.750.687,"Diverticulum, Stomach"
+C01.539.463.199.750.750,Meckel Diverticulum
+C01.539.463.600,Peritonitis
+C01.539.463.600.249,"Peritonitis, Tuberculous"
+C01.539.463.600.500,Subphrenic Abscess
+C01.539.463.850,Typhlitis
+C01.539.503,Laboratory Infection
+C01.539.535,Ludwig's Angina
+C01.539.597,Opportunistic Infections
+C01.539.597.050,AIDS-Related Opportunistic Infections
+C01.539.597.880,Superinfection
+C01.539.635,Pelvic Infection
+C01.539.635.500,Pelvic Inflammatory Disease
+C01.539.674,"Pregnancy Complications, Infectious"
+C01.539.674.173,"Abortion, Septic"
+C01.539.674.715,Puerperal Infection
+C01.539.685,Prosthesis-Related Infections
+C01.539.730,Reproductive Tract Infections
+C01.539.739,Respiratory Tract Infections
+C01.539.739.484,"Empyema, Pleural"
+C01.539.739.484.320,"Empyema, Tuberculous"
+C01.539.739.969,Whooping Cough
+C01.539.757,Sepsis
+C01.539.757.100,Bacteremia
+C01.539.757.100.275,Endotoxemia
+C01.539.757.100.375,Hemorrhagic Septicemia
+C01.539.757.360,Fungemia
+C01.539.757.360.150,Candidemia
+C01.539.757.580,Neonatal Sepsis
+C01.539.757.800,"Shock, Septic"
+C01.539.778,Sexually Transmitted Diseases
+C01.539.778.281,"Sexually Transmitted Diseases, Bacterial"
+C01.539.778.281.201,Chancroid
+C01.539.778.281.301,Chlamydia Infections
+C01.539.778.281.301.490,Lymphogranuloma Venereum
+C01.539.778.281.401,Gonorrhea
+C01.539.778.281.451,Granuloma Inguinale
+C01.539.778.281.859,Syphilis
+C01.539.800,"Skin Diseases, Infectious"
+C01.539.800.130,Cellulitis
+C01.539.800.200,Dermatomycoses
+C01.539.800.200.055,Blastomycosis
+C01.539.800.200.100,"Candidiasis, Chronic Mucocutaneous"
+C01.539.800.200.105,"Candidiasis, Cutaneous"
+C01.539.800.200.110,Chromoblastomycosis
+C01.539.800.200.383,Hyalohyphomycosis
+C01.539.800.200.383.125,Alternariosis
+C01.539.800.200.383.375,Cerebral Phaeohyphomycosis
+C01.539.800.200.383.500,Fusariosis
+C01.539.800.200.475,Lobomycosis
+C01.539.800.200.500,Mycetoma
+C01.539.800.200.675,Sporotrichosis
+C01.539.800.200.720,Tinea
+C01.539.800.200.720.550,Onychomycosis
+C01.539.800.200.720.730,Tinea Capitis
+C01.539.800.200.720.730.740,Tinea Favosa
+C01.539.800.200.720.760,Tinea Pedis
+C01.539.800.200.860,Tinea Versicolor
+C01.539.800.460,Paronychia
+C01.539.800.720,"Skin Diseases, Bacterial"
+C01.539.800.720.110,"Actinomycosis, Cervicofacial"
+C01.539.800.720.150,"Angiomatosis, Bacillary"
+C01.539.800.720.180,Digital Dermatitis
+C01.539.800.720.210,Ecthyma
+C01.539.800.720.260,Erysipelas
+C01.539.800.720.310,Erythema Chronicum Migrans
+C01.539.800.720.320,Erythrasma
+C01.539.800.720.360,Granuloma Inguinale
+C01.539.800.720.420,Hidradenitis Suppurativa
+C01.539.800.720.557,Mycetoma
+C01.539.800.720.630,Pinta
+C01.539.800.720.705,Rhinoscleroma
+C01.539.800.720.770,Staphylococcal Skin Infections
+C01.539.800.720.770.270,Furunculosis
+C01.539.800.720.770.270.200,Carbuncle
+C01.539.800.720.770.360,Impetigo
+C01.539.800.720.770.770,Staphylococcal Scalded Skin Syndrome
+C01.539.800.720.790,"Syphilis, Cutaneous"
+C01.539.800.720.820,"Tuberculosis, Cutaneous"
+C01.539.800.720.820.260,Erythema Induratum
+C01.539.800.720.820.470,Lupus Vulgaris
+C01.539.800.720.910,Yaws
+C01.539.820,Soft Tissue Infections
+C01.539.830,Suppuration
+C01.539.830.025,Abscess
+C01.539.830.025.020,Abdominal Abscess
+C01.539.830.025.020.455,Liver Abscess
+C01.539.830.025.020.455.460,"Liver Abscess, Amebic"
+C01.539.830.025.020.455.730,"Liver Abscess, Pyogenic"
+C01.539.830.025.020.810,Subphrenic Abscess
+C01.539.830.025.160,Brain Abscess
+C01.539.830.025.160.800,"Toxoplasmosis, Cerebral"
+C01.539.830.025.325,Epidural Abscess
+C01.539.830.025.490,Lung Abscess
+C01.539.830.025.650,Periapical Abscess
+C01.539.830.025.665,Periodontal Abscess
+C01.539.830.025.675,Peritonsillar Abscess
+C01.539.830.025.700,Psoas Abscess
+C01.539.830.025.780,Retropharyngeal Abscess
+C01.539.830.200,Cellulitis
+C01.539.830.305,Empyema
+C01.539.830.305.310,"Empyema, Pleural"
+C01.539.830.305.310.320,"Empyema, Tuberculous"
+C01.539.830.305.330,"Empyema, Subdural"
+C01.539.830.499,Hidradenitis Suppurativa
+C01.539.830.694,"Otitis Media, Suppurative"
+C01.539.830.767,Pyomyositis
+C01.539.830.840,"Thyroiditis, Suppurative"
+C01.539.830.900,"Uveitis, Suppurative"
+C01.539.861,Toxemia
+C01.539.861.375,Endotoxemia
+C01.539.895,Urinary Tract Infections
+C01.539.895.219,Bacteriuria
+C01.539.895.719,Pyuria
+C01.539.895.775,Schistosomiasis haematobia
+C01.539.947,Wound Infection
+C01.539.947.692,Surgical Wound Infection
+C01.703,Mycoses
+C01.703.080,Aspergillosis
+C01.703.080.537,Neuroaspergillosis
+C01.703.080.768,Pulmonary Aspergillosis
+C01.703.080.768.500,"Aspergillosis, Allergic Bronchopulmonary"
+C01.703.080.768.750,Invasive Pulmonary Aspergillosis
+C01.703.160,Candidiasis
+C01.703.160.165,"Candidiasis, Chronic Mucocutaneous"
+C01.703.160.170,"Candidiasis, Cutaneous"
+C01.703.160.175,"Candidiasis, Invasive"
+C01.703.160.175.150,Candidemia
+C01.703.160.180,"Candidiasis, Oral"
+C01.703.160.190,"Candidiasis, Vulvovaginal"
+C01.703.181,Central Nervous System Fungal Infections
+C01.703.181.500,"Meningitis, Fungal"
+C01.703.181.500.500,"Meningitis, Cryptococcal"
+C01.703.203,Coccidioidomycosis
+C01.703.248,Cryptococcosis
+C01.703.248.290,"Meningitis, Cryptococcal"
+C01.703.295,Dermatomycoses
+C01.703.295.055,Blastomycosis
+C01.703.295.165,"Candidiasis, Chronic Mucocutaneous"
+C01.703.295.170,"Candidiasis, Cutaneous"
+C01.703.295.182,Chromoblastomycosis
+C01.703.295.328,Hyalohyphomycosis
+C01.703.295.328.125,Alternariosis
+C01.703.295.328.375,Cerebral Phaeohyphomycosis
+C01.703.295.328.500,Fusariosis
+C01.703.295.475,Lobomycosis
+C01.703.295.522,Mycetoma
+C01.703.295.675,Sporotrichosis
+C01.703.295.872,Tinea
+C01.703.295.872.458,Onychomycosis
+C01.703.295.872.541,Tinea Capitis
+C01.703.295.872.541.500,Tinea Favosa
+C01.703.295.872.707,Tinea Pedis
+C01.703.295.936,Tinea Versicolor
+C01.703.343,"Eye Infections, Fungal"
+C01.703.343.900,"Uveitis, Suppurative"
+C01.703.343.900.675,Panophthalmitis
+C01.703.392,Geotrichosis
+C01.703.450,Histoplasmosis
+C01.703.492,Invasive Fungal Infections
+C01.703.492.500,"Candidiasis, Invasive"
+C01.703.492.500.150,Candidemia
+C01.703.492.625,Fungemia
+C01.703.492.625.150,Candidemia
+C01.703.492.688,Invasive Pulmonary Aspergillosis
+C01.703.492.750,Neuroaspergillosis
+C01.703.534,"Lung Diseases, Fungal"
+C01.703.534.395,Blastomycosis
+C01.703.534.700,"Pneumonia, Pneumocystis"
+C01.703.617,Microsporidiosis
+C01.703.617.300,Encephalitozoonosis
+C01.703.658,Otomycosis
+C01.703.700,Paracoccidioidomycosis
+C01.703.726,Phaeohyphomycosis
+C01.703.726.500,Cerebral Phaeohyphomycosis
+C01.703.753,Piedra
+C01.703.770,Pneumocystis Infections
+C01.703.770.700,"Pneumonia, Pneumocystis"
+C01.703.875,Trichosporonosis
+C01.703.980,Zygomycosis
+C01.703.980.600,Mucormycosis
+C01.908,Zoonoses

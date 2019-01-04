@@ -1,0 +1,21 @@
+id,value
+Persons,M01
+Persons.Age Groups,M01.060
+Persons.Age Groups.Adolescent,M01.060.057
+Persons.Age Groups.Adult,M01.060.116
+Persons.Age Groups.Adult.Aged,M01.060.116.100
+"Persons.Age Groups.Adult.Aged.Aged, 80 and over",M01.060.116.100.080
+Persons.Age Groups.Adult.Aged.Frail Elderly,M01.060.116.100.540
+Persons.Age Groups.Adult.Middle Aged,M01.060.116.630
+Persons.Age Groups.Adult.Young Adult,M01.060.116.815
+Persons.Age Groups.Child,M01.060.406
+"Persons.Age Groups.Child.Child, Preschool",M01.060.406.448
+Persons.Age Groups.Infant,M01.060.703
+"Persons.Age Groups.Infant.Infant, Newborn",M01.060.703.520
+"Persons.Age Groups.Infant.Infant, Newborn.Infant, Low Birth Weight",M01.060.703.520.460
+"Persons.Age Groups.Infant.Infant, Newborn.Infant, Low Birth Weight.Infant, Small for Gestational Age",M01.060.703.520.460.560
+"Persons.Age Groups.Infant.Infant, Newborn.Infant, Low Birth Weight.Infant, Very Low Birth Weight",M01.060.703.520.460.600
+"Persons.Age Groups.Infant.Infant, Newborn.Infant, Low Birth Weight.Infant, Very Low Birth Weight.Infant, Extremely Low Birth Weight",M01.060.703.520.460.600.500
+"Persons.Age Groups.Infant.Infant, Newborn.Infant, Postmature",M01.060.703.520.500
+"Persons.Age Groups.Infant.Infant, Newborn.Infant, Premature",M01.060.703.520.520
+"Persons.Age Groups.Infant.Infant, Newborn.Infant, Premature.Infant, Extremely Premature",M01.060.703.520.520.500

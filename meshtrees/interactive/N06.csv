@@ -1,0 +1,671 @@
+id,name
+N06,Environment and Public Health
+N06.230,Environment
+N06.230.058,Altitude
+N06.230.063,Carbon Footprint
+N06.230.066,Caves
+N06.230.069,Cities
+N06.230.074,Confined Spaces
+N06.230.080,Conservation of Natural Resources
+N06.230.080.078,Conservation of Energy Resources
+N06.230.080.200,Endangered Species
+N06.230.080.600,Environmental Restoration and Remediation
+N06.230.080.600.500,"Biodegradation, Environmental"
+N06.230.080.800,Conservation of Water Resources
+N06.230.100,Disasters
+N06.230.100.035,Disaster Planning
+N06.230.100.035.500,Strategic Stockpile
+N06.230.100.083,Emergencies
+N06.230.100.121,Emergency Shelter
+N06.230.100.160,Mass Casualty Incidents
+N06.230.100.300,Relief Work
+N06.230.100.350,Rescue Work
+N06.230.124,Ecosystem
+N06.230.124.049,Biodiversity
+N06.230.124.049.100,Biota
+N06.230.124.049.100.500,Microbiota
+N06.230.124.049.100.500.250,Gastrointestinal Microbiome
+N06.230.124.049.100.500.500,Microbial Consortia
+N06.230.124.049.100.500.750,Mycobiome
+N06.230.124.049.100.500.875,Periphyton
+N06.230.124.049.230,Ecotype
+N06.230.124.049.250,Endangered Species
+N06.230.124.049.400,Introduced Species
+N06.230.124.100,Biomass
+N06.230.124.130,Coral Reefs
+N06.230.124.240,"Ecological Systems, Closed"
+N06.230.124.250,Food Chain
+N06.230.124.343,Forests
+N06.230.124.343.500,Rainforest
+N06.230.124.343.750,Taiga
+N06.230.124.390,Grassland
+N06.230.124.437,Rhizosphere
+N06.230.124.531,Tundra
+N06.230.124.531.500,Permafrost
+N06.230.124.625,Wetlands
+N06.230.132,Energy-Generating Resources
+N06.230.132.258,Fossil Fuels
+N06.230.132.258.108,Coal
+N06.230.132.258.108.110,Coke
+N06.230.132.258.369,Natural Gas
+N06.230.132.258.630,Petroleum
+N06.230.132.258.630.500,Fuel Oils
+N06.230.132.258.630.540,Gasoline
+N06.230.132.258.630.600,Kerosene
+N06.230.132.580,Nuclear Energy
+N06.230.132.580.500,Nuclear Fission
+N06.230.132.580.520,Nuclear Fusion
+N06.230.132.644,Renewable Energy
+N06.230.132.644.124,Biofuels
+N06.230.132.644.186,Geothermal Energy
+N06.230.132.644.500,Solar Energy
+N06.230.132.644.750,Water Movements
+N06.230.132.644.750.500,Tidal Waves
+N06.230.132.644.875,Wind
+N06.230.150,"Environment, Controlled"
+N06.230.150.050,Air Conditioning
+N06.230.150.150,Diving
+N06.230.150.225,"Ecological Systems, Closed"
+N06.230.150.300,Heating
+N06.230.150.360,Housing
+N06.230.150.360.250,"Housing, Animal"
+N06.230.150.360.250.200,"Hospitals, Animal"
+N06.230.150.360.260,Housing for the Elderly
+N06.230.150.360.650,Public Housing
+N06.230.150.372,Humidity
+N06.230.150.391,Life Support Systems
+N06.230.150.410,Lighting
+N06.230.150.440,Space Simulation
+N06.230.150.440.950,Weightlessness Simulation
+N06.230.150.440.950.400,Hindlimb Suspension
+N06.230.150.450,Temperature
+N06.230.150.520,Ventilation
+N06.230.200,Environment Design
+N06.230.204,Environmental Policy
+N06.230.208,Explosions
+N06.230.216,Fires
+N06.230.216.500,Fire Extinguishing Systems
+N06.230.216.750,Spontaneous Combustion
+N06.230.216.875,Wildfires
+N06.230.232,Fresh Water
+N06.230.232.500,Lakes
+N06.230.232.625,Ponds
+N06.230.232.650,Rivers
+N06.230.265,Greenhouse Effect
+N06.230.291,Ice
+N06.230.291.500,Ice Cover
+N06.230.295,Islands
+N06.230.300,Meteorological Concepts
+N06.230.300.100,Atmosphere
+N06.230.300.100.150,Air
+N06.230.300.100.150.100,Air Ionization
+N06.230.300.100.150.185,Air Movements
+N06.230.300.100.150.185.200,Wind
+N06.230.300.100.150.592,Compressed Air
+N06.230.300.100.185,Atmospheric Pressure
+N06.230.300.100.185.100,Air Pressure
+N06.230.300.100.185.902,Vacuum
+N06.230.300.100.250,Climate
+N06.230.300.100.250.275,Cold Climate
+N06.230.300.100.250.325,Desert Climate
+N06.230.300.100.250.450,Microclimate
+N06.230.300.100.250.525,Seasons
+N06.230.300.100.250.600,Tropical Climate
+N06.230.300.100.300,Cosmic Radiation
+N06.230.300.100.700,Stratospheric Ozone
+N06.230.300.100.700.500,Ozone Depletion
+N06.230.300.100.725,Weather
+N06.230.300.100.725.154,Cold Temperature
+N06.230.300.100.725.154.500,Extreme Cold
+N06.230.300.100.725.232,Hot Temperature
+N06.230.300.100.725.232.500,Extreme Heat
+N06.230.300.100.725.310,Humidity
+N06.230.300.100.725.375,Lightning
+N06.230.300.100.725.450,Rain
+N06.230.300.100.725.450.050,Acid Rain
+N06.230.300.100.725.480,Snow
+N06.230.300.100.725.525,Sunlight
+N06.230.300.100.725.525.400,Infrared Rays
+N06.230.300.100.725.525.600,Ultraviolet Rays
+N06.230.300.100.725.710,Temperature
+N06.230.300.100.725.710.300,Cold Temperature
+N06.230.300.100.725.710.300.500,Extreme Cold
+N06.230.300.100.725.710.380,Hot Temperature
+N06.230.300.100.725.710.380.500,Extreme Heat
+N06.230.300.100.725.780,Wind
+N06.230.350,Natural Resources
+N06.230.350.500,Water Resources
+N06.230.400,Noise
+N06.230.400.500,"Noise, Occupational"
+N06.230.400.550,"Noise, Transportation"
+N06.230.480,Odorants
+N06.230.520,Rain
+N06.230.520.050,Acid Rain
+N06.230.600,Soil
+N06.230.600.500,Permafrost
+N06.230.650,Steam
+N06.230.750,Structure Collapse
+N06.230.850,Water Movements
+N06.850,Public Health
+N06.850.135,Accidents
+N06.850.135.060,Accident Prevention
+N06.850.135.060.075,Safety
+N06.850.135.060.075.199,Chemical Safety
+N06.850.135.060.075.249,Containment of Biohazards
+N06.850.135.060.075.299,Hazard Analysis and Critical Control Points
+N06.850.135.060.075.349,Patient Harm
+N06.850.135.060.075.399,Patient Safety
+N06.850.135.060.075.800,Safety Management
+N06.850.135.060.075.800.500,Material Safety Data Sheets
+N06.850.135.122,Accidental Falls
+N06.850.135.185,"Accidents, Aviation"
+N06.850.135.190,Biohazard Release
+N06.850.135.190.500,Sverdlovsk Accidental Release
+N06.850.135.195,Chemical Hazard Release
+N06.850.135.195.249,Bhopal Accidental Release
+N06.850.135.195.500,Seveso Accidental Release
+N06.850.135.217,"Accidents, Home"
+N06.850.135.240,"Accidents, Occupational"
+N06.850.135.392,"Accidents, Traffic"
+N06.850.135.696,Drowning
+N06.850.135.696.500,Near Drowning
+N06.850.135.848,Radioactive Hazard Release
+N06.850.135.848.500,Chernobyl Nuclear Accident
+N06.850.135.848.750,Fukushima Nuclear Accident
+N06.850.160,Carrier State
+N06.850.210,Consumer Product Safety
+N06.850.210.275,Device Approval
+N06.850.210.275.500,Diagnostic Test Approval
+N06.850.210.637,Product Recalls and Withdrawals
+N06.850.210.637.200,Drug Recalls
+N06.850.210.637.500,Medical Device Recalls
+N06.850.210.637.700,Safety-Based Drug Withdrawals
+N06.850.210.637.750,Safety-Based Medical Device Withdrawals
+N06.850.275,Disease Eradication
+N06.850.275.500,Mass Drug Administration
+N06.850.290,Disease Outbreaks
+N06.850.290.200,Epidemics
+N06.850.290.200.600,Pandemics
+N06.850.295,Disease Reservoirs
+N06.850.295.300,Fomites
+N06.850.310,"Disease Transmission, Infectious"
+N06.850.310.149,Basic Reproduction Number
+N06.850.310.350,Disease Vectors
+N06.850.310.350.100,Arthropod Vectors
+N06.850.310.350.100.100,Arachnid Vectors
+N06.850.310.350.100.500,Insect Vectors
+N06.850.310.350.100.500.500,Mosquito Vectors
+N06.850.310.405,Infectious Disease Incubation Period
+N06.850.310.410,"Infectious Disease Transmission, Patient-to-Professional"
+N06.850.310.415,"Infectious Disease Transmission, Professional-to-Patient"
+N06.850.310.425,"Infectious Disease Transmission, Vertical"
+N06.850.360,Drug Contamination
+N06.850.376,Emergencies
+N06.850.392,Endemic Diseases
+N06.850.420,Environmental Medicine
+N06.850.425,Environmental Microbiology
+N06.850.425.110,Air Microbiology
+N06.850.425.200,Food Microbiology
+N06.850.425.300,Soil Microbiology
+N06.850.425.450,Water Microbiology
+N06.850.460,Environmental Pollution
+N06.850.460.100,Air Pollution
+N06.850.460.100.080,"Air Pollution, Indoor"
+N06.850.460.100.110,"Air Pollution, Radioactive"
+N06.850.460.100.555,Tobacco Smoke Pollution
+N06.850.460.150,Biofouling
+N06.850.460.200,Body Burden
+N06.850.460.200.250,Drug Residues
+N06.850.460.200.700,Pesticide Residues
+N06.850.460.350,Environmental Exposure
+N06.850.460.350.040,Dietary Exposure
+N06.850.460.350.080,Environmental Monitoring
+N06.850.460.350.080.250,Environmental Biomarkers
+N06.850.460.350.080.500,Biological Oxygen Demand Analysis
+N06.850.460.350.080.750,Water Quality
+N06.850.460.350.112,Inhalation Exposure
+N06.850.460.350.145,Maternal Exposure
+N06.850.460.350.210,Maximum Allowable Concentration
+N06.850.460.350.600,Occupational Exposure
+N06.850.460.350.600.615,Maximum Allowable Concentration
+N06.850.460.350.600.807,Threshold Limit Values
+N06.850.460.350.600.903,War Exposure
+N06.850.460.350.600.903.500,War-Related Injuries
+N06.850.460.350.700,Paternal Exposure
+N06.850.460.350.850,Radiation Exposure
+N06.850.460.350.850.500,Radiation Injuries
+N06.850.460.350.850.500.031,"Abnormalities, Radiation-Induced"
+N06.850.460.350.850.500.158,Acute Radiation Syndrome
+N06.850.460.350.850.500.285,"Radiation Injuries, Experimental"
+N06.850.460.375,Environmental Restoration and Remediation
+N06.850.460.375.500,"Biodegradation, Environmental"
+N06.850.460.400,Food Contamination
+N06.850.460.400.250,"Food Contamination, Radioactive"
+N06.850.460.400.300,Food Microbiology
+N06.850.460.400.650,Food Parasitology
+N06.850.460.610,Noise
+N06.850.460.610.526,"Noise, Occupational"
+N06.850.460.610.680,"Noise, Transportation"
+N06.850.460.660,Petroleum Pollution
+N06.850.460.710,Waste Products
+N06.850.460.710.189,Electronic Waste
+N06.850.460.710.380,Hazardous Waste
+N06.850.460.710.380.638,Radioactive Waste
+N06.850.460.710.420,Industrial Waste
+N06.850.460.710.460,Medical Waste
+N06.850.460.710.460.150,Dental Waste
+N06.850.460.710.460.300,Medical Waste Disposal
+N06.850.460.710.730,Solid Waste
+N06.850.460.710.865,Waste Water
+N06.850.460.790,Water Pollution
+N06.850.460.790.205,Non-Point Source Pollution
+N06.850.460.790.410,"Water Pollution, Chemical"
+N06.850.460.790.410.050,Acid Rain
+N06.850.460.790.460,"Water Pollution, Radioactive"
+N06.850.460.790.730,Water Quality
+N06.850.490,Epidemiologic Factors
+N06.850.490.250,Age Factors
+N06.850.490.250.100,Age of Onset
+N06.850.490.250.550,Maternal Age
+N06.850.490.500,Bias
+N06.850.490.500.250,Observer Variation
+N06.850.490.500.500,Selection Bias
+N06.850.490.625,Causality
+N06.850.490.625.500,Precipitating Factors
+N06.850.490.625.625,Protective Factors
+N06.850.490.625.750,Risk Factors
+N06.850.490.687,Comorbidity
+N06.850.490.687.500,Multimorbidity
+N06.850.490.718,Confounding Factors (Epidemiology)
+N06.850.490.734,"Effect Modifier, Epidemiologic"
+N06.850.490.734.500,Cohort Effect
+N06.850.490.734.750,Healthy Worker Effect
+N06.850.490.734.875,Placebo Effect
+N06.850.490.734.875.500,Nocebo Effect
+N06.850.490.812,Reproductive History
+N06.850.490.812.250,Gravidity
+N06.850.490.812.600,Parity
+N06.850.490.875,Sex Factors
+N06.850.505,Epidemiologic Measurements
+N06.850.505.200,Biometry
+N06.850.505.200.100,Anthropometry
+N06.850.505.200.100.175,Body Mass Index
+N06.850.505.200.100.300,Cephalometry
+N06.850.505.200.100.400,Crown-Rump Length
+N06.850.505.200.100.700,Kinanthropometry
+N06.850.505.400,Demography
+N06.850.505.400.050,Age Distribution
+N06.850.505.400.225,Censuses
+N06.850.505.400.400,Family Characteristics
+N06.850.505.400.400.160,Birth Order
+N06.850.505.400.425,Health Status
+N06.850.505.400.425.350,Geriatric Assessment
+N06.850.505.400.425.675,Health Status Disparities
+N06.850.505.400.425.837,Quality of Life
+N06.850.505.400.600,Population Density
+N06.850.505.400.700,Population Dynamics
+N06.850.505.400.700.400,Health Transition
+N06.850.505.400.700.525,Human Migration
+N06.850.505.400.700.525.500,Emigration and Immigration
+N06.850.505.400.700.650,Population Control
+N06.850.505.400.700.660,Population Growth
+N06.850.505.400.800,Residence Characteristics
+N06.850.505.400.800.200,Catchment Area (Health)
+N06.850.505.400.800.400,Housing
+N06.850.505.400.800.550,Independent Living
+N06.850.505.400.850,Sex Distribution
+N06.850.505.400.850.815,Sex Ratio
+N06.850.505.400.975,Vital Statistics
+N06.850.505.400.975.450,Life Expectancy
+N06.850.505.400.975.475,Life Tables
+N06.850.505.400.975.525,Morbidity
+N06.850.505.400.975.525.080,Basic Reproduction Number
+N06.850.505.400.975.525.375,Incidence
+N06.850.505.400.975.525.750,Prevalence
+N06.850.505.400.975.550,Mortality
+N06.850.505.400.975.550.250,Cause of Death
+N06.850.505.400.975.550.287,Child Mortality
+N06.850.505.400.975.550.325,Fatal Outcome
+N06.850.505.400.975.550.362,Fetal Mortality
+N06.850.505.400.975.550.400,Hospital Mortality
+N06.850.505.400.975.550.475,Infant Mortality
+N06.850.505.400.975.550.475.500,Perinatal Mortality
+N06.850.505.400.975.550.500,Maternal Mortality
+N06.850.505.400.975.550.550,"Mortality, Premature"
+N06.850.505.400.975.550.900,Survival Rate
+N06.850.505.400.975.775,Pregnancy Rate
+N06.850.505.400.975.775.500,Birth Rate
+N06.850.505.557,Nutrition Assessment
+N06.850.505.616,Nutrition Surveys
+N06.850.505.616.300,Diet Surveys
+N06.850.505.636,Pharmacovigilance
+N06.850.505.715,Risk Assessment
+N06.850.505.715.250,Adverse Outcome Pathways
+N06.850.505.715.500,Healthcare Failure Mode and Effect Analysis
+N06.850.505.715.750,Risk Evaluation and Mitigation
+N06.850.520,Epidemiologic Methods
+N06.850.520.270,Contact Tracing
+N06.850.520.308,Data Collection
+N06.850.520.308.056,Datasets as Topic
+N06.850.520.308.112,Focus Groups
+N06.850.520.308.225,Geriatric Assessment
+N06.850.520.308.420,Interviews as Topic
+N06.850.520.308.461,Lot Quality Assurance Sampling
+N06.850.520.308.502,Narration
+N06.850.520.308.585,Nutrition Assessment
+N06.850.520.308.763,Preliminary Data
+N06.850.520.308.940,Records as Topic
+N06.850.520.308.940.250,Birth Certificates
+N06.850.520.308.940.350,Death Certificates
+N06.850.520.308.940.375,Dental Records
+N06.850.520.308.940.425,Hospital Records
+N06.850.520.308.940.968,Medical Records
+N06.850.520.308.940.968.249,Clinical Coding
+N06.850.520.308.940.968.500,Medical Record Linkage
+N06.850.520.308.940.968.550,"Medical Records, Problem-Oriented"
+N06.850.520.308.940.968.625,"Medical Records Systems, Computerized"
+N06.850.520.308.940.968.625.500,Health Smart Cards
+N06.850.520.308.940.968.750,Patient Discharge Summaries
+N06.850.520.308.940.968.875,Trauma Severity Indices
+N06.850.520.308.940.984,Nursing Records
+N06.850.520.308.970,Registries
+N06.850.520.308.970.725,SEER Program
+N06.850.520.308.980,Surveys and Questionnaires
+N06.850.520.308.980.313,Contraceptive Prevalence Surveys
+N06.850.520.308.980.344,Health Care Surveys
+N06.850.520.308.980.344.500,Patient Reported Outcome Measures
+N06.850.520.308.980.438,Health Surveys
+N06.850.520.308.980.438.149,Behavioral Risk Factor Surveillance System
+N06.850.520.308.980.438.300,Dental Health Surveys
+N06.850.520.308.980.438.300.300,Dental Plaque Index
+N06.850.520.308.980.438.300.350,DMF Index
+N06.850.520.308.980.438.300.512,Index of Orthodontic Treatment Need
+N06.850.520.308.980.438.300.675,Oral Hygiene Index
+N06.850.520.308.980.438.300.725,Periodontal Index
+N06.850.520.308.980.438.475,Health Status Indicators
+N06.850.520.308.980.438.475.046,Cost of Illness
+N06.850.520.308.980.438.475.091,Global Burden of Disease
+N06.850.520.308.980.438.475.364,Patient Acuity
+N06.850.520.308.980.438.475.364.500,Severity of Illness Index
+N06.850.520.308.980.438.475.364.500.250,APACHE
+N06.850.520.308.980.438.475.364.500.500,Karnofsky Performance Status
+N06.850.520.308.980.438.475.364.500.625,Organ Dysfunction Scores
+N06.850.520.308.980.438.475.364.500.750,Simplified Acute Physiology Score
+N06.850.520.308.980.438.475.730,Sickness Impact Profile
+N06.850.520.308.980.438.580,Mass Screening
+N06.850.520.308.980.438.580.174,Anonymous Testing
+N06.850.520.308.980.438.580.510,Mass Chest X-Ray
+N06.850.520.308.980.438.580.560,Multiphasic Screening
+N06.850.520.308.980.438.580.580,Neonatal Screening
+N06.850.520.308.980.438.580.925,Vision Screening
+N06.850.520.308.980.438.700,Population Surveillance
+N06.850.520.308.980.438.700.324,Public Health Surveillance
+N06.850.520.308.980.438.700.650,Sentinel Surveillance
+N06.850.520.308.980.469,Nutrition Surveys
+N06.850.520.308.980.469.350,Diet Surveys
+N06.850.520.308.980.485,Patient Health Questionnaire
+N06.850.520.308.980.500,Self Report
+N06.850.520.308.985,Vital Statistics
+N06.850.520.308.985.450,Life Expectancy
+N06.850.520.308.985.475,Life Tables
+N06.850.520.308.985.525,Morbidity
+N06.850.520.308.985.525.080,Basic Reproduction Number
+N06.850.520.308.985.525.375,Incidence
+N06.850.520.308.985.525.750,Prevalence
+N06.850.520.308.985.550,Mortality
+N06.850.520.308.985.550.250,Cause of Death
+N06.850.520.308.985.550.287,Child Mortality
+N06.850.520.308.985.550.325,Fatal Outcome
+N06.850.520.308.985.550.362,Fetal Mortality
+N06.850.520.308.985.550.400,Hospital Mortality
+N06.850.520.308.985.550.475,Infant Mortality
+N06.850.520.308.985.550.475.500,Perinatal Mortality
+N06.850.520.308.985.550.500,Maternal Mortality
+N06.850.520.308.985.550.550,"Mortality, Premature"
+N06.850.520.308.985.550.900,Survival Rate
+N06.850.520.308.985.775,Pregnancy Rate
+N06.850.520.308.985.775.500,Birth Rate
+N06.850.520.373,Disease Notification
+N06.850.520.445,Epidemiologic Research Design
+N06.850.520.445.150,Cross-Over Studies
+N06.850.520.445.300,Double-Blind Method
+N06.850.520.445.392,Genome-Wide Association Study
+N06.850.520.445.485,Matched-Pair Analysis
+N06.850.520.445.500,Meta-Analysis as Topic
+N06.850.520.445.500.500,Network Meta-Analysis
+N06.850.520.445.700,Random Allocation
+N06.850.520.445.725,Reproducibility of Results
+N06.850.520.445.725.500,Dimensional Measurement Accuracy
+N06.850.520.445.762,Sample Size
+N06.850.520.445.800,Sensitivity and Specificity
+N06.850.520.445.800.650,Predictive Value of Tests
+N06.850.520.445.800.750,ROC Curve
+N06.850.520.445.800.875,Signal-To-Noise Ratio
+N06.850.520.445.850,Single-Blind Method
+N06.850.520.450,Epidemiologic Study Characteristics
+N06.850.520.450.250,Clinical Studies as Topic
+N06.850.520.450.250.250,Clinical Trials as Topic
+N06.850.520.450.250.250.100,Adaptive Clinical Trials as Topic
+N06.850.520.450.250.250.200,"Clinical Trials, Phase I as Topic"
+N06.850.520.450.250.250.210,"Clinical Trials, Phase II as Topic"
+N06.850.520.450.250.250.220,"Clinical Trials, Phase III as Topic"
+N06.850.520.450.250.250.230,"Clinical Trials, Phase IV as Topic"
+N06.850.520.450.250.250.365,Controlled Clinical Trials as Topic
+N06.850.520.450.250.250.365.250,Non-Randomized Controlled Trials as Topic
+N06.850.520.450.250.250.365.500,Randomized Controlled Trials as Topic
+N06.850.520.450.250.250.365.500.250,Equivalence Trials as Topic
+N06.850.520.450.250.250.365.500.500,Intention to Treat Analysis
+N06.850.520.450.250.250.365.500.750,Pragmatic Clinical Trials as Topic
+N06.850.520.450.250.500,Observational Studies as Topic
+N06.850.520.450.500,Epidemiologic Studies
+N06.850.520.450.500.500,Case-Control Studies
+N06.850.520.450.500.500.500,Retrospective Studies
+N06.850.520.450.500.750,Cohort Studies
+N06.850.520.450.500.750.350,Follow-Up Studies
+N06.850.520.450.500.750.500,Longitudinal Studies
+N06.850.520.450.500.750.500.500,National Longitudinal Study of Adolescent Health
+N06.850.520.450.500.750.650,Prospective Studies
+N06.850.520.450.500.750.825,Retrospective Studies
+N06.850.520.450.500.812,Controlled Before-After Studies
+N06.850.520.450.500.875,Cross-Sectional Studies
+N06.850.520.450.500.912,Interrupted Time Series Analysis
+N06.850.520.450.500.950,Seroepidemiologic Studies
+N06.850.520.450.500.950.375,HIV Seroprevalence
+N06.850.520.450.550,Feasibility Studies
+N06.850.520.450.643,Multicenter Studies as Topic
+N06.850.520.450.720,Pilot Projects
+N06.850.520.450.875,Sampling Studies
+N06.850.520.450.900,Twin Studies as Topic
+N06.850.520.460,Epidemiological Monitoring
+N06.850.520.470,Molecular Epidemiology
+N06.850.520.470.500,Genome-Wide Association Study
+N06.850.520.699,Sentinel Surveillance
+N06.850.520.830,Statistics as Topic
+N06.850.520.830.100,Actuarial Analysis
+N06.850.520.830.150,Analysis of Variance
+N06.850.520.830.150.500,Multivariate Analysis
+N06.850.520.830.200,Area Under Curve
+N06.850.520.830.250,Cluster Analysis
+N06.850.520.830.250.675,Small-Area Analysis
+N06.850.520.830.250.700,Space-Time Clustering
+N06.850.520.830.275,Confidence Intervals
+N06.850.520.830.300,"Data Interpretation, Statistical"
+N06.850.520.830.350,Discriminant Analysis
+N06.850.520.830.400,"Factor Analysis, Statistical"
+N06.850.520.830.475,Matched-Pair Analysis
+N06.850.520.830.500,"Models, Statistical"
+N06.850.520.830.500.475,Likelihood Functions
+N06.850.520.830.500.500,Linear Models
+N06.850.520.830.500.525,Logistic Models
+N06.850.520.830.500.600,"Models, Economic"
+N06.850.520.830.500.600.500,"Models, Econometric"
+N06.850.520.830.500.625,Nomograms
+N06.850.520.830.500.700,Proportional Hazards Models
+N06.850.520.830.525,Monte Carlo Method
+N06.850.520.830.562,Multilevel Analysis
+N06.850.520.830.600,Probability
+N06.850.520.830.600.200,Bayes Theorem
+N06.850.520.830.600.400,Likelihood Functions
+N06.850.520.830.600.500,Markov Chains
+N06.850.520.830.600.600,Odds Ratio
+N06.850.520.830.600.650,Propensity Score
+N06.850.520.830.600.700,Proportional Hazards Models
+N06.850.520.830.600.800,Risk
+N06.850.520.830.600.800.450,Logistic Models
+N06.850.520.830.600.800.582,Protective Factors
+N06.850.520.830.600.800.715,Risk Assessment
+N06.850.520.830.600.800.715.500,Healthcare Failure Mode and Effect Analysis
+N06.850.520.830.600.800.725,Risk Factors
+N06.850.520.830.600.900,Uncertainty
+N06.850.520.830.750,Regression Analysis
+N06.850.520.830.750.400,Least-Squares Analysis
+N06.850.520.830.750.425,Linear Models
+N06.850.520.830.750.450,Logistic Models
+N06.850.520.830.750.725,Proportional Hazards Models
+N06.850.520.830.750.862,Spatial Regression
+N06.850.520.830.872,Sensitivity and Specificity
+N06.850.520.830.872.500,Limit of Detection
+N06.850.520.830.872.750,Signal-To-Noise Ratio
+N06.850.520.830.933,Spatial Analysis
+N06.850.520.830.933.249,Geographic Mapping
+N06.850.520.830.933.375,Spatial Regression
+N06.850.520.830.933.500,Spatio-Temporal Analysis
+N06.850.520.830.994,Statistical Distributions
+N06.850.520.830.994.250,Binomial Distribution
+N06.850.520.830.994.300,Chi-Square Distribution
+N06.850.520.830.994.500,Normal Distribution
+N06.850.520.830.994.750,Poisson Distribution
+N06.850.520.830.995,"Statistics, Nonparametric"
+N06.850.520.830.996,Stochastic Processes
+N06.850.520.830.996.500,Markov Chains
+N06.850.520.830.998,Survival Analysis
+N06.850.520.830.998.300,Disease-Free Survival
+N06.850.520.830.998.650,Kaplan-Meier Estimate
+N06.850.540,Equipment Contamination
+N06.850.540.500,Biofouling
+N06.850.585,Equipment Reuse
+N06.850.601,Food Quality
+N06.850.601.500,Food Safety
+N06.850.601.500.249,Food Contamination
+N06.850.601.500.249.250,"Food Contamination, Radioactive"
+N06.850.601.500.249.300,Food Microbiology
+N06.850.601.500.249.650,Food Parasitology
+N06.850.601.500.500,Food Inspection
+N06.850.601.500.750,Hazard Analysis and Critical Control Points
+N06.850.601.750,Nutritive Value
+N06.850.601.750.500,Glycemic Index
+N06.850.601.750.750,Glycemic Load
+N06.850.650,Health Transition
+N06.850.670,Hygiene
+N06.850.670.150,Hand Hygiene
+N06.850.670.150.500,Hand Disinfection
+N06.850.670.300,Military Hygiene
+N06.850.725,Patient Harm
+N06.850.780,Public Health Practice
+N06.850.780.200,Communicable Disease Control
+N06.850.780.200.112,Animal Culling
+N06.850.780.200.225,Contact Tracing
+N06.850.780.200.262,Disease Notification
+N06.850.780.200.300,Fumigation
+N06.850.780.200.425,Immunization
+N06.850.780.200.425.900,Vaccination
+N06.850.780.200.425.900.500,Mass Vaccination
+N06.850.780.200.450,Infection Control
+N06.850.780.200.450.150,Antisepsis
+N06.850.780.200.450.150.160,Asepsis
+N06.850.780.200.450.325,Blood Safety
+N06.850.780.200.450.500,"Infection Control, Dental"
+N06.850.780.200.450.650,Patient Isolation
+N06.850.780.200.450.700,Quarantine
+N06.850.780.200.450.850,Sterilization
+N06.850.780.200.450.850.375,Disinfection
+N06.850.780.200.550,Mandatory Testing
+N06.850.780.200.600,Mass Drug Administration
+N06.850.780.200.650,Pest Control
+N06.850.780.200.650.425,Insect Control
+N06.850.780.200.650.425.500,Mosquito Control
+N06.850.780.200.650.650,"Pest Control, Biological"
+N06.850.780.200.650.700,Rodent Control
+N06.850.780.200.650.850,Tick Control
+N06.850.780.200.650.925,Weed Control
+N06.850.780.200.800,Sanitation
+N06.850.780.200.800.325,Food Inspection
+N06.850.780.200.800.800,Sanitary Engineering
+N06.850.780.200.800.800.350,"Drainage, Sanitary"
+N06.850.780.200.800.800.525,Recycling
+N06.850.780.200.800.800.700,Refuse Disposal
+N06.850.780.200.800.800.700.500,Composting
+N06.850.780.200.800.800.795,Toilet Facilities
+N06.850.780.200.800.800.890,"Waste Disposal, Fluid"
+N06.850.780.200.800.800.900,Waste Management
+N06.850.780.200.800.800.900.449,Waste Disposal Facilities
+N06.850.780.200.800.800.900.449.500,Hazardous Waste Sites
+N06.850.780.200.800.800.900.900,Water Purification
+N06.850.780.200.925,Universal Precautions
+N06.850.780.325,Decontamination
+N06.850.780.375,Environmental Monitoring
+N06.850.780.375.349,Biological Oxygen Demand Analysis
+N06.850.780.375.700,Radiation Monitoring
+N06.850.780.500,Mass Screening
+N06.850.780.500.162,Anonymous Testing
+N06.850.780.500.412,Mandatory Testing
+N06.850.780.500.500,Mass Chest X-Ray
+N06.850.780.500.560,Multiphasic Screening
+N06.850.780.500.580,Neonatal Screening
+N06.850.780.500.765,Substance Abuse Detection
+N06.850.780.500.950,Vision Screening
+N06.850.780.675,Population Surveillance
+N06.850.780.675.324,Biosurveillance
+N06.850.780.675.487,Public Health Surveillance
+N06.850.780.675.650,Sentinel Surveillance
+N06.850.780.680,Primary Prevention
+N06.850.780.680.310,Immunization
+N06.850.780.680.310.890,Vaccination
+N06.850.780.680.310.890.500,Mass Vaccination
+N06.850.780.680.655,Pre-Exposure Prophylaxis
+N06.850.780.750,Secondary Prevention
+N06.850.780.800,Tertiary Prevention
+N06.850.810,Radiologic Health
+N06.850.810.080,"Air Pollution, Radioactive"
+N06.850.810.125,"Food Contamination, Radioactive"
+N06.850.810.250,Radiation Dosage
+N06.850.810.250.180,"Dose-Response Relationship, Radiation"
+N06.850.810.250.275,Relative Biological Effectiveness
+N06.850.810.300,Radiation Effects
+N06.850.810.300.360,Radiation Injuries
+N06.850.810.300.360.031,"Abnormalities, Radiation-Induced"
+N06.850.810.300.360.158,Acute Radiation Syndrome
+N06.850.810.300.360.285,"Radiation Injuries, Experimental"
+N06.850.810.335,Radiation Genetics
+N06.850.810.370,Radiation Monitoring
+N06.850.810.370.310,Film Dosimetry
+N06.850.810.370.365,Optically Stimulated Luminescence Dosimetry
+N06.850.810.370.420,Thermoluminescent Dosimetry
+N06.850.810.425,Radiation Protection
+N06.850.810.460,Radioactive Fallout
+N06.850.810.485,Radioactive Waste
+N06.850.810.530,"Water Pollution, Radioactive"
+N06.850.860,Sanitation
+N06.850.860.510,Sanitary Engineering
+N06.850.860.510.244,Recycling
+N06.850.860.510.490,Toilet Facilities
+N06.850.860.510.900,Waste Management
+N06.850.860.510.900.600,Refuse Disposal
+N06.850.860.510.900.600.200,Composting
+N06.850.860.510.900.600.400,Garbage
+N06.850.860.510.900.600.500,Incineration
+N06.850.860.510.900.600.600,Medical Waste Disposal
+N06.850.860.510.900.600.900,"Waste Disposal, Fluid"
+N06.850.860.510.900.700,Waste Disposal Facilities
+N06.850.860.510.900.700.500,Hazardous Waste Sites
+N06.850.860.510.900.900,Water Purification
+N06.850.860.510.910,Water Softening
+N06.890,Public Health Dentistry
+N06.890.160,Dental Health Surveys
+N06.890.160.090,Dental Plaque Index
+N06.890.160.100,DMF Index
+N06.890.160.134,Index of Orthodontic Treatment Need
+N06.890.160.168,Oral Hygiene Index
+N06.890.160.215,Periodontal Index
+N06.890.235,Fluoridation
+N06.890.410,"Health Education, Dental"

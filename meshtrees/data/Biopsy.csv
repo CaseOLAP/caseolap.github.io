@@ -1,0 +1,17 @@
+id,value
+Investigative Techniques,E05
+Investigative Techniques.Cytological Techniques,E05.242
+Investigative Techniques.Cytological Techniques.Cytodiagnosis,E05.242.384
+Investigative Techniques.Cytological Techniques.Cytodiagnosis.Biopsy,E05.242.384.100
+"Investigative Techniques.Cytological Techniques.Cytodiagnosis.Biopsy.Biopsy, Needle",E05.242.384.100.119
+"Investigative Techniques.Cytological Techniques.Cytodiagnosis.Biopsy.Biopsy, Needle.Biopsy, Fine-Needle",E05.242.384.100.119.500
+"Investigative Techniques.Cytological Techniques.Cytodiagnosis.Biopsy.Biopsy, Needle.Biopsy, Fine-Needle.Endoscopic Ultrasound-Guided Fine Needle Aspiration",E05.242.384.100.119.500.500
+"Investigative Techniques.Cytological Techniques.Cytodiagnosis.Biopsy.Biopsy, Needle.Biopsy, Large-Core Needle",E05.242.384.100.119.750
+Investigative Techniques.Cytological Techniques.Cytodiagnosis.Biopsy.Chorionic Villi Sampling,E05.242.384.100.149
+Investigative Techniques.Cytological Techniques.Cytodiagnosis.Biopsy.Conization,E05.242.384.100.160
+Investigative Techniques.Cytological Techniques.Cytodiagnosis.Biopsy.Image-Guided Biopsy,E05.242.384.100.370
+Investigative Techniques.Cytological Techniques.Cytodiagnosis.Biopsy.Image-Guided Biopsy.Endoscopic Ultrasound-Guided Fine Needle Aspiration,E05.242.384.100.370.500
+Investigative Techniques.Cytological Techniques.Cytodiagnosis.Biopsy.Liquid Biopsy,E05.242.384.100.396
+Investigative Techniques.Cytological Techniques.Cytodiagnosis.Biopsy.Papanicolaou Test,E05.242.384.100.422
+Investigative Techniques.Cytological Techniques.Cytodiagnosis.Biopsy.Sentinel Lymph Node Biopsy,E05.242.384.100.580
+Investigative Techniques.Cytological Techniques.Cytodiagnosis.Biopsy.Vaginal Smears,E05.242.384.100.800

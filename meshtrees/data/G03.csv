@@ -1,0 +1,213 @@
+id,value
+Metabolism,G03
+Metabolism.Absorption,G03.015
+"Metabolism.Absorption.Absorption, Physiological",G03.015.500
+"Metabolism.Absorption.Absorption, Physiological.Gastrointestinal Absorption",G03.015.500.374
+"Metabolism.Absorption.Absorption, Physiological.Gastrointestinal Absorption.Gastric Absorption",G03.015.500.374.249
+"Metabolism.Absorption.Absorption, Physiological.Gastrointestinal Absorption.Intestinal Absorption",G03.015.500.374.500
+"Metabolism.Absorption.Absorption, Physiological.Gastrointestinal Absorption.Intestinal Absorption.Intestinal Reabsorption",G03.015.500.374.500.500
+"Metabolism.Absorption.Absorption, Physiological.Gastrointestinal Absorption.Oral Mucosal Absorption",G03.015.500.374.650
+"Metabolism.Absorption.Absorption, Physiological.Gastrointestinal Absorption.Rectal Absorption",G03.015.500.374.825
+"Metabolism.Absorption.Absorption, Physiological.Intramuscular Absorption",G03.015.500.562
+"Metabolism.Absorption.Absorption, Physiological.Ocular Absorption",G03.015.500.656
+"Metabolism.Absorption.Absorption, Physiological.Peritoneal Absorption",G03.015.500.667
+"Metabolism.Absorption.Absorption, Physiological.Renal Reabsorption",G03.015.500.679
+"Metabolism.Absorption.Absorption, Physiological.Respiratory Tract Absorption",G03.015.500.703
+"Metabolism.Absorption.Absorption, Physiological.Respiratory Tract Absorption.Nasal Absorption",G03.015.500.703.500
+"Metabolism.Absorption.Absorption, Physiological.Skin Absorption",G03.015.500.750
+"Metabolism.Absorption.Absorption, Physiological.Subcutaneous Absorption",G03.015.500.875
+"Metabolism.Absorption.Absorption, Physiological.Vaginal Absorption",G03.015.500.937
+Metabolism.Acid-Base Equilibrium,G03.030
+Metabolism.Acylation,G03.040
+Metabolism.Acylation.Acetylation,G03.040.052
+Metabolism.Acylation.Aminoacylation,G03.040.055
+Metabolism.Acylation.Aminoacylation.Transfer RNA Aminoacylation,G03.040.055.860
+Metabolism.Aerobiosis,G03.049
+Metabolism.Alkylation,G03.059
+Metabolism.Alkylation.Methylation,G03.059.538
+Metabolism.Alkylation.Methylation.DNA Methylation,G03.059.538.161
+Metabolism.Amination,G03.068
+Metabolism.Anaerobiosis,G03.078
+Metabolism.Autotrophic Processes,G03.087
+Metabolism.Autotrophic Processes.Chemoautotrophic Growth,G03.087.314
+Metabolism.Autotrophic Processes.Nitrogen Fixation,G03.087.630
+Metabolism.Biocatalysis,G03.105
+Metabolism.Biological Transport,G03.143
+"Metabolism.Biological Transport.Biological Transport, Active",G03.143.310
+"Metabolism.Biological Transport.Biological Transport, Active.Active Transport, Cell Nucleus",G03.143.310.100
+Metabolism.Biological Transport.Capillary Permeability,G03.143.330
+Metabolism.Biological Transport.Cell Membrane Permeability,G03.143.335
+Metabolism.Biological Transport.Cytoplasmic Streaming,G03.143.355
+Metabolism.Biological Transport.Cytoplasmic Streaming.Axonal Transport,G03.143.355.040
+Metabolism.Biological Transport.Facilitated Diffusion,G03.143.427
+Metabolism.Biological Transport.Ion Transport,G03.143.500
+Metabolism.Biological Transport.Ion Transport.Calcium Signaling,G03.143.500.100
+Metabolism.Biological Transport.Protein Transport,G03.143.700
+"Metabolism.Biological Transport.Protein Transport.Active Transport, Cell Nucleus",G03.143.700.100
+Metabolism.Biological Transport.Respiratory Transport,G03.143.775
+Metabolism.Biological Transport.Respiratory Transport.Pulmonary Gas Exchange,G03.143.775.602
+Metabolism.Biological Transport.RNA Transport,G03.143.850
+Metabolism.Biological Transport.Secretory Pathway,G03.143.925
+Metabolism.Biological Transport.Transcytosis,G03.143.962
+Metabolism.Biological Transport.Transcytosis.Transcellular Cell Migration,G03.143.962.500
+Metabolism.Biotinylation,G03.162
+Metabolism.Biotransformation,G03.171
+"Metabolism.Biotransformation.Activation, Metabolic",G03.171.224
+"Metabolism.Biotransformation.Inactivation, Metabolic",G03.171.450
+"Metabolism.Biotransformation.Inactivation, Metabolic.Metabolic Detoxication, Phase I",G03.171.450.500
+"Metabolism.Biotransformation.Inactivation, Metabolic.Metabolic Detoxication, Phase II",G03.171.450.750
+Metabolism.Body Composition,G03.180
+Metabolism.Body Composition.Body Fat Distribution,G03.180.134
+Metabolism.Body Composition.Body Fat Distribution.Adiposity,G03.180.134.500
+Metabolism.Brain Chemistry,G03.185
+Metabolism.Carbohydrate Metabolism,G03.191
+Metabolism.Carbohydrate Metabolism.Fermentation,G03.191.249
+Metabolism.Carbohydrate Metabolism.Gluconeogenesis,G03.191.500
+Metabolism.Carbohydrate Metabolism.Glycogenolysis,G03.191.625
+Metabolism.Carbohydrate Metabolism.Glycolysis,G03.191.750
+Metabolism.Carbohydrate Metabolism.Glycosylation,G03.191.812
+Metabolism.Carbohydrate Metabolism.Pentose Phosphate Pathway,G03.191.875
+Metabolism.Carbohydrate Metabolism.Photosynthesis,G03.191.937
+Metabolism.Carbohydrate Metabolism.Photosynthesis.Photophosphorylation,G03.191.937.700
+Metabolism.Catabolite Repression,G03.194
+Metabolism.Cell Respiration,G03.197
+Metabolism.Cell Respiration.Cell Hypoxia,G03.197.300
+Metabolism.Cell Respiration.Cell Hypoxia.Tumor Hypoxia,G03.197.300.500
+Metabolism.Cell Respiration.Respiratory Burst,G03.197.620
+Metabolism.Cyclization,G03.208
+Metabolism.Dealkylation,G03.219
+Metabolism.Dealkylation.Demethylation,G03.219.500
+Metabolism.Dealkylation.Demethylation.DNA Demethylation,G03.219.500.500
+Metabolism.Deamination,G03.222
+Metabolism.Decarboxylation,G03.225
+Metabolism.Dimerization,G03.230
+Metabolism.Energy Metabolism,G03.295
+Metabolism.Energy Metabolism.Basal Metabolism,G03.295.154
+Metabolism.Energy Metabolism.Citric Acid Cycle,G03.295.342
+Metabolism.Energy Metabolism.Glycolysis,G03.295.436
+Metabolism.Energy Metabolism.Oxidation-Reduction,G03.295.531
+Metabolism.Energy Metabolism.Oxidation-Reduction.Electron Transport,G03.295.531.403
+Metabolism.Energy Metabolism.Oxidation-Reduction.Lipid Peroxidation,G03.295.531.587
+Metabolism.Energy Metabolism.Oxidative Phosphorylation,G03.295.631
+Metabolism.Energy Metabolism.Pentose Phosphate Pathway,G03.295.693
+Metabolism.Energy Metabolism.Photophosphorylation,G03.295.724
+Metabolism.Energy Metabolism.Proton-Motive Force,G03.295.770
+"Metabolism.Energy Metabolism.Proton-Motive Force.Membrane Potential, Mitochondrial",G03.295.770.500
+Metabolism.Energy Metabolism.Substrate Cycling,G03.295.835
+Metabolism.Enterohepatic Circulation,G03.312
+Metabolism.Enterohepatic Circulation.Intestinal Reabsorption,G03.312.500
+Metabolism.Enzyme Activation,G03.328
+Metabolism.Esterification,G03.344
+Metabolism.Halogenation,G03.360
+Metabolism.Heterotrophic Processes,G03.393
+Metabolism.Hydrogenation,G03.409
+Metabolism.Hydroxylation,G03.425
+Metabolism.Lipid Metabolism,G03.458
+Metabolism.Lipid Metabolism.Lipogenesis,G03.458.249
+Metabolism.Lipid Metabolism.Lipolysis,G03.458.500
+Metabolism.Lipid Metabolism.Lipolysis.Lipid Mobilization,G03.458.500.500
+Metabolism.Lipid Metabolism.Lipoylation,G03.458.875
+Metabolism.Metabolic Clearance Rate,G03.490
+Metabolism.Metabolic Networks and Pathways,G03.493
+Metabolism.Metabolic Networks and Pathways.Biosynthetic Pathways,G03.493.100
+Metabolism.Metabolic Networks and Pathways.Citric Acid Cycle,G03.493.170
+Metabolism.Metabolic Networks and Pathways.Electron Transport,G03.493.350
+Metabolism.Metabolic Networks and Pathways.Glycolysis,G03.493.360
+Metabolism.Metabolic Networks and Pathways.Kallikrein-Kinin System,G03.493.485
+Metabolism.Metabolic Networks and Pathways.MAP Kinase Signaling System,G03.493.560
+Metabolism.Metabolic Networks and Pathways.Non-Neuronal Cholinergic System,G03.493.628
+Metabolism.Metabolic Networks and Pathways.Pentose Phosphate Pathway,G03.493.695
+Metabolism.Metabolic Networks and Pathways.Photosynthesis,G03.493.700
+Metabolism.Metabolic Networks and Pathways.Protein Interaction Maps,G03.493.750
+Metabolism.Metabolic Networks and Pathways.Secondary Metabolism,G03.493.875
+Metabolism.Metabolome,G03.500
+Metabolism.Nitrosation,G03.558
+Metabolism.Osmoregulation,G03.615
+Metabolism.Osmoregulation.Water-Electrolyte Balance,G03.615.500
+Metabolism.Osmoregulation.Water-Electrolyte Balance.Kallikrein-Kinin System,G03.615.500.500
+"Metabolism.Osmoregulation.Water-Electrolyte Balance.Water Loss, Insensible",G03.615.500.750
+Metabolism.Oxidative Stress,G03.673
+Metabolism.Oxidative Stress.Nitrosative Stress,G03.673.345
+Metabolism.Oxidative Stress.Protein Carbonylation,G03.673.690
+Metabolism.Oxygen Consumption,G03.680
+Metabolism.Oxygen Consumption.Anaerobic Threshold,G03.680.110
+Metabolism.Oxygen Consumption.Metabolic Equivalent,G03.680.365
+Metabolism.Peptide Biosynthesis,G03.734
+Metabolism.Peptide Biosynthesis.Aminoacylation,G03.734.050
+Metabolism.Peptide Biosynthesis.Aminoacylation.Transfer RNA Aminoacylation,G03.734.050.860
+"Metabolism.Peptide Biosynthesis.Peptide Biosynthesis, Nucleic Acid-Independent",G03.734.333
+Metabolism.Peptide Biosynthesis.Protein Biosynthesis,G03.734.871
+"Metabolism.Peptide Biosynthesis.Protein Biosynthesis.Frameshifting, Ribosomal",G03.734.871.200
+"Metabolism.Peptide Biosynthesis.Protein Biosynthesis.Peptide Chain Elongation, Translational",G03.734.871.640
+"Metabolism.Peptide Biosynthesis.Protein Biosynthesis.Peptide Chain Initiation, Translational",G03.734.871.650
+"Metabolism.Peptide Biosynthesis.Protein Biosynthesis.Peptide Chain Termination, Translational",G03.734.871.720
+"Metabolism.Peptide Biosynthesis.Protein Biosynthesis.Protein Modification, Translational",G03.734.871.790
+"Metabolism.Peptide Biosynthesis.Protein Biosynthesis.Protein Modification, Translational.Protein Processing, Post-Translational",G03.734.871.790.600
+"Metabolism.Peptide Biosynthesis.Protein Biosynthesis.Protein Modification, Translational.Protein Processing, Post-Translational.ADP-Ribosylation",G03.734.871.790.600.200
+"Metabolism.Peptide Biosynthesis.Protein Biosynthesis.Protein Modification, Translational.Protein Processing, Post-Translational.ADP-Ribosylation.Poly ADP Ribosylation",G03.734.871.790.600.200.500
+"Metabolism.Peptide Biosynthesis.Protein Biosynthesis.Protein Modification, Translational.Protein Processing, Post-Translational.Citrullination",G03.734.871.790.600.300
+"Metabolism.Peptide Biosynthesis.Protein Biosynthesis.Protein Modification, Translational.Protein Processing, Post-Translational.Protein Prenylation",G03.734.871.790.600.400
+"Metabolism.Peptide Biosynthesis.Protein Biosynthesis.Protein Modification, Translational.Protein Processing, Post-Translational.Protein Splicing",G03.734.871.790.600.700
+"Metabolism.Peptide Biosynthesis.Protein Biosynthesis.Protein Modification, Translational.Protein Processing, Post-Translational.Ubiquitination",G03.734.871.790.600.831
+"Metabolism.Peptide Biosynthesis.Protein Biosynthesis.Protein Modification, Translational.Protein Processing, Post-Translational.Ubiquitination.Sumoylation",G03.734.871.790.600.831.500
+"Metabolism.Peptide Biosynthesis.Protein Biosynthesis.Protein Modification, Translational.Protein Processing, Post-Translational.Unfolded Protein Response",G03.734.871.790.600.850
+"Metabolism.Peptide Biosynthesis.Protein Biosynthesis.Protein Modification, Translational.Protein Processing, Post-Translational.Unfolded Protein Response.Endoplasmic Reticulum-Associated Degradation",G03.734.871.790.600.850.500
+Metabolism.Peptide Biosynthesis.Protein Biosynthesis.Transfer RNA Aminoacylation,G03.734.871.850
+Metabolism.Pharmacokinetics,G03.787
+Metabolism.Pharmacokinetics.Absorption,G03.787.024
+"Metabolism.Pharmacokinetics.Absorption.Absorption, Physiological",G03.787.024.500
+"Metabolism.Pharmacokinetics.Absorption.Absorption, Physiological.Gastrointestinal Absorption",G03.787.024.500.374
+"Metabolism.Pharmacokinetics.Absorption.Absorption, Physiological.Gastrointestinal Absorption.Gastric Absorption",G03.787.024.500.374.249
+"Metabolism.Pharmacokinetics.Absorption.Absorption, Physiological.Gastrointestinal Absorption.Intestinal Absorption",G03.787.024.500.374.500
+"Metabolism.Pharmacokinetics.Absorption.Absorption, Physiological.Gastrointestinal Absorption.Intestinal Absorption.Intestinal Reabsorption",G03.787.024.500.374.500.500
+"Metabolism.Pharmacokinetics.Absorption.Absorption, Physiological.Gastrointestinal Absorption.Oral Mucosal Absorption",G03.787.024.500.374.650
+"Metabolism.Pharmacokinetics.Absorption.Absorption, Physiological.Gastrointestinal Absorption.Rectal Absorption",G03.787.024.500.374.825
+"Metabolism.Pharmacokinetics.Absorption.Absorption, Physiological.Intramuscular Absorption",G03.787.024.500.562
+"Metabolism.Pharmacokinetics.Absorption.Absorption, Physiological.Ocular Absorption",G03.787.024.500.656
+"Metabolism.Pharmacokinetics.Absorption.Absorption, Physiological.Peritoneal Absorption",G03.787.024.500.667
+"Metabolism.Pharmacokinetics.Absorption.Absorption, Physiological.Renal Reabsorption",G03.787.024.500.679
+"Metabolism.Pharmacokinetics.Absorption.Absorption, Physiological.Respiratory Tract Absorption",G03.787.024.500.703
+"Metabolism.Pharmacokinetics.Absorption.Absorption, Physiological.Respiratory Tract Absorption.Nasal Absorption",G03.787.024.500.703.500
+"Metabolism.Pharmacokinetics.Absorption.Absorption, Physiological.Skin Absorption",G03.787.024.500.750
+"Metabolism.Pharmacokinetics.Absorption.Absorption, Physiological.Subcutaneous Absorption",G03.787.024.500.875
+"Metabolism.Pharmacokinetics.Absorption.Absorption, Physiological.Vaginal Absorption",G03.787.024.500.937
+Metabolism.Pharmacokinetics.Area Under Curve,G03.787.101
+Metabolism.Pharmacokinetics.Biological Availability,G03.787.151
+Metabolism.Pharmacokinetics.Biotransformation,G03.787.225
+"Metabolism.Pharmacokinetics.Biotransformation.Activation, Metabolic",G03.787.225.224
+"Metabolism.Pharmacokinetics.Biotransformation.Inactivation, Metabolic",G03.787.225.450
+"Metabolism.Pharmacokinetics.Biotransformation.Inactivation, Metabolic.Metabolic Detoxication, Phase I",G03.787.225.450.500
+"Metabolism.Pharmacokinetics.Biotransformation.Inactivation, Metabolic.Metabolic Detoxication, Phase II",G03.787.225.450.750
+Metabolism.Pharmacokinetics.Cutaneous Elimination,G03.787.273
+Metabolism.Pharmacokinetics.Drug Liberation,G03.787.321
+Metabolism.Pharmacokinetics.Hepatobiliary Elimination,G03.787.380
+Metabolism.Pharmacokinetics.Intestinal Elimination,G03.787.383
+Metabolism.Pharmacokinetics.Lacrimal Elimination,G03.787.387
+Metabolism.Pharmacokinetics.Lacteal Elimination,G03.787.391
+Metabolism.Pharmacokinetics.Pulmonary Elimination,G03.787.395
+Metabolism.Pharmacokinetics.Renal Elimination,G03.787.410
+Metabolism.Pharmacokinetics.Salivary Elimination,G03.787.440
+Metabolism.Pharmacokinetics.Therapeutic Equivalency,G03.787.559
+Metabolism.Pharmacokinetics.Tissue Distribution,G03.787.917
+Metabolism.Phosphorylation,G03.796
+Metabolism.Phosphorylation.Oxidative Phosphorylation,G03.796.550
+Metabolism.Phosphorylation.Photophosphorylation,G03.796.605
+Metabolism.Phototrophic Processes,G03.800
+Metabolism.Phototrophic Processes.Photosynthesis,G03.800.700
+Metabolism.Phototrophic Processes.Photosynthesis.Photophosphorylation,G03.800.700.700
+Metabolism.Prenylation,G03.804
+Metabolism.Prenylation.Protein Prenylation,G03.804.500
+Metabolism.Protein Binding,G03.808
+Metabolism.Proteolysis,G03.812
+Metabolism.Proteostasis,G03.816
+Metabolism.Renin-Angiotensin System,G03.820
+"Metabolism.RNA Processing, Post-Transcriptional",G03.839
+"Metabolism.RNA Processing, Post-Transcriptional.Nonsense Mediated mRNA Decay",G03.839.112
+"Metabolism.RNA Processing, Post-Transcriptional.RNA 3' End Processing",G03.839.225
+"Metabolism.RNA Processing, Post-Transcriptional.RNA 3' End Processing.Polyadenylation",G03.839.225.710
+"Metabolism.RNA Processing, Post-Transcriptional.RNA Editing",G03.839.250
+"Metabolism.RNA Processing, Post-Transcriptional.RNA Splicing",G03.839.700
+"Metabolism.RNA Processing, Post-Transcriptional.RNA Splicing.Alternative Splicing",G03.839.700.100
+"Metabolism.RNA Processing, Post-Transcriptional.RNA Splicing.Trans-Splicing",G03.839.700.750
+Metabolism.Secretory Rate,G03.857
+Metabolism.Toxicokinetics,G03.893

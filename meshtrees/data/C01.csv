@@ -1,0 +1,547 @@
+id,value
+Bacterial Infections and Mycoses,C01
+Bacterial Infections and Mycoses.Bacterial Infections,C01.252
+Bacterial Infections and Mycoses.Bacterial Infections.Bacteremia,C01.252.100
+Bacterial Infections and Mycoses.Bacterial Infections.Bacteremia.Hemorrhagic Septicemia,C01.252.100.375
+Bacterial Infections and Mycoses.Bacterial Infections.Central Nervous System Bacterial Infections,C01.252.200
+Bacterial Infections and Mycoses.Bacterial Infections.Central Nervous System Bacterial Infections.Lyme Neuroborreliosis,C01.252.200.450
+"Bacterial Infections and Mycoses.Bacterial Infections.Central Nervous System Bacterial Infections.Meningitis, Bacterial",C01.252.200.500
+"Bacterial Infections and Mycoses.Bacterial Infections.Central Nervous System Bacterial Infections.Meningitis, Bacterial.Meningitis, Escherichia coli",C01.252.200.500.400
+"Bacterial Infections and Mycoses.Bacterial Infections.Central Nervous System Bacterial Infections.Meningitis, Bacterial.Meningitis, Haemophilus",C01.252.200.500.450
+"Bacterial Infections and Mycoses.Bacterial Infections.Central Nervous System Bacterial Infections.Meningitis, Bacterial.Meningitis, Listeria",C01.252.200.500.500
+"Bacterial Infections and Mycoses.Bacterial Infections.Central Nervous System Bacterial Infections.Meningitis, Bacterial.Meningitis, Meningococcal",C01.252.200.500.550
+"Bacterial Infections and Mycoses.Bacterial Infections.Central Nervous System Bacterial Infections.Meningitis, Bacterial.Meningitis, Meningococcal.Waterhouse-Friderichsen Syndrome",C01.252.200.500.550.800
+"Bacterial Infections and Mycoses.Bacterial Infections.Central Nervous System Bacterial Infections.Meningitis, Bacterial.Meningitis, Pneumococcal",C01.252.200.500.600
+"Bacterial Infections and Mycoses.Bacterial Infections.Central Nervous System Bacterial Infections.Meningitis, Bacterial.Tuberculosis, Meningeal",C01.252.200.500.800
+Bacterial Infections and Mycoses.Bacterial Infections.Central Nervous System Bacterial Infections.Neurosyphilis,C01.252.200.750
+"Bacterial Infections and Mycoses.Bacterial Infections.Endocarditis, Bacterial",C01.252.300
+"Bacterial Infections and Mycoses.Bacterial Infections.Endocarditis, Bacterial.Endocarditis, Subacute Bacterial",C01.252.300.407
+"Bacterial Infections and Mycoses.Bacterial Infections.Eye Infections, Bacterial",C01.252.354
+"Bacterial Infections and Mycoses.Bacterial Infections.Eye Infections, Bacterial.Conjunctivitis, Bacterial",C01.252.354.225
+"Bacterial Infections and Mycoses.Bacterial Infections.Eye Infections, Bacterial.Conjunctivitis, Bacterial.Conjunctivitis, Inclusion",C01.252.354.225.250
+"Bacterial Infections and Mycoses.Bacterial Infections.Eye Infections, Bacterial.Conjunctivitis, Bacterial.Ophthalmia Neonatorum",C01.252.354.225.625
+"Bacterial Infections and Mycoses.Bacterial Infections.Eye Infections, Bacterial.Conjunctivitis, Bacterial.Trachoma",C01.252.354.225.800
+"Bacterial Infections and Mycoses.Bacterial Infections.Eye Infections, Bacterial.Hordeolum",C01.252.354.400
+"Bacterial Infections and Mycoses.Bacterial Infections.Eye Infections, Bacterial.Keratoconjunctivitis, Infectious",C01.252.354.450
+"Bacterial Infections and Mycoses.Bacterial Infections.Eye Infections, Bacterial.Tuberculosis, Ocular",C01.252.354.800
+"Bacterial Infections and Mycoses.Bacterial Infections.Eye Infections, Bacterial.Uveitis, Suppurative",C01.252.354.900
+"Bacterial Infections and Mycoses.Bacterial Infections.Eye Infections, Bacterial.Uveitis, Suppurative.Panophthalmitis",C01.252.354.900.675
+Bacterial Infections and Mycoses.Bacterial Infections.Fournier Gangrene,C01.252.377
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections,C01.252.400
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Aliivibrio Infections,C01.252.400.050
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Anaplasmataceae Infections,C01.252.400.054
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Anaplasmataceae Infections.Anaplasmosis,C01.252.400.054.050
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Anaplasmataceae Infections.Ehrlichiosis,C01.252.400.054.160
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Anaplasmataceae Infections.Ehrlichiosis.Heartwater Disease,C01.252.400.054.160.400
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Bacteroidaceae Infections,C01.252.400.110
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Bacteroidaceae Infections.Bacteroides Infections,C01.252.400.110.109
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Bartonellaceae Infections,C01.252.400.126
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Bartonellaceae Infections.Bartonella Infections,C01.252.400.126.100
+"Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Bartonellaceae Infections.Bartonella Infections.Angiomatosis, Bacillary",C01.252.400.126.100.050
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Bartonellaceae Infections.Bartonella Infections.Cat-Scratch Disease,C01.252.400.126.100.150
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Bartonellaceae Infections.Bartonella Infections.Trench Fever,C01.252.400.126.100.800
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Bordetella Infections,C01.252.400.143
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Bordetella Infections.Whooping Cough,C01.252.400.143.740
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Borrelia Infections,C01.252.400.155
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Borrelia Infections.Lyme Disease,C01.252.400.155.569
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Borrelia Infections.Lyme Disease.Erythema Chronicum Migrans,C01.252.400.155.569.200
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Borrelia Infections.Lyme Disease.Lyme Neuroborreliosis,C01.252.400.155.569.600
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Borrelia Infections.Relapsing Fever,C01.252.400.155.644
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Brucellosis,C01.252.400.167
+"Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Brucellosis.Brucellosis, Bovine",C01.252.400.167.322
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Burkholderia Infections,C01.252.400.170
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Burkholderia Infections.Glanders,C01.252.400.170.400
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Burkholderia Infections.Melioidosis,C01.252.400.170.531
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Campylobacter Infections,C01.252.400.177
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Cat-Scratch Disease,C01.252.400.200
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Chlamydiaceae Infections,C01.252.400.210
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Chlamydiaceae Infections.Chlamydia Infections,C01.252.400.210.210
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Chlamydiaceae Infections.Chlamydia Infections.Chlamydial Pneumonia,C01.252.400.210.210.124
+"Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Chlamydiaceae Infections.Chlamydia Infections.Conjunctivitis, Inclusion",C01.252.400.210.210.250
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Chlamydiaceae Infections.Chlamydia Infections.Lymphogranuloma Venereum,C01.252.400.210.210.490
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Chlamydiaceae Infections.Chlamydia Infections.Trachoma,C01.252.400.210.210.800
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Chlamydiaceae Infections.Chlamydophila Infections,C01.252.400.210.250
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Chlamydiaceae Infections.Chlamydophila Infections.Chlamydial Pneumonia,C01.252.400.210.250.299
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Chlamydiaceae Infections.Chlamydophila Infections.Psittacosis,C01.252.400.210.250.600
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Cytophagaceae Infections,C01.252.400.245
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Desulfovibrionaceae Infections,C01.252.400.260
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Enterobacteriaceae Infections,C01.252.400.310
+"Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Enterobacteriaceae Infections.Dysentery, Bacillary",C01.252.400.310.229
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Enterobacteriaceae Infections.Escherichia coli Infections,C01.252.400.310.330
+"Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Enterobacteriaceae Infections.Escherichia coli Infections.Meningitis, Escherichia coli",C01.252.400.310.330.500
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Enterobacteriaceae Infections.Granuloma Inguinale,C01.252.400.310.416
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Enterobacteriaceae Infections.Klebsiella Infections,C01.252.400.310.503
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Enterobacteriaceae Infections.Klebsiella Infections.Rhinoscleroma,C01.252.400.310.503.650
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Enterobacteriaceae Infections.Proteus Infections,C01.252.400.310.708
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Enterobacteriaceae Infections.Salmonella Infections,C01.252.400.310.821
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Enterobacteriaceae Infections.Salmonella Infections.Paratyphoid Fever,C01.252.400.310.821.438
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Enterobacteriaceae Infections.Salmonella Infections.Salmonella Food Poisoning,C01.252.400.310.821.606
+"Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Enterobacteriaceae Infections.Salmonella Infections.Salmonella Infections, Animal",C01.252.400.310.821.706
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Enterobacteriaceae Infections.Salmonella Infections.Typhoid Fever,C01.252.400.310.821.873
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Enterobacteriaceae Infections.Serratia Infections,C01.252.400.310.850
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Enterobacteriaceae Infections.Yersinia Infections,C01.252.400.310.980
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Enterobacteriaceae Infections.Yersinia Infections.Plague,C01.252.400.310.980.745
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Enterobacteriaceae Infections.Yersinia Infections.Yersinia pseudotuberculosis Infections,C01.252.400.310.980.780
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Flavobacteriaceae Infections,C01.252.400.349
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Fusobacteriaceae Infections,C01.252.400.388
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Fusobacteriaceae Infections.Fusobacterium Infections,C01.252.400.388.350
+"Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Fusobacteriaceae Infections.Fusobacterium Infections.Gingivitis, Necrotizing Ulcerative",C01.252.400.388.350.400
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Fusobacteriaceae Infections.Fusobacterium Infections.Lemierre Syndrome,C01.252.400.388.350.700
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Helicobacter Infections,C01.252.400.466
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Legionellosis,C01.252.400.500
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Legionellosis.Legionnaires' Disease,C01.252.400.500.501
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Leptospirosis,C01.252.400.511
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Leptospirosis.Weil Disease,C01.252.400.511.739
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Moraxellaceae Infections,C01.252.400.560
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Moraxellaceae Infections.Acinetobacter Infections,C01.252.400.560.022
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Mycoplasmatales Infections,C01.252.400.610
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Mycoplasmatales Infections.Mycoplasma Infections,C01.252.400.610.610
+"Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Mycoplasmatales Infections.Mycoplasma Infections.Pleuropneumonia, Contagious",C01.252.400.610.610.717
+"Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Mycoplasmatales Infections.Mycoplasma Infections.Pneumonia, Mycoplasma",C01.252.400.610.610.760
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Mycoplasmatales Infections.Ureaplasma Infections,C01.252.400.610.850
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Neisseriaceae Infections,C01.252.400.625
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Neisseriaceae Infections.Gonorrhea,C01.252.400.625.391
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Neisseriaceae Infections.Gonorrhea.Ophthalmia Neonatorum,C01.252.400.625.391.658
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Neisseriaceae Infections.Meningococcal Infections,C01.252.400.625.549
+"Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Neisseriaceae Infections.Meningococcal Infections.Meningitis, Meningococcal",C01.252.400.625.549.449
+"Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Neisseriaceae Infections.Meningococcal Infections.Meningitis, Meningococcal.Waterhouse-Friderichsen Syndrome",C01.252.400.625.549.449.800
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Pasteurellaceae Infections,C01.252.400.700
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Pasteurellaceae Infections.Actinobacillus Infections,C01.252.400.700.030
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Pasteurellaceae Infections.Actinobacillus Infections.Actinobacillosis,C01.252.400.700.030.178
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Pasteurellaceae Infections.Haemophilus Infections,C01.252.400.700.433
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Pasteurellaceae Infections.Haemophilus Infections.Chancroid,C01.252.400.700.433.257
+"Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Pasteurellaceae Infections.Haemophilus Infections.Meningitis, Haemophilus",C01.252.400.700.433.615
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Pasteurellaceae Infections.Pasteurella Infections,C01.252.400.700.662
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Pasteurellaceae Infections.Pasteurella Infections.Hemorrhagic Septicemia,C01.252.400.700.662.297
+"Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Pasteurellaceae Infections.Pasteurellosis, Pneumonic",C01.252.400.700.675
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Piscirickettsiaceae Infections,C01.252.400.719
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Pseudomonas Infections,C01.252.400.739
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Q Fever,C01.252.400.755
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Rat-Bite Fever,C01.252.400.771
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Rickettsiaceae Infections,C01.252.400.780
+"Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Rickettsiaceae Infections.Pneumonia, Rickettsial",C01.252.400.780.600
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Rickettsiaceae Infections.Rickettsia Infections,C01.252.400.780.790
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Rickettsiaceae Infections.Rickettsia Infections.Spotted Fever Group Rickettsiosis,C01.252.400.780.790.750
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Rickettsiaceae Infections.Rickettsia Infections.Spotted Fever Group Rickettsiosis.Boutonneuse Fever,C01.252.400.780.790.750.250
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Rickettsiaceae Infections.Rickettsia Infections.Spotted Fever Group Rickettsiosis.Rocky Mountain Spotted Fever,C01.252.400.780.790.750.500
+"Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Rickettsiaceae Infections.Rickettsia Infections.Typhus, Endemic Flea-Borne",C01.252.400.780.790.800
+"Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Rickettsiaceae Infections.Rickettsia Infections.Typhus, Epidemic Louse-Borne",C01.252.400.780.790.805
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Rickettsiaceae Infections.Scrub Typhus,C01.252.400.780.850
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Tick-Borne Diseases,C01.252.400.825
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Tick-Borne Diseases.Anaplasmosis,C01.252.400.825.050
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Tick-Borne Diseases.Ehrlichiosis,C01.252.400.825.200
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Tick-Borne Diseases.Heartwater Disease,C01.252.400.825.300
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Tick-Borne Diseases.Lyme Disease,C01.252.400.825.480
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Tick-Borne Diseases.Lyme Disease.Erythema Chronicum Migrans,C01.252.400.825.480.400
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Tick-Borne Diseases.Lyme Disease.Lyme Neuroborreliosis,C01.252.400.825.480.700
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Tick-Borne Diseases.Relapsing Fever,C01.252.400.825.750
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Tick-Borne Diseases.Spotted Fever Group Rickettsiosis,C01.252.400.825.887
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Tick-Borne Diseases.Spotted Fever Group Rickettsiosis.Boutonneuse Fever,C01.252.400.825.887.250
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Tick-Borne Diseases.Spotted Fever Group Rickettsiosis.Rocky Mountain Spotted Fever,C01.252.400.825.887.500
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Treponemal Infections,C01.252.400.840
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Treponemal Infections.Pinta,C01.252.400.840.558
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Treponemal Infections.Syphilis,C01.252.400.840.744
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Treponemal Infections.Syphilis.Chancre,C01.252.400.840.744.161
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Treponemal Infections.Syphilis.Neurosyphilis,C01.252.400.840.744.456
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Treponemal Infections.Syphilis.Neurosyphilis.Tabes Dorsalis,C01.252.400.840.744.456.778
+"Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Treponemal Infections.Syphilis.Syphilis, Cardiovascular",C01.252.400.840.744.657
+"Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Treponemal Infections.Syphilis.Syphilis, Congenital",C01.252.400.840.744.725
+"Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Treponemal Infections.Syphilis.Syphilis, Cutaneous",C01.252.400.840.744.800
+"Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Treponemal Infections.Syphilis.Syphilis, Latent",C01.252.400.840.744.871
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Treponemal Infections.Yaws,C01.252.400.840.892
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Tularemia,C01.252.400.939
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Vibrio Infections,C01.252.400.959
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Negative Bacterial Infections.Vibrio Infections.Cholera,C01.252.400.959.347
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections,C01.252.410
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Actinomycetales Infections,C01.252.410.040
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Actinomycetales Infections.Actinomycosis,C01.252.410.040.137
+"Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Actinomycetales Infections.Actinomycosis.Actinomycosis, Cervicofacial",C01.252.410.040.137.262
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Actinomycetales Infections.Actinomycosis.Whipple Disease,C01.252.410.040.137.631
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Actinomycetales Infections.Corynebacterium Infections,C01.252.410.040.246
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Actinomycetales Infections.Corynebacterium Infections.Diphtheria,C01.252.410.040.246.388
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Actinomycetales Infections.Corynebacterium Infections.Erythrasma,C01.252.410.040.246.430
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Actinomycetales Infections.Mycobacterium Infections,C01.252.410.040.552
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Actinomycetales Infections.Mycobacterium Infections.Leprosy,C01.252.410.040.552.386
+"Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Actinomycetales Infections.Mycobacterium Infections.Leprosy.Leprosy, Multibacillary",C01.252.410.040.552.386.775
+"Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Actinomycetales Infections.Mycobacterium Infections.Leprosy.Leprosy, Multibacillary.Leprosy, Lepromatous",C01.252.410.040.552.386.775.500
+"Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Actinomycetales Infections.Mycobacterium Infections.Leprosy.Leprosy, Paucibacillary",C01.252.410.040.552.386.850
+"Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Actinomycetales Infections.Mycobacterium Infections.Leprosy.Leprosy, Paucibacillary.Leprosy, Borderline",C01.252.410.040.552.386.850.249
+"Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Actinomycetales Infections.Mycobacterium Infections.Leprosy.Leprosy, Paucibacillary.Leprosy, Tuberculoid",C01.252.410.040.552.386.850.500
+"Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Actinomycetales Infections.Mycobacterium Infections.Mycobacterium Infections, Nontuberculous",C01.252.410.040.552.475
+"Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Actinomycetales Infections.Mycobacterium Infections.Mycobacterium Infections, Nontuberculous.Buruli Ulcer",C01.252.410.040.552.475.247
+"Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Actinomycetales Infections.Mycobacterium Infections.Mycobacterium Infections, Nontuberculous.Mycobacterium avium-intracellulare Infection",C01.252.410.040.552.475.495
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Actinomycetales Infections.Mycobacterium Infections.Paratuberculosis,C01.252.410.040.552.588
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Actinomycetales Infections.Mycobacterium Infections.Tuberculosis,C01.252.410.040.552.846
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Actinomycetales Infections.Mycobacterium Infections.Tuberculosis.Latent Tuberculosis,C01.252.410.040.552.846.122
+"Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Actinomycetales Infections.Mycobacterium Infections.Tuberculosis.Peritonitis, Tuberculous",C01.252.410.040.552.846.246
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Actinomycetales Infections.Mycobacterium Infections.Tuberculosis.Tuberculoma,C01.252.410.040.552.846.493
+"Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Actinomycetales Infections.Mycobacterium Infections.Tuberculosis.Tuberculoma.Tuberculoma, Intracranial",C01.252.410.040.552.846.493.400
+"Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Actinomycetales Infections.Mycobacterium Infections.Tuberculosis.Tuberculosis, Avian",C01.252.410.040.552.846.516
+"Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Actinomycetales Infections.Mycobacterium Infections.Tuberculosis.Tuberculosis, Bovine",C01.252.410.040.552.846.538
+"Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Actinomycetales Infections.Mycobacterium Infections.Tuberculosis.Tuberculosis, Cardiovascular",C01.252.410.040.552.846.561
+"Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Actinomycetales Infections.Mycobacterium Infections.Tuberculosis.Tuberculosis, Cardiovascular.Pericarditis, Tuberculous",C01.252.410.040.552.846.561.595
+"Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Actinomycetales Infections.Mycobacterium Infections.Tuberculosis.Tuberculosis, Central Nervous System",C01.252.410.040.552.846.570
+"Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Actinomycetales Infections.Mycobacterium Infections.Tuberculosis.Tuberculosis, Central Nervous System.Tuberculoma, Intracranial",C01.252.410.040.552.846.570.300
+"Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Actinomycetales Infections.Mycobacterium Infections.Tuberculosis.Tuberculosis, Central Nervous System.Tuberculosis, Meningeal",C01.252.410.040.552.846.570.600
+"Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Actinomycetales Infections.Mycobacterium Infections.Tuberculosis.Tuberculosis, Cutaneous",C01.252.410.040.552.846.583
+"Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Actinomycetales Infections.Mycobacterium Infections.Tuberculosis.Tuberculosis, Cutaneous.Erythema Induratum",C01.252.410.040.552.846.583.260
+"Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Actinomycetales Infections.Mycobacterium Infections.Tuberculosis.Tuberculosis, Cutaneous.Lupus Vulgaris",C01.252.410.040.552.846.583.470
+"Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Actinomycetales Infections.Mycobacterium Infections.Tuberculosis.Tuberculosis, Endocrine",C01.252.410.040.552.846.606
+"Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Actinomycetales Infections.Mycobacterium Infections.Tuberculosis.Tuberculosis, Gastrointestinal",C01.252.410.040.552.846.628
+"Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Actinomycetales Infections.Mycobacterium Infections.Tuberculosis.Tuberculosis, Hepatic",C01.252.410.040.552.846.651
+"Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Actinomycetales Infections.Mycobacterium Infections.Tuberculosis.Tuberculosis, Laryngeal",C01.252.410.040.552.846.696
+"Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Actinomycetales Infections.Mycobacterium Infections.Tuberculosis.Tuberculosis, Lymph Node",C01.252.410.040.552.846.719
+"Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Actinomycetales Infections.Mycobacterium Infections.Tuberculosis.Tuberculosis, Lymph Node.King's Evil",C01.252.410.040.552.846.719.500
+"Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Actinomycetales Infections.Mycobacterium Infections.Tuberculosis.Tuberculosis, Miliary",C01.252.410.040.552.846.764
+"Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Actinomycetales Infections.Mycobacterium Infections.Tuberculosis.Tuberculosis, Multidrug-Resistant",C01.252.410.040.552.846.775
+"Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Actinomycetales Infections.Mycobacterium Infections.Tuberculosis.Tuberculosis, Multidrug-Resistant.Extensively Drug-Resistant Tuberculosis",C01.252.410.040.552.846.775.500
+"Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Actinomycetales Infections.Mycobacterium Infections.Tuberculosis.Tuberculosis, Ocular",C01.252.410.040.552.846.786
+"Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Actinomycetales Infections.Mycobacterium Infections.Tuberculosis.Tuberculosis, Oral",C01.252.410.040.552.846.809
+"Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Actinomycetales Infections.Mycobacterium Infections.Tuberculosis.Tuberculosis, Osteoarticular",C01.252.410.040.552.846.831
+"Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Actinomycetales Infections.Mycobacterium Infections.Tuberculosis.Tuberculosis, Osteoarticular.Tuberculosis, Spinal",C01.252.410.040.552.846.831.722
+"Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Actinomycetales Infections.Mycobacterium Infections.Tuberculosis.Tuberculosis, Pleural",C01.252.410.040.552.846.877
+"Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Actinomycetales Infections.Mycobacterium Infections.Tuberculosis.Tuberculosis, Pleural.Empyema, Tuberculous",C01.252.410.040.552.846.877.405
+"Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Actinomycetales Infections.Mycobacterium Infections.Tuberculosis.Tuberculosis, Pulmonary",C01.252.410.040.552.846.899
+"Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Actinomycetales Infections.Mycobacterium Infections.Tuberculosis.Tuberculosis, Pulmonary.Silicotuberculosis",C01.252.410.040.552.846.899.669
+"Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Actinomycetales Infections.Mycobacterium Infections.Tuberculosis.Tuberculosis, Splenic",C01.252.410.040.552.846.922
+"Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Actinomycetales Infections.Mycobacterium Infections.Tuberculosis.Tuberculosis, Urogenital",C01.252.410.040.552.846.944
+"Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Actinomycetales Infections.Mycobacterium Infections.Tuberculosis.Tuberculosis, Urogenital.Tuberculosis, Female Genital",C01.252.410.040.552.846.944.596
+"Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Actinomycetales Infections.Mycobacterium Infections.Tuberculosis.Tuberculosis, Urogenital.Tuberculosis, Male Genital",C01.252.410.040.552.846.944.721
+"Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Actinomycetales Infections.Mycobacterium Infections.Tuberculosis.Tuberculosis, Urogenital.Tuberculosis, Renal",C01.252.410.040.552.846.944.847
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Actinomycetales Infections.Nocardia Infections,C01.252.410.040.692
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Actinomycetales Infections.Nocardia Infections.Mycetoma,C01.252.410.040.692.606
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Bacillaceae Infections,C01.252.410.090
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Bacillaceae Infections.Anthrax,C01.252.410.090.072
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Bifidobacteriales Infections,C01.252.410.110
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Clostridium Infections,C01.252.410.222
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Clostridium Infections.Botulism,C01.252.410.222.151
+"Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Clostridium Infections.Enterocolitis, Pseudomembranous",C01.252.410.222.310
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Clostridium Infections.Enterotoxemia,C01.252.410.222.325
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Clostridium Infections.Gas Gangrene,C01.252.410.222.440
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Clostridium Infections.Tetanus,C01.252.410.222.864
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Erysipelothrix Infections,C01.252.410.334
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Erysipelothrix Infections.Erysipeloid,C01.252.410.334.329
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Erysipelothrix Infections.Swine Erysipelas,C01.252.410.334.776
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Listeriosis,C01.252.410.514
+"Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Listeriosis.Meningitis, Listeria",C01.252.410.514.533
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Staphylococcal Infections,C01.252.410.868
+"Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Staphylococcal Infections.Pneumonia, Staphylococcal",C01.252.410.868.675
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Staphylococcal Infections.Staphylococcal Food Poisoning,C01.252.410.868.806
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Staphylococcal Infections.Staphylococcal Skin Infections,C01.252.410.868.820
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Staphylococcal Infections.Staphylococcal Skin Infections.Furunculosis,C01.252.410.868.820.270
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Staphylococcal Infections.Staphylococcal Skin Infections.Furunculosis.Carbuncle,C01.252.410.868.820.270.200
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Staphylococcal Infections.Staphylococcal Skin Infections.Impetigo,C01.252.410.868.820.504
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Staphylococcal Infections.Staphylococcal Skin Infections.Staphylococcal Scalded Skin Syndrome,C01.252.410.868.820.770
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Streptococcal Infections,C01.252.410.890
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Streptococcal Infections.Ecthyma,C01.252.410.890.210
+"Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Streptococcal Infections.Endocarditis, Subacute Bacterial",C01.252.410.890.240
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Streptococcal Infections.Erysipelas,C01.252.410.890.328
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Streptococcal Infections.Impetigo,C01.252.410.890.485
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Streptococcal Infections.Pneumococcal Infections,C01.252.410.890.670
+"Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Streptococcal Infections.Pneumococcal Infections.Meningitis, Pneumococcal",C01.252.410.890.670.595
+"Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Streptococcal Infections.Pneumococcal Infections.Pneumonia, Pneumococcal",C01.252.410.890.670.750
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Streptococcal Infections.Rheumatic Fever,C01.252.410.890.731
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Streptococcal Infections.Rheumatic Fever.Rheumatic Heart Disease,C01.252.410.890.731.649
+Bacterial Infections and Mycoses.Bacterial Infections.Gram-Positive Bacterial Infections.Streptococcal Infections.Scarlet Fever,C01.252.410.890.823
+"Bacterial Infections and Mycoses.Bacterial Infections.Pneumonia, Bacterial",C01.252.620
+"Bacterial Infections and Mycoses.Bacterial Infections.Pneumonia, Bacterial.Chlamydial Pneumonia",C01.252.620.249
+"Bacterial Infections and Mycoses.Bacterial Infections.Pneumonia, Bacterial.Pneumonia, Mycoplasma",C01.252.620.500
+"Bacterial Infections and Mycoses.Bacterial Infections.Pneumonia, Bacterial.Pneumonia of Calves, Enzootic",C01.252.620.530
+"Bacterial Infections and Mycoses.Bacterial Infections.Pneumonia, Bacterial.Pneumonia of Swine, Mycoplasmal",C01.252.620.540
+"Bacterial Infections and Mycoses.Bacterial Infections.Pneumonia, Bacterial.Pneumonia, Pneumococcal",C01.252.620.550
+"Bacterial Infections and Mycoses.Bacterial Infections.Pneumonia, Bacterial.Pneumonia, Rickettsial",C01.252.620.600
+"Bacterial Infections and Mycoses.Bacterial Infections.Pneumonia, Bacterial.Pneumonia, Staphylococcal",C01.252.620.620
+"Bacterial Infections and Mycoses.Bacterial Infections.Sexually Transmitted Diseases, Bacterial",C01.252.810
+"Bacterial Infections and Mycoses.Bacterial Infections.Sexually Transmitted Diseases, Bacterial.Chancroid",C01.252.810.201
+"Bacterial Infections and Mycoses.Bacterial Infections.Sexually Transmitted Diseases, Bacterial.Chlamydia Infections",C01.252.810.301
+"Bacterial Infections and Mycoses.Bacterial Infections.Sexually Transmitted Diseases, Bacterial.Chlamydia Infections.Lymphogranuloma Venereum",C01.252.810.301.490
+"Bacterial Infections and Mycoses.Bacterial Infections.Sexually Transmitted Diseases, Bacterial.Gonorrhea",C01.252.810.401
+"Bacterial Infections and Mycoses.Bacterial Infections.Sexually Transmitted Diseases, Bacterial.Granuloma Inguinale",C01.252.810.451
+"Bacterial Infections and Mycoses.Bacterial Infections.Sexually Transmitted Diseases, Bacterial.Syphilis",C01.252.810.859
+"Bacterial Infections and Mycoses.Bacterial Infections.Skin Diseases, Bacterial",C01.252.825
+"Bacterial Infections and Mycoses.Bacterial Infections.Skin Diseases, Bacterial.Actinomycosis, Cervicofacial",C01.252.825.110
+"Bacterial Infections and Mycoses.Bacterial Infections.Skin Diseases, Bacterial.Angiomatosis, Bacillary",C01.252.825.150
+"Bacterial Infections and Mycoses.Bacterial Infections.Skin Diseases, Bacterial.Digital Dermatitis",C01.252.825.180
+"Bacterial Infections and Mycoses.Bacterial Infections.Skin Diseases, Bacterial.Ecthyma",C01.252.825.210
+"Bacterial Infections and Mycoses.Bacterial Infections.Skin Diseases, Bacterial.Erysipelas",C01.252.825.260
+"Bacterial Infections and Mycoses.Bacterial Infections.Skin Diseases, Bacterial.Erythema Chronicum Migrans",C01.252.825.310
+"Bacterial Infections and Mycoses.Bacterial Infections.Skin Diseases, Bacterial.Erythrasma",C01.252.825.320
+"Bacterial Infections and Mycoses.Bacterial Infections.Skin Diseases, Bacterial.Fasciitis, Necrotizing",C01.252.825.340
+"Bacterial Infections and Mycoses.Bacterial Infections.Skin Diseases, Bacterial.Granuloma Inguinale",C01.252.825.360
+"Bacterial Infections and Mycoses.Bacterial Infections.Skin Diseases, Bacterial.Hidradenitis Suppurativa",C01.252.825.420
+"Bacterial Infections and Mycoses.Bacterial Infections.Skin Diseases, Bacterial.Mycetoma",C01.252.825.557
+"Bacterial Infections and Mycoses.Bacterial Infections.Skin Diseases, Bacterial.Pinta",C01.252.825.630
+"Bacterial Infections and Mycoses.Bacterial Infections.Skin Diseases, Bacterial.Rhinoscleroma",C01.252.825.705
+"Bacterial Infections and Mycoses.Bacterial Infections.Skin Diseases, Bacterial.Staphylococcal Skin Infections",C01.252.825.770
+"Bacterial Infections and Mycoses.Bacterial Infections.Skin Diseases, Bacterial.Staphylococcal Skin Infections.Furunculosis",C01.252.825.770.270
+"Bacterial Infections and Mycoses.Bacterial Infections.Skin Diseases, Bacterial.Staphylococcal Skin Infections.Furunculosis.Carbuncle",C01.252.825.770.270.200
+"Bacterial Infections and Mycoses.Bacterial Infections.Skin Diseases, Bacterial.Staphylococcal Skin Infections.Impetigo",C01.252.825.770.360
+"Bacterial Infections and Mycoses.Bacterial Infections.Skin Diseases, Bacterial.Staphylococcal Skin Infections.Staphylococcal Scalded Skin Syndrome",C01.252.825.770.770
+"Bacterial Infections and Mycoses.Bacterial Infections.Skin Diseases, Bacterial.Syphilis, Cutaneous",C01.252.825.790
+"Bacterial Infections and Mycoses.Bacterial Infections.Skin Diseases, Bacterial.Tuberculosis, Cutaneous",C01.252.825.820
+"Bacterial Infections and Mycoses.Bacterial Infections.Skin Diseases, Bacterial.Tuberculosis, Cutaneous.Erythema Induratum",C01.252.825.820.260
+"Bacterial Infections and Mycoses.Bacterial Infections.Skin Diseases, Bacterial.Tuberculosis, Cutaneous.Lupus Vulgaris",C01.252.825.820.470
+"Bacterial Infections and Mycoses.Bacterial Infections.Skin Diseases, Bacterial.Yaws",C01.252.825.910
+Bacterial Infections and Mycoses.Bacterial Infections.Spirochaetales Infections,C01.252.847
+Bacterial Infections and Mycoses.Bacterial Infections.Spirochaetales Infections.Borrelia Infections,C01.252.847.193
+Bacterial Infections and Mycoses.Bacterial Infections.Spirochaetales Infections.Borrelia Infections.Lyme Disease,C01.252.847.193.569
+Bacterial Infections and Mycoses.Bacterial Infections.Spirochaetales Infections.Borrelia Infections.Lyme Disease.Erythema Chronicum Migrans,C01.252.847.193.569.200
+Bacterial Infections and Mycoses.Bacterial Infections.Spirochaetales Infections.Borrelia Infections.Lyme Disease.Lyme Neuroborreliosis,C01.252.847.193.569.600
+Bacterial Infections and Mycoses.Bacterial Infections.Spirochaetales Infections.Borrelia Infections.Relapsing Fever,C01.252.847.193.644
+Bacterial Infections and Mycoses.Bacterial Infections.Spirochaetales Infections.Leptospirosis,C01.252.847.511
+Bacterial Infections and Mycoses.Bacterial Infections.Spirochaetales Infections.Leptospirosis.Weil Disease,C01.252.847.511.739
+Bacterial Infections and Mycoses.Bacterial Infections.Spirochaetales Infections.Treponemal Infections,C01.252.847.840
+Bacterial Infections and Mycoses.Bacterial Infections.Spirochaetales Infections.Treponemal Infections.Pinta,C01.252.847.840.558
+Bacterial Infections and Mycoses.Bacterial Infections.Spirochaetales Infections.Treponemal Infections.Syphilis,C01.252.847.840.744
+Bacterial Infections and Mycoses.Bacterial Infections.Spirochaetales Infections.Treponemal Infections.Syphilis.Chancre,C01.252.847.840.744.161
+Bacterial Infections and Mycoses.Bacterial Infections.Spirochaetales Infections.Treponemal Infections.Syphilis.Neurosyphilis,C01.252.847.840.744.456
+Bacterial Infections and Mycoses.Bacterial Infections.Spirochaetales Infections.Treponemal Infections.Syphilis.Neurosyphilis.Tabes Dorsalis,C01.252.847.840.744.456.778
+"Bacterial Infections and Mycoses.Bacterial Infections.Spirochaetales Infections.Treponemal Infections.Syphilis.Syphilis, Cardiovascular",C01.252.847.840.744.657
+"Bacterial Infections and Mycoses.Bacterial Infections.Spirochaetales Infections.Treponemal Infections.Syphilis.Syphilis, Congenital",C01.252.847.840.744.725
+"Bacterial Infections and Mycoses.Bacterial Infections.Spirochaetales Infections.Treponemal Infections.Syphilis.Syphilis, Cutaneous",C01.252.847.840.744.800
+"Bacterial Infections and Mycoses.Bacterial Infections.Spirochaetales Infections.Treponemal Infections.Syphilis.Syphilis, Latent",C01.252.847.840.744.871
+Bacterial Infections and Mycoses.Bacterial Infections.Spirochaetales Infections.Treponemal Infections.Yaws,C01.252.847.840.892
+"Bacterial Infections and Mycoses.Bacterial Infections.Vaginosis, Bacterial",C01.252.954
+Bacterial Infections and Mycoses.Central Nervous System Infections,C01.395
+Bacterial Infections and Mycoses.Central Nervous System Infections.Brain Abscess,C01.395.250
+"Bacterial Infections and Mycoses.Central Nervous System Infections.Brain Abscess.Toxoplasmosis, Cerebral",C01.395.250.500
+Bacterial Infections and Mycoses.Central Nervous System Infections.Central Nervous System Bacterial Infections,C01.395.500
+Bacterial Infections and Mycoses.Infection,C01.539
+"Bacterial Infections and Mycoses.Infection.Aneurysm, Infected",C01.539.069
+"Bacterial Infections and Mycoses.Infection.Arthritis, Infectious",C01.539.100
+"Bacterial Infections and Mycoses.Infection.Arthritis, Infectious.Arthritis, Reactive",C01.539.100.500
+"Bacterial Infections and Mycoses.Infection.Bone Diseases, Infectious",C01.539.160
+"Bacterial Infections and Mycoses.Infection.Bone Diseases, Infectious.Osteomyelitis",C01.539.160.495
+"Bacterial Infections and Mycoses.Infection.Bone Diseases, Infectious.Osteomyelitis.Mastoiditis",C01.539.160.495.500
+"Bacterial Infections and Mycoses.Infection.Bone Diseases, Infectious.Osteomyelitis.Petrositis",C01.539.160.495.750
+"Bacterial Infections and Mycoses.Infection.Bone Diseases, Infectious.Osteomyelitis.Pott Puffy Tumor",C01.539.160.495.875
+"Bacterial Infections and Mycoses.Infection.Bone Diseases, Infectious.Periostitis",C01.539.160.595
+"Bacterial Infections and Mycoses.Infection.Bone Diseases, Infectious.Spondylitis",C01.539.160.762
+"Bacterial Infections and Mycoses.Infection.Bone Diseases, Infectious.Spondylitis.Discitis",C01.539.160.762.301
+"Bacterial Infections and Mycoses.Infection.Bone Diseases, Infectious.Tuberculosis, Osteoarticular",C01.539.160.886
+"Bacterial Infections and Mycoses.Infection.Bone Diseases, Infectious.Tuberculosis, Osteoarticular.Tuberculosis, Spinal",C01.539.160.886.722
+Bacterial Infections and Mycoses.Infection.Cardiovascular Infections,C01.539.190
+"Bacterial Infections and Mycoses.Infection.Cardiovascular Infections.Endocarditis, Bacterial",C01.539.190.249
+"Bacterial Infections and Mycoses.Infection.Cardiovascular Infections.Endocarditis, Bacterial.Endocarditis, Subacute Bacterial",C01.539.190.249.407
+"Bacterial Infections and Mycoses.Infection.Cardiovascular Infections.Syphilis, Cardiovascular",C01.539.190.500
+"Bacterial Infections and Mycoses.Infection.Cardiovascular Infections.Tuberculosis, Cardiovascular",C01.539.190.750
+"Bacterial Infections and Mycoses.Infection.Cardiovascular Infections.Tuberculosis, Cardiovascular.Pericarditis, Tuberculous",C01.539.190.750.595
+Bacterial Infections and Mycoses.Infection.Catheter-Related Infections,C01.539.195
+Bacterial Infections and Mycoses.Infection.Coinfection,C01.539.218
+Bacterial Infections and Mycoses.Infection.Communicable Diseases,C01.539.221
+"Bacterial Infections and Mycoses.Infection.Communicable Diseases.Communicable Diseases, Emerging",C01.539.221.500
+"Bacterial Infections and Mycoses.Infection.Communicable Diseases.Communicable Diseases, Imported",C01.539.221.625
+Bacterial Infections and Mycoses.Infection.Communicable Diseases.Waterborne Diseases,C01.539.221.750
+Bacterial Infections and Mycoses.Infection.Community-Acquired Infections,C01.539.234
+Bacterial Infections and Mycoses.Infection.Cross Infection,C01.539.248
+"Bacterial Infections and Mycoses.Infection.Cross Infection.Pneumonia, Ventilator-Associated",C01.539.248.500
+Bacterial Infections and Mycoses.Infection.Eye Infections,C01.539.375
+Bacterial Infections and Mycoses.Infection.Eye Infections.Corneal Ulcer,C01.539.375.177
+Bacterial Infections and Mycoses.Infection.Eye Infections.Endophthalmitis,C01.539.375.265
+"Bacterial Infections and Mycoses.Infection.Eye Infections.Endophthalmitis.Uveitis, Suppurative",C01.539.375.265.500
+"Bacterial Infections and Mycoses.Infection.Eye Infections.Eye Infections, Bacterial",C01.539.375.354
+"Bacterial Infections and Mycoses.Infection.Eye Infections.Eye Infections, Bacterial.Conjunctivitis, Bacterial",C01.539.375.354.220
+"Bacterial Infections and Mycoses.Infection.Eye Infections.Eye Infections, Bacterial.Conjunctivitis, Bacterial.Conjunctivitis, Inclusion",C01.539.375.354.220.250
+"Bacterial Infections and Mycoses.Infection.Eye Infections.Eye Infections, Bacterial.Conjunctivitis, Bacterial.Ophthalmia Neonatorum",C01.539.375.354.220.625
+"Bacterial Infections and Mycoses.Infection.Eye Infections.Eye Infections, Bacterial.Conjunctivitis, Bacterial.Trachoma",C01.539.375.354.220.800
+"Bacterial Infections and Mycoses.Infection.Eye Infections.Eye Infections, Bacterial.Hordeolum",C01.539.375.354.400
+"Bacterial Infections and Mycoses.Infection.Eye Infections.Eye Infections, Bacterial.Keratoconjunctivitis, Infectious",C01.539.375.354.450
+"Bacterial Infections and Mycoses.Infection.Eye Infections.Eye Infections, Bacterial.Tuberculosis, Ocular",C01.539.375.354.800
+"Bacterial Infections and Mycoses.Infection.Eye Infections.Eye Infections, Bacterial.Uveitis, Suppurative",C01.539.375.354.900
+"Bacterial Infections and Mycoses.Infection.Eye Infections.Eye Infections, Bacterial.Uveitis, Suppurative.Panophthalmitis",C01.539.375.354.900.675
+"Bacterial Infections and Mycoses.Infection.Eye Infections.Eye Infections, Fungal",C01.539.375.450
+"Bacterial Infections and Mycoses.Infection.Eye Infections.Eye Infections, Fungal.Uveitis, Suppurative",C01.539.375.450.900
+"Bacterial Infections and Mycoses.Infection.Eye Infections.Eye Infections, Fungal.Uveitis, Suppurative.Panophthalmitis",C01.539.375.450.900.675
+Bacterial Infections and Mycoses.Infection.Focal Infection,C01.539.392
+"Bacterial Infections and Mycoses.Infection.Focal Infection.Focal Infection, Dental",C01.539.392.433
+"Bacterial Infections and Mycoses.Infection.Gingivitis, Necrotizing Ulcerative",C01.539.424
+Bacterial Infections and Mycoses.Infection.Intraabdominal Infections,C01.539.463
+Bacterial Infections and Mycoses.Infection.Intraabdominal Infections.Appendicitis,C01.539.463.099
+Bacterial Infections and Mycoses.Infection.Intraabdominal Infections.Diverticular Diseases,C01.539.463.199
+Bacterial Infections and Mycoses.Infection.Intraabdominal Infections.Diverticular Diseases.Diverticulitis,C01.539.463.199.375
+"Bacterial Infections and Mycoses.Infection.Intraabdominal Infections.Diverticular Diseases.Diverticulitis.Diverticulitis, Colonic",C01.539.463.199.375.250
+"Bacterial Infections and Mycoses.Infection.Intraabdominal Infections.Diverticular Diseases.Diverticulitis.Diverticulosis, Stomach",C01.539.463.199.375.625
+Bacterial Infections and Mycoses.Infection.Intraabdominal Infections.Diverticular Diseases.Diverticulum,C01.539.463.199.750
+"Bacterial Infections and Mycoses.Infection.Intraabdominal Infections.Diverticular Diseases.Diverticulum.Diverticulum, Colon",C01.539.463.199.750.500
+"Bacterial Infections and Mycoses.Infection.Intraabdominal Infections.Diverticular Diseases.Diverticulum.Diverticulum, Stomach",C01.539.463.199.750.687
+Bacterial Infections and Mycoses.Infection.Intraabdominal Infections.Diverticular Diseases.Diverticulum.Meckel Diverticulum,C01.539.463.199.750.750
+Bacterial Infections and Mycoses.Infection.Intraabdominal Infections.Peritonitis,C01.539.463.600
+"Bacterial Infections and Mycoses.Infection.Intraabdominal Infections.Peritonitis.Peritonitis, Tuberculous",C01.539.463.600.249
+Bacterial Infections and Mycoses.Infection.Intraabdominal Infections.Peritonitis.Subphrenic Abscess,C01.539.463.600.500
+Bacterial Infections and Mycoses.Infection.Intraabdominal Infections.Typhlitis,C01.539.463.850
+Bacterial Infections and Mycoses.Infection.Laboratory Infection,C01.539.503
+Bacterial Infections and Mycoses.Infection.Ludwig's Angina,C01.539.535
+Bacterial Infections and Mycoses.Infection.Opportunistic Infections,C01.539.597
+Bacterial Infections and Mycoses.Infection.Opportunistic Infections.AIDS-Related Opportunistic Infections,C01.539.597.050
+Bacterial Infections and Mycoses.Infection.Opportunistic Infections.Superinfection,C01.539.597.880
+Bacterial Infections and Mycoses.Infection.Pelvic Infection,C01.539.635
+Bacterial Infections and Mycoses.Infection.Pelvic Infection.Pelvic Inflammatory Disease,C01.539.635.500
+"Bacterial Infections and Mycoses.Infection.Pregnancy Complications, Infectious",C01.539.674
+"Bacterial Infections and Mycoses.Infection.Pregnancy Complications, Infectious.Abortion, Septic",C01.539.674.173
+"Bacterial Infections and Mycoses.Infection.Pregnancy Complications, Infectious.Puerperal Infection",C01.539.674.715
+Bacterial Infections and Mycoses.Infection.Prosthesis-Related Infections,C01.539.685
+Bacterial Infections and Mycoses.Infection.Reproductive Tract Infections,C01.539.730
+Bacterial Infections and Mycoses.Infection.Respiratory Tract Infections,C01.539.739
+"Bacterial Infections and Mycoses.Infection.Respiratory Tract Infections.Empyema, Pleural",C01.539.739.484
+"Bacterial Infections and Mycoses.Infection.Respiratory Tract Infections.Empyema, Pleural.Empyema, Tuberculous",C01.539.739.484.320
+Bacterial Infections and Mycoses.Infection.Respiratory Tract Infections.Whooping Cough,C01.539.739.969
+Bacterial Infections and Mycoses.Infection.Sepsis,C01.539.757
+Bacterial Infections and Mycoses.Infection.Sepsis.Bacteremia,C01.539.757.100
+Bacterial Infections and Mycoses.Infection.Sepsis.Bacteremia.Endotoxemia,C01.539.757.100.275
+Bacterial Infections and Mycoses.Infection.Sepsis.Bacteremia.Hemorrhagic Septicemia,C01.539.757.100.375
+Bacterial Infections and Mycoses.Infection.Sepsis.Fungemia,C01.539.757.360
+Bacterial Infections and Mycoses.Infection.Sepsis.Fungemia.Candidemia,C01.539.757.360.150
+Bacterial Infections and Mycoses.Infection.Sepsis.Neonatal Sepsis,C01.539.757.580
+"Bacterial Infections and Mycoses.Infection.Sepsis.Shock, Septic",C01.539.757.800
+Bacterial Infections and Mycoses.Infection.Sexually Transmitted Diseases,C01.539.778
+"Bacterial Infections and Mycoses.Infection.Sexually Transmitted Diseases.Sexually Transmitted Diseases, Bacterial",C01.539.778.281
+"Bacterial Infections and Mycoses.Infection.Sexually Transmitted Diseases.Sexually Transmitted Diseases, Bacterial.Chancroid",C01.539.778.281.201
+"Bacterial Infections and Mycoses.Infection.Sexually Transmitted Diseases.Sexually Transmitted Diseases, Bacterial.Chlamydia Infections",C01.539.778.281.301
+"Bacterial Infections and Mycoses.Infection.Sexually Transmitted Diseases.Sexually Transmitted Diseases, Bacterial.Chlamydia Infections.Lymphogranuloma Venereum",C01.539.778.281.301.490
+"Bacterial Infections and Mycoses.Infection.Sexually Transmitted Diseases.Sexually Transmitted Diseases, Bacterial.Gonorrhea",C01.539.778.281.401
+"Bacterial Infections and Mycoses.Infection.Sexually Transmitted Diseases.Sexually Transmitted Diseases, Bacterial.Granuloma Inguinale",C01.539.778.281.451
+"Bacterial Infections and Mycoses.Infection.Sexually Transmitted Diseases.Sexually Transmitted Diseases, Bacterial.Syphilis",C01.539.778.281.859
+"Bacterial Infections and Mycoses.Infection.Skin Diseases, Infectious",C01.539.800
+"Bacterial Infections and Mycoses.Infection.Skin Diseases, Infectious.Cellulitis",C01.539.800.130
+"Bacterial Infections and Mycoses.Infection.Skin Diseases, Infectious.Dermatomycoses",C01.539.800.200
+"Bacterial Infections and Mycoses.Infection.Skin Diseases, Infectious.Dermatomycoses.Blastomycosis",C01.539.800.200.055
+"Bacterial Infections and Mycoses.Infection.Skin Diseases, Infectious.Dermatomycoses.Candidiasis, Chronic Mucocutaneous",C01.539.800.200.100
+"Bacterial Infections and Mycoses.Infection.Skin Diseases, Infectious.Dermatomycoses.Candidiasis, Cutaneous",C01.539.800.200.105
+"Bacterial Infections and Mycoses.Infection.Skin Diseases, Infectious.Dermatomycoses.Chromoblastomycosis",C01.539.800.200.110
+"Bacterial Infections and Mycoses.Infection.Skin Diseases, Infectious.Dermatomycoses.Hyalohyphomycosis",C01.539.800.200.383
+"Bacterial Infections and Mycoses.Infection.Skin Diseases, Infectious.Dermatomycoses.Hyalohyphomycosis.Alternariosis",C01.539.800.200.383.125
+"Bacterial Infections and Mycoses.Infection.Skin Diseases, Infectious.Dermatomycoses.Hyalohyphomycosis.Cerebral Phaeohyphomycosis",C01.539.800.200.383.375
+"Bacterial Infections and Mycoses.Infection.Skin Diseases, Infectious.Dermatomycoses.Hyalohyphomycosis.Fusariosis",C01.539.800.200.383.500
+"Bacterial Infections and Mycoses.Infection.Skin Diseases, Infectious.Dermatomycoses.Lobomycosis",C01.539.800.200.475
+"Bacterial Infections and Mycoses.Infection.Skin Diseases, Infectious.Dermatomycoses.Mycetoma",C01.539.800.200.500
+"Bacterial Infections and Mycoses.Infection.Skin Diseases, Infectious.Dermatomycoses.Sporotrichosis",C01.539.800.200.675
+"Bacterial Infections and Mycoses.Infection.Skin Diseases, Infectious.Dermatomycoses.Tinea",C01.539.800.200.720
+"Bacterial Infections and Mycoses.Infection.Skin Diseases, Infectious.Dermatomycoses.Tinea.Onychomycosis",C01.539.800.200.720.550
+"Bacterial Infections and Mycoses.Infection.Skin Diseases, Infectious.Dermatomycoses.Tinea.Tinea Capitis",C01.539.800.200.720.730
+"Bacterial Infections and Mycoses.Infection.Skin Diseases, Infectious.Dermatomycoses.Tinea.Tinea Capitis.Tinea Favosa",C01.539.800.200.720.730.740
+"Bacterial Infections and Mycoses.Infection.Skin Diseases, Infectious.Dermatomycoses.Tinea.Tinea Pedis",C01.539.800.200.720.760
+"Bacterial Infections and Mycoses.Infection.Skin Diseases, Infectious.Dermatomycoses.Tinea Versicolor",C01.539.800.200.860
+"Bacterial Infections and Mycoses.Infection.Skin Diseases, Infectious.Paronychia",C01.539.800.460
+"Bacterial Infections and Mycoses.Infection.Skin Diseases, Infectious.Skin Diseases, Bacterial",C01.539.800.720
+"Bacterial Infections and Mycoses.Infection.Skin Diseases, Infectious.Skin Diseases, Bacterial.Actinomycosis, Cervicofacial",C01.539.800.720.110
+"Bacterial Infections and Mycoses.Infection.Skin Diseases, Infectious.Skin Diseases, Bacterial.Angiomatosis, Bacillary",C01.539.800.720.150
+"Bacterial Infections and Mycoses.Infection.Skin Diseases, Infectious.Skin Diseases, Bacterial.Digital Dermatitis",C01.539.800.720.180
+"Bacterial Infections and Mycoses.Infection.Skin Diseases, Infectious.Skin Diseases, Bacterial.Ecthyma",C01.539.800.720.210
+"Bacterial Infections and Mycoses.Infection.Skin Diseases, Infectious.Skin Diseases, Bacterial.Erysipelas",C01.539.800.720.260
+"Bacterial Infections and Mycoses.Infection.Skin Diseases, Infectious.Skin Diseases, Bacterial.Erythema Chronicum Migrans",C01.539.800.720.310
+"Bacterial Infections and Mycoses.Infection.Skin Diseases, Infectious.Skin Diseases, Bacterial.Erythrasma",C01.539.800.720.320
+"Bacterial Infections and Mycoses.Infection.Skin Diseases, Infectious.Skin Diseases, Bacterial.Granuloma Inguinale",C01.539.800.720.360
+"Bacterial Infections and Mycoses.Infection.Skin Diseases, Infectious.Skin Diseases, Bacterial.Hidradenitis Suppurativa",C01.539.800.720.420
+"Bacterial Infections and Mycoses.Infection.Skin Diseases, Infectious.Skin Diseases, Bacterial.Mycetoma",C01.539.800.720.557
+"Bacterial Infections and Mycoses.Infection.Skin Diseases, Infectious.Skin Diseases, Bacterial.Pinta",C01.539.800.720.630
+"Bacterial Infections and Mycoses.Infection.Skin Diseases, Infectious.Skin Diseases, Bacterial.Rhinoscleroma",C01.539.800.720.705
+"Bacterial Infections and Mycoses.Infection.Skin Diseases, Infectious.Skin Diseases, Bacterial.Staphylococcal Skin Infections",C01.539.800.720.770
+"Bacterial Infections and Mycoses.Infection.Skin Diseases, Infectious.Skin Diseases, Bacterial.Staphylococcal Skin Infections.Furunculosis",C01.539.800.720.770.270
+"Bacterial Infections and Mycoses.Infection.Skin Diseases, Infectious.Skin Diseases, Bacterial.Staphylococcal Skin Infections.Furunculosis.Carbuncle",C01.539.800.720.770.270.200
+"Bacterial Infections and Mycoses.Infection.Skin Diseases, Infectious.Skin Diseases, Bacterial.Staphylococcal Skin Infections.Impetigo",C01.539.800.720.770.360
+"Bacterial Infections and Mycoses.Infection.Skin Diseases, Infectious.Skin Diseases, Bacterial.Staphylococcal Skin Infections.Staphylococcal Scalded Skin Syndrome",C01.539.800.720.770.770
+"Bacterial Infections and Mycoses.Infection.Skin Diseases, Infectious.Skin Diseases, Bacterial.Syphilis, Cutaneous",C01.539.800.720.790
+"Bacterial Infections and Mycoses.Infection.Skin Diseases, Infectious.Skin Diseases, Bacterial.Tuberculosis, Cutaneous",C01.539.800.720.820
+"Bacterial Infections and Mycoses.Infection.Skin Diseases, Infectious.Skin Diseases, Bacterial.Tuberculosis, Cutaneous.Erythema Induratum",C01.539.800.720.820.260
+"Bacterial Infections and Mycoses.Infection.Skin Diseases, Infectious.Skin Diseases, Bacterial.Tuberculosis, Cutaneous.Lupus Vulgaris",C01.539.800.720.820.470
+"Bacterial Infections and Mycoses.Infection.Skin Diseases, Infectious.Skin Diseases, Bacterial.Yaws",C01.539.800.720.910
+Bacterial Infections and Mycoses.Infection.Soft Tissue Infections,C01.539.820
+Bacterial Infections and Mycoses.Infection.Suppuration,C01.539.830
+Bacterial Infections and Mycoses.Infection.Suppuration.Abscess,C01.539.830.025
+Bacterial Infections and Mycoses.Infection.Suppuration.Abscess.Abdominal Abscess,C01.539.830.025.020
+Bacterial Infections and Mycoses.Infection.Suppuration.Abscess.Abdominal Abscess.Liver Abscess,C01.539.830.025.020.455
+"Bacterial Infections and Mycoses.Infection.Suppuration.Abscess.Abdominal Abscess.Liver Abscess.Liver Abscess, Amebic",C01.539.830.025.020.455.460
+"Bacterial Infections and Mycoses.Infection.Suppuration.Abscess.Abdominal Abscess.Liver Abscess.Liver Abscess, Pyogenic",C01.539.830.025.020.455.730
+Bacterial Infections and Mycoses.Infection.Suppuration.Abscess.Abdominal Abscess.Subphrenic Abscess,C01.539.830.025.020.810
+Bacterial Infections and Mycoses.Infection.Suppuration.Abscess.Brain Abscess,C01.539.830.025.160
+"Bacterial Infections and Mycoses.Infection.Suppuration.Abscess.Brain Abscess.Toxoplasmosis, Cerebral",C01.539.830.025.160.800
+Bacterial Infections and Mycoses.Infection.Suppuration.Abscess.Epidural Abscess,C01.539.830.025.325
+Bacterial Infections and Mycoses.Infection.Suppuration.Abscess.Lung Abscess,C01.539.830.025.490
+Bacterial Infections and Mycoses.Infection.Suppuration.Abscess.Periapical Abscess,C01.539.830.025.650
+Bacterial Infections and Mycoses.Infection.Suppuration.Abscess.Periodontal Abscess,C01.539.830.025.665
+Bacterial Infections and Mycoses.Infection.Suppuration.Abscess.Peritonsillar Abscess,C01.539.830.025.675
+Bacterial Infections and Mycoses.Infection.Suppuration.Abscess.Psoas Abscess,C01.539.830.025.700
+Bacterial Infections and Mycoses.Infection.Suppuration.Abscess.Retropharyngeal Abscess,C01.539.830.025.780
+Bacterial Infections and Mycoses.Infection.Suppuration.Cellulitis,C01.539.830.200
+Bacterial Infections and Mycoses.Infection.Suppuration.Empyema,C01.539.830.305
+"Bacterial Infections and Mycoses.Infection.Suppuration.Empyema.Empyema, Pleural",C01.539.830.305.310
+"Bacterial Infections and Mycoses.Infection.Suppuration.Empyema.Empyema, Pleural.Empyema, Tuberculous",C01.539.830.305.310.320
+"Bacterial Infections and Mycoses.Infection.Suppuration.Empyema.Empyema, Subdural",C01.539.830.305.330
+Bacterial Infections and Mycoses.Infection.Suppuration.Hidradenitis Suppurativa,C01.539.830.499
+"Bacterial Infections and Mycoses.Infection.Suppuration.Otitis Media, Suppurative",C01.539.830.694
+Bacterial Infections and Mycoses.Infection.Suppuration.Pyomyositis,C01.539.830.767
+"Bacterial Infections and Mycoses.Infection.Suppuration.Thyroiditis, Suppurative",C01.539.830.840
+"Bacterial Infections and Mycoses.Infection.Suppuration.Uveitis, Suppurative",C01.539.830.900
+Bacterial Infections and Mycoses.Infection.Toxemia,C01.539.861
+Bacterial Infections and Mycoses.Infection.Toxemia.Endotoxemia,C01.539.861.375
+Bacterial Infections and Mycoses.Infection.Urinary Tract Infections,C01.539.895
+Bacterial Infections and Mycoses.Infection.Urinary Tract Infections.Bacteriuria,C01.539.895.219
+Bacterial Infections and Mycoses.Infection.Urinary Tract Infections.Pyuria,C01.539.895.719
+Bacterial Infections and Mycoses.Infection.Urinary Tract Infections.Schistosomiasis haematobia,C01.539.895.775
+Bacterial Infections and Mycoses.Infection.Wound Infection,C01.539.947
+Bacterial Infections and Mycoses.Infection.Wound Infection.Surgical Wound Infection,C01.539.947.692
+Bacterial Infections and Mycoses.Mycoses,C01.703
+Bacterial Infections and Mycoses.Mycoses.Aspergillosis,C01.703.080
+Bacterial Infections and Mycoses.Mycoses.Aspergillosis.Neuroaspergillosis,C01.703.080.537
+Bacterial Infections and Mycoses.Mycoses.Aspergillosis.Pulmonary Aspergillosis,C01.703.080.768
+"Bacterial Infections and Mycoses.Mycoses.Aspergillosis.Pulmonary Aspergillosis.Aspergillosis, Allergic Bronchopulmonary",C01.703.080.768.500
+Bacterial Infections and Mycoses.Mycoses.Aspergillosis.Pulmonary Aspergillosis.Invasive Pulmonary Aspergillosis,C01.703.080.768.750
+Bacterial Infections and Mycoses.Mycoses.Candidiasis,C01.703.160
+"Bacterial Infections and Mycoses.Mycoses.Candidiasis.Candidiasis, Chronic Mucocutaneous",C01.703.160.165
+"Bacterial Infections and Mycoses.Mycoses.Candidiasis.Candidiasis, Cutaneous",C01.703.160.170
+"Bacterial Infections and Mycoses.Mycoses.Candidiasis.Candidiasis, Invasive",C01.703.160.175
+"Bacterial Infections and Mycoses.Mycoses.Candidiasis.Candidiasis, Invasive.Candidemia",C01.703.160.175.150
+"Bacterial Infections and Mycoses.Mycoses.Candidiasis.Candidiasis, Oral",C01.703.160.180
+"Bacterial Infections and Mycoses.Mycoses.Candidiasis.Candidiasis, Vulvovaginal",C01.703.160.190
+Bacterial Infections and Mycoses.Mycoses.Central Nervous System Fungal Infections,C01.703.181
+"Bacterial Infections and Mycoses.Mycoses.Central Nervous System Fungal Infections.Meningitis, Fungal",C01.703.181.500
+"Bacterial Infections and Mycoses.Mycoses.Central Nervous System Fungal Infections.Meningitis, Fungal.Meningitis, Cryptococcal",C01.703.181.500.500
+Bacterial Infections and Mycoses.Mycoses.Coccidioidomycosis,C01.703.203
+Bacterial Infections and Mycoses.Mycoses.Cryptococcosis,C01.703.248
+"Bacterial Infections and Mycoses.Mycoses.Cryptococcosis.Meningitis, Cryptococcal",C01.703.248.290
+Bacterial Infections and Mycoses.Mycoses.Dermatomycoses,C01.703.295
+Bacterial Infections and Mycoses.Mycoses.Dermatomycoses.Blastomycosis,C01.703.295.055
+"Bacterial Infections and Mycoses.Mycoses.Dermatomycoses.Candidiasis, Chronic Mucocutaneous",C01.703.295.165
+"Bacterial Infections and Mycoses.Mycoses.Dermatomycoses.Candidiasis, Cutaneous",C01.703.295.170
+Bacterial Infections and Mycoses.Mycoses.Dermatomycoses.Chromoblastomycosis,C01.703.295.182
+Bacterial Infections and Mycoses.Mycoses.Dermatomycoses.Hyalohyphomycosis,C01.703.295.328
+Bacterial Infections and Mycoses.Mycoses.Dermatomycoses.Hyalohyphomycosis.Alternariosis,C01.703.295.328.125
+Bacterial Infections and Mycoses.Mycoses.Dermatomycoses.Hyalohyphomycosis.Cerebral Phaeohyphomycosis,C01.703.295.328.375
+Bacterial Infections and Mycoses.Mycoses.Dermatomycoses.Hyalohyphomycosis.Fusariosis,C01.703.295.328.500
+Bacterial Infections and Mycoses.Mycoses.Dermatomycoses.Lobomycosis,C01.703.295.475
+Bacterial Infections and Mycoses.Mycoses.Dermatomycoses.Mycetoma,C01.703.295.522
+Bacterial Infections and Mycoses.Mycoses.Dermatomycoses.Sporotrichosis,C01.703.295.675
+Bacterial Infections and Mycoses.Mycoses.Dermatomycoses.Tinea,C01.703.295.872
+Bacterial Infections and Mycoses.Mycoses.Dermatomycoses.Tinea.Onychomycosis,C01.703.295.872.458
+Bacterial Infections and Mycoses.Mycoses.Dermatomycoses.Tinea.Tinea Capitis,C01.703.295.872.541
+Bacterial Infections and Mycoses.Mycoses.Dermatomycoses.Tinea.Tinea Capitis.Tinea Favosa,C01.703.295.872.541.500
+Bacterial Infections and Mycoses.Mycoses.Dermatomycoses.Tinea.Tinea Pedis,C01.703.295.872.707
+Bacterial Infections and Mycoses.Mycoses.Dermatomycoses.Tinea Versicolor,C01.703.295.936
+"Bacterial Infections and Mycoses.Mycoses.Eye Infections, Fungal",C01.703.343
+"Bacterial Infections and Mycoses.Mycoses.Eye Infections, Fungal.Uveitis, Suppurative",C01.703.343.900
+"Bacterial Infections and Mycoses.Mycoses.Eye Infections, Fungal.Uveitis, Suppurative.Panophthalmitis",C01.703.343.900.675
+Bacterial Infections and Mycoses.Mycoses.Geotrichosis,C01.703.392
+Bacterial Infections and Mycoses.Mycoses.Histoplasmosis,C01.703.450
+Bacterial Infections and Mycoses.Mycoses.Invasive Fungal Infections,C01.703.492
+"Bacterial Infections and Mycoses.Mycoses.Invasive Fungal Infections.Candidiasis, Invasive",C01.703.492.500
+"Bacterial Infections and Mycoses.Mycoses.Invasive Fungal Infections.Candidiasis, Invasive.Candidemia",C01.703.492.500.150
+Bacterial Infections and Mycoses.Mycoses.Invasive Fungal Infections.Fungemia,C01.703.492.625
+Bacterial Infections and Mycoses.Mycoses.Invasive Fungal Infections.Fungemia.Candidemia,C01.703.492.625.150
+Bacterial Infections and Mycoses.Mycoses.Invasive Fungal Infections.Invasive Pulmonary Aspergillosis,C01.703.492.688
+Bacterial Infections and Mycoses.Mycoses.Invasive Fungal Infections.Neuroaspergillosis,C01.703.492.750
+"Bacterial Infections and Mycoses.Mycoses.Lung Diseases, Fungal",C01.703.534
+"Bacterial Infections and Mycoses.Mycoses.Lung Diseases, Fungal.Blastomycosis",C01.703.534.395
+"Bacterial Infections and Mycoses.Mycoses.Lung Diseases, Fungal.Pneumonia, Pneumocystis",C01.703.534.700
+Bacterial Infections and Mycoses.Mycoses.Microsporidiosis,C01.703.617
+Bacterial Infections and Mycoses.Mycoses.Microsporidiosis.Encephalitozoonosis,C01.703.617.300
+Bacterial Infections and Mycoses.Mycoses.Otomycosis,C01.703.658
+Bacterial Infections and Mycoses.Mycoses.Paracoccidioidomycosis,C01.703.700
+Bacterial Infections and Mycoses.Mycoses.Phaeohyphomycosis,C01.703.726
+Bacterial Infections and Mycoses.Mycoses.Phaeohyphomycosis.Cerebral Phaeohyphomycosis,C01.703.726.500
+Bacterial Infections and Mycoses.Mycoses.Piedra,C01.703.753
+Bacterial Infections and Mycoses.Mycoses.Pneumocystis Infections,C01.703.770
+"Bacterial Infections and Mycoses.Mycoses.Pneumocystis Infections.Pneumonia, Pneumocystis",C01.703.770.700
+Bacterial Infections and Mycoses.Mycoses.Trichosporonosis,C01.703.875
+Bacterial Infections and Mycoses.Mycoses.Zygomycosis,C01.703.980
+Bacterial Infections and Mycoses.Mycoses.Zygomycosis.Mucormycosis,C01.703.980.600
+Bacterial Infections and Mycoses.Zoonoses,C01.908

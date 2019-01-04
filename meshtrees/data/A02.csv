@@ -1,0 +1,252 @@
+id,value
+Musculoskeletal System,A02
+Musculoskeletal System.Aponeurosis,A02.083
+Musculoskeletal System.Cartilage,A02.165
+Musculoskeletal System.Cartilage.Elastic Cartilage,A02.165.257
+Musculoskeletal System.Cartilage.Elastic Cartilage.Ear Cartilage,A02.165.257.250
+Musculoskeletal System.Cartilage.Elastic Cartilage.Laryngeal Cartilages,A02.165.257.625
+Musculoskeletal System.Cartilage.Elastic Cartilage.Laryngeal Cartilages.Arytenoid Cartilage,A02.165.257.625.083
+Musculoskeletal System.Cartilage.Elastic Cartilage.Laryngeal Cartilages.Cricoid Cartilage,A02.165.257.625.211
+Musculoskeletal System.Cartilage.Elastic Cartilage.Laryngeal Cartilages.Epiglottis,A02.165.257.625.411
+Musculoskeletal System.Cartilage.Elastic Cartilage.Laryngeal Cartilages.Thyroid Cartilage,A02.165.257.625.870
+Musculoskeletal System.Cartilage.Fibrocartilage,A02.165.308
+Musculoskeletal System.Cartilage.Fibrocartilage.Intervertebral Disc,A02.165.308.410
+Musculoskeletal System.Cartilage.Fibrocartilage.Intervertebral Disc.Annulus Fibrosus,A02.165.308.410.250
+Musculoskeletal System.Cartilage.Fibrocartilage.Intervertebral Disc.Nucleus Pulposus,A02.165.308.410.500
+Musculoskeletal System.Cartilage.Fibrocartilage.Meniscus,A02.165.308.538
+"Musculoskeletal System.Cartilage.Fibrocartilage.Meniscus.Menisci, Tibial",A02.165.308.538.500
+Musculoskeletal System.Cartilage.Fibrocartilage.Palmar Plate,A02.165.308.575
+Musculoskeletal System.Cartilage.Fibrocartilage.Plantar Plate,A02.165.308.650
+Musculoskeletal System.Cartilage.Fibrocartilage.Triangular Fibrocartilage,A02.165.308.800
+Musculoskeletal System.Cartilage.Hyaline Cartilage,A02.165.407
+"Musculoskeletal System.Cartilage.Hyaline Cartilage.Cartilage, Articular",A02.165.407.150
+Musculoskeletal System.Cartilage.Hyaline Cartilage.Costal Cartilage,A02.165.407.325
+Musculoskeletal System.Cartilage.Hyaline Cartilage.Laryngeal Cartilages,A02.165.407.500
+Musculoskeletal System.Cartilage.Hyaline Cartilage.Laryngeal Cartilages.Arytenoid Cartilage,A02.165.407.500.083
+Musculoskeletal System.Cartilage.Hyaline Cartilage.Laryngeal Cartilages.Cricoid Cartilage,A02.165.407.500.211
+Musculoskeletal System.Cartilage.Hyaline Cartilage.Laryngeal Cartilages.Epiglottis,A02.165.407.500.411
+Musculoskeletal System.Cartilage.Hyaline Cartilage.Laryngeal Cartilages.Thyroid Cartilage,A02.165.407.500.870
+Musculoskeletal System.Cartilage.Hyaline Cartilage.Nasal Cartilages,A02.165.407.550
+Musculoskeletal System.Fascia,A02.340
+Musculoskeletal System.Fascia.Fascia Lata,A02.340.424
+Musculoskeletal System.Fascia.Tenon Capsule,A02.340.800
+Musculoskeletal System.Ligaments,A02.513
+Musculoskeletal System.Ligaments.Broad Ligament,A02.513.170
+"Musculoskeletal System.Ligaments.Ligaments, Articular",A02.513.514
+"Musculoskeletal System.Ligaments.Ligaments, Articular.Anterior Cruciate Ligament",A02.513.514.100
+"Musculoskeletal System.Ligaments.Ligaments, Articular.Collateral Ligaments",A02.513.514.162
+"Musculoskeletal System.Ligaments.Ligaments, Articular.Collateral Ligaments.Collateral Ligament, Ulnar",A02.513.514.162.250
+"Musculoskeletal System.Ligaments.Ligaments, Articular.Collateral Ligaments.Lateral Ligament, Ankle",A02.513.514.162.500
+"Musculoskeletal System.Ligaments.Ligaments, Articular.Collateral Ligaments.Medial Collateral Ligament, Knee",A02.513.514.162.600
+"Musculoskeletal System.Ligaments.Ligaments, Articular.Ligamentum Flavum",A02.513.514.287
+"Musculoskeletal System.Ligaments.Ligaments, Articular.Longitudinal Ligaments",A02.513.514.350
+"Musculoskeletal System.Ligaments.Ligaments, Articular.Patellar Ligament",A02.513.514.475
+"Musculoskeletal System.Ligaments.Ligaments, Articular.Plantar Plate",A02.513.514.538
+"Musculoskeletal System.Ligaments.Ligaments, Articular.Posterior Cruciate Ligament",A02.513.514.600
+"Musculoskeletal System.Ligaments.Ligaments, Articular.Round Ligament of Femur",A02.513.514.800
+Musculoskeletal System.Ligaments.Round Ligaments,A02.513.901
+Musculoskeletal System.Ligaments.Round Ligaments.Round Ligament of Femur,A02.513.901.500
+Musculoskeletal System.Ligaments.Round Ligaments.Round Ligament of Liver,A02.513.901.750
+Musculoskeletal System.Ligaments.Round Ligaments.Round Ligament of Uterus,A02.513.901.875
+Musculoskeletal System.Muscles,A02.633
+"Musculoskeletal System.Muscles.Muscle, Skeletal",A02.633.567
+"Musculoskeletal System.Muscles.Muscle, Skeletal.Abdominal Muscles",A02.633.567.050
+"Musculoskeletal System.Muscles.Muscle, Skeletal.Abdominal Muscles.Abdominal Oblique Muscles",A02.633.567.050.375
+"Musculoskeletal System.Muscles.Muscle, Skeletal.Abdominal Muscles.Pelvic Floor",A02.633.567.050.750
+"Musculoskeletal System.Muscles.Muscle, Skeletal.Abdominal Muscles.Rectus Abdominis",A02.633.567.050.800
+"Musculoskeletal System.Muscles.Muscle, Skeletal.Back Muscles",A02.633.567.175
+"Musculoskeletal System.Muscles.Muscle, Skeletal.Back Muscles.Intermediate Back Muscles",A02.633.567.175.500
+"Musculoskeletal System.Muscles.Muscle, Skeletal.Back Muscles.Paraspinal Muscles",A02.633.567.175.750
+"Musculoskeletal System.Muscles.Muscle, Skeletal.Back Muscles.Superficial Back Muscles",A02.633.567.175.875
+"Musculoskeletal System.Muscles.Muscle, Skeletal.Deltoid Muscle",A02.633.567.300
+"Musculoskeletal System.Muscles.Muscle, Skeletal.Facial Muscles",A02.633.567.400
+"Musculoskeletal System.Muscles.Muscle, Skeletal.Gracilis Muscle",A02.633.567.425
+"Musculoskeletal System.Muscles.Muscle, Skeletal.Hamstring Muscles",A02.633.567.450
+"Musculoskeletal System.Muscles.Muscle, Skeletal.Laryngeal Muscles",A02.633.567.500
+"Musculoskeletal System.Muscles.Muscle, Skeletal.Masticatory Muscles",A02.633.567.600
+"Musculoskeletal System.Muscles.Muscle, Skeletal.Masticatory Muscles.Masseter Muscle",A02.633.567.600.500
+"Musculoskeletal System.Muscles.Muscle, Skeletal.Masticatory Muscles.Pterygoid Muscles",A02.633.567.600.700
+"Musculoskeletal System.Muscles.Muscle, Skeletal.Masticatory Muscles.Temporal Muscle",A02.633.567.600.850
+"Musculoskeletal System.Muscles.Muscle, Skeletal.Neck Muscles",A02.633.567.650
+"Musculoskeletal System.Muscles.Muscle, Skeletal.Oculomotor Muscles",A02.633.567.700
+"Musculoskeletal System.Muscles.Muscle, Skeletal.Palatal Muscles",A02.633.567.750
+"Musculoskeletal System.Muscles.Muscle, Skeletal.Pectoralis Muscles",A02.633.567.775
+"Musculoskeletal System.Muscles.Muscle, Skeletal.Pharyngeal Muscles",A02.633.567.800
+"Musculoskeletal System.Muscles.Muscle, Skeletal.Pharyngeal Muscles.Esophageal Sphincter, Upper",A02.633.567.800.360
+"Musculoskeletal System.Muscles.Muscle, Skeletal.Pharyngeal Muscles.Velopharyngeal Sphincter",A02.633.567.800.680
+"Musculoskeletal System.Muscles.Muscle, Skeletal.Psoas Muscles",A02.633.567.825
+"Musculoskeletal System.Muscles.Muscle, Skeletal.Quadriceps Muscle",A02.633.567.850
+"Musculoskeletal System.Muscles.Muscle, Skeletal.Respiratory Muscles",A02.633.567.900
+"Musculoskeletal System.Muscles.Muscle, Skeletal.Respiratory Muscles.Diaphragm",A02.633.567.900.300
+"Musculoskeletal System.Muscles.Muscle, Skeletal.Respiratory Muscles.Intercostal Muscles",A02.633.567.900.500
+"Musculoskeletal System.Muscles.Muscle, Skeletal.Rotator Cuff",A02.633.567.912
+"Musculoskeletal System.Muscles.Muscle, Skeletal.Stapedius",A02.633.567.950
+"Musculoskeletal System.Muscles.Muscle, Skeletal.Tensor Tympani",A02.633.567.975
+"Musculoskeletal System.Muscles.Muscle, Smooth",A02.633.570
+"Musculoskeletal System.Muscles.Muscle, Smooth.Esophageal Sphincter, Lower",A02.633.570.210
+"Musculoskeletal System.Muscles.Muscle, Smooth.Muscle, Smooth, Vascular",A02.633.570.491
+"Musculoskeletal System.Muscles.Muscle, Smooth.Myometrium",A02.633.570.500
+Musculoskeletal System.Muscles.Myocardium,A02.633.580
+Musculoskeletal System.Muscles.Myocardium.Papillary Muscles,A02.633.580.680
+Musculoskeletal System.Skeleton,A02.835
+Musculoskeletal System.Skeleton.Bone and Bones,A02.835.232
+Musculoskeletal System.Skeleton.Bone and Bones.Bone-Implant Interface,A02.835.232.022
+Musculoskeletal System.Skeleton.Bone and Bones.Bones of Lower Extremity,A02.835.232.043
+Musculoskeletal System.Skeleton.Bone and Bones.Bones of Lower Extremity.Foot Bones,A02.835.232.043.300
+Musculoskeletal System.Skeleton.Bone and Bones.Bones of Lower Extremity.Foot Bones.Metatarsal Bones,A02.835.232.043.300.492
+Musculoskeletal System.Skeleton.Bone and Bones.Bones of Lower Extremity.Foot Bones.Tarsal Bones,A02.835.232.043.300.710
+Musculoskeletal System.Skeleton.Bone and Bones.Bones of Lower Extremity.Foot Bones.Tarsal Bones.Calcaneus,A02.835.232.043.300.710.300
+Musculoskeletal System.Skeleton.Bone and Bones.Bones of Lower Extremity.Foot Bones.Tarsal Bones.Talus,A02.835.232.043.300.710.780
+Musculoskeletal System.Skeleton.Bone and Bones.Bones of Lower Extremity.Foot Bones.Toe Phalanges,A02.835.232.043.300.800
+Musculoskeletal System.Skeleton.Bone and Bones.Bones of Lower Extremity.Leg Bones,A02.835.232.043.650
+Musculoskeletal System.Skeleton.Bone and Bones.Bones of Lower Extremity.Leg Bones.Femur,A02.835.232.043.650.247
+Musculoskeletal System.Skeleton.Bone and Bones.Bones of Lower Extremity.Leg Bones.Femur.Femur Head,A02.835.232.043.650.247.343
+Musculoskeletal System.Skeleton.Bone and Bones.Bones of Lower Extremity.Leg Bones.Femur.Femur Neck,A02.835.232.043.650.247.510
+Musculoskeletal System.Skeleton.Bone and Bones.Bones of Lower Extremity.Leg Bones.Fibula,A02.835.232.043.650.321
+Musculoskeletal System.Skeleton.Bone and Bones.Bones of Lower Extremity.Leg Bones.Patella,A02.835.232.043.650.624
+Musculoskeletal System.Skeleton.Bone and Bones.Bones of Lower Extremity.Leg Bones.Tibia,A02.835.232.043.650.883
+Musculoskeletal System.Skeleton.Bone and Bones.Bones of Lower Extremity.Pelvic Bones,A02.835.232.043.825
+Musculoskeletal System.Skeleton.Bone and Bones.Bones of Lower Extremity.Pelvic Bones.Acetabulum,A02.835.232.043.825.108
+Musculoskeletal System.Skeleton.Bone and Bones.Bones of Lower Extremity.Pelvic Bones.Ilium,A02.835.232.043.825.434
+Musculoskeletal System.Skeleton.Bone and Bones.Bones of Lower Extremity.Pelvic Bones.Ischium,A02.835.232.043.825.548
+Musculoskeletal System.Skeleton.Bone and Bones.Bones of Lower Extremity.Pelvic Bones.Pubic Bone,A02.835.232.043.825.781
+Musculoskeletal System.Skeleton.Bone and Bones.Bones of Upper Extremity,A02.835.232.087
+Musculoskeletal System.Skeleton.Bone and Bones.Bones of Upper Extremity.Arm Bones,A02.835.232.087.090
+Musculoskeletal System.Skeleton.Bone and Bones.Bones of Upper Extremity.Arm Bones.Humerus,A02.835.232.087.090.400
+Musculoskeletal System.Skeleton.Bone and Bones.Bones of Upper Extremity.Arm Bones.Humerus.Humeral Head,A02.835.232.087.090.400.400
+Musculoskeletal System.Skeleton.Bone and Bones.Bones of Upper Extremity.Arm Bones.Radius,A02.835.232.087.090.700
+Musculoskeletal System.Skeleton.Bone and Bones.Bones of Upper Extremity.Arm Bones.Ulna,A02.835.232.087.090.850
+Musculoskeletal System.Skeleton.Bone and Bones.Bones of Upper Extremity.Arm Bones.Ulna.Olecranon Process,A02.835.232.087.090.850.600
+Musculoskeletal System.Skeleton.Bone and Bones.Bones of Upper Extremity.Clavicle,A02.835.232.087.227
+Musculoskeletal System.Skeleton.Bone and Bones.Bones of Upper Extremity.Hand Bones,A02.835.232.087.319
+Musculoskeletal System.Skeleton.Bone and Bones.Bones of Upper Extremity.Hand Bones.Carpal Bones,A02.835.232.087.319.150
+Musculoskeletal System.Skeleton.Bone and Bones.Bones of Upper Extremity.Hand Bones.Carpal Bones.Capitate Bone,A02.835.232.087.319.150.150
+Musculoskeletal System.Skeleton.Bone and Bones.Bones of Upper Extremity.Hand Bones.Carpal Bones.Hamate Bone,A02.835.232.087.319.150.400
+Musculoskeletal System.Skeleton.Bone and Bones.Bones of Upper Extremity.Hand Bones.Carpal Bones.Lunate Bone,A02.835.232.087.319.150.500
+Musculoskeletal System.Skeleton.Bone and Bones.Bones of Upper Extremity.Hand Bones.Carpal Bones.Pisiform Bone,A02.835.232.087.319.150.600
+Musculoskeletal System.Skeleton.Bone and Bones.Bones of Upper Extremity.Hand Bones.Carpal Bones.Scaphoid Bone,A02.835.232.087.319.150.750
+Musculoskeletal System.Skeleton.Bone and Bones.Bones of Upper Extremity.Hand Bones.Carpal Bones.Trapezium Bone,A02.835.232.087.319.150.800
+Musculoskeletal System.Skeleton.Bone and Bones.Bones of Upper Extremity.Hand Bones.Carpal Bones.Trapezoid Bone,A02.835.232.087.319.150.805
+Musculoskeletal System.Skeleton.Bone and Bones.Bones of Upper Extremity.Hand Bones.Carpal Bones.Triquetrum Bone,A02.835.232.087.319.150.831
+Musculoskeletal System.Skeleton.Bone and Bones.Bones of Upper Extremity.Hand Bones.Finger Phalanges,A02.835.232.087.319.350
+Musculoskeletal System.Skeleton.Bone and Bones.Bones of Upper Extremity.Hand Bones.Metacarpal Bones,A02.835.232.087.319.550
+Musculoskeletal System.Skeleton.Bone and Bones.Bones of Upper Extremity.Scapula,A02.835.232.087.783
+Musculoskeletal System.Skeleton.Bone and Bones.Bones of Upper Extremity.Scapula.Acromion,A02.835.232.087.783.261
+Musculoskeletal System.Skeleton.Bone and Bones.Bones of Upper Extremity.Scapula.Coracoid Process,A02.835.232.087.783.356
+Musculoskeletal System.Skeleton.Bone and Bones.Bones of Upper Extremity.Scapula.Glenoid Cavity,A02.835.232.087.783.450
+Musculoskeletal System.Skeleton.Bone and Bones.Diaphyses,A02.835.232.169
+Musculoskeletal System.Skeleton.Bone and Bones.Epiphyses,A02.835.232.251
+Musculoskeletal System.Skeleton.Bone and Bones.Epiphyses.Growth Plate,A02.835.232.251.352
+Musculoskeletal System.Skeleton.Bone and Bones.Hyoid Bone,A02.835.232.409
+Musculoskeletal System.Skeleton.Bone and Bones.Rib Cage,A02.835.232.570
+Musculoskeletal System.Skeleton.Bone and Bones.Rib Cage.Ribs,A02.835.232.570.500
+Musculoskeletal System.Skeleton.Bone and Bones.Rib Cage.Ribs.Cervical Rib,A02.835.232.570.500.150
+Musculoskeletal System.Skeleton.Bone and Bones.Rib Cage.Sternum,A02.835.232.570.750
+Musculoskeletal System.Skeleton.Bone and Bones.Rib Cage.Sternum.Manubrium,A02.835.232.570.750.442
+Musculoskeletal System.Skeleton.Bone and Bones.Rib Cage.Sternum.Xiphoid Bone,A02.835.232.570.750.825
+Musculoskeletal System.Skeleton.Bone and Bones.Sesamoid Bones,A02.835.232.730
+Musculoskeletal System.Skeleton.Bone and Bones.Sesamoid Bones.Patella,A02.835.232.730.500
+Musculoskeletal System.Skeleton.Bone and Bones.Skull,A02.835.232.781
+Musculoskeletal System.Skeleton.Bone and Bones.Skull.Cranial Fontanelles,A02.835.232.781.175
+Musculoskeletal System.Skeleton.Bone and Bones.Skull.Cranial Sutures,A02.835.232.781.200
+Musculoskeletal System.Skeleton.Bone and Bones.Skull.Ethmoid Bone,A02.835.232.781.292
+Musculoskeletal System.Skeleton.Bone and Bones.Skull.Facial Bones,A02.835.232.781.324
+Musculoskeletal System.Skeleton.Bone and Bones.Skull.Facial Bones.Jaw,A02.835.232.781.324.502
+Musculoskeletal System.Skeleton.Bone and Bones.Skull.Facial Bones.Jaw.Alveolar Process,A02.835.232.781.324.502.125
+Musculoskeletal System.Skeleton.Bone and Bones.Skull.Facial Bones.Jaw.Alveolar Process.Tooth Socket,A02.835.232.781.324.502.125.800
+Musculoskeletal System.Skeleton.Bone and Bones.Skull.Facial Bones.Jaw.Dental Arch,A02.835.232.781.324.502.320
+Musculoskeletal System.Skeleton.Bone and Bones.Skull.Facial Bones.Jaw.Mandible,A02.835.232.781.324.502.632
+Musculoskeletal System.Skeleton.Bone and Bones.Skull.Facial Bones.Jaw.Mandible.Chin,A02.835.232.781.324.502.632.130
+Musculoskeletal System.Skeleton.Bone and Bones.Skull.Facial Bones.Jaw.Mandible.Mandibular Condyle,A02.835.232.781.324.502.632.600
+Musculoskeletal System.Skeleton.Bone and Bones.Skull.Facial Bones.Jaw.Maxilla,A02.835.232.781.324.502.645
+"Musculoskeletal System.Skeleton.Bone and Bones.Skull.Facial Bones.Jaw.Palate, Hard",A02.835.232.781.324.502.660
+Musculoskeletal System.Skeleton.Bone and Bones.Skull.Facial Bones.Nasal Bone,A02.835.232.781.324.665
+Musculoskeletal System.Skeleton.Bone and Bones.Skull.Facial Bones.Orbit,A02.835.232.781.324.690
+Musculoskeletal System.Skeleton.Bone and Bones.Skull.Facial Bones.Turbinates,A02.835.232.781.324.948
+Musculoskeletal System.Skeleton.Bone and Bones.Skull.Facial Bones.Vomer,A02.835.232.781.324.971
+Musculoskeletal System.Skeleton.Bone and Bones.Skull.Facial Bones.Zygoma,A02.835.232.781.324.995
+Musculoskeletal System.Skeleton.Bone and Bones.Skull.Frontal Bone,A02.835.232.781.375
+Musculoskeletal System.Skeleton.Bone and Bones.Skull.Occipital Bone,A02.835.232.781.572
+Musculoskeletal System.Skeleton.Bone and Bones.Skull.Occipital Bone.Foramen Magnum,A02.835.232.781.572.434
+Musculoskeletal System.Skeleton.Bone and Bones.Skull.Parietal Bone,A02.835.232.781.651
+Musculoskeletal System.Skeleton.Bone and Bones.Skull.Pterygopalatine Fossa,A02.835.232.781.670
+Musculoskeletal System.Skeleton.Bone and Bones.Skull.Skull Base,A02.835.232.781.750
+"Musculoskeletal System.Skeleton.Bone and Bones.Skull.Skull Base.Cranial Fossa, Anterior",A02.835.232.781.750.150
+"Musculoskeletal System.Skeleton.Bone and Bones.Skull.Skull Base.Cranial Fossa, Middle",A02.835.232.781.750.165
+"Musculoskeletal System.Skeleton.Bone and Bones.Skull.Skull Base.Cranial Fossa, Posterior",A02.835.232.781.750.400
+Musculoskeletal System.Skeleton.Bone and Bones.Skull.Sphenoid Bone,A02.835.232.781.802
+Musculoskeletal System.Skeleton.Bone and Bones.Skull.Sphenoid Bone.Sella Turcica,A02.835.232.781.802.662
+Musculoskeletal System.Skeleton.Bone and Bones.Skull.Temporal Bone,A02.835.232.781.885
+Musculoskeletal System.Skeleton.Bone and Bones.Skull.Temporal Bone.Mastoid,A02.835.232.781.885.444
+Musculoskeletal System.Skeleton.Bone and Bones.Skull.Temporal Bone.Petrous Bone,A02.835.232.781.885.681
+Musculoskeletal System.Skeleton.Bone and Bones.Spine,A02.835.232.834
+Musculoskeletal System.Skeleton.Bone and Bones.Spine.Cervical Vertebrae,A02.835.232.834.151
+"Musculoskeletal System.Skeleton.Bone and Bones.Spine.Cervical Vertebrae.Axis, Cervical Vertebra",A02.835.232.834.151.383
+"Musculoskeletal System.Skeleton.Bone and Bones.Spine.Cervical Vertebrae.Axis, Cervical Vertebra.Odontoid Process",A02.835.232.834.151.383.668
+Musculoskeletal System.Skeleton.Bone and Bones.Spine.Cervical Vertebrae.Cervical Atlas,A02.835.232.834.151.500
+Musculoskeletal System.Skeleton.Bone and Bones.Spine.Coccyx,A02.835.232.834.229
+Musculoskeletal System.Skeleton.Bone and Bones.Spine.Intervertebral Disc,A02.835.232.834.432
+Musculoskeletal System.Skeleton.Bone and Bones.Spine.Intervertebral Disc.Annulus Fibrosus,A02.835.232.834.432.250
+Musculoskeletal System.Skeleton.Bone and Bones.Spine.Intervertebral Disc.Nucleus Pulposus,A02.835.232.834.432.500
+Musculoskeletal System.Skeleton.Bone and Bones.Spine.Lumbar Vertebrae,A02.835.232.834.519
+Musculoskeletal System.Skeleton.Bone and Bones.Spine.Sacrum,A02.835.232.834.717
+Musculoskeletal System.Skeleton.Bone and Bones.Spine.Spinal Canal,A02.835.232.834.803
+Musculoskeletal System.Skeleton.Bone and Bones.Spine.Spinal Canal.Epidural Space,A02.835.232.834.803.350
+Musculoskeletal System.Skeleton.Bone and Bones.Spine.Thoracic Vertebrae,A02.835.232.834.892
+Musculoskeletal System.Skeleton.Joints,A02.835.583
+Musculoskeletal System.Skeleton.Joints.Acromioclavicular Joint,A02.835.583.032
+Musculoskeletal System.Skeleton.Joints.Atlanto-Axial Joint,A02.835.583.097
+Musculoskeletal System.Skeleton.Joints.Atlanto-Occipital Joint,A02.835.583.101
+"Musculoskeletal System.Skeleton.Joints.Bursa, Synovial",A02.835.583.156
+"Musculoskeletal System.Skeleton.Joints.Cartilage, Articular",A02.835.583.192
+Musculoskeletal System.Skeleton.Joints.Elbow Joint,A02.835.583.290
+Musculoskeletal System.Skeleton.Joints.Foot Joints,A02.835.583.378
+Musculoskeletal System.Skeleton.Joints.Foot Joints.Ankle Joint,A02.835.583.378.062
+Musculoskeletal System.Skeleton.Joints.Foot Joints.Metatarsophalangeal Joint,A02.835.583.378.531
+Musculoskeletal System.Skeleton.Joints.Foot Joints.Metatarsophalangeal Joint.Plantar Plate,A02.835.583.378.531.500
+Musculoskeletal System.Skeleton.Joints.Foot Joints.Tarsal Joints,A02.835.583.378.831
+Musculoskeletal System.Skeleton.Joints.Foot Joints.Tarsal Joints.Subtalar Joint,A02.835.583.378.831.780
+Musculoskeletal System.Skeleton.Joints.Foot Joints.Toe Joint,A02.835.583.378.900
+Musculoskeletal System.Skeleton.Joints.Foot Joints.Toe Joint.Plantar Plate,A02.835.583.378.900.500
+Musculoskeletal System.Skeleton.Joints.Hand Joints,A02.835.583.405
+Musculoskeletal System.Skeleton.Joints.Hand Joints.Carpal Joints,A02.835.583.405.174
+Musculoskeletal System.Skeleton.Joints.Hand Joints.Carpometacarpal Joints,A02.835.583.405.200
+Musculoskeletal System.Skeleton.Joints.Hand Joints.Finger Joint,A02.835.583.405.350
+Musculoskeletal System.Skeleton.Joints.Hand Joints.Metacarpophalangeal Joint,A02.835.583.405.500
+Musculoskeletal System.Skeleton.Joints.Hand Joints.Metacarpophalangeal Joint.Palmar Plate,A02.835.583.405.500.900
+Musculoskeletal System.Skeleton.Joints.Hand Joints.Wrist Joint,A02.835.583.405.930
+Musculoskeletal System.Skeleton.Joints.Hand Joints.Wrist Joint.Triangular Fibrocartilage,A02.835.583.405.930.800
+Musculoskeletal System.Skeleton.Joints.Hip Joint,A02.835.583.411
+Musculoskeletal System.Skeleton.Joints.Hip Joint.Round Ligament of Femur,A02.835.583.411.500
+Musculoskeletal System.Skeleton.Joints.Joint Capsule,A02.835.583.443
+Musculoskeletal System.Skeleton.Joints.Joint Capsule.Synovial Membrane,A02.835.583.443.800
+Musculoskeletal System.Skeleton.Joints.Joint Capsule.Synovial Membrane.Synovial Fluid,A02.835.583.443.800.800
+Musculoskeletal System.Skeleton.Joints.Knee Joint,A02.835.583.475
+"Musculoskeletal System.Skeleton.Joints.Knee Joint.Menisci, Tibial",A02.835.583.475.590
+Musculoskeletal System.Skeleton.Joints.Knee Joint.Patellofemoral Joint,A02.835.583.475.650
+"Musculoskeletal System.Skeleton.Joints.Ligaments, Articular",A02.835.583.512
+"Musculoskeletal System.Skeleton.Joints.Ligaments, Articular.Anterior Cruciate Ligament",A02.835.583.512.100
+"Musculoskeletal System.Skeleton.Joints.Ligaments, Articular.Collateral Ligaments",A02.835.583.512.162
+"Musculoskeletal System.Skeleton.Joints.Ligaments, Articular.Collateral Ligaments.Collateral Ligament, Ulnar",A02.835.583.512.162.250
+"Musculoskeletal System.Skeleton.Joints.Ligaments, Articular.Collateral Ligaments.Lateral Ligament, Ankle",A02.835.583.512.162.500
+"Musculoskeletal System.Skeleton.Joints.Ligaments, Articular.Collateral Ligaments.Medial Collateral Ligament, Knee",A02.835.583.512.162.600
+"Musculoskeletal System.Skeleton.Joints.Ligaments, Articular.Ligamentum Flavum",A02.835.583.512.287
+"Musculoskeletal System.Skeleton.Joints.Ligaments, Articular.Longitudinal Ligaments",A02.835.583.512.350
+"Musculoskeletal System.Skeleton.Joints.Ligaments, Articular.Patellar Ligament",A02.835.583.512.475
+"Musculoskeletal System.Skeleton.Joints.Ligaments, Articular.Plantar Plate",A02.835.583.512.538
+"Musculoskeletal System.Skeleton.Joints.Ligaments, Articular.Posterior Cruciate Ligament",A02.835.583.512.600
+"Musculoskeletal System.Skeleton.Joints.Ligaments, Articular.Palmar Plate",A02.835.583.512.900
+"Musculoskeletal System.Skeleton.Joints.Ligaments, Articular.Round Ligament of Femur",A02.835.583.512.950
+Musculoskeletal System.Skeleton.Joints.Pubic Symphysis,A02.835.583.656
+Musculoskeletal System.Skeleton.Joints.Sacroiliac Joint,A02.835.583.707
+Musculoskeletal System.Skeleton.Joints.Shoulder Joint,A02.835.583.748
+Musculoskeletal System.Skeleton.Joints.Sternoclavicular Joint,A02.835.583.781
+Musculoskeletal System.Skeleton.Joints.Sternocostal Joints,A02.835.583.790
+Musculoskeletal System.Skeleton.Joints.Temporomandibular Joint,A02.835.583.861
+Musculoskeletal System.Skeleton.Joints.Temporomandibular Joint.Temporomandibular Joint Disc,A02.835.583.861.900
+Musculoskeletal System.Skeleton.Joints.Zygapophyseal Joint,A02.835.583.979
+Musculoskeletal System.Tendons,A02.880
+Musculoskeletal System.Tendons.Achilles Tendon,A02.880.176
+Musculoskeletal System.Tendons.Hamstring Tendons,A02.880.307
+Musculoskeletal System.Tendons.Patellar Ligament,A02.880.438
+Musculoskeletal System.Tendons.Rotator Cuff,A02.880.700

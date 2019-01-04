@@ -1,0 +1,103 @@
+id,value
+Digestive System,A03
+Digestive System.Biliary Tract,A03.159
+Digestive System.Biliary Tract.Bile Ducts,A03.159.183
+"Digestive System.Biliary Tract.Bile Ducts.Bile Ducts, Extrahepatic",A03.159.183.079
+"Digestive System.Biliary Tract.Bile Ducts.Bile Ducts, Extrahepatic.Common Bile Duct",A03.159.183.079.300
+"Digestive System.Biliary Tract.Bile Ducts.Bile Ducts, Extrahepatic.Common Bile Duct.Ampulla of Vater",A03.159.183.079.300.950
+"Digestive System.Biliary Tract.Bile Ducts.Bile Ducts, Extrahepatic.Common Bile Duct.Ampulla of Vater.Sphincter of Oddi",A03.159.183.079.300.950.600
+"Digestive System.Biliary Tract.Bile Ducts.Bile Ducts, Extrahepatic.Cystic Duct",A03.159.183.079.450
+"Digestive System.Biliary Tract.Bile Ducts.Bile Ducts, Extrahepatic.Hepatic Duct, Common",A03.159.183.079.600
+"Digestive System.Biliary Tract.Bile Ducts.Bile Ducts, Intrahepatic",A03.159.183.158
+"Digestive System.Biliary Tract.Bile Ducts.Bile Ducts, Intrahepatic.Bile Canaliculi",A03.159.183.158.125
+Digestive System.Biliary Tract.Gallbladder,A03.159.439
+Digestive System.Gastrointestinal Tract,A03.556
+Digestive System.Gastrointestinal Tract.Intestines,A03.556.124
+Digestive System.Gastrointestinal Tract.Intestines.Intestinal Mucosa,A03.556.124.369
+Digestive System.Gastrointestinal Tract.Intestines.Intestinal Mucosa.Enterocytes,A03.556.124.369.290
+Digestive System.Gastrointestinal Tract.Intestines.Intestinal Mucosa.Goblet Cells,A03.556.124.369.320
+Digestive System.Gastrointestinal Tract.Intestines.Intestinal Mucosa.Paneth Cells,A03.556.124.369.700
+"Digestive System.Gastrointestinal Tract.Intestines.Intestine, Large",A03.556.124.526
+"Digestive System.Gastrointestinal Tract.Intestines.Intestine, Large.Anal Canal",A03.556.124.526.070
+"Digestive System.Gastrointestinal Tract.Intestines.Intestine, Large.Cecum",A03.556.124.526.209
+"Digestive System.Gastrointestinal Tract.Intestines.Intestine, Large.Cecum.Appendix",A03.556.124.526.209.290
+"Digestive System.Gastrointestinal Tract.Intestines.Intestine, Large.Colon",A03.556.124.526.356
+"Digestive System.Gastrointestinal Tract.Intestines.Intestine, Large.Colon.Colon, Ascending",A03.556.124.526.356.333
+"Digestive System.Gastrointestinal Tract.Intestines.Intestine, Large.Colon.Colon, Descending",A03.556.124.526.356.500
+"Digestive System.Gastrointestinal Tract.Intestines.Intestine, Large.Colon.Colon, Sigmoid",A03.556.124.526.356.668
+"Digestive System.Gastrointestinal Tract.Intestines.Intestine, Large.Colon.Colon, Transverse",A03.556.124.526.356.834
+"Digestive System.Gastrointestinal Tract.Intestines.Intestine, Large.Rectum",A03.556.124.526.767
+"Digestive System.Gastrointestinal Tract.Intestines.Intestine, Small",A03.556.124.684
+"Digestive System.Gastrointestinal Tract.Intestines.Intestine, Small.Duodenum",A03.556.124.684.124
+"Digestive System.Gastrointestinal Tract.Intestines.Intestine, Small.Duodenum.Ampulla of Vater",A03.556.124.684.124.236
+"Digestive System.Gastrointestinal Tract.Intestines.Intestine, Small.Duodenum.Ampulla of Vater.Sphincter of Oddi",A03.556.124.684.124.236.572
+"Digestive System.Gastrointestinal Tract.Intestines.Intestine, Small.Duodenum.Brunner Glands",A03.556.124.684.124.322
+"Digestive System.Gastrointestinal Tract.Intestines.Intestine, Small.Ileum",A03.556.124.684.249
+"Digestive System.Gastrointestinal Tract.Intestines.Intestine, Small.Ileum.Ileocecal Valve",A03.556.124.684.249.400
+"Digestive System.Gastrointestinal Tract.Intestines.Intestine, Small.Ileum.Meckel Diverticulum",A03.556.124.684.249.612
+"Digestive System.Gastrointestinal Tract.Intestines.Intestine, Small.Jejunum",A03.556.124.684.500
+Digestive System.Gastrointestinal Tract.Lower Gastrointestinal Tract,A03.556.249
+Digestive System.Gastrointestinal Tract.Lower Gastrointestinal Tract.Ileum,A03.556.249.124
+Digestive System.Gastrointestinal Tract.Lower Gastrointestinal Tract.Ileum.Ileocecal Valve,A03.556.249.124.400
+Digestive System.Gastrointestinal Tract.Lower Gastrointestinal Tract.Ileum.Meckel Diverticulum,A03.556.249.124.612
+"Digestive System.Gastrointestinal Tract.Lower Gastrointestinal Tract.Intestine, Large",A03.556.249.249
+"Digestive System.Gastrointestinal Tract.Lower Gastrointestinal Tract.Intestine, Large.Anal Canal",A03.556.249.249.070
+"Digestive System.Gastrointestinal Tract.Lower Gastrointestinal Tract.Intestine, Large.Cecum",A03.556.249.249.209
+"Digestive System.Gastrointestinal Tract.Lower Gastrointestinal Tract.Intestine, Large.Cecum.Appendix",A03.556.249.249.209.290
+"Digestive System.Gastrointestinal Tract.Lower Gastrointestinal Tract.Intestine, Large.Colon",A03.556.249.249.356
+"Digestive System.Gastrointestinal Tract.Lower Gastrointestinal Tract.Intestine, Large.Colon.Colon, Ascending",A03.556.249.249.356.333
+"Digestive System.Gastrointestinal Tract.Lower Gastrointestinal Tract.Intestine, Large.Colon.Colon, Descending",A03.556.249.249.356.500
+"Digestive System.Gastrointestinal Tract.Lower Gastrointestinal Tract.Intestine, Large.Colon.Colon, Sigmoid",A03.556.249.249.356.668
+"Digestive System.Gastrointestinal Tract.Lower Gastrointestinal Tract.Intestine, Large.Colon.Colon, Transverse",A03.556.249.249.356.834
+"Digestive System.Gastrointestinal Tract.Lower Gastrointestinal Tract.Intestine, Large.Rectum",A03.556.249.249.767
+Digestive System.Gastrointestinal Tract.Lower Gastrointestinal Tract.Jejunum,A03.556.249.750
+Digestive System.Gastrointestinal Tract.Mouth,A03.556.500
+Digestive System.Gastrointestinal Tract.Mouth.Dentition,A03.556.500.379
+Digestive System.Gastrointestinal Tract.Mouth.Salivary Glands,A03.556.500.760
+Digestive System.Gastrointestinal Tract.Mouth.Salivary Glands.Parotid Gland,A03.556.500.760.464
+Digestive System.Gastrointestinal Tract.Mouth.Salivary Glands.Salivary Ducts,A03.556.500.760.640
+"Digestive System.Gastrointestinal Tract.Mouth.Salivary Glands.Salivary Glands, Minor",A03.556.500.760.650
+Digestive System.Gastrointestinal Tract.Mouth.Salivary Glands.Sublingual Gland,A03.556.500.760.687
+Digestive System.Gastrointestinal Tract.Mouth.Salivary Glands.Submandibular Gland,A03.556.500.760.812
+Digestive System.Gastrointestinal Tract.Mouth.Salivary Glands.von Ebner Glands,A03.556.500.760.906
+Digestive System.Gastrointestinal Tract.Mouth.Tongue,A03.556.500.885
+Digestive System.Gastrointestinal Tract.Mouth.Tongue.Lingual Frenum,A03.556.500.885.431
+Digestive System.Gastrointestinal Tract.Mouth.Tongue.Taste Buds,A03.556.500.885.779
+Digestive System.Gastrointestinal Tract.Pharynx,A03.556.750
+Digestive System.Gastrointestinal Tract.Upper Gastrointestinal Tract,A03.556.875
+Digestive System.Gastrointestinal Tract.Upper Gastrointestinal Tract.Duodenum,A03.556.875.249
+Digestive System.Gastrointestinal Tract.Upper Gastrointestinal Tract.Duodenum.Ampulla of Vater,A03.556.875.249.160
+Digestive System.Gastrointestinal Tract.Upper Gastrointestinal Tract.Duodenum.Ampulla of Vater.Sphincter of Oddi,A03.556.875.249.160.572
+Digestive System.Gastrointestinal Tract.Upper Gastrointestinal Tract.Duodenum.Brunner Glands,A03.556.875.249.322
+Digestive System.Gastrointestinal Tract.Upper Gastrointestinal Tract.Esophagus,A03.556.875.500
+Digestive System.Gastrointestinal Tract.Upper Gastrointestinal Tract.Esophagus.Esophageal Mucosa,A03.556.875.500.180
+"Digestive System.Gastrointestinal Tract.Upper Gastrointestinal Tract.Esophagus.Esophageal Sphincter, Upper",A03.556.875.500.360
+Digestive System.Gastrointestinal Tract.Upper Gastrointestinal Tract.Esophagus.Esophagogastric Junction,A03.556.875.500.414
+"Digestive System.Gastrointestinal Tract.Upper Gastrointestinal Tract.Esophagus.Esophagogastric Junction.Esophageal Sphincter, Lower",A03.556.875.500.414.350
+Digestive System.Gastrointestinal Tract.Upper Gastrointestinal Tract.Stomach,A03.556.875.875
+Digestive System.Gastrointestinal Tract.Upper Gastrointestinal Tract.Stomach.Cardia,A03.556.875.875.163
+Digestive System.Gastrointestinal Tract.Upper Gastrointestinal Tract.Stomach.Esophagogastric Junction,A03.556.875.875.330
+"Digestive System.Gastrointestinal Tract.Upper Gastrointestinal Tract.Stomach.Esophagogastric Junction.Esophageal Sphincter, Lower",A03.556.875.875.330.350
+Digestive System.Gastrointestinal Tract.Upper Gastrointestinal Tract.Stomach.Gastric Fundus,A03.556.875.875.419
+Digestive System.Gastrointestinal Tract.Upper Gastrointestinal Tract.Stomach.Gastric Mucosa,A03.556.875.875.440
+"Digestive System.Gastrointestinal Tract.Upper Gastrointestinal Tract.Stomach.Gastric Mucosa.Chief Cells, Gastric",A03.556.875.875.440.150
+Digestive System.Gastrointestinal Tract.Upper Gastrointestinal Tract.Stomach.Gastric Mucosa.Enterochromaffin Cells,A03.556.875.875.440.250
+Digestive System.Gastrointestinal Tract.Upper Gastrointestinal Tract.Stomach.Gastric Mucosa.Gastrin-Secreting Cells,A03.556.875.875.440.300
+"Digestive System.Gastrointestinal Tract.Upper Gastrointestinal Tract.Stomach.Gastric Mucosa.Parietal Cells, Gastric",A03.556.875.875.440.708
+Digestive System.Gastrointestinal Tract.Upper Gastrointestinal Tract.Stomach.Gastric Mucosa.Somatostatin-Secreting Cells,A03.556.875.875.440.854
+Digestive System.Gastrointestinal Tract.Upper Gastrointestinal Tract.Stomach.Gastric Stump,A03.556.875.875.578
+Digestive System.Gastrointestinal Tract.Upper Gastrointestinal Tract.Stomach.Pyloric Antrum,A03.556.875.875.716
+Digestive System.Gastrointestinal Tract.Upper Gastrointestinal Tract.Stomach.Pylorus,A03.556.875.875.799
+Digestive System.Liver,A03.620
+"Digestive System.Liver.Bile Ducts, Intrahepatic",A03.620.150
+"Digestive System.Liver.Bile Ducts, Intrahepatic.Bile Canaliculi",A03.620.150.125
+Digestive System.Liver.Round Ligament of Liver,A03.620.575
+Digestive System.Pancreas,A03.734
+Digestive System.Pancreas.Islets of Langerhans,A03.734.414
+Digestive System.Pancreas.Islets of Langerhans.Glucagon-Secreting Cells,A03.734.414.065
+Digestive System.Pancreas.Islets of Langerhans.Insulin-Secreting Cells,A03.734.414.131
+Digestive System.Pancreas.Islets of Langerhans.Pancreatic Polypeptide-Secreting Cells,A03.734.414.587
+Digestive System.Pancreas.Islets of Langerhans.Somatostatin-Secreting Cells,A03.734.414.793
+"Digestive System.Pancreas.Pancreas, Exocrine",A03.734.540
+Digestive System.Pancreas.Pancreatic Ducts,A03.734.667
+Digestive System.Pancreas.Pancreatic Ducts.Ampulla of Vater,A03.734.667.500

@@ -1,0 +1,1145 @@
+id,value
+Diagnosis,E01
+Diagnosis.Clinical Decision-Making,E01.055
+Diagnosis.Delayed Diagnosis,E01.110
+"Diagnosis.Diagnosis, Computer-Assisted",E01.158
+"Diagnosis.Diagnosis, Computer-Assisted.Image Interpretation, Computer-Assisted",E01.158.600
+"Diagnosis.Diagnosis, Computer-Assisted.Image Interpretation, Computer-Assisted.Neuronavigation",E01.158.600.339
+"Diagnosis.Diagnosis, Computer-Assisted.Image Interpretation, Computer-Assisted.Radiographic Image Interpretation, Computer-Assisted",E01.158.600.680
+"Diagnosis.Diagnosis, Differential",E01.171
+"Diagnosis.Diagnosis, Dual (Psychiatry)",E01.190
+Diagnosis.Diagnostic Errors,E01.354
+Diagnosis.Diagnostic Errors.False Negative Reactions,E01.354.340
+Diagnosis.Diagnostic Errors.False Positive Reactions,E01.354.506
+Diagnosis.Diagnostic Errors.Observer Variation,E01.354.753
+Diagnosis.Diagnostic Techniques and Procedures,E01.370
+Diagnosis.Diagnostic Techniques and Procedures.Age Determination by Skeleton,E01.370.049
+Diagnosis.Diagnostic Techniques and Procedures.Autopsy,E01.370.060
+Diagnosis.Diagnostic Techniques and Procedures.Breath Tests,E01.370.100
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques,E01.370.225
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Clinical Chemistry Tests,E01.370.225.124
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Clinical Chemistry Tests.Blood Chemical Analysis,E01.370.225.124.100
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Clinical Chemistry Tests.Blood Chemical Analysis.Blood Gas Analysis,E01.370.225.124.100.100
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Clinical Chemistry Tests.Blood Chemical Analysis.Blood Gas Analysis.Oximetry,E01.370.225.124.100.100.600
+"Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Clinical Chemistry Tests.Blood Chemical Analysis.Blood Gas Analysis.Oximetry.Blood Gas Monitoring, Transcutaneous",E01.370.225.124.100.100.600.100
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Clinical Chemistry Tests.Blood Chemical Analysis.Blood Glucose Self-Monitoring,E01.370.225.124.100.105
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Clinical Chemistry Tests.Blood Chemical Analysis.Blood Protein Electrophoresis,E01.370.225.124.100.110
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Clinical Chemistry Tests.Blood Chemical Analysis.Blood Urea Nitrogen,E01.370.225.124.100.115
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Clinical Chemistry Tests.Blood Chemical Analysis.Dried Blood Spot Testing,E01.370.225.124.100.232
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Clinical Chemistry Tests.Blood Chemical Analysis.Glucose Clamp Technique,E01.370.225.124.100.350
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Clinical Chemistry Tests.Blood Chemical Analysis.Glucose Tolerance Test,E01.370.225.124.100.355
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Clinical Chemistry Tests.Blood Chemical Analysis.Lactose Tolerance Test,E01.370.225.124.100.450
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Clinical Chemistry Tests.Blood Chemical Analysis.Petrosal Sinus Sampling,E01.370.225.124.100.600
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Clinical Chemistry Tests.Clinical Enzyme Tests,E01.370.225.124.200
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Clinical Chemistry Tests.Gastric Acidity Determination,E01.370.225.124.300
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Clinical Chemistry Tests.Limulus Test,E01.370.225.124.470
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Clinical Chemistry Tests.Urinalysis,E01.370.225.124.810
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques,E01.370.225.500
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Cell Count,E01.370.225.500.195
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Cell Count.Blood Cell Count,E01.370.225.500.195.107
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Cell Count.Blood Cell Count.Erythrocyte Count,E01.370.225.500.195.107.330
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Cell Count.Blood Cell Count.Erythrocyte Count.Reticulocyte Count,E01.370.225.500.195.107.330.725
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Cell Count.Blood Cell Count.Leukocyte Count,E01.370.225.500.195.107.595
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Cell Count.Blood Cell Count.Leukocyte Count.Lymphocyte Count,E01.370.225.500.195.107.595.500
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Cell Count.Blood Cell Count.Leukocyte Count.Lymphocyte Count.CD4 Lymphocyte Count,E01.370.225.500.195.107.595.500.150
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Cell Count.Blood Cell Count.Leukocyte Count.Lymphocyte Count.CD4 Lymphocyte Count.CD4-CD8 Ratio,E01.370.225.500.195.107.595.500.150.160
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Cell Count.Blood Cell Count.Platelet Count,E01.370.225.500.195.107.740
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Cell Count.Sperm Count,E01.370.225.500.195.870
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Cell Culture Techniques,E01.370.225.500.223
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Cell Culture Techniques.Primary Cell Culture,E01.370.225.500.223.500
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Cell Migration Assays,E01.370.225.500.335
+"Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Cell Migration Assays.Cell Migration Assays, Leukocyte",E01.370.225.500.335.500
+"Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Cell Migration Assays.Cell Migration Assays, Macrophage",E01.370.225.500.335.750
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Cell Migration Assays.Skin Window Technique,E01.370.225.500.335.875
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Cell Separation,E01.370.225.500.363
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Cell Separation.Flow Cytometry,E01.370.225.500.363.342
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Cell Tracking,E01.370.225.500.373
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Colony-Forming Units Assay,E01.370.225.500.383
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Colony-Forming Units Assay.Tumor Stem Cell Assay,E01.370.225.500.383.910
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Cytodiagnosis,E01.370.225.500.384
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Cytodiagnosis.Amniocentesis,E01.370.225.500.384.050
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Cytodiagnosis.Biopsy,E01.370.225.500.384.100
+"Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Cytodiagnosis.Biopsy.Biopsy, Needle",E01.370.225.500.384.100.119
+"Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Cytodiagnosis.Biopsy.Biopsy, Needle.Biopsy, Fine-Needle",E01.370.225.500.384.100.119.500
+"Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Cytodiagnosis.Biopsy.Biopsy, Needle.Biopsy, Fine-Needle.Endoscopic Ultrasound-Guided Fine Needle Aspiration",E01.370.225.500.384.100.119.500.500
+"Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Cytodiagnosis.Biopsy.Biopsy, Needle.Biopsy, Large-Core Needle",E01.370.225.500.384.100.119.750
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Cytodiagnosis.Biopsy.Chorionic Villi Sampling,E01.370.225.500.384.100.149
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Cytodiagnosis.Biopsy.Conization,E01.370.225.500.384.100.160
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Cytodiagnosis.Biopsy.Image-Guided Biopsy,E01.370.225.500.384.100.370
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Cytodiagnosis.Biopsy.Image-Guided Biopsy.Endoscopic Ultrasound-Guided Fine Needle Aspiration,E01.370.225.500.384.100.370.500
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Cytodiagnosis.Biopsy.Liquid Biopsy,E01.370.225.500.384.100.396
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Cytodiagnosis.Biopsy.Papanicolaou Test,E01.370.225.500.384.100.422
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Cytodiagnosis.Biopsy.Sentinel Lymph Node Biopsy,E01.370.225.500.384.100.580
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Cytodiagnosis.Biopsy.Vaginal Smears,E01.370.225.500.384.100.800
+"Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Cytodiagnosis.Cytopathogenic Effect, Viral",E01.370.225.500.384.235
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Cytodiagnosis.Karyometry,E01.370.225.500.384.617
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Cytogenetic Analysis,E01.370.225.500.385
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Cytogenetic Analysis.Chromosome Banding,E01.370.225.500.385.130
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Cytogenetic Analysis.Karyotyping,E01.370.225.500.385.315
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Cytogenetic Analysis.Karyotyping.Spectral Karyotyping,E01.370.225.500.385.315.800
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Cytogenetic Analysis.Mitotic Index,E01.370.225.500.385.500
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Cytophotometry,E01.370.225.500.386
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Cytophotometry.Flow Cytometry,E01.370.225.500.386.350
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Cytophotometry.Image Cytometry,E01.370.225.500.386.400
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Cytophotometry.Image Cytometry.Laser Scanning Cytometry,E01.370.225.500.386.400.500
+"Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Drug Screening Assays, Antitumor",E01.370.225.500.388
+"Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Drug Screening Assays, Antitumor.Tumor Stem Cell Assay",E01.370.225.500.388.930
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Enzyme-Linked Immunospot Assay,E01.370.225.500.508
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Histocytochemistry,E01.370.225.500.607
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Histocytochemistry.Immunohistochemistry,E01.370.225.500.607.512
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Histocytochemistry.Immunohistochemistry.Fluorescent Antibody Technique,E01.370.225.500.607.512.240
+"Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Histocytochemistry.Immunohistochemistry.Fluorescent Antibody Technique.Antibody-Coated Bacteria Test, Urinary",E01.370.225.500.607.512.240.149
+"Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Histocytochemistry.Immunohistochemistry.Fluorescent Antibody Technique.Fluorescent Antibody Technique, Direct",E01.370.225.500.607.512.240.300
+"Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Histocytochemistry.Immunohistochemistry.Fluorescent Antibody Technique.Fluorescent Antibody Technique, Indirect",E01.370.225.500.607.512.240.310
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Histocytochemistry.Immunohistochemistry.Fluorescent Antibody Technique.Fluoroimmunoassay,E01.370.225.500.607.512.240.655
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Histocytochemistry.Immunohistochemistry.Fluorescent Antibody Technique.Fluoroimmunoassay.Fluorescence Polarization Immunoassay,E01.370.225.500.607.512.240.655.350
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Histocytochemistry.Periodic Acid-Schiff Reaction,E01.370.225.500.607.790
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Histocytochemistry.Prussian Blue Reaction,E01.370.225.500.607.810
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Histocytological Preparation Techniques,E01.370.225.500.620
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Histocytological Preparation Techniques.Microdissection,E01.370.225.500.620.520
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Histocytological Preparation Techniques.Microtomy,E01.370.225.500.620.530
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Histocytological Preparation Techniques.Microtomy.Cryoultramicrotomy,E01.370.225.500.620.530.160
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Histocytological Preparation Techniques.Microtomy.Cryoultramicrotomy.Frozen Sections,E01.370.225.500.620.530.160.260
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Histocytological Preparation Techniques.Replica Techniques,E01.370.225.500.620.620
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Histocytological Preparation Techniques.Replica Techniques.Corrosion Casting,E01.370.225.500.620.620.150
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Histocytological Preparation Techniques.Replica Techniques.Freeze Fracturing,E01.370.225.500.620.620.260
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Histocytological Preparation Techniques.Replica Techniques.Freeze Fracturing.Freeze Etching,E01.370.225.500.620.620.260.400
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Histocytological Preparation Techniques.Staining and Labeling,E01.370.225.500.620.670
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Histocytological Preparation Techniques.Staining and Labeling.Chromosome Banding,E01.370.225.500.620.670.130
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Histocytological Preparation Techniques.Staining and Labeling.In Situ Hybridization,E01.370.225.500.620.670.325
+"Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Histocytological Preparation Techniques.Staining and Labeling.In Situ Hybridization.In Situ Hybridization, Fluorescence",E01.370.225.500.620.670.325.350
+"Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Histocytological Preparation Techniques.Staining and Labeling.In Situ Hybridization.In Situ Hybridization, Fluorescence.Chromosome Painting",E01.370.225.500.620.670.325.350.125
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Histocytological Preparation Techniques.Staining and Labeling.In Situ Hybridization.Primed In Situ Labeling,E01.370.225.500.620.670.325.680
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Histocytological Preparation Techniques.Staining and Labeling.Negative Staining,E01.370.225.500.620.670.520
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Histocytological Preparation Techniques.Staining and Labeling.Neuroanatomical Tract-Tracing Techniques,E01.370.225.500.620.670.570
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Histocytological Preparation Techniques.Staining and Labeling.Periodic Acid-Schiff Reaction,E01.370.225.500.620.670.615
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Histocytological Preparation Techniques.Staining and Labeling.Prussian Blue Reaction,E01.370.225.500.620.670.660
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Histocytological Preparation Techniques.Staining and Labeling.Shadowing (Histology),E01.370.225.500.620.670.770
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Histocytological Preparation Techniques.Staining and Labeling.Silver Staining,E01.370.225.500.620.670.780
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Histocytological Preparation Techniques.Tissue Embedding,E01.370.225.500.620.720
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Histocytological Preparation Techniques.Tissue Embedding.Paraffin Embedding,E01.370.225.500.620.720.610
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Histocytological Preparation Techniques.Tissue Embedding.Plastic Embedding,E01.370.225.500.620.720.640
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Histocytological Preparation Techniques.Tissue Preservation,E01.370.225.500.620.760
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Histocytological Preparation Techniques.Tissue Preservation.Cryopreservation,E01.370.225.500.620.760.160
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Histocytological Preparation Techniques.Tissue Preservation.Cryopreservation.Freeze Drying,E01.370.225.500.620.760.160.260
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Histocytological Preparation Techniques.Tissue Preservation.Cryopreservation.Freeze Drying.Freeze Substitution,E01.370.225.500.620.760.160.260.270
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Histocytological Preparation Techniques.Tissue Preservation.Tissue Fixation,E01.370.225.500.620.760.720
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Cytological Techniques.Metabolic Flux Analysis,E01.370.225.500.810
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Genetic Testing,E01.370.225.562
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Genetic Testing.Genetic Carrier Screening,E01.370.225.562.250
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Genetic Testing.Pharmacogenomic Testing,E01.370.225.562.500
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Hematologic Tests,E01.370.225.625
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Hematologic Tests.Blood Cell Count,E01.370.225.625.107
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Hematologic Tests.Blood Cell Count.Erythrocyte Count,E01.370.225.625.107.330
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Hematologic Tests.Blood Cell Count.Erythrocyte Count.Reticulocyte Count,E01.370.225.625.107.330.725
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Hematologic Tests.Blood Cell Count.Leukocyte Count,E01.370.225.625.107.595
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Hematologic Tests.Blood Cell Count.Leukocyte Count.Lymphocyte Count,E01.370.225.625.107.595.500
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Hematologic Tests.Blood Cell Count.Leukocyte Count.Lymphocyte Count.CD4 Lymphocyte Count,E01.370.225.625.107.595.500.150
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Hematologic Tests.Blood Cell Count.Leukocyte Count.Lymphocyte Count.CD4 Lymphocyte Count.CD4-CD8 Ratio,E01.370.225.625.107.595.500.150.160
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Hematologic Tests.Blood Cell Count.Platelet Count,E01.370.225.625.107.700
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Hematologic Tests.Blood Coagulation Tests,E01.370.225.625.115
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Hematologic Tests.Blood Coagulation Tests.International Normalized Ratio,E01.370.225.625.115.320
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Hematologic Tests.Blood Coagulation Tests.Partial Thromboplastin Time,E01.370.225.625.115.600
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Hematologic Tests.Blood Coagulation Tests.Prothrombin Time,E01.370.225.625.115.610
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Hematologic Tests.Blood Coagulation Tests.Thrombelastography,E01.370.225.625.115.830
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Hematologic Tests.Blood Coagulation Tests.Thrombin Time,E01.370.225.625.115.870
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Hematologic Tests.Blood Coagulation Tests.Whole Blood Coagulation Time,E01.370.225.625.115.950
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Hematologic Tests.Blood Grouping and Crossmatching,E01.370.225.625.120
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Hematologic Tests.Blood Sedimentation,E01.370.225.625.125
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Hematologic Tests.Bone Marrow Examination,E01.370.225.625.135
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Hematologic Tests.Erythrocyte Aggregation,E01.370.225.625.225
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Hematologic Tests.Erythrocyte Indices,E01.370.225.625.230
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Hematologic Tests.Fibrin Clot Lysis Time,E01.370.225.625.265
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Hematologic Tests.FIGLU Test,E01.370.225.625.300
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Hematologic Tests.Hematocrit,E01.370.225.625.400
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Hematologic Tests.Hemoglobinometry,E01.370.225.625.410
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Hematologic Tests.Osmotic Fragility,E01.370.225.625.550
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Hematologic Tests.Platelet Function Tests,E01.370.225.625.625
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Hematologic Tests.Platelet Function Tests.Bleeding Time,E01.370.225.625.625.100
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Hematologic Tests.Platelet Function Tests.Clot Retraction,E01.370.225.625.625.160
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Hematologic Tests.Platelet Function Tests.Mean Platelet Volume,E01.370.225.625.625.392
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Hematologic Tests.Platelet Function Tests.Platelet Count,E01.370.225.625.625.625
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Hematologic Tests.Schilling Test,E01.370.225.625.750
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Histological Techniques,E01.370.225.750
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Histological Techniques.Autoradiography,E01.370.225.750.132
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Histological Techniques.Decalcification Technique,E01.370.225.750.288
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Histological Techniques.Histocytochemistry,E01.370.225.750.551
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Histological Techniques.Histocytochemistry.Immunohistochemistry,E01.370.225.750.551.512
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Histological Techniques.Histocytochemistry.Immunohistochemistry.Fluorescent Antibody Technique,E01.370.225.750.551.512.240
+"Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Histological Techniques.Histocytochemistry.Immunohistochemistry.Fluorescent Antibody Technique.Antibody-Coated Bacteria Test, Urinary",E01.370.225.750.551.512.240.149
+"Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Histological Techniques.Histocytochemistry.Immunohistochemistry.Fluorescent Antibody Technique.Fluorescent Antibody Technique, Direct",E01.370.225.750.551.512.240.300
+"Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Histological Techniques.Histocytochemistry.Immunohistochemistry.Fluorescent Antibody Technique.Fluorescent Antibody Technique, Indirect",E01.370.225.750.551.512.240.310
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Histological Techniques.Histocytochemistry.Immunohistochemistry.Fluorescent Antibody Technique.Fluoroimmunoassay,E01.370.225.750.551.512.240.655
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Histological Techniques.Histocytochemistry.Immunohistochemistry.Fluorescent Antibody Technique.Fluoroimmunoassay.Fluorescence Polarization Immunoassay,E01.370.225.750.551.512.240.655.350
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Histological Techniques.Histocytochemistry.Periodic Acid-Schiff Reaction,E01.370.225.750.551.790
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Histological Techniques.Histocytochemistry.Prussian Blue Reaction,E01.370.225.750.551.810
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Histological Techniques.Histocytological Preparation Techniques,E01.370.225.750.600
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Histological Techniques.Histocytological Preparation Techniques.Microdissection,E01.370.225.750.600.520
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Histological Techniques.Histocytological Preparation Techniques.Microtomy,E01.370.225.750.600.530
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Histological Techniques.Histocytological Preparation Techniques.Microtomy.Cryoultramicrotomy,E01.370.225.750.600.530.160
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Histological Techniques.Histocytological Preparation Techniques.Microtomy.Cryoultramicrotomy.Frozen Sections,E01.370.225.750.600.530.160.260
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Histological Techniques.Histocytological Preparation Techniques.Replica Techniques,E01.370.225.750.600.620
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Histological Techniques.Histocytological Preparation Techniques.Replica Techniques.Corrosion Casting,E01.370.225.750.600.620.150
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Histological Techniques.Histocytological Preparation Techniques.Replica Techniques.Freeze Fracturing,E01.370.225.750.600.620.260
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Histological Techniques.Histocytological Preparation Techniques.Replica Techniques.Freeze Fracturing.Freeze Etching,E01.370.225.750.600.620.260.400
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Histological Techniques.Histocytological Preparation Techniques.Staining and Labeling,E01.370.225.750.600.670
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Histological Techniques.Histocytological Preparation Techniques.Staining and Labeling.Chromosome Banding,E01.370.225.750.600.670.130
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Histological Techniques.Histocytological Preparation Techniques.Staining and Labeling.In Situ Hybridization,E01.370.225.750.600.670.325
+"Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Histological Techniques.Histocytological Preparation Techniques.Staining and Labeling.In Situ Hybridization.In Situ Hybridization, Fluorescence",E01.370.225.750.600.670.325.350
+"Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Histological Techniques.Histocytological Preparation Techniques.Staining and Labeling.In Situ Hybridization.In Situ Hybridization, Fluorescence.Chromosome Painting",E01.370.225.750.600.670.325.350.125
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Histological Techniques.Histocytological Preparation Techniques.Staining and Labeling.In Situ Hybridization.Primed In Situ Labeling,E01.370.225.750.600.670.325.680
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Histological Techniques.Histocytological Preparation Techniques.Staining and Labeling.Negative Staining,E01.370.225.750.600.670.520
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Histological Techniques.Histocytological Preparation Techniques.Staining and Labeling.Neuroanatomical Tract-Tracing Techniques,E01.370.225.750.600.670.570
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Histological Techniques.Histocytological Preparation Techniques.Staining and Labeling.Prussian Blue Reaction,E01.370.225.750.600.670.660
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Histological Techniques.Histocytological Preparation Techniques.Staining and Labeling.Shadowing (Histology),E01.370.225.750.600.670.770
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Histological Techniques.Histocytological Preparation Techniques.Staining and Labeling.Silver Staining,E01.370.225.750.600.670.780
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Histological Techniques.Histocytological Preparation Techniques.Tissue Embedding,E01.370.225.750.600.720
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Histological Techniques.Histocytological Preparation Techniques.Tissue Embedding.Paraffin Embedding,E01.370.225.750.600.720.610
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Histological Techniques.Histocytological Preparation Techniques.Tissue Embedding.Plastic Embedding,E01.370.225.750.600.720.640
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Histological Techniques.Histocytological Preparation Techniques.Tissue Preservation,E01.370.225.750.600.760
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Histological Techniques.Histocytological Preparation Techniques.Tissue Preservation.Cryopreservation,E01.370.225.750.600.760.160
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Histological Techniques.Histocytological Preparation Techniques.Tissue Preservation.Cryopreservation.Freeze Drying,E01.370.225.750.600.760.160.260
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Histological Techniques.Histocytological Preparation Techniques.Tissue Preservation.Cryopreservation.Freeze Drying.Freeze Substitution,E01.370.225.750.600.760.160.260.270
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Histological Techniques.Histocytological Preparation Techniques.Tissue Preservation.Tissue Fixation,E01.370.225.750.600.760.720
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Immunologic Tests,E01.370.225.812
+"Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Immunologic Tests.Antibody-Coated Bacteria Test, Urinary",E01.370.225.812.049
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Immunologic Tests.Basophil Degranulation Test,E01.370.225.812.100
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Immunologic Tests.Cell Migration Assays,E01.370.225.812.125
+"Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Immunologic Tests.Cell Migration Assays.Cell Migration Assays, Leukocyte",E01.370.225.812.125.500
+"Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Immunologic Tests.Cell Migration Assays.Cell Migration Assays, Macrophage",E01.370.225.812.125.750
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Immunologic Tests.Cell Migration Assays.Skin Window Technique,E01.370.225.812.125.875
+"Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Immunologic Tests.Cytotoxicity Tests, Immunologic",E01.370.225.812.160
+"Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Immunologic Tests.Cytotoxicity Tests, Immunologic.Complement Hemolytic Activity Assay",E01.370.225.812.160.155
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Immunologic Tests.Hemolytic Plaque Technique,E01.370.225.812.375
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Immunologic Tests.Histocompatibility Testing,E01.370.225.812.385
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Immunologic Tests.Histocompatibility Testing.Blood Grouping and Crossmatching,E01.370.225.812.385.120
+"Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Immunologic Tests.Histocompatibility Testing.Lymphocyte Culture Test, Mixed",E01.370.225.812.385.475
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Immunologic Tests.Immune Adherence Reaction,E01.370.225.812.400
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Immunologic Tests.Immunophenotyping,E01.370.225.812.447
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Immunologic Tests.Interferon-gamma Release Tests,E01.370.225.812.453
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Immunologic Tests.Leukocyte Adherence Inhibition Test,E01.370.225.812.460
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Immunologic Tests.Lymphocyte Activation,E01.370.225.812.482
+"Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Immunologic Tests.Monitoring, Immunologic",E01.370.225.812.505
+"Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Immunologic Tests.Pregnancy Tests, Immunologic",E01.370.225.812.620
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Immunologic Tests.Rosette Formation,E01.370.225.812.706
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Immunologic Tests.Serologic Tests,E01.370.225.812.735
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Immunologic Tests.Serologic Tests.Agglutination Tests,E01.370.225.812.735.050
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Immunologic Tests.Serologic Tests.Agglutination Tests.Hemagglutination Tests,E01.370.225.812.735.050.375
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Immunologic Tests.Serologic Tests.Agglutination Tests.Hemagglutination Tests.Coombs Test,E01.370.225.812.735.050.375.150
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Immunologic Tests.Serologic Tests.Agglutination Tests.Latex Fixation Tests,E01.370.225.812.735.050.450
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Immunologic Tests.Serologic Tests.AIDS Serodiagnosis,E01.370.225.812.735.060
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Immunologic Tests.Serologic Tests.Complement Fixation Tests,E01.370.225.812.735.150
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Immunologic Tests.Serologic Tests.Complement Hemolytic Activity Assay,E01.370.225.812.735.155
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Immunologic Tests.Serologic Tests.Hemadsorption Inhibition Tests,E01.370.225.812.735.360
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Immunologic Tests.Serologic Tests.Hemagglutination Inhibition Tests,E01.370.225.812.735.370
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Immunologic Tests.Serologic Tests.Neutralization Tests,E01.370.225.812.735.550
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Immunologic Tests.Serologic Tests.Precipitin Tests,E01.370.225.812.735.645
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Immunologic Tests.Serologic Tests.Precipitin Tests.Flocculation Tests,E01.370.225.812.735.645.300
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Immunologic Tests.Serologic Tests.Precipitin Tests.Immunodiffusion,E01.370.225.812.735.645.350
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Immunologic Tests.Serologic Tests.Precipitin Tests.Immunodiffusion.Immunoelectrophoresis,E01.370.225.812.735.645.350.350
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Immunologic Tests.Serologic Tests.Precipitin Tests.Immunodiffusion.Immunoelectrophoresis.Counterimmunoelectrophoresis,E01.370.225.812.735.645.350.350.150
+"Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Immunologic Tests.Serologic Tests.Precipitin Tests.Immunodiffusion.Immunoelectrophoresis.Immunoelectrophoresis, Two-Dimensional",E01.370.225.812.735.645.350.350.350
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Immunologic Tests.Serologic Tests.Radioallergosorbent Test,E01.370.225.812.735.830
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Immunologic Tests.Serologic Tests.Radioimmunoprecipitation Assay,E01.370.225.812.735.840
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Immunologic Tests.Serologic Tests.Serum Bactericidal Antibody Assay,E01.370.225.812.735.845
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Immunologic Tests.Serologic Tests.Syphilis Serodiagnosis,E01.370.225.812.735.850
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Immunologic Tests.Serologic Tests.Syphilis Serodiagnosis.Fluorescent Treponemal Antibody-Absorption Test,E01.370.225.812.735.850.200
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Immunologic Tests.Serologic Tests.Syphilis Serodiagnosis.Treponema Immobilization Test,E01.370.225.812.735.850.800
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Immunologic Tests.Serotyping,E01.370.225.812.742
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Immunologic Tests.Skin Tests,E01.370.225.812.871
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Immunologic Tests.Skin Tests.Intradermal Tests,E01.370.225.812.871.300
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Immunologic Tests.Skin Tests.Intradermal Tests.Kveim Test,E01.370.225.812.871.300.540
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Immunologic Tests.Skin Tests.Intradermal Tests.Skin Test End-Point Titration,E01.370.225.812.871.300.750
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Immunologic Tests.Skin Tests.Local Lymph Node Assay,E01.370.225.812.871.450
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Immunologic Tests.Skin Tests.Passive Cutaneous Anaphylaxis,E01.370.225.812.871.600
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Immunologic Tests.Skin Tests.Patch Tests,E01.370.225.812.871.610
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Immunologic Tests.Skin Tests.Skin Window Technique,E01.370.225.812.871.705
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Immunologic Tests.Skin Tests.Tuberculin Test,E01.370.225.812.871.800
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Laboratory Critical Values,E01.370.225.828
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Metabolic Clearance Rate,E01.370.225.843
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Microbiological Techniques,E01.370.225.875
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Microbiological Techniques.Axenic Culture,E01.370.225.875.074
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Microbiological Techniques.Bacteriological Techniques,E01.370.225.875.150
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Microbiological Techniques.Bacteriological Techniques.Bacterial Load,E01.370.225.875.150.115
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Microbiological Techniques.Bacteriological Techniques.Bacterial Typing Techniques,E01.370.225.875.150.125
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Microbiological Techniques.Bacteriological Techniques.Bacterial Typing Techniques.Bacteriophage Typing,E01.370.225.875.150.125.150
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Microbiological Techniques.Bacteriological Techniques.Bacterial Typing Techniques.Molecular Typing,E01.370.225.875.150.125.457
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Microbiological Techniques.Bacteriological Techniques.Bacterial Typing Techniques.Molecular Typing.Multilocus Sequence Typing,E01.370.225.875.150.125.457.500
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Microbiological Techniques.Bacteriological Techniques.Bacterial Typing Techniques.Ribotyping,E01.370.225.875.150.125.765
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Microbiological Techniques.Bacteriological Techniques.Bacterial Typing Techniques.Serotyping,E01.370.225.875.150.125.890
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Microbiological Techniques.Bacteriological Techniques.Limulus Test,E01.370.225.875.150.570
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Microbiological Techniques.Blood Culture,E01.370.225.875.185
+"Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Microbiological Techniques.Colony Count, Microbial",E01.370.225.875.220
+"Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Microbiological Techniques.Colony Count, Microbial.Bacterial Load",E01.370.225.875.220.115
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Microbiological Techniques.Microbial Sensitivity Tests,E01.370.225.875.595
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Microbiological Techniques.Microbial Sensitivity Tests.Disk Diffusion Antimicrobial Tests,E01.370.225.875.595.399
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Microbiological Techniques.Microbial Sensitivity Tests.Serum Bactericidal Test,E01.370.225.875.595.800
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Microbiological Techniques.Mycological Typing Techniques,E01.370.225.875.610
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Microbiological Techniques.Serial Passage,E01.370.225.875.837
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Microbiological Techniques.Viral Load,E01.370.225.875.950
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Microbiological Techniques.Virus Cultivation,E01.370.225.875.970
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Microbiological Techniques.Virus Cultivation.Viral Plaque Assay,E01.370.225.875.970.790
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Microbiological Techniques.Virus Inactivation,E01.370.225.875.977
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Microbiological Techniques.Xenodiagnosis,E01.370.225.875.985
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Molecular Diagnostic Techniques,E01.370.225.880
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Molecular Diagnostic Techniques.Human Papillomavirus DNA Tests,E01.370.225.880.500
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Neonatal Screening,E01.370.225.910
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Occult Blood,E01.370.225.925
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Parasite Load,E01.370.225.932
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Parasite Load.Parasite Egg Count,E01.370.225.932.600
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Parasitic Sensitivity Tests,E01.370.225.940
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Pre-Analytical Phase,E01.370.225.955
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Pregnancy Tests,E01.370.225.970
+"Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Pregnancy Tests.Pregnancy Tests, Immunologic",E01.370.225.970.620
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Radioligand Assay,E01.370.225.985
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Semen Analysis,E01.370.225.992
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Semen Analysis.Sperm Count,E01.370.225.992.624
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Semen Analysis.Sperm Motility,E01.370.225.992.812
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Sex Determination Analysis,E01.370.225.996
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Sex Determination Analysis.Sex Determination by Skeleton,E01.370.225.996.500
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Specimen Handling,E01.370.225.998
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Specimen Handling.Biopsy,E01.370.225.998.054
+"Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Specimen Handling.Biopsy.Biopsy, Needle",E01.370.225.998.054.119
+"Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Specimen Handling.Biopsy.Biopsy, Needle.Biopsy, Fine-Needle",E01.370.225.998.054.119.500
+"Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Specimen Handling.Biopsy.Biopsy, Needle.Biopsy, Fine-Needle.Endoscopic Ultrasound-Guided Fine Needle Aspiration",E01.370.225.998.054.119.500.500
+"Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Specimen Handling.Biopsy.Biopsy, Needle.Biopsy, Large-Core Needle",E01.370.225.998.054.119.750
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Specimen Handling.Biopsy.Chorionic Villi Sampling,E01.370.225.998.054.149
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Specimen Handling.Biopsy.Conization,E01.370.225.998.054.160
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Specimen Handling.Biopsy.Image-Guided Biopsy,E01.370.225.998.054.370
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Specimen Handling.Biopsy.Image-Guided Biopsy.Endoscopic Ultrasound-Guided Fine Needle Aspiration,E01.370.225.998.054.370.500
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Specimen Handling.Biopsy.Liquid Biopsy,E01.370.225.998.054.396
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Specimen Handling.Biopsy.Papanicolaou Test,E01.370.225.998.054.422
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Specimen Handling.Biopsy.Sentinel Lymph Node Biopsy,E01.370.225.998.054.580
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Specimen Handling.Biopsy.Spinal Puncture,E01.370.225.998.054.790
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Specimen Handling.Biopsy.Vaginal Smears,E01.370.225.998.054.800
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Specimen Handling.Blood Specimen Collection,E01.370.225.998.110
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Specimen Handling.Blood Specimen Collection.Cordocentesis,E01.370.225.998.110.150
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Specimen Handling.Blood Specimen Collection.Petrosal Sinus Sampling,E01.370.225.998.110.600
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Specimen Handling.Blood Specimen Collection.Phlebotomy,E01.370.225.998.110.625
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Specimen Handling.Dissection,E01.370.225.998.221
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Specimen Handling.Dissection.Microdissection,E01.370.225.998.221.580
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Specimen Handling.Dissection.Microdissection.Laser Capture Microdissection,E01.370.225.998.221.580.500
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Specimen Handling.DNA Contamination,E01.370.225.998.293
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Specimen Handling.Paracentesis,E01.370.225.998.329
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Specimen Handling.Paracentesis.Amniocentesis,E01.370.225.998.329.309
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Specimen Handling.Paracentesis.Arthrocentesis,E01.370.225.998.329.465
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Specimen Handling.Paracentesis.Cordocentesis,E01.370.225.998.329.543
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Specimen Handling.Paracentesis.Pericardiocentesis,E01.370.225.998.329.620
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Specimen Handling.Paracentesis.Thoracentesis,E01.370.225.998.329.810
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Specimen Handling.Paracentesis.Tympanocentesis,E01.370.225.998.329.905
+Diagnosis.Diagnostic Techniques and Procedures.Clinical Laboratory Techniques.Specimen Handling.Urine Specimen Collection,E01.370.225.998.762
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging,E01.370.350
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Cardiac Imaging Techniques,E01.370.350.130
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Cardiac Imaging Techniques.Angiocardiography,E01.370.350.130.249
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Cardiac Imaging Techniques.Cardiac-Gated Imaging Techniques,E01.370.350.130.500
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Cardiac Imaging Techniques.Cardiac-Gated Imaging Techniques.Cardiac-Gated Single-Photon Emission Computer-Assisted Tomography,E01.370.350.130.500.500
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Cardiac Imaging Techniques.Cardiac-Gated Imaging Techniques.Gated Blood-Pool Imaging,E01.370.350.130.500.750
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Cardiac Imaging Techniques.Coronary Angiography,E01.370.350.130.625
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Cardiac Imaging Techniques.Echocardiography,E01.370.350.130.750
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Cardiac Imaging Techniques.Echocardiography.Echocardiography, Doppler",E01.370.350.130.750.220
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Cardiac Imaging Techniques.Echocardiography.Echocardiography, Doppler.Echocardiography, Doppler, Color",E01.370.350.130.750.220.220
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Cardiac Imaging Techniques.Echocardiography.Echocardiography, Doppler.Echocardiography, Doppler, Pulsed",E01.370.350.130.750.220.225
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Cardiac Imaging Techniques.Echocardiography.Echocardiography, Stress",E01.370.350.130.750.228
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Cardiac Imaging Techniques.Echocardiography.Echocardiography, Three-Dimensional",E01.370.350.130.750.230
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Cardiac Imaging Techniques.Echocardiography.Echocardiography, Three-Dimensional.Echocardiography, Four-Dimensional",E01.370.350.130.750.230.230
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Cardiac Imaging Techniques.Echocardiography.Echocardiography, Transesophageal",E01.370.350.130.750.235
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Cardiac Imaging Techniques.Myocardial Perfusion Imaging,E01.370.350.130.875
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Cardiac Imaging Techniques.Radionuclide Ventriculography,E01.370.350.130.937
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Cardiac Imaging Techniques.Radionuclide Ventriculography.Gated Blood-Pool Imaging,E01.370.350.130.937.350
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Cardiac Imaging Techniques.Radionuclide Ventriculography.Ventriculography, First-Pass",E01.370.350.130.937.950
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Image Interpretation, Computer-Assisted",E01.370.350.350
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Image Interpretation, Computer-Assisted.Neuronavigation",E01.370.350.350.349
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Image Interpretation, Computer-Assisted.Radiographic Image Interpretation, Computer-Assisted",E01.370.350.350.700
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Image Interpretation, Computer-Assisted.Tomography, Emission-Computed",E01.370.350.350.800
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Image Interpretation, Computer-Assisted.Tomography, Emission-Computed.Positron-Emission Tomography",E01.370.350.350.800.700
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Image Interpretation, Computer-Assisted.Tomography, Emission-Computed.Positron-Emission Tomography.Positron Emission Tomography Computed Tomography",E01.370.350.350.800.700.500
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Image Interpretation, Computer-Assisted.Tomography, Emission-Computed.Tomography, Emission-Computed, Single-Photon",E01.370.350.350.800.800
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Image Interpretation, Computer-Assisted.Tomography, Emission-Computed.Tomography, Emission-Computed, Single-Photon.Cardiac-Gated Single-Photon Emission Computer-Assisted Tomography",E01.370.350.350.800.800.500
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Image Interpretation, Computer-Assisted.Tomography, Emission-Computed.Tomography, Emission-Computed, Single-Photon.Single Photon Emission Computed Tomography Computed Tomography",E01.370.350.350.800.800.750
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Image Interpretation, Computer-Assisted.Tomography, X-Ray Computed",E01.370.350.350.810
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Image Interpretation, Computer-Assisted.Tomography, X-Ray Computed.Colonography, Computed Tomographic",E01.370.350.350.810.180
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Image Interpretation, Computer-Assisted.Tomography, X-Ray Computed.Computed Tomography Angiography",E01.370.350.350.810.335
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Image Interpretation, Computer-Assisted.Tomography, X-Ray Computed.Four-Dimensional Computed Tomography",E01.370.350.350.810.490
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Image Interpretation, Computer-Assisted.Tomography, X-Ray Computed.Positron Emission Tomography Computed Tomography",E01.370.350.350.810.645
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Image Interpretation, Computer-Assisted.Tomography, X-Ray Computed.Single Photon Emission Computed Tomography Computed Tomography",E01.370.350.350.810.723
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Image Interpretation, Computer-Assisted.Tomography, X-Ray Computed.Tomography, Spiral Computed",E01.370.350.350.810.800
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Image Interpretation, Computer-Assisted.Tomography, X-Ray Computed.Tomography, Spiral Computed.Multidetector Computed Tomography",E01.370.350.350.810.800.500
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Imaging, Three-Dimensional",E01.370.350.400
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Imaging, Three-Dimensional.Echocardiography, Three-Dimensional",E01.370.350.400.200
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Imaging, Three-Dimensional.Echocardiography, Three-Dimensional.Echocardiography, Four-Dimensional",E01.370.350.400.200.230
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Imaging, Three-Dimensional.Four-Dimensional Computed Tomography",E01.370.350.400.350
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Imaging, Three-Dimensional.Holography",E01.370.350.400.500
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Microscopy,E01.370.350.515
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Microscopy.Intravital Microscopy,E01.370.350.515.277
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Microscopy.Intravital Microscopy.Dermoscopy,E01.370.350.515.277.250
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Microscopy.Intravital Microscopy.Microscopic Angioscopy,E01.370.350.515.277.500
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Microscopy.Microscopy, Acoustic",E01.370.350.515.370
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Microscopy.Microscopy, Confocal",E01.370.350.515.395
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Microscopy.Microscopy, Confocal.Laser Scanning Cytometry",E01.370.350.515.395.500
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Microscopy.Microscopy, Electron",E01.370.350.515.402
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Microscopy.Microscopy, Electron.Cryoelectron Microscopy",E01.370.350.515.402.150
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Microscopy.Microscopy, Electron.Electron Probe Microanalysis",E01.370.350.515.402.250
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Microscopy.Microscopy, Electron.Microscopy, Electron, Scanning",E01.370.350.515.402.541
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Microscopy.Microscopy, Electron.Microscopy, Electron, Transmission",E01.370.350.515.402.580
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Microscopy.Microscopy, Electron.Microscopy, Electron, Transmission.Microscopy, Electron, Scanning Transmission",E01.370.350.515.402.580.480
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Microscopy.Microscopy, Electron.Microscopy, Electron, Transmission.Microscopy, Energy-Filtering Transmission Electron",E01.370.350.515.402.580.500
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Microscopy.Microscopy, Electron.Microscopy, Immunoelectron",E01.370.350.515.402.625
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Microscopy.Microscopy, Fluorescence",E01.370.350.515.458
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Microscopy.Microscopy, Fluorescence.Microscopy, Fluorescence, Multiphoton",E01.370.350.515.458.500
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Microscopy.Microscopy, Interference",E01.370.350.515.513
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Microscopy.Microscopy, Interference.Microscopy, Phase-Contrast",E01.370.350.515.513.569
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Microscopy.Microscopy, Polarization",E01.370.350.515.624
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Microscopy.Microscopy, Scanning Probe",E01.370.350.515.666
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Microscopy.Microscopy, Scanning Probe.Microscopy, Atomic Force",E01.370.350.515.666.400
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Microscopy.Microscopy, Scanning Probe.Microscopy, Electrochemical, Scanning",E01.370.350.515.666.450
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Microscopy.Microscopy, Scanning Probe.Microscopy, Scanning Tunneling",E01.370.350.515.666.500
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Microscopy.Microscopy, Ultraviolet",E01.370.350.515.680
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Microscopy.Microscopy, Video",E01.370.350.515.690
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Microscopy.Nonlinear Optical Microscopy,E01.370.350.515.717
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Microscopy.Nonlinear Optical Microscopy.Microscopy, Fluorescence, Multiphoton",E01.370.350.515.717.250
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Microscopy.Nonlinear Optical Microscopy.Second Harmonic Generation Microscopy,E01.370.350.515.717.500
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Microscopy.Nuclear Microscopy,E01.370.350.515.744
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Microscopy.Photomicrography,E01.370.350.515.799
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Microscopy.Single Molecule Imaging,E01.370.350.515.899
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Molecular Imaging,E01.370.350.557
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Molecular Imaging.Cell Tracking,E01.370.350.557.500
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Molecular Imaging.Single Molecule Imaging,E01.370.350.557.750
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Multimodal Imaging,E01.370.350.567
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Multimodal Imaging.Computed Tomography Angiography,E01.370.350.567.250
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Multimodal Imaging.Positron Emission Tomography Computed Tomography,E01.370.350.567.500
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Multimodal Imaging.Single Photon Emission Computed Tomography Computed Tomography,E01.370.350.567.750
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Neuroimaging,E01.370.350.578
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Neuroimaging.Diffusion Tensor Imaging,E01.370.350.578.750
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Neuroimaging.Functional Neuroimaging,E01.370.350.578.875
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Neuroimaging.Functional Neuroimaging.Brain Mapping,E01.370.350.578.875.500
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Neuroimaging.Functional Neuroimaging.Brain Mapping.Connectome,E01.370.350.578.875.500.249
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Neuroimaging.Neuroradiography,E01.370.350.578.937
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Neuroimaging.Neuroradiography.Cerebral Angiography,E01.370.350.578.937.180
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Neuroimaging.Neuroradiography.Cerebral Ventriculography,E01.370.350.578.937.190
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Neuroimaging.Neuroradiography.Echoencephalography,E01.370.350.578.937.260
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Neuroimaging.Neuroradiography.Echoencephalography.Ultrasonography, Doppler, Transcranial",E01.370.350.578.937.260.850
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Neuroimaging.Neuroradiography.Myelography,E01.370.350.578.937.505
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Neuroimaging.Neuroradiography.Pneumoencephalography,E01.370.350.578.937.620
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Optical Imaging,E01.370.350.589
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Optical Imaging.Narrow Band Imaging,E01.370.350.589.124
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Optical Imaging.Tomography, Optical",E01.370.350.589.249
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Optical Imaging.Tomography, Optical.Tomography, Optical Coherence",E01.370.350.589.249.500
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Optical Imaging.Transillumination,E01.370.350.589.500
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Photography,E01.370.350.600
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Photography.Holography,E01.370.350.600.300
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Photography.Image Enhancement,E01.370.350.600.350
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Photography.Image Enhancement.Radiographic Image Enhancement,E01.370.350.600.350.700
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Photography.Image Enhancement.Radiographic Image Enhancement.Angiography, Digital Subtraction",E01.370.350.600.350.700.060
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Photography.Image Enhancement.Radiographic Image Enhancement.Radiography, Dental, Digital",E01.370.350.600.350.700.690
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Photography.Image Enhancement.Radiographic Image Enhancement.Radiography, Dual-Energy Scanned Projection",E01.370.350.600.350.700.700
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Photography.Image Enhancement.Radiographic Image Enhancement.Tomography, X-Ray Computed",E01.370.350.600.350.700.810
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Photography.Image Enhancement.Radiographic Image Enhancement.Tomography, X-Ray Computed.Colonography, Computed Tomographic",E01.370.350.600.350.700.810.180
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Photography.Image Enhancement.Radiographic Image Enhancement.Tomography, X-Ray Computed.Computed Tomography Angiography",E01.370.350.600.350.700.810.335
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Photography.Image Enhancement.Radiographic Image Enhancement.Tomography, X-Ray Computed.Positron Emission Tomography Computed Tomography",E01.370.350.600.350.700.810.490
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Photography.Image Enhancement.Radiographic Image Enhancement.Tomography, X-Ray Computed.Single Photon Emission Computed Tomography Computed Tomography",E01.370.350.600.350.700.810.645
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Photography.Image Enhancement.Radiographic Image Enhancement.Tomography, X-Ray Computed.Tomography, Spiral Computed",E01.370.350.600.350.700.810.800
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Photography.Image Enhancement.Radiographic Image Enhancement.Tomography, X-Ray Computed.Tomography, Spiral Computed.Multidetector Computed Tomography",E01.370.350.600.350.700.810.800.500
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Photography.Image Enhancement.Tomography, Emission-Computed",E01.370.350.600.350.800
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Photography.Image Enhancement.Tomography, Emission-Computed.Positron-Emission Tomography",E01.370.350.600.350.800.399
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Photography.Image Enhancement.Tomography, Emission-Computed.Positron-Emission Tomography.Positron Emission Tomography Computed Tomography",E01.370.350.600.350.800.399.500
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Photography.Image Enhancement.Tomography, Emission-Computed.Tomography, Emission-Computed, Single-Photon",E01.370.350.600.350.800.800
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Photography.Image Enhancement.Tomography, Emission-Computed.Tomography, Emission-Computed, Single-Photon.Single Photon Emission Computed Tomography Computed Tomography",E01.370.350.600.350.800.800.500
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Photography.Photofluorography,E01.370.350.600.625
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Photography.Photogrammetry,E01.370.350.600.630
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Photography.Photogrammetry.Moire Topography,E01.370.350.600.630.500
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Photography.Photogrammetry.Radiostereometric Analysis,E01.370.350.600.630.750
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Photography.Photography, Dental",E01.370.350.600.631
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Photography.Photomicrography,E01.370.350.600.635
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Photography.Time-Lapse Imaging,E01.370.350.600.817
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography,E01.370.350.700
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Absorptiometry, Photon",E01.370.350.700.024
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Age Determination by Skeleton,E01.370.350.700.050
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Angiography,E01.370.350.700.060
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Angiography.Angiocardiography,E01.370.350.700.060.050
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Angiography.Angiography, Digital Subtraction",E01.370.350.700.060.060
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Angiography.Aortography,E01.370.350.700.060.070
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Angiography.Cerebral Angiography,E01.370.350.700.060.180
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Angiography.Cineangiography,E01.370.350.700.060.190
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Angiography.Coronary Angiography,E01.370.350.700.060.200
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Angiography.Phlebography,E01.370.350.700.060.600
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Angiography.Portography,E01.370.350.700.060.610
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Arthrography,E01.370.350.700.070
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Cineradiography,E01.370.350.700.150
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Cineradiography.Cineangiography,E01.370.350.700.150.190
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Electrokymography,E01.370.350.700.200
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Fluoroscopy,E01.370.350.700.225
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Fluoroscopy.Barium Enema,E01.370.350.700.225.313
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Fluoroscopy.Photofluorography,E01.370.350.700.225.625
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Hysterosalpingography,E01.370.350.700.325
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Lymphography,E01.370.350.700.475
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Mammography,E01.370.350.700.500
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Mammography.Xeromammography,E01.370.350.700.500.975
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Microradiography,E01.370.350.700.510
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Neuroradiography,E01.370.350.700.560
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Neuroradiography.Cerebral Angiography,E01.370.350.700.560.180
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Neuroradiography.Cerebral Ventriculography,E01.370.350.700.560.190
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Neuroradiography.Echoencephalography,E01.370.350.700.560.260
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Neuroradiography.Echoencephalography.Ultrasonography, Doppler, Transcranial",E01.370.350.700.560.260.850
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Neuroradiography.Myelography,E01.370.350.700.560.505
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Neuroradiography.Pneumoencephalography,E01.370.350.700.560.620
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Pneumoradiography,E01.370.350.700.625
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Pneumoradiography.Pneumoencephalography,E01.370.350.700.625.620
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Radiographic Image Enhancement,E01.370.350.700.700
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Radiographic Image Enhancement.Angiography, Digital Subtraction",E01.370.350.700.700.060
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Radiographic Image Enhancement.Radiography, Dental, Digital",E01.370.350.700.700.690
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Radiographic Image Enhancement.Radiography, Dual-Energy Scanned Projection",E01.370.350.700.700.700
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Radiographic Image Enhancement.Tomography, X-Ray Computed",E01.370.350.700.700.810
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Radiographic Image Enhancement.Tomography, X-Ray Computed.Colonography, Computed Tomographic",E01.370.350.700.700.810.180
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Radiographic Image Enhancement.Tomography, X-Ray Computed.Computed Tomography Angiography",E01.370.350.700.700.810.335
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Radiographic Image Enhancement.Tomography, X-Ray Computed.Four-Dimensional Computed Tomography",E01.370.350.700.700.810.490
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Radiographic Image Enhancement.Tomography, X-Ray Computed.Positron Emission Tomography Computed Tomography",E01.370.350.700.700.810.645
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Radiographic Image Enhancement.Tomography, X-Ray Computed.Single Photon Emission Computed Tomography Computed Tomography",E01.370.350.700.700.810.723
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Radiographic Image Enhancement.Tomography, X-Ray Computed.Tomography, Spiral Computed",E01.370.350.700.700.810.800
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Radiographic Image Enhancement.Tomography, X-Ray Computed.Tomography, Spiral Computed.Multidetector Computed Tomography",E01.370.350.700.700.810.800.500
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Radiographic Image Interpretation, Computer-Assisted",E01.370.350.700.705
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Radiographic Magnification,E01.370.350.700.710
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Radiography, Abdominal",E01.370.350.700.715
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Radiography, Abdominal.Cholangiography",E01.370.350.700.715.200
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Radiography, Abdominal.Cholangiography.Cholangiopancreatography, Endoscopic Retrograde",E01.370.350.700.715.200.200
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Radiography, Abdominal.Cholecystography",E01.370.350.700.715.210
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Radiography, Abdominal.Defecography",E01.370.350.700.715.250
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Radiography, Abdominal.Portography",E01.370.350.700.715.610
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Radiography, Dental",E01.370.350.700.720
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Radiography, Dental.Age Determination by Teeth",E01.370.350.700.720.050
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Radiography, Dental.Radiography, Bitewing",E01.370.350.700.720.700
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Radiography, Dental.Radiography, Dental, Digital",E01.370.350.700.720.720
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Radiography, Dental.Radiography, Panoramic",E01.370.350.700.720.750
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Radiography, Dental.Sialography",E01.370.350.700.720.793
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Radiography, Interventional",E01.370.350.700.725
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Radiography, Thoracic",E01.370.350.700.730
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Radiography, Thoracic.Bronchography",E01.370.350.700.730.100
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Radiography, Thoracic.Mass Chest X-Ray",E01.370.350.700.730.500
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Radiostereometric Analysis,E01.370.350.700.750
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Sex Determination by Skeleton,E01.370.350.700.770
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Tomography, X-Ray",E01.370.350.700.810
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Tomography, X-Ray.Tomography, X-Ray Computed",E01.370.350.700.810.810
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Tomography, X-Ray.Tomography, X-Ray Computed.Colonography, Computed Tomographic",E01.370.350.700.810.810.180
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Tomography, X-Ray.Tomography, X-Ray Computed.Cone-Beam Computed Tomography",E01.370.350.700.810.810.490
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Tomography, X-Ray.Tomography, X-Ray Computed.Cone-Beam Computed Tomography.Spiral Cone-Beam Computed Tomography",E01.370.350.700.810.810.490.500
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Tomography, X-Ray.Tomography, X-Ray Computed.Computed Tomography Angiography",E01.370.350.700.810.810.568
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Tomography, X-Ray.Tomography, X-Ray Computed.Four-Dimensional Computed Tomography",E01.370.350.700.810.810.645
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Tomography, X-Ray.Tomography, X-Ray Computed.Positron Emission Tomography Computed Tomography",E01.370.350.700.810.810.723
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Tomography, X-Ray.Tomography, X-Ray Computed.Single Photon Emission Computed Tomography Computed Tomography",E01.370.350.700.810.810.762
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Tomography, X-Ray.Tomography, X-Ray Computed.Tomography, Spiral Computed",E01.370.350.700.810.810.800
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Tomography, X-Ray.Tomography, X-Ray Computed.Tomography, Spiral Computed.Multidetector Computed Tomography",E01.370.350.700.810.810.800.249
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Tomography, X-Ray.Tomography, X-Ray Computed.Tomography, Spiral Computed.Spiral Cone-Beam Computed Tomography",E01.370.350.700.810.810.800.500
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Tomography, X-Ray.Tomography, X-Ray Computed.X-Ray Microtomography",E01.370.350.700.810.810.900
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Urography,E01.370.350.700.830
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Urography.Cystography,E01.370.350.700.830.500
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Xeroradiography,E01.370.350.700.975
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radiography.Xeroradiography.Xeromammography,E01.370.350.700.975.975
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radionuclide Imaging,E01.370.350.710
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radionuclide Imaging.Lymphoscintigraphy,E01.370.350.710.299
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radionuclide Imaging.Perfusion Imaging,E01.370.350.710.600
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radionuclide Imaging.Perfusion Imaging.Myocardial Perfusion Imaging,E01.370.350.710.600.500
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radionuclide Imaging.Radioimmunodetection,E01.370.350.710.710
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radionuclide Imaging.Radionuclide Angiography,E01.370.350.710.715
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radionuclide Imaging.Radionuclide Angiography.Radioisotope Renography,E01.370.350.710.715.700
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radionuclide Imaging.Radionuclide Angiography.Radionuclide Ventriculography,E01.370.350.710.715.710
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radionuclide Imaging.Radionuclide Angiography.Radionuclide Ventriculography.Gated Blood-Pool Imaging,E01.370.350.710.715.710.350
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radionuclide Imaging.Radionuclide Angiography.Radionuclide Ventriculography.Ventriculography, First-Pass",E01.370.350.710.715.710.950
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radionuclide Imaging.Tomography, Emission-Computed",E01.370.350.710.800
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radionuclide Imaging.Tomography, Emission-Computed.Positron-Emission Tomography",E01.370.350.710.800.399
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radionuclide Imaging.Tomography, Emission-Computed.Positron-Emission Tomography.Positron Emission Tomography Computed Tomography",E01.370.350.710.800.399.500
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radionuclide Imaging.Tomography, Emission-Computed.Tomography, Emission-Computed, Single-Photon",E01.370.350.710.800.800
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radionuclide Imaging.Tomography, Emission-Computed.Tomography, Emission-Computed, Single-Photon.Cardiac-Gated Single-Photon Emission Computer-Assisted Tomography",E01.370.350.710.800.800.500
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Radionuclide Imaging.Tomography, Emission-Computed.Tomography, Emission-Computed, Single-Photon.Single Photon Emission Computed Tomography Computed Tomography",E01.370.350.710.800.800.750
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Respiratory-Gated Imaging Techniques,E01.370.350.730
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Spectroscopy, Near-Infrared",E01.370.350.750
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Stroboscopy,E01.370.350.755
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Subtraction Technique,E01.370.350.760
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Subtraction Technique.Angiography, Digital Subtraction",E01.370.350.760.060
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Subtraction Technique.Radiography, Dual-Energy Scanned Projection",E01.370.350.760.700
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Terahertz Imaging,E01.370.350.780
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Thermography,E01.370.350.800
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Tomography,E01.370.350.825
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Tomography.Electron Microscope Tomography,E01.370.350.825.249
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Tomography.Magnetic Resonance Imaging,E01.370.350.825.500
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Tomography.Magnetic Resonance Imaging.Cholangiopancreatography, Magnetic Resonance",E01.370.350.825.500.100
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Tomography.Magnetic Resonance Imaging.Diffusion Magnetic Resonance Imaging,E01.370.350.825.500.150
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Tomography.Magnetic Resonance Imaging.Echo-Planar Imaging,E01.370.350.825.500.200
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Tomography.Magnetic Resonance Imaging.Fluorine-19 Magnetic Resonance Imaging,E01.370.350.825.500.350
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Tomography.Magnetic Resonance Imaging.Magnetic Resonance Angiography,E01.370.350.825.500.500
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Tomography.Magnetic Resonance Imaging.Magnetic Resonance Imaging, Cine",E01.370.350.825.500.510
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Tomography.Tomography, Emission-Computed",E01.370.350.825.800
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Tomography.Tomography, Emission-Computed.Positron-Emission Tomography",E01.370.350.825.800.399
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Tomography.Tomography, Emission-Computed.Positron-Emission Tomography.Positron Emission Tomography Computed Tomography",E01.370.350.825.800.399.500
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Tomography.Tomography, Emission-Computed.Tomography, Emission-Computed, Single-Photon",E01.370.350.825.800.800
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Tomography.Tomography, Emission-Computed.Tomography, Emission-Computed, Single-Photon.Cardiac-Gated Single-Photon Emission Computer-Assisted Tomography",E01.370.350.825.800.800.500
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Tomography.Tomography, Emission-Computed.Tomography, Emission-Computed, Single-Photon.Single Photon Emission Computed Tomography Computed Tomography",E01.370.350.825.800.800.750
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Tomography.Tomography, Optical",E01.370.350.825.805
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Tomography.Tomography, Optical.Tomography, Optical Coherence",E01.370.350.825.805.500
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Tomography.Tomography, X-Ray",E01.370.350.825.810
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Tomography.Tomography, X-Ray.Tomography, X-Ray Computed",E01.370.350.825.810.810
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Tomography.Tomography, X-Ray.Tomography, X-Ray Computed.Cone-Beam Computed Tomography",E01.370.350.825.810.810.399
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Tomography.Tomography, X-Ray.Tomography, X-Ray Computed.Cone-Beam Computed Tomography.Spiral Cone-Beam Computed Tomography",E01.370.350.825.810.810.399.500
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Tomography.Tomography, X-Ray.Tomography, X-Ray Computed.Computed Tomography Angiography",E01.370.350.825.810.810.499
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Tomography.Tomography, X-Ray.Tomography, X-Ray Computed.Four-Dimensional Computed Tomography",E01.370.350.825.810.810.599
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Tomography.Tomography, X-Ray.Tomography, X-Ray Computed.Positron Emission Tomography Computed Tomography",E01.370.350.825.810.810.700
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Tomography.Tomography, X-Ray.Tomography, X-Ray Computed.Single Photon Emission Computed Tomography Computed Tomography",E01.370.350.825.810.810.750
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Tomography.Tomography, X-Ray.Tomography, X-Ray Computed.Tomography, Spiral Computed",E01.370.350.825.810.810.800
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Tomography.Tomography, X-Ray.Tomography, X-Ray Computed.Tomography, Spiral Computed.Multidetector Computed Tomography",E01.370.350.825.810.810.800.249
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Tomography.Tomography, X-Ray.Tomography, X-Ray Computed.Tomography, Spiral Computed.Spiral Cone-Beam Computed Tomography",E01.370.350.825.810.810.800.500
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Tomography.Tomography, X-Ray.Tomography, X-Ray Computed.X-Ray Microtomography",E01.370.350.825.810.810.900
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Ultrasonography,E01.370.350.850
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Ultrasonography.Carotid Intima-Media Thickness,E01.370.350.850.150
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Ultrasonography.Echocardiography,E01.370.350.850.220
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Ultrasonography.Echocardiography.Echocardiography, Doppler",E01.370.350.850.220.220
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Ultrasonography.Echocardiography.Echocardiography, Doppler.Echocardiography, Doppler, Color",E01.370.350.850.220.220.220
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Ultrasonography.Echocardiography.Echocardiography, Doppler.Echocardiography, Doppler, Pulsed",E01.370.350.850.220.220.225
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Ultrasonography.Echocardiography.Echocardiography, Stress",E01.370.350.850.220.228
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Ultrasonography.Echocardiography.Echocardiography, Three-Dimensional",E01.370.350.850.220.230
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Ultrasonography.Echocardiography.Echocardiography, Three-Dimensional.Echocardiography, Four-Dimensional",E01.370.350.850.220.230.230
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Ultrasonography.Echocardiography.Echocardiography, Transesophageal",E01.370.350.850.220.235
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Ultrasonography.Echoencephalography,E01.370.350.850.260
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Ultrasonography.Echoencephalography.Ultrasonography, Doppler, Transcranial",E01.370.350.850.260.850
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Ultrasonography.Elasticity Imaging Techniques,E01.370.350.850.270
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Ultrasonography.Endosonography,E01.370.350.850.280
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Ultrasonography.Microscopy, Acoustic",E01.370.350.850.565
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Ultrasonography.Ultrasonography, Doppler",E01.370.350.850.850
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Ultrasonography.Ultrasonography, Doppler.Echocardiography, Doppler",E01.370.350.850.850.220
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Ultrasonography.Ultrasonography, Doppler.Echocardiography, Doppler.Echocardiography, Doppler, Color",E01.370.350.850.850.220.220
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Ultrasonography.Ultrasonography, Doppler.Echocardiography, Doppler.Echocardiography, Doppler, Pulsed",E01.370.350.850.850.220.225
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Ultrasonography.Ultrasonography, Doppler.Ultrasonography, Doppler, Duplex",E01.370.350.850.850.850
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Ultrasonography.Ultrasonography, Doppler.Ultrasonography, Doppler, Duplex.Ultrasonography, Doppler, Color",E01.370.350.850.850.850.850
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Ultrasonography.Ultrasonography, Doppler.Ultrasonography, Doppler, Duplex.Ultrasonography, Doppler, Color.Echocardiography, Doppler, Color",E01.370.350.850.850.850.850.220
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Ultrasonography.Ultrasonography, Doppler.Ultrasonography, Doppler, Pulsed",E01.370.350.850.850.860
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Ultrasonography.Ultrasonography, Doppler.Ultrasonography, Doppler, Pulsed.Echocardiography, Doppler, Pulsed",E01.370.350.850.850.860.225
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Ultrasonography.Ultrasonography, Doppler.Ultrasonography, Doppler, Transcranial",E01.370.350.850.850.870
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Ultrasonography.Ultrasonography, Interventional",E01.370.350.850.855
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Ultrasonography.Ultrasonography, Interventional.Endoscopic Ultrasound-Guided Fine Needle Aspiration",E01.370.350.850.855.500
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Ultrasonography.Ultrasonography, Mammary",E01.370.350.850.860
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Ultrasonography.Ultrasonography, Prenatal",E01.370.350.850.865
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Ultrasonography.Ultrasonography, Prenatal.Cervical Length Measurement",E01.370.350.850.865.249
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Ultrasonography.Ultrasonography, Prenatal.Nuchal Translucency Measurement",E01.370.350.850.865.500
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Voltage-Sensitive Dye Imaging,E01.370.350.887
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Imaging.Whole Body Imaging,E01.370.350.925
+Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Self Evaluation,E01.370.360
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular",E01.370.370
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Angiography",E01.370.370.050
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Angiography.Angiocardiography",E01.370.370.050.050
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Angiography.Angiography, Digital Subtraction",E01.370.370.050.060
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Angiography.Aortography",E01.370.370.050.070
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Angiography.Cerebral Angiography",E01.370.370.050.180
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Angiography.Cineangiography",E01.370.370.050.190
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Angiography.Coronary Angiography",E01.370.370.050.200
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Angiography.Fluorescein Angiography",E01.370.370.050.350
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Angiography.Magnetic Resonance Angiography",E01.370.370.050.500
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Angiography.Phlebography",E01.370.370.050.600
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Angiography.Portography",E01.370.370.050.610
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Angiography.Radionuclide Angiography",E01.370.370.050.650
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Angiography.Radionuclide Angiography.Radionuclide Ventriculography",E01.370.370.050.650.650
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Angiography.Radionuclide Angiography.Radionuclide Ventriculography.Gated Blood-Pool Imaging",E01.370.370.050.650.650.350
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Angiography.Radionuclide Angiography.Radionuclide Ventriculography.Ventriculography, First-Pass",E01.370.370.050.650.650.950
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Angioscopy",E01.370.370.065
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Blood Circulation Time",E01.370.370.120
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Blood Flow Velocity",E01.370.370.130
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Blood Pressure Determination",E01.370.370.140
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Blood Pressure Determination.Ankle Brachial Index",E01.370.370.140.049
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Blood Pressure Determination.Blood Pressure Monitoring, Ambulatory",E01.370.370.140.100
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Blood Volume Determination",E01.370.370.150
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Capillary Fragility",E01.370.370.170
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Carotid Intima-Media Thickness",E01.370.370.180
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Heart Function Tests",E01.370.370.380
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Heart Function Tests.Angiocardiography",E01.370.370.380.050
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Heart Function Tests.Ballistocardiography",E01.370.370.380.100
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Heart Function Tests.Cardiac Catheterization",E01.370.370.380.140
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Heart Function Tests.Cardiac Catheterization.Catheterization, Swan-Ganz",E01.370.370.380.140.210
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Heart Function Tests.Cardiac Output",E01.370.370.380.150
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Heart Function Tests.Cardiac Output.Stroke Volume",E01.370.370.380.150.700
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Heart Function Tests.Cardiography, Impedance",E01.370.370.380.160
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Heart Function Tests.Cardiotocography",E01.370.370.380.170
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Heart Function Tests.Coronary Angiography",E01.370.370.380.200
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Heart Function Tests.Echocardiography",E01.370.370.380.220
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Heart Function Tests.Echocardiography.Echocardiography, Doppler",E01.370.370.380.220.220
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Heart Function Tests.Echocardiography.Echocardiography, Doppler.Echocardiography, Doppler, Color",E01.370.370.380.220.220.220
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Heart Function Tests.Echocardiography.Echocardiography, Doppler.Echocardiography, Doppler, Pulsed",E01.370.370.380.220.220.225
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Heart Function Tests.Echocardiography.Echocardiography, Stress",E01.370.370.380.220.228
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Heart Function Tests.Echocardiography.Echocardiography, Three-Dimensional",E01.370.370.380.220.230
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Heart Function Tests.Echocardiography.Echocardiography, Three-Dimensional.Echocardiography, Four-Dimensional",E01.370.370.380.220.230.230
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Heart Function Tests.Echocardiography.Echocardiography, Transesophageal",E01.370.370.380.220.235
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Heart Function Tests.Electrocardiography",E01.370.370.380.240
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Heart Function Tests.Electrocardiography.Electrocardiography, Ambulatory",E01.370.370.380.240.230
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Heart Function Tests.Electrocardiography.Vectorcardiography",E01.370.370.380.240.850
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Heart Function Tests.Electrocardiography.Vectorcardiography.Body Surface Potential Mapping",E01.370.370.380.240.850.100
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Heart Function Tests.Electrophysiologic Techniques, Cardiac",E01.370.370.380.245
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Heart Function Tests.Electrophysiologic Techniques, Cardiac.Epicardial Mapping",E01.370.370.380.245.500
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Heart Function Tests.Exercise Test",E01.370.370.380.250
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Heart Function Tests.Exercise Test.Walk Test",E01.370.370.380.250.500
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Heart Function Tests.Heart Auscultation",E01.370.370.380.400
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Heart Function Tests.Heart Auscultation.Phonocardiography",E01.370.370.380.400.500
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Heart Function Tests.Heart Rate Determination",E01.370.370.380.425
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Heart Function Tests.Kinetocardiography",E01.370.370.380.450
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Heart Function Tests.Magnetocardiography",E01.370.370.380.487
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Heart Function Tests.Myocardial Perfusion Imaging",E01.370.370.380.500
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Heart Function Tests.Oximetry",E01.370.370.380.600
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Heart Function Tests.Oximetry.Blood Gas Monitoring, Transcutaneous",E01.370.370.380.600.100
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Heart Function Tests.Pulse",E01.370.370.380.650
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Heart Function Tests.Radionuclide Ventriculography",E01.370.370.380.710
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Heart Function Tests.Radionuclide Ventriculography.Gated Blood-Pool Imaging",E01.370.370.380.710.350
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Heart Function Tests.Radionuclide Ventriculography.Ventriculography, First-Pass",E01.370.370.380.710.950
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Heart Function Tests.Valsalva Maneuver",E01.370.370.380.950
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Hemodynamic Monitoring",E01.370.370.428
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Laser-Doppler Flowmetry",E01.370.370.475
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Microscopic Angioscopy",E01.370.370.560
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Plethysmography",E01.370.370.610
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Plethysmography.Photoplethysmography",E01.370.370.610.600
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Plethysmography.Plethysmography, Impedance",E01.370.370.610.610
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Plethysmography.Plethysmography, Impedance.Cardiography, Impedance",E01.370.370.610.610.200
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Plethysmography.Plethysmography, Whole Body",E01.370.370.610.805
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Pulse Wave Analysis",E01.370.370.680
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Cardiovascular.Tilt-Table Test",E01.370.370.750
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Digestive System",E01.370.372
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Digestive System.Cholangiography",E01.370.372.200
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Digestive System.Cholangiography.Cholangiopancreatography, Endoscopic Retrograde",E01.370.372.200.200
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Digestive System.Cholangiopancreatography, Magnetic Resonance",E01.370.372.207
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Digestive System.Cholecystography",E01.370.372.210
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Digestive System.Colonography, Computed Tomographic",E01.370.372.230
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Digestive System.Endoscopy, Digestive System",E01.370.372.250
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Digestive System.Endoscopy, Digestive System.Cholangiopancreatography, Endoscopic Retrograde",E01.370.372.250.200
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Digestive System.Endoscopy, Digestive System.Endoscopy, Gastrointestinal",E01.370.372.250.250
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Digestive System.Endoscopy, Digestive System.Endoscopy, Gastrointestinal.Balloon Enteroscopy",E01.370.372.250.250.100
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Digestive System.Endoscopy, Digestive System.Endoscopy, Gastrointestinal.Balloon Enteroscopy.Double-Balloon Enteroscopy",E01.370.372.250.250.100.500
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Digestive System.Endoscopy, Digestive System.Endoscopy, Gastrointestinal.Balloon Enteroscopy.Single-Balloon Enteroscopy",E01.370.372.250.250.100.750
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Digestive System.Endoscopy, Digestive System.Endoscopy, Gastrointestinal.Colonoscopy",E01.370.372.250.250.200
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Digestive System.Endoscopy, Digestive System.Endoscopy, Gastrointestinal.Colonoscopy.Sigmoidoscopy",E01.370.372.250.250.200.700
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Digestive System.Endoscopy, Digestive System.Endoscopy, Gastrointestinal.Duodenoscopy",E01.370.372.250.250.225
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Digestive System.Endoscopy, Digestive System.Endoscopy, Gastrointestinal.Endoscopic Mucosal Resection",E01.370.372.250.250.250
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Digestive System.Endoscopy, Digestive System.Endoscopy, Gastrointestinal.Esophagoscopy",E01.370.372.250.250.275
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Digestive System.Endoscopy, Digestive System.Endoscopy, Gastrointestinal.Gastroscopy",E01.370.372.250.250.325
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Digestive System.Endoscopy, Digestive System.Endoscopy, Gastrointestinal.Proctoscopy",E01.370.372.250.250.600
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Digestive System.Esophageal pH Monitoring",E01.370.372.255
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Digestive System.Gastric Acidity Determination",E01.370.372.300
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Digestive System.Gastrointestinal Transit",E01.370.372.310
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Digestive System.Lactose Tolerance Test",E01.370.372.450
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Digestive System.Liver Function Tests",E01.370.372.460
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Digestive System.Pancreatic Function Tests",E01.370.372.600
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Digestive System.Portography",E01.370.372.610
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Digestive System.Sialography",E01.370.372.700
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Endocrine",E01.370.374
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Endocrine.Adrenal Cortex Function Tests",E01.370.374.050
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Endocrine.Blood Glucose Self-Monitoring",E01.370.374.100
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Endocrine.Glucose Tolerance Test",E01.370.374.355
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Endocrine.Ovarian Function Tests",E01.370.374.530
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Endocrine.Pituitary-Adrenal Function Tests",E01.370.374.600
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Endocrine.Pituitary Function Tests",E01.370.374.605
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Endocrine.Radioligand Assay",E01.370.374.650
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Endocrine.Thyroid Function Tests",E01.370.374.750
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Neurological",E01.370.376
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Neurological.Electroencephalography",E01.370.376.300
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Neurological.Electroencephalography.Brain Waves",E01.370.376.300.150
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Neurological.Electroencephalography.Brain Waves.Alpha Rhythm",E01.370.376.300.150.374
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Neurological.Electroencephalography.Brain Waves.Beta Rhythm",E01.370.376.300.150.750
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Neurological.Electroencephalography.Brain Waves.Delta Rhythm",E01.370.376.300.150.875
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Neurological.Electroencephalography.Brain Waves.Gamma Rhythm",E01.370.376.300.150.906
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Neurological.Electroencephalography.Brain Waves.Theta Rhythm",E01.370.376.300.150.937
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Neurological.Electroencephalography.Electrocorticography",E01.370.376.300.294
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Neurological.Electroencephalography.Electroencephalography Phase Synchronization",E01.370.376.300.437
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Neurological.Electroencephalography.Electroencephalography Phase Synchronization.Cortical Synchronization",E01.370.376.300.437.500
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Neurological.Magnetoencephalography",E01.370.376.500
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Neurological.Neuroendoscopy",E01.370.376.525
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Neurological.Neuroimaging",E01.370.376.537
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Neurological.Neuroimaging.Diffusion Tensor Imaging",E01.370.376.537.500
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Neurological.Neuroimaging.Functional Neuroimaging",E01.370.376.537.625
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Neurological.Neuroimaging.Functional Neuroimaging.Brain Mapping",E01.370.376.537.625.500
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Neurological.Neuroimaging.Functional Neuroimaging.Brain Mapping.Connectome",E01.370.376.537.625.500.249
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Neurological.Neuroimaging.Neuroradiography",E01.370.376.537.750
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Neurological.Neuroimaging.Neuroradiography.Cerebral Angiography",E01.370.376.537.750.180
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Neurological.Neuroimaging.Neuroradiography.Cerebral Ventriculography",E01.370.376.537.750.190
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Neurological.Neuroimaging.Neuroradiography.Echoencephalography",E01.370.376.537.750.260
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Neurological.Neuroimaging.Neuroradiography.Echoencephalography.Ultrasonography, Doppler, Transcranial",E01.370.376.537.750.260.850
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Neurological.Neuroimaging.Neuroradiography.Myelography",E01.370.376.537.750.505
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Neurological.Neuroimaging.Neuroradiography.Pneumoencephalography",E01.370.376.537.750.620
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Neurological.Neurologic Examination",E01.370.376.550
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Neurological.Neurologic Examination.Reflex",E01.370.376.550.650
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Neurological.Neurologic Examination.Reflex.Diving Reflex",E01.370.376.550.650.324
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Neurological.Neurologic Examination.Reflex.Reflex, Abdominal",E01.370.376.550.650.650
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Neurological.Neurologic Examination.Reflex.Reflex, Abnormal",E01.370.376.550.650.655
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Neurological.Neurologic Examination.Reflex.Reflex, Acoustic",E01.370.376.550.650.670
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Neurological.Neurologic Examination.Reflex.Reflex, Babinski",E01.370.376.550.650.680
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Neurological.Neurologic Examination.Reflex.Reflex, Pupillary",E01.370.376.550.650.690
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Neurological.Neurologic Examination.Reflex.Reflex, Righting",E01.370.376.550.650.695
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Neurological.Neurologic Examination.Reflex.Reflex, Stretch",E01.370.376.550.650.700
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Neurological.Neurologic Examination.Reflex.Reflex, Startle",E01.370.376.550.650.800
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Neurological.Olfactometry",E01.370.376.625
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Neurological.Spinal Puncture",E01.370.376.700
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Obstetrical and Gynecological",E01.370.378
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Obstetrical and Gynecological.Colposcopy",E01.370.378.150
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Obstetrical and Gynecological.Culdoscopy",E01.370.378.155
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Obstetrical and Gynecological.Fallopian Tube Patency Tests",E01.370.378.225
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Obstetrical and Gynecological.Fetal Monitoring",E01.370.378.230
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Obstetrical and Gynecological.Fetal Monitoring.Cardiotocography",E01.370.378.230.150
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Obstetrical and Gynecological.Hysterosalpingography",E01.370.378.325
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Obstetrical and Gynecological.Hysteroscopy",E01.370.378.330
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Obstetrical and Gynecological.Ovarian Function Tests",E01.370.378.530
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Obstetrical and Gynecological.Ovarian Function Tests.Ovulation Detection",E01.370.378.530.550
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Obstetrical and Gynecological.Ovarian Function Tests.Ovulation Prediction",E01.370.378.530.775
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Obstetrical and Gynecological.Pelvimetry",E01.370.378.605
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Obstetrical and Gynecological.Placental Function Tests",E01.370.378.610
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Obstetrical and Gynecological.Pregnancy Tests",E01.370.378.620
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Obstetrical and Gynecological.Pregnancy Tests.Pregnancy Tests, Immunologic",E01.370.378.620.620
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Obstetrical and Gynecological.Preimplantation Diagnosis",E01.370.378.625
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Obstetrical and Gynecological.Prenatal Diagnosis",E01.370.378.630
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Obstetrical and Gynecological.Prenatal Diagnosis.Amniocentesis",E01.370.378.630.050
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Obstetrical and Gynecological.Prenatal Diagnosis.Chorionic Villi Sampling",E01.370.378.630.150
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Obstetrical and Gynecological.Prenatal Diagnosis.Fetoscopy",E01.370.378.630.300
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Obstetrical and Gynecological.Prenatal Diagnosis.Maternal Serum Screening Tests",E01.370.378.630.582
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Obstetrical and Gynecological.Prenatal Diagnosis.Ultrasonography, Prenatal",E01.370.378.630.865
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Obstetrical and Gynecological.Prenatal Diagnosis.Ultrasonography, Prenatal.Cervical Length Measurement",E01.370.378.630.865.249
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Obstetrical and Gynecological.Prenatal Diagnosis.Ultrasonography, Prenatal.Nuchal Translucency Measurement",E01.370.378.630.865.500
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Obstetrical and Gynecological.Ultrasonography, Mammary",E01.370.378.850
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Obstetrical and Gynecological.Uterine Monitoring",E01.370.378.860
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Obstetrical and Gynecological.Vaginal Smears",E01.370.378.900
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Ophthalmological",E01.370.380
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Ophthalmological.Aberrometry",E01.370.380.074
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Ophthalmological.Corneal Pachymetry",E01.370.380.112
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Ophthalmological.Corneal Topography",E01.370.380.150
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Ophthalmological.Electroretinography",E01.370.380.225
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Ophthalmological.Eye Movement Measurements",E01.370.380.230
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Ophthalmological.Eye Movement Measurements.Electronystagmography",E01.370.380.230.280
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Ophthalmological.Eye Movement Measurements.Electrooculography",E01.370.380.230.285
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Ophthalmological.Flicker Fusion",E01.370.380.245
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Ophthalmological.Fluorescein Angiography",E01.370.380.250
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Ophthalmological.Fluorophotometry",E01.370.380.255
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Ophthalmological.Gonioscopy",E01.370.380.300
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Ophthalmological.Ophthalmodynamometry",E01.370.380.550
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Ophthalmological.Ophthalmoscopy",E01.370.380.560
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Ophthalmological.Ophthalmoscopy.Retinoscopy",E01.370.380.560.500
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Ophthalmological.Scanning Laser Polarimetry",E01.370.380.655
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Ophthalmological.Slit Lamp Microscopy",E01.370.380.727
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Ophthalmological.Tonometry, Ocular",E01.370.380.750
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Ophthalmological.Vision Tests",E01.370.380.850
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Ophthalmological.Vision Tests.Color Perception Tests",E01.370.380.850.150
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Ophthalmological.Vision Tests.Refraction, Ocular",E01.370.380.850.700
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Ophthalmological.Vision Tests.Vision Screening",E01.370.380.850.900
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Ophthalmological.Vision Tests.Visual Acuity",E01.370.380.850.950
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Ophthalmological.Vision Tests.Visual Acuity.Contrast Sensitivity",E01.370.380.850.950.500
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Ophthalmological.Vision Tests.Visual Acuity.Emmetropia",E01.370.380.850.950.750
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Ophthalmological.Vision Tests.Visual Field Tests",E01.370.380.850.962
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Otological",E01.370.382
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Otological.Hearing Tests",E01.370.382.375
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Otological.Hearing Tests.Acoustic Impedance Tests",E01.370.382.375.050
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Otological.Hearing Tests.Audiometry",E01.370.382.375.060
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Otological.Hearing Tests.Audiometry.Audiometry, Evoked Response",E01.370.382.375.060.050
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Otological.Hearing Tests.Audiometry.Audiometry, Pure-Tone",E01.370.382.375.060.055
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Otological.Hearing Tests.Audiometry.Audiometry, Speech",E01.370.382.375.060.060
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Otological.Hearing Tests.Audiometry.Audiometry, Speech.Speech Discrimination Tests",E01.370.382.375.060.060.750
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Otological.Hearing Tests.Audiometry.Audiometry, Speech.Speech Reception Threshold Test",E01.370.382.375.060.060.760
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Otological.Hearing Tests.Audiometry.Psychoacoustics",E01.370.382.375.060.530
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Otological.Hearing Tests.Dichotic Listening Tests",E01.370.382.375.200
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Otological.Hearing Tests.Recruitment Detection, Audiologic",E01.370.382.375.650
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Otological.Otoscopy",E01.370.382.637
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Otological.Vestibular Function Tests",E01.370.382.900
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Otological.Vestibular Function Tests.Caloric Tests",E01.370.382.900.150
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Otological.Vestibular Function Tests.Electronystagmography",E01.370.382.900.280
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Otological.Vestibular Function Tests.Head Impulse Test",E01.370.382.900.640
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Radioisotope",E01.370.384
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Radioisotope.Radioimmunoassay",E01.370.384.700
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Radioisotope.Radioisotope Dilution Technique",E01.370.384.710
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Radioisotope.Radioligand Assay",E01.370.384.720
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Radioisotope.Radionuclide Imaging",E01.370.384.730
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Radioisotope.Radionuclide Imaging.Lymphoscintigraphy",E01.370.384.730.176
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Radioisotope.Radionuclide Imaging.Perfusion Imaging",E01.370.384.730.354
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Radioisotope.Radionuclide Imaging.Perfusion Imaging.Myocardial Perfusion Imaging",E01.370.384.730.354.500
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Radioisotope.Radionuclide Imaging.Radioimmunodetection",E01.370.384.730.710
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Radioisotope.Radionuclide Imaging.Radionuclide Angiography",E01.370.384.730.715
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Radioisotope.Radionuclide Imaging.Radionuclide Angiography.Radioisotope Renography",E01.370.384.730.715.700
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Radioisotope.Radionuclide Imaging.Radionuclide Angiography.Radionuclide Ventriculography",E01.370.384.730.715.710
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Radioisotope.Radionuclide Imaging.Radionuclide Angiography.Radionuclide Ventriculography.Gated Blood-Pool Imaging",E01.370.384.730.715.710.350
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Radioisotope.Radionuclide Imaging.Radionuclide Angiography.Radionuclide Ventriculography.Ventriculography, First-Pass",E01.370.384.730.715.710.950
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Radioisotope.Radionuclide Imaging.Tomography, Emission-Computed",E01.370.384.730.800
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Radioisotope.Radionuclide Imaging.Tomography, Emission-Computed.Positron-Emission Tomography",E01.370.384.730.800.399
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Radioisotope.Radionuclide Imaging.Tomography, Emission-Computed.Positron-Emission Tomography.Positron Emission Tomography Computed Tomography",E01.370.384.730.800.399.500
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Radioisotope.Radionuclide Imaging.Tomography, Emission-Computed.Tomography, Emission-Computed, Single-Photon",E01.370.384.730.800.800
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Radioisotope.Radionuclide Imaging.Tomography, Emission-Computed.Tomography, Emission-Computed, Single-Photon.Cardiac-Gated Single-Photon Emission Computer-Assisted Tomography",E01.370.384.730.800.800.500
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Radioisotope.Radionuclide Imaging.Tomography, Emission-Computed.Tomography, Emission-Computed, Single-Photon.Single Photon Emission Computed Tomography Computed Tomography",E01.370.384.730.800.800.750
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Radioisotope.Schilling Test",E01.370.384.750
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Respiratory System",E01.370.386
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Respiratory System.Bronchography",E01.370.386.100
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Respiratory System.Bronchoscopy",E01.370.386.105
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Respiratory System.Laryngoscopy",E01.370.386.460
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Respiratory System.Mass Chest X-Ray",E01.370.386.500
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Respiratory System.Mucociliary Clearance",E01.370.386.520
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Respiratory System.Nasal Provocation Tests",E01.370.386.550
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Respiratory System.Respiratory Function Tests",E01.370.386.700
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Respiratory System.Respiratory Function Tests.Airway Resistance",E01.370.386.700.050
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Respiratory System.Respiratory Function Tests.Blood Gas Analysis",E01.370.386.700.100
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Respiratory System.Respiratory Function Tests.Blood Gas Analysis.Oximetry",E01.370.386.700.100.600
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Respiratory System.Respiratory Function Tests.Blood Gas Analysis.Oximetry.Blood Gas Monitoring, Transcutaneous",E01.370.386.700.100.600.100
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Respiratory System.Respiratory Function Tests.Bronchial Provocation Tests",E01.370.386.700.125
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Respiratory System.Respiratory Function Tests.Capnography",E01.370.386.700.150
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Respiratory System.Respiratory Function Tests.Exercise Test",E01.370.386.700.250
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Respiratory System.Respiratory Function Tests.Lung Compliance",E01.370.386.700.475
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Respiratory System.Respiratory Function Tests.Lung Volume Measurements",E01.370.386.700.485
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Respiratory System.Respiratory Function Tests.Lung Volume Measurements.Total Lung Capacity",E01.370.386.700.485.750
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Respiratory System.Respiratory Function Tests.Lung Volume Measurements.Total Lung Capacity.Closing Volume",E01.370.386.700.485.750.150
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Respiratory System.Respiratory Function Tests.Lung Volume Measurements.Total Lung Capacity.Functional Residual Capacity",E01.370.386.700.485.750.275
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Respiratory System.Respiratory Function Tests.Lung Volume Measurements.Total Lung Capacity.Functional Residual Capacity.Expiratory Reserve Volume",E01.370.386.700.485.750.275.260
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Respiratory System.Respiratory Function Tests.Lung Volume Measurements.Total Lung Capacity.Functional Residual Capacity.Residual Volume",E01.370.386.700.485.750.275.650
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Respiratory System.Respiratory Function Tests.Lung Volume Measurements.Total Lung Capacity.Vital Capacity",E01.370.386.700.485.750.900
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Respiratory System.Respiratory Function Tests.Lung Volume Measurements.Total Lung Capacity.Vital Capacity.Expiratory Reserve Volume",E01.370.386.700.485.750.900.260
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Respiratory System.Respiratory Function Tests.Lung Volume Measurements.Total Lung Capacity.Vital Capacity.Inspiratory Capacity",E01.370.386.700.485.750.900.350
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Respiratory System.Respiratory Function Tests.Lung Volume Measurements.Total Lung Capacity.Vital Capacity.Inspiratory Capacity.Inspiratory Reserve Volume",E01.370.386.700.485.750.900.350.350
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Respiratory System.Respiratory Function Tests.Lung Volume Measurements.Total Lung Capacity.Vital Capacity.Inspiratory Capacity.Tidal Volume",E01.370.386.700.485.750.900.350.750
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Respiratory System.Respiratory Function Tests.Maximal Respiratory Pressures",E01.370.386.700.550
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Respiratory System.Respiratory Function Tests.Plethysmography, Whole Body",E01.370.386.700.615
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Respiratory System.Respiratory Function Tests.Pulmonary Gas Exchange",E01.370.386.700.650
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Respiratory System.Respiratory Function Tests.Pulmonary Gas Exchange.Pulmonary Diffusing Capacity",E01.370.386.700.650.650
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Respiratory System.Respiratory Function Tests.Pulmonary Gas Exchange.Ventilation-Perfusion Ratio",E01.370.386.700.650.900
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Respiratory System.Respiratory Function Tests.Pulmonary Ventilation",E01.370.386.700.660
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Respiratory System.Respiratory Function Tests.Pulmonary Ventilation.Forced Expiratory Flow Rates",E01.370.386.700.660.225
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Respiratory System.Respiratory Function Tests.Pulmonary Ventilation.Forced Expiratory Flow Rates.Maximal Expiratory Flow Rate",E01.370.386.700.660.225.500
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Respiratory System.Respiratory Function Tests.Pulmonary Ventilation.Forced Expiratory Flow Rates.Maximal Expiratory Flow-Volume Curves",E01.370.386.700.660.225.505
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Respiratory System.Respiratory Function Tests.Pulmonary Ventilation.Forced Expiratory Flow Rates.Maximal Midexpiratory Flow Rate",E01.370.386.700.660.225.510
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Respiratory System.Respiratory Function Tests.Pulmonary Ventilation.Forced Expiratory Flow Rates.Peak Expiratory Flow Rate",E01.370.386.700.660.225.600
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Respiratory System.Respiratory Function Tests.Pulmonary Ventilation.Forced Expiratory Volume",E01.370.386.700.660.230
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Respiratory System.Respiratory Function Tests.Pulmonary Ventilation.Maximal Voluntary Ventilation",E01.370.386.700.660.500
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Respiratory System.Respiratory Function Tests.Spirometry",E01.370.386.700.750
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Respiratory System.Respiratory Function Tests.Spirometry.Bronchospirometry",E01.370.386.700.750.100
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Respiratory System.Respiratory Function Tests.Valsalva Maneuver",E01.370.386.700.950
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Respiratory System.Respiratory Function Tests.Work of Breathing",E01.370.386.700.975
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Respiratory System.Respiratory Sounds",E01.370.386.720
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Respiratory System.Respiratory-Gated Imaging Techniques",E01.370.386.730
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Respiratory System.Rhinomanometry",E01.370.386.740
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Respiratory System.Rhinometry, Acoustic",E01.370.386.870
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Surgical",E01.370.388
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Surgical.Biopsy",E01.370.388.100
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Surgical.Biopsy.Biopsy, Needle",E01.370.388.100.100
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Surgical.Biopsy.Biopsy, Needle.Biopsy, Fine-Needle",E01.370.388.100.100.500
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Surgical.Biopsy.Biopsy, Needle.Biopsy, Fine-Needle.Endoscopic Ultrasound-Guided Fine Needle Aspiration",E01.370.388.100.100.500.500
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Surgical.Biopsy.Biopsy, Needle.Biopsy, Large-Core Needle",E01.370.388.100.100.750
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Surgical.Biopsy.Chorionic Villi Sampling",E01.370.388.100.150
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Surgical.Biopsy.Conization",E01.370.388.100.160
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Surgical.Biopsy.Image-Guided Biopsy",E01.370.388.100.370
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Surgical.Biopsy.Image-Guided Biopsy.Endoscopic Ultrasound-Guided Fine Needle Aspiration",E01.370.388.100.370.500
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Surgical.Biopsy.Sentinel Lymph Node Biopsy",E01.370.388.100.580
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Surgical.Endoscopy",E01.370.388.250
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Surgical.Endoscopy.Angioscopy",E01.370.388.250.035
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Surgical.Endoscopy.Arthroscopy",E01.370.388.250.070
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Surgical.Endoscopy.Bronchoscopy",E01.370.388.250.100
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Surgical.Endoscopy.Colposcopy",E01.370.388.250.150
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Surgical.Endoscopy.Culdoscopy",E01.370.388.250.160
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Surgical.Endoscopy.Cystoscopy",E01.370.388.250.180
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Surgical.Endoscopy.Endoscopy, Digestive System",E01.370.388.250.250
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Surgical.Endoscopy.Endoscopy, Digestive System.Cholangiopancreatography, Endoscopic Retrograde",E01.370.388.250.250.160
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Surgical.Endoscopy.Endoscopy, Digestive System.Endoscopy, Gastrointestinal",E01.370.388.250.250.250
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Surgical.Endoscopy.Endoscopy, Digestive System.Endoscopy, Gastrointestinal.Balloon Enteroscopy",E01.370.388.250.250.250.070
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Surgical.Endoscopy.Endoscopy, Digestive System.Endoscopy, Gastrointestinal.Balloon Enteroscopy.Double-Balloon Enteroscopy",E01.370.388.250.250.250.070.500
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Surgical.Endoscopy.Endoscopy, Digestive System.Endoscopy, Gastrointestinal.Balloon Enteroscopy.Single-Balloon Enteroscopy",E01.370.388.250.250.250.070.750
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Surgical.Endoscopy.Endoscopy, Digestive System.Endoscopy, Gastrointestinal.Capsule Endoscopy",E01.370.388.250.250.250.140
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Surgical.Endoscopy.Endoscopy, Digestive System.Endoscopy, Gastrointestinal.Colonoscopy",E01.370.388.250.250.250.160
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Surgical.Endoscopy.Endoscopy, Digestive System.Endoscopy, Gastrointestinal.Colonoscopy.Sigmoidoscopy",E01.370.388.250.250.250.160.800
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Surgical.Endoscopy.Endoscopy, Digestive System.Endoscopy, Gastrointestinal.Duodenoscopy",E01.370.388.250.250.250.200
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Surgical.Endoscopy.Endoscopy, Digestive System.Endoscopy, Gastrointestinal.Endoscopic Mucosal Resection",E01.370.388.250.250.250.230
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Surgical.Endoscopy.Endoscopy, Digestive System.Endoscopy, Gastrointestinal.Esophagoscopy",E01.370.388.250.250.250.260
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Surgical.Endoscopy.Endoscopy, Digestive System.Endoscopy, Gastrointestinal.Gastroscopy",E01.370.388.250.250.250.320
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Surgical.Endoscopy.Endoscopy, Digestive System.Endoscopy, Gastrointestinal.Proctoscopy",E01.370.388.250.250.250.680
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Surgical.Endoscopy.Fetoscopy",E01.370.388.250.280
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Surgical.Endoscopy.Hysteroscopy",E01.370.388.250.360
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Surgical.Endoscopy.Laparoscopy",E01.370.388.250.520
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Surgical.Endoscopy.Laparoscopy.Hand-Assisted Laparoscopy",E01.370.388.250.520.500
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Surgical.Endoscopy.Laryngoscopy",E01.370.388.250.525
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Surgical.Endoscopy.Mediastinoscopy",E01.370.388.250.560
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Surgical.Endoscopy.Natural Orifice Endoscopic Surgery",E01.370.388.250.630
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Surgical.Endoscopy.Natural Orifice Endoscopic Surgery.Transanal Endoscopic Surgery",E01.370.388.250.630.500
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Surgical.Endoscopy.Natural Orifice Endoscopic Surgery.Transanal Endoscopic Surgery.Transanal Endoscopic Microsurgery",E01.370.388.250.630.500.500
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Surgical.Endoscopy.Neuroendoscopy",E01.370.388.250.700
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Surgical.Endoscopy.Thoracoscopy",E01.370.388.250.840
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Surgical.Endoscopy.Thoracoscopy.Thoracic Surgery, Video-Assisted",E01.370.388.250.840.830
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Surgical.Endoscopy.Ureteroscopy",E01.370.388.250.920
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Surgical.Endoscopy.Video-Assisted Surgery",E01.370.388.250.950
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Surgical.Endoscopy.Video-Assisted Surgery.Thoracic Surgery, Video-Assisted",E01.370.388.250.950.830
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Surgical.Pneumomediastinum, Diagnostic",E01.370.388.600
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Surgical.Pneumoperitoneum, Artificial",E01.370.388.605
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Urological",E01.370.390
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Urological.Antibody-Coated Bacteria Test, Urinary",E01.370.390.050
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Urological.Cystoscopy",E01.370.390.175
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Urological.Kidney Function Tests",E01.370.390.400
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Urological.Kidney Function Tests.Blood Urea Nitrogen",E01.370.390.400.100
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Urological.Kidney Function Tests.Glomerular Filtration Rate",E01.370.390.400.300
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Urological.Kidney Function Tests.Radioisotope Renography",E01.370.390.400.700
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Urological.Nephrostomy, Percutaneous",E01.370.390.550
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Urological.Ureteroscopy",E01.370.390.800
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Urological.Urinalysis",E01.370.390.810
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Urological.Urinary Catheterization",E01.370.390.820
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Urological.Urography",E01.370.390.830
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Techniques, Urological.Urography.Cystography",E01.370.390.830.500
+"Diagnosis.Diagnostic Techniques and Procedures.Diagnostic Tests, Routine",E01.370.395
+Diagnosis.Diagnostic Techniques and Procedures.Direct-To-Consumer Screening and Testing,E01.370.398
+Diagnosis.Diagnostic Techniques and Procedures.Disability Evaluation,E01.370.400
+Diagnosis.Diagnostic Techniques and Procedures.Disability Evaluation.Work Capacity Evaluation,E01.370.400.925
+Diagnosis.Diagnostic Techniques and Procedures.Electrodiagnosis,E01.370.405
+Diagnosis.Diagnostic Techniques and Procedures.Electrodiagnosis.Electrocardiography,E01.370.405.240
+"Diagnosis.Diagnostic Techniques and Procedures.Electrodiagnosis.Electrocardiography.Electrocardiography, Ambulatory",E01.370.405.240.230
+Diagnosis.Diagnostic Techniques and Procedures.Electrodiagnosis.Electrocardiography.Vectorcardiography,E01.370.405.240.850
+Diagnosis.Diagnostic Techniques and Procedures.Electrodiagnosis.Electrocardiography.Vectorcardiography.Body Surface Potential Mapping,E01.370.405.240.850.100
+Diagnosis.Diagnostic Techniques and Procedures.Electrodiagnosis.Electroencephalography,E01.370.405.245
+Diagnosis.Diagnostic Techniques and Procedures.Electrodiagnosis.Electroencephalography.Brain Waves,E01.370.405.245.287
+Diagnosis.Diagnostic Techniques and Procedures.Electrodiagnosis.Electroencephalography.Brain Waves.Alpha Rhythm,E01.370.405.245.287.374
+Diagnosis.Diagnostic Techniques and Procedures.Electrodiagnosis.Electroencephalography.Brain Waves.Beta Rhythm,E01.370.405.245.287.750
+Diagnosis.Diagnostic Techniques and Procedures.Electrodiagnosis.Electroencephalography.Brain Waves.Delta Rhythm,E01.370.405.245.287.875
+Diagnosis.Diagnostic Techniques and Procedures.Electrodiagnosis.Electroencephalography.Brain Waves.Gamma Rhythm,E01.370.405.245.287.906
+Diagnosis.Diagnostic Techniques and Procedures.Electrodiagnosis.Electroencephalography.Brain Waves.Theta Rhythm,E01.370.405.245.287.937
+Diagnosis.Diagnostic Techniques and Procedures.Electrodiagnosis.Electroencephalography.Electrocorticography,E01.370.405.245.431
+Diagnosis.Diagnostic Techniques and Procedures.Electrodiagnosis.Electroencephalography.Electroencephalography Phase Synchronization,E01.370.405.245.575
+Diagnosis.Diagnostic Techniques and Procedures.Electrodiagnosis.Electroencephalography.Electroencephalography Phase Synchronization.Cortical Synchronization,E01.370.405.245.575.500
+Diagnosis.Diagnostic Techniques and Procedures.Electrodiagnosis.Electrokymography,E01.370.405.250
+Diagnosis.Diagnostic Techniques and Procedures.Electrodiagnosis.Electromyography,E01.370.405.255
+Diagnosis.Diagnostic Techniques and Procedures.Electrodiagnosis.Electronystagmography,E01.370.405.260
+Diagnosis.Diagnostic Techniques and Procedures.Electrodiagnosis.Electrooculography,E01.370.405.265
+"Diagnosis.Diagnostic Techniques and Procedures.Electrodiagnosis.Electrophysiologic Techniques, Cardiac",E01.370.405.267
+Diagnosis.Diagnostic Techniques and Procedures.Electrodiagnosis.Electroretinography,E01.370.405.270
+Diagnosis.Diagnostic Techniques and Procedures.Electrodiagnosis.Magnetocardiography,E01.370.405.435
+Diagnosis.Diagnostic Techniques and Procedures.Electrodiagnosis.Magnetoencephalography,E01.370.405.440
+"Diagnosis.Diagnostic Techniques and Procedures.Electrodiagnosis.Plethysmography, Impedance",E01.370.405.610
+Diagnosis.Diagnostic Techniques and Procedures.Insufflation,E01.370.450
+Diagnosis.Diagnostic Techniques and Procedures.Kymography,E01.370.475
+Diagnosis.Diagnostic Techniques and Procedures.Kymography.Electrokymography,E01.370.475.200
+Diagnosis.Diagnostic Techniques and Procedures.Mass Screening,E01.370.500
+Diagnosis.Diagnostic Techniques and Procedures.Mass Screening.Anonymous Testing,E01.370.500.174
+Diagnosis.Diagnostic Techniques and Procedures.Mass Screening.Mass Chest X-Ray,E01.370.500.500
+Diagnosis.Diagnostic Techniques and Procedures.Mass Screening.Multiphasic Screening,E01.370.500.540
+Diagnosis.Diagnostic Techniques and Procedures.Mass Screening.Neonatal Screening,E01.370.500.580
+Diagnosis.Diagnostic Techniques and Procedures.Resonance Frequency Analysis,E01.370.502
+Diagnosis.Diagnostic Techniques and Procedures.Traditional Pulse Diagnosis,E01.370.503
+Diagnosis.Diagnostic Techniques and Procedures.Surgical Clearance,E01.370.505
+Diagnosis.Diagnostic Techniques and Procedures.Medical History Taking,E01.370.510
+Diagnosis.Diagnostic Techniques and Procedures.Medical History Taking.Cornell Medical Index,E01.370.510.150
+Diagnosis.Diagnostic Techniques and Procedures.Medical History Taking.Reproductive History,E01.370.510.700
+"Diagnosis.Diagnostic Techniques and Procedures.Monitoring, Physiologic",E01.370.520
+"Diagnosis.Diagnostic Techniques and Procedures.Monitoring, Physiologic.Actigraphy",E01.370.520.049
+"Diagnosis.Diagnostic Techniques and Procedures.Monitoring, Physiologic.Blood Glucose Self-Monitoring",E01.370.520.100
+"Diagnosis.Diagnostic Techniques and Procedures.Monitoring, Physiologic.Drug Monitoring",E01.370.520.200
+"Diagnosis.Diagnostic Techniques and Procedures.Monitoring, Physiologic.Esophageal pH Monitoring",E01.370.520.215
+"Diagnosis.Diagnostic Techniques and Procedures.Monitoring, Physiologic.Fetal Monitoring",E01.370.520.230
+"Diagnosis.Diagnostic Techniques and Procedures.Monitoring, Physiologic.Fetal Monitoring.Cardiotocography",E01.370.520.230.150
+"Diagnosis.Diagnostic Techniques and Procedures.Monitoring, Physiologic.Hemodynamic Monitoring",E01.370.520.365
+"Diagnosis.Diagnostic Techniques and Procedures.Monitoring, Physiologic.Monitoring, Ambulatory",E01.370.520.500
+"Diagnosis.Diagnostic Techniques and Procedures.Monitoring, Physiologic.Monitoring, Ambulatory.Blood Pressure Monitoring, Ambulatory",E01.370.520.500.100
+"Diagnosis.Diagnostic Techniques and Procedures.Monitoring, Physiologic.Monitoring, Ambulatory.Electrocardiography, Ambulatory",E01.370.520.500.230
+"Diagnosis.Diagnostic Techniques and Procedures.Monitoring, Physiologic.Monitoring, Immunologic",E01.370.520.505
+"Diagnosis.Diagnostic Techniques and Procedures.Monitoring, Physiologic.Monitoring, Intraoperative",E01.370.520.510
+"Diagnosis.Diagnostic Techniques and Procedures.Monitoring, Physiologic.Monitoring, Intraoperative.Intraoperative Neurophysiological Monitoring",E01.370.520.510.500
+"Diagnosis.Diagnostic Techniques and Procedures.Monitoring, Physiologic.Neuromuscular Monitoring",E01.370.520.567
+"Diagnosis.Diagnostic Techniques and Procedures.Monitoring, Physiologic.Neurophysiological Monitoring",E01.370.520.596
+"Diagnosis.Diagnostic Techniques and Procedures.Monitoring, Physiologic.Neurophysiological Monitoring.Intraoperative Neurophysiological Monitoring",E01.370.520.596.500
+"Diagnosis.Diagnostic Techniques and Procedures.Monitoring, Physiologic.Polysomnography",E01.370.520.625
+"Diagnosis.Diagnostic Techniques and Procedures.Monitoring, Physiologic.Telemetry",E01.370.520.750
+"Diagnosis.Diagnostic Techniques and Procedures.Monitoring, Physiologic.Telemetry.Remote Sensing Technology",E01.370.520.750.500
+"Diagnosis.Diagnostic Techniques and Procedures.Monitoring, Physiologic.Uterine Monitoring",E01.370.520.860
+Diagnosis.Diagnostic Techniques and Procedures.Myography,E01.370.530
+Diagnosis.Diagnostic Techniques and Procedures.Myography.Electromyography,E01.370.530.255
+Diagnosis.Diagnostic Techniques and Procedures.Photoacoustic Techniques,E01.370.565
+Diagnosis.Diagnostic Techniques and Procedures.Physical Examination,E01.370.600
+Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Anthropometry,E01.370.600.024
+Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Anthropometry.Cephalometry,E01.370.600.024.250
+Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Anthropometry.Kinanthropometry,E01.370.600.024.450
+Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Anthropometry.Odontometry,E01.370.600.024.650
+Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Anthropometry.Odontometry.Age Determination by Teeth,E01.370.600.024.650.500
+Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Anthropometry.Pelvimetry,E01.370.600.024.690
+Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Apgar Score,E01.370.600.050
+Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Auscultation,E01.370.600.060
+Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Auscultation.Heart Auscultation,E01.370.600.060.400
+Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Blood Pressure Determination,E01.370.600.100
+Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Body Constitution,E01.370.600.115
+Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Body Constitution.Body Weights and Measures,E01.370.600.115.100
+Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Body Constitution.Body Weights and Measures.Body Fat Distribution,E01.370.600.115.100.062
+Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Body Constitution.Body Weights and Measures.Body Fat Distribution.Adiposity,E01.370.600.115.100.062.500
+Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Body Constitution.Body Weights and Measures.Body Mass Index,E01.370.600.115.100.125
+Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Body Constitution.Body Weights and Measures.Body Size,E01.370.600.115.100.160
+Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Body Constitution.Body Weights and Measures.Body Size.Body Height,E01.370.600.115.100.160.100
+Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Body Constitution.Body Weights and Measures.Body Size.Body Height.Crown-Rump Length,E01.370.600.115.100.160.100.500
+Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Body Constitution.Body Weights and Measures.Body Size.Body Weight,E01.370.600.115.100.160.120
+Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Body Constitution.Body Weights and Measures.Body Size.Body Weight.Birth Weight,E01.370.600.115.100.160.120.186
+Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Body Constitution.Body Weights and Measures.Body Size.Body Weight.Fetal Weight,E01.370.600.115.100.160.120.300
+Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Body Constitution.Body Weights and Measures.Body Size.Body Weight.Ideal Body Weight,E01.370.600.115.100.160.120.499
+Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Body Constitution.Body Weights and Measures.Body Size.Body Weight.Overweight,E01.370.600.115.100.160.120.699
+Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Body Constitution.Body Weights and Measures.Body Size.Body Weight.Overweight.Obesity,E01.370.600.115.100.160.120.699.500
+"Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Body Constitution.Body Weights and Measures.Body Size.Body Weight.Overweight.Obesity.Obesity, Abdominal",E01.370.600.115.100.160.120.699.500.249
+"Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Body Constitution.Body Weights and Measures.Body Size.Body Weight.Overweight.Obesity.Obesity, Metabolically Benign",E01.370.600.115.100.160.120.699.500.375
+"Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Body Constitution.Body Weights and Measures.Body Size.Body Weight.Overweight.Obesity.Obesity, Morbid",E01.370.600.115.100.160.120.699.500.500
+Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Body Constitution.Body Weights and Measures.Body Size.Body Weight.Overweight.Obesity.Pediatric Obesity,E01.370.600.115.100.160.120.699.500.750
+Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Body Constitution.Body Weights and Measures.Body Size.Body Weight.Thinness,E01.370.600.115.100.160.120.828
+Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Body Constitution.Body Weights and Measures.Body Size.Sagittal Abdominal Diameter,E01.370.600.115.100.160.340
+Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Body Constitution.Body Weights and Measures.Body Size.Waist Circumference,E01.370.600.115.100.160.560
+Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Body Constitution.Body Weights and Measures.Body Size.Waist Circumference.Lipid Accumulation Product,E01.370.600.115.100.160.560.500
+Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Body Constitution.Body Weights and Measures.Body Size.Waist-Height Ratio,E01.370.600.115.100.160.780
+Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Body Constitution.Body Weights and Measures.Body Surface Area,E01.370.600.115.100.231
+Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Body Constitution.Body Weights and Measures.Organ Size,E01.370.600.115.100.660
+"Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Body Constitution.Body Weights and Measures.Organ Size.Axial Length, Eye",E01.370.600.115.100.660.500
+Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Body Constitution.Body Weights and Measures.Skinfold Thickness,E01.370.600.115.100.803
+Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Body Constitution.Body Weights and Measures.Waist-Hip Ratio,E01.370.600.115.100.960
+Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Body Constitution.Breast Density,E01.370.600.115.275
+"Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Body Constitution.Physical Appearance, Body",E01.370.600.115.450
+"Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Body Constitution.Physical Appearance, Body.Skin Pigmentation",E01.370.600.115.450.500
+Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Body Constitution.Somatotypes,E01.370.600.115.800
+Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Facial Expression,E01.370.600.225
+Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Facies,E01.370.600.230
+Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Gait,E01.370.600.250
+Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Gait.Walking Speed,E01.370.600.250.500
+Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Gynecological Examination,E01.370.600.293
+Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Heart Rate Determination,E01.370.600.315
+Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Metabolic Equivalent,E01.370.600.337
+Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Muscle Strength,E01.370.600.425
+Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Muscle Strength.Hand Strength,E01.370.600.425.500
+Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Muscle Strength.Hand Strength.Pinch Strength,E01.370.600.425.500.500
+Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Neurologic Examination,E01.370.600.550
+Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Neurologic Examination.Abnormal Involuntary Movement Scale,E01.370.600.550.162
+Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Neurologic Examination.Pain Measurement,E01.370.600.550.324
+Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Neurologic Examination.Reflex,E01.370.600.550.650
+Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Neurologic Examination.Reflex.Diving Reflex,E01.370.600.550.650.324
+"Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Neurologic Examination.Reflex.Reflex, Abdominal",E01.370.600.550.650.650
+"Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Neurologic Examination.Reflex.Reflex, Abnormal",E01.370.600.550.650.655
+"Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Neurologic Examination.Reflex.Reflex, Acoustic",E01.370.600.550.650.670
+"Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Neurologic Examination.Reflex.Reflex, Babinski",E01.370.600.550.650.680
+"Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Neurologic Examination.Reflex.Reflex, Pupillary",E01.370.600.550.650.690
+"Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Neurologic Examination.Reflex.Reflex, Righting",E01.370.600.550.650.695
+"Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Neurologic Examination.Reflex.Reflex, Stretch",E01.370.600.550.650.700
+"Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Neurologic Examination.Reflex.Reflex, Startle",E01.370.600.550.650.800
+Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Palpation,E01.370.600.600
+Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Palpation.Digital Rectal Examination,E01.370.600.600.500
+Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Percussion,E01.370.600.610
+Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Pigmentation,E01.370.600.620
+Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Pigmentation.Skin Pigmentation,E01.370.600.620.750
+"Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Range of Motion, Articular",E01.370.600.700
+"Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Range of Motion, Articular.Arthrometry, Articular",E01.370.600.700.500
+Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Self-Examination,E01.370.600.750
+Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Self-Examination.Breast Self-Examination,E01.370.600.750.100
+Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Vital Signs,E01.370.600.875
+Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Vital Signs.Blood Pressure,E01.370.600.875.249
+Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Vital Signs.Body Temperature,E01.370.600.875.374
+Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Vital Signs.Heart Rate,E01.370.600.875.500
+Diagnosis.Diagnostic Techniques and Procedures.Physical Examination.Vital Signs.Respiratory Rate,E01.370.600.875.875
+Diagnosis.Diagnostic Techniques and Procedures.Premarital Examinations,E01.370.620
+Diagnosis.Diagnostic Techniques and Procedures.Psychophysics,E01.370.685
+Diagnosis.Diagnostic Techniques and Procedures.Psychophysics.Psychoacoustics,E01.370.685.628
+"Diagnosis.Diagnostic Techniques and Procedures.Psychophysics.Signal Detection, Psychological",E01.370.685.814
+Diagnosis.Diagnostic Techniques and Procedures.Speech Production Measurement,E01.370.760
+Diagnosis.Diagnostic Techniques and Procedures.Speech Production Measurement.Speech Articulation Tests,E01.370.760.760
+Diagnosis.Diagnostic Techniques and Procedures.Symptom Assessment,E01.370.872
+Diagnosis.Diagnostic Techniques and Procedures.Visual Analog Scale,E01.370.928
+Diagnosis.Diagnostic Techniques and Procedures.Xenodiagnosis,E01.370.985
+Diagnosis.Early Diagnosis,E01.390
+Diagnosis.Early Diagnosis.Early Detection of Cancer,E01.390.500
+Diagnosis.Incidental Findings,E01.410
+Diagnosis.Prodromal Symptoms,E01.599
+Diagnosis.Prognosis,E01.789
+Diagnosis.Prognosis.Disease-Free Survival,E01.789.200
+Diagnosis.Prognosis.Medical Futility,E01.789.600
+Diagnosis.Prognosis.Neoplasm Grading,E01.789.612
+Diagnosis.Prognosis.Neoplasm Staging,E01.789.625
+Diagnosis.Prognosis.Nomograms,E01.789.650
+Diagnosis.Prognosis.Pregnancy Outcome,E01.789.700
+Diagnosis.Prognosis.Treatment Outcome,E01.789.800
+Diagnosis.Prognosis.Treatment Outcome.Response Evaluation Criteria in Solid Tumors,E01.789.800.379
+Diagnosis.Prognosis.Treatment Outcome.Sustained Virologic Response,E01.789.800.570
+Diagnosis.Prognosis.Treatment Outcome.Therapeutic Index,E01.789.800.665
+"Diagnosis.Prognosis.Treatment Outcome.Therapeutic Index.Therapeutic Index, Drug",E01.789.800.665.500
+Diagnosis.Prognosis.Treatment Outcome.Treatment Failure,E01.789.800.760
+"Diagnosis.Prognosis.Treatment Outcome.Treatment Failure.Failure to Rescue, Health Care",E01.789.800.760.500
+Diagnosis.Theranostic Nanomedicine,E01.894

@@ -1,0 +1,646 @@
+id,name
+A08,Nervous System
+A08.186,Central Nervous System
+A08.186.211,Brain
+A08.186.211.035,Blood-Brain Barrier
+A08.186.211.132,Brain Stem
+A08.186.211.132.659,Mesencephalon
+A08.186.211.132.659.413,Cerebral Peduncle
+A08.186.211.132.659.413.437,Cerebral Crus
+A08.186.211.132.659.413.656,Substantia Nigra
+A08.186.211.132.659.413.656.249,Pars Compacta
+A08.186.211.132.659.413.656.500,Pars Reticulata
+A08.186.211.132.659.413.875,Tegmentum Mesencephali
+A08.186.211.132.659.413.875.187,Cerebral Aqueduct
+A08.186.211.132.659.413.875.284,Midbrain Reticular Formation
+A08.186.211.132.659.413.875.284.500,Pedunculopontine Tegmental Nucleus
+A08.186.211.132.659.413.875.381,Oculomotor Nuclear Complex
+A08.186.211.132.659.413.875.381.500,Edinger-Westphal Nucleus
+A08.186.211.132.659.413.875.595,Periaqueductal Gray
+A08.186.211.132.659.413.875.618,Raphe Nuclei
+A08.186.211.132.659.413.875.618.249,Dorsal Raphe Nucleus
+A08.186.211.132.659.413.875.618.436,Interpeduncular Nucleus
+A08.186.211.132.659.413.875.618.624,Midbrain Raphe Nuclei
+A08.186.211.132.659.413.875.642,Red Nucleus
+A08.186.211.132.659.413.875.820,Ventral Tegmental Area
+A08.186.211.132.659.473,Locus Coeruleus
+A08.186.211.132.659.800,Tectum Mesencephali
+A08.186.211.132.659.800.407,Inferior Colliculi
+A08.186.211.132.659.800.611,Posterior Cerebellar Commissure
+A08.186.211.132.659.800.662,Pretectal Region
+A08.186.211.132.659.800.713,Subcommissural Organ
+A08.186.211.132.659.800.816,Superior Colliculi
+A08.186.211.132.772,Reticular Formation
+A08.186.211.132.772.322,Midbrain Reticular Formation
+A08.186.211.132.772.322.500,Pedunculopontine Tegmental Nucleus
+A08.186.211.132.772.646,Respiratory Center
+A08.186.211.132.810,Rhombencephalon
+A08.186.211.132.810.428,Metencephalon
+A08.186.211.132.810.428.200,Cerebellum
+A08.186.211.132.810.428.200.212,Cerebellar Cortex
+A08.186.211.132.810.428.200.212.299,Cerebellar Vermis
+A08.186.211.132.810.428.200.212.600,Purkinje Cells
+A08.186.211.132.810.428.200.337,Cerebellar Nuclei
+A08.186.211.132.810.428.200.462,Cerebellopontine Angle
+A08.186.211.132.810.428.600,Pons
+A08.186.211.132.810.428.600.067,Barrington's Nucleus
+A08.186.211.132.810.428.600.135,Cochlear Nucleus
+A08.186.211.132.810.428.600.392,Kolliker-Fuse Nucleus
+A08.186.211.132.810.428.600.521,Middle Cerebellar Peduncle
+A08.186.211.132.810.428.600.650,Pontine Tegmentum
+A08.186.211.132.810.428.600.650.249,Abducens Nucleus
+A08.186.211.132.810.428.600.650.374,Facial Nucleus
+A08.186.211.132.810.428.600.650.437,Locus Coeruleus
+A08.186.211.132.810.428.600.650.500,Parabrachial Nucleus
+A08.186.211.132.810.428.600.650.562,Raphe Nuclei
+A08.186.211.132.810.428.600.650.562.500,Nucleus Raphe Magnus
+A08.186.211.132.810.428.600.650.625,Superior Olivary Complex
+A08.186.211.132.810.428.600.650.687,Trapezoid Body
+A08.186.211.132.810.428.600.650.718,Trigeminal Motor Nucleus
+A08.186.211.132.810.428.600.650.750,"Trigeminal Nucleus, Spinal"
+A08.186.211.132.810.428.600.800,Vestibular Nuclei
+A08.186.211.132.810.428.600.800.800,"Vestibular Nucleus, Lateral"
+A08.186.211.132.810.591,Myelencephalon
+A08.186.211.132.810.591.500,Medulla Oblongata
+A08.186.211.132.810.591.500.286,Area Postrema
+A08.186.211.132.810.591.500.574,Olivary Nucleus
+A08.186.211.132.810.591.500.662,Raphe Nuclei
+A08.186.211.132.810.591.500.662.436,Nucleus Raphe Obscurus
+A08.186.211.132.810.591.500.662.624,Nucleus Raphe Pallidus
+A08.186.211.132.810.591.500.750,Solitary Nucleus
+A08.186.211.132.810.591.500.875,"Trigeminal Nucleus, Spinal"
+A08.186.211.132.810.591.500.875.500,Trigeminal Caudal Nucleus
+A08.186.211.132.810.753,Tectospinal Fibers
+A08.186.211.132.931,Trigeminal Nuclei
+A08.186.211.132.931.459,Trigeminal Motor Nucleus
+A08.186.211.132.931.920,"Trigeminal Nucleus, Spinal"
+A08.186.211.132.931.920.927,Trigeminal Caudal Nucleus
+A08.186.211.168,Gray Matter
+A08.186.211.204,White Matter
+A08.186.211.276,Cerebral Ventricles
+A08.186.211.276.187,Cerebral Aqueduct
+A08.186.211.276.298,Choroid Plexus
+A08.186.211.276.460,Ependyma
+A08.186.211.276.500,Fourth Ventricle
+A08.186.211.276.650,Lateral Ventricles
+A08.186.211.276.814,Septum Pellucidum
+A08.186.211.276.840,Third Ventricle
+A08.186.211.464,Limbic System
+A08.186.211.464.090,Amygdala
+A08.186.211.464.090.500,Basolateral Nuclear Complex
+A08.186.211.464.090.750,Central Amygdaloid Nucleus
+A08.186.211.464.090.875,Corticomedial Nuclear Complex
+A08.186.211.464.090.875.500,Periamygdaloid Cortex
+A08.186.211.464.200,Epithalamus
+A08.186.211.464.200.360,Habenula
+A08.186.211.464.200.680,Pineal Gland
+A08.186.211.464.405,Hippocampus
+A08.186.211.464.405.099,"CA1 Region, Hippocampal"
+A08.186.211.464.405.149,"CA2 Region, Hippocampal"
+A08.186.211.464.405.174,"CA3 Region, Hippocampal"
+A08.186.211.464.405.200,Dentate Gyrus
+A08.186.211.464.405.200.500,"Mossy Fibers, Hippocampal"
+A08.186.211.464.405.600,"Fornix, Brain"
+A08.186.211.464.497,Hypothalamus
+A08.186.211.464.497.300,"Hypothalamic Area, Lateral"
+A08.186.211.464.497.342,"Hypothalamus, Anterior"
+A08.186.211.464.497.342.063,Anterior Hypothalamic Nucleus
+A08.186.211.464.497.342.231,Organum Vasculosum
+A08.186.211.464.497.342.400,Paraventricular Hypothalamic Nucleus
+A08.186.211.464.497.342.450,Preoptic Area
+A08.186.211.464.497.342.625,Suprachiasmatic Nucleus
+A08.186.211.464.497.342.625.500,Suprachiasmatic Nucleus Neurons
+A08.186.211.464.497.342.650,Supraoptic Nucleus
+A08.186.211.464.497.352,"Hypothalamus, Middle"
+A08.186.211.464.497.352.081,Arcuate Nucleus of Hypothalamus
+A08.186.211.464.497.352.270,Dorsomedial Hypothalamic Nucleus
+A08.186.211.464.497.352.435,Hypothalamo-Hypophyseal System
+A08.186.211.464.497.352.435.249,Median Eminence
+A08.186.211.464.497.352.435.500,Pituitary Gland
+A08.186.211.464.497.352.435.500.500,"Pituitary Gland, Anterior"
+A08.186.211.464.497.352.435.500.500.500,Corticotrophs
+A08.186.211.464.497.352.435.500.500.750,Gonadotrophs
+A08.186.211.464.497.352.435.500.500.812,Lactotrophs
+A08.186.211.464.497.352.435.500.500.937,Somatotrophs
+A08.186.211.464.497.352.435.500.500.968,Thyrotrophs
+A08.186.211.464.497.352.435.500.750,"Pituitary Gland, Intermediate"
+A08.186.211.464.497.352.435.500.750.500,Melanotrophs
+A08.186.211.464.497.352.435.500.875,"Pituitary Gland, Posterior"
+A08.186.211.464.497.352.870,Tuber Cinereum
+A08.186.211.464.497.352.953,Ventromedial Hypothalamic Nucleus
+A08.186.211.464.497.362,"Hypothalamus, Posterior"
+A08.186.211.464.497.362.500,Mammillary Bodies
+A08.186.211.464.590,Limbic Lobe
+A08.186.211.464.590.500,Gyrus Cinguli
+A08.186.211.464.590.750,Parahippocampal Gyrus
+A08.186.211.464.590.750.225,Entorhinal Cortex
+A08.186.211.464.590.750.612,Periamygdaloid Cortex
+A08.186.211.464.699,Olfactory Pathways
+A08.186.211.464.710,Parahippocampal Gyrus
+A08.186.211.464.710.225,Entorhinal Cortex
+A08.186.211.464.710.612,Periamygdaloid Cortex
+A08.186.211.464.730,Perforant Pathway
+A08.186.211.464.750,Septum of Brain
+A08.186.211.464.750.800,Septal Nuclei
+A08.186.211.464.750.900,Septum Pellucidum
+A08.186.211.464.820,Substantia Innominata
+A08.186.211.730,Prosencephalon
+A08.186.211.730.317,Diencephalon
+A08.186.211.730.317.200,Epithalamus
+A08.186.211.730.317.200.360,Habenula
+A08.186.211.730.317.200.620,Pineal Gland
+A08.186.211.730.317.357,Hypothalamus
+A08.186.211.730.317.357.300,"Hypothalamic Area, Lateral"
+A08.186.211.730.317.357.342,"Hypothalamus, Anterior"
+A08.186.211.730.317.357.342.063,Anterior Hypothalamic Nucleus
+A08.186.211.730.317.357.342.315,Organum Vasculosum
+A08.186.211.730.317.357.342.400,Paraventricular Hypothalamic Nucleus
+A08.186.211.730.317.357.342.450,Preoptic Area
+A08.186.211.730.317.357.342.625,Suprachiasmatic Nucleus
+A08.186.211.730.317.357.342.625.500,Suprachiasmatic Nucleus Neurons
+A08.186.211.730.317.357.342.650,Supraoptic Nucleus
+A08.186.211.730.317.357.352,"Hypothalamus, Middle"
+A08.186.211.730.317.357.352.081,Arcuate Nucleus of Hypothalamus
+A08.186.211.730.317.357.352.270,Dorsomedial Hypothalamic Nucleus
+A08.186.211.730.317.357.352.435,Hypothalamo-Hypophyseal System
+A08.186.211.730.317.357.352.435.249,Median Eminence
+A08.186.211.730.317.357.352.435.500,Pituitary Gland
+A08.186.211.730.317.357.352.435.500.500,"Pituitary Gland, Anterior"
+A08.186.211.730.317.357.352.435.500.500.500,Corticotrophs
+A08.186.211.730.317.357.352.435.500.500.750,Gonadotrophs
+A08.186.211.730.317.357.352.435.500.500.812,Lactotrophs
+A08.186.211.730.317.357.352.435.500.500.937,Somatotrophs
+A08.186.211.730.317.357.352.435.500.500.968,Thyrotrophs
+A08.186.211.730.317.357.352.435.500.750,"Pituitary Gland, Intermediate"
+A08.186.211.730.317.357.352.435.500.750.500,Melanotrophs
+A08.186.211.730.317.357.352.435.500.875,"Pituitary Gland, Posterior"
+A08.186.211.730.317.357.352.870,Tuber Cinereum
+A08.186.211.730.317.357.352.953,Ventromedial Hypothalamic Nucleus
+A08.186.211.730.317.357.362,"Hypothalamus, Posterior"
+A08.186.211.730.317.357.362.500,Mammillary Bodies
+A08.186.211.730.317.578,Optic Chiasm
+A08.186.211.730.317.689,Optic Tract
+A08.186.211.730.317.800,Subthalamus
+A08.186.211.730.317.800.240,Entopeduncular Nucleus
+A08.186.211.730.317.800.800,Subthalamic Nucleus
+A08.186.211.730.317.800.900,Zona Incerta
+A08.186.211.730.317.826,Thalamus
+A08.186.211.730.317.826.701,Thalamic Nuclei
+A08.186.211.730.317.826.701.080,Anterior Thalamic Nuclei
+A08.186.211.730.317.826.701.444,Geniculate Bodies
+A08.186.211.730.317.826.701.460,Intralaminar Thalamic Nuclei
+A08.186.211.730.317.826.701.485,Lateral Thalamic Nuclei
+A08.186.211.730.317.826.701.485.600,Pulvinar
+A08.186.211.730.317.826.701.490,Mediodorsal Thalamic Nucleus
+A08.186.211.730.317.826.701.500,Midline Thalamic Nuclei
+A08.186.211.730.317.826.701.700,Posterior Thalamic Nuclei
+A08.186.211.730.317.826.701.900,Ventral Thalamic Nuclei
+A08.186.211.730.885,Telencephalon
+A08.186.211.730.885.287,Cerebrum
+A08.186.211.730.885.287.249,Basal Ganglia
+A08.186.211.730.885.287.249.152,Amygdala
+A08.186.211.730.885.287.249.152.500,Basolateral Nuclear Complex
+A08.186.211.730.885.287.249.152.750,Central Amygdaloid Nucleus
+A08.186.211.730.885.287.249.152.875,Corticomedial Nuclear Complex
+A08.186.211.730.885.287.249.152.875.500,Periamygdaloid Cortex
+A08.186.211.730.885.287.249.487,Corpus Striatum
+A08.186.211.730.885.287.249.487.397,Globus Pallidus
+A08.186.211.730.885.287.249.487.550,Neostriatum
+A08.186.211.730.885.287.249.487.550.184,Caudate Nucleus
+A08.186.211.730.885.287.249.487.550.484,High Vocal Center
+A08.186.211.730.885.287.249.487.550.784,Putamen
+A08.186.211.730.885.287.249.487.775,Ventral Striatum
+A08.186.211.730.885.287.249.487.775.500,Nucleus Accumbens
+A08.186.211.730.885.287.249.487.775.750,Olfactory Tubercle
+A08.186.211.730.885.287.249.487.775.750.500,Islands of Calleja
+A08.186.211.730.885.287.249.880,Substantia Innominata
+A08.186.211.730.885.287.249.880.100,Basal Nucleus of Meynert
+A08.186.211.730.885.287.500,Cerebral Cortex
+A08.186.211.730.885.287.500.270,Frontal Lobe
+A08.186.211.730.885.287.500.270.548,Motor Cortex
+A08.186.211.730.885.287.500.270.700,Prefrontal Cortex
+A08.186.211.730.885.287.500.270.700.500,Broca Area
+A08.186.211.730.885.287.500.345,Hippocampus
+A08.186.211.730.885.287.500.345.099,"CA1 Region, Hippocampal"
+A08.186.211.730.885.287.500.345.149,"CA2 Region, Hippocampal"
+A08.186.211.730.885.287.500.345.174,"CA3 Region, Hippocampal"
+A08.186.211.730.885.287.500.345.200,Dentate Gyrus
+A08.186.211.730.885.287.500.345.200.500,"Mossy Fibers, Hippocampal"
+A08.186.211.730.885.287.500.345.600,"Fornix, Brain"
+A08.186.211.730.885.287.500.382,Limbic Lobe
+A08.186.211.730.885.287.500.382.500,Gyrus Cinguli
+A08.186.211.730.885.287.500.382.750,Parahippocampal Gyrus
+A08.186.211.730.885.287.500.382.750.225,Entorhinal Cortex
+A08.186.211.730.885.287.500.382.750.612,Periamygdaloid Cortex
+A08.186.211.730.885.287.500.420,Neocortex
+A08.186.211.730.885.287.500.571,Occipital Lobe
+A08.186.211.730.885.287.500.571.735,Visual Cortex
+A08.186.211.730.885.287.500.620,Olfactory Cortex
+A08.186.211.730.885.287.500.620.374,Basal Forebrain
+A08.186.211.730.885.287.500.620.374.500,Organum Vasculosum
+A08.186.211.730.885.287.500.620.562,Entorhinal Cortex
+A08.186.211.730.885.287.500.620.656,Olfactory Tubercle
+A08.186.211.730.885.287.500.620.656.500,Islands of Calleja
+A08.186.211.730.885.287.500.620.750,Piriform Cortex
+A08.186.211.730.885.287.500.670,Parietal Lobe
+A08.186.211.730.885.287.500.670.675,Somatosensory Cortex
+A08.186.211.730.885.287.500.670.837,Wernicke Area
+A08.186.211.730.885.287.500.814,Sensorimotor Cortex
+A08.186.211.730.885.287.500.814.249,Auditory Cortex
+A08.186.211.730.885.287.500.814.624,Motor Cortex
+A08.186.211.730.885.287.500.814.695,Olfactory Cortex
+A08.186.211.730.885.287.500.814.695.249,Basal Forebrain
+A08.186.211.730.885.287.500.814.695.374,Entorhinal Cortex
+A08.186.211.730.885.287.500.814.695.500,Olfactory Tubercle
+A08.186.211.730.885.287.500.814.695.500.500,Islands of Calleja
+A08.186.211.730.885.287.500.814.906,Somatosensory Cortex
+A08.186.211.730.885.287.500.814.953,Visual Cortex
+A08.186.211.730.885.287.500.863,Temporal Lobe
+A08.186.211.730.885.287.500.863.297,Auditory Cortex
+A08.186.211.730.885.287.500.863.574,Perirhinal Cortex
+A08.186.211.730.885.287.500.863.850,Wernicke Area
+A08.186.211.730.885.287.750,Olfactory Cortex
+A08.186.211.730.885.287.750.374,Basal Forebrain
+A08.186.211.730.885.287.750.562,Entorhinal Cortex
+A08.186.211.730.885.287.750.656,Olfactory Tubercle
+A08.186.211.730.885.287.750.656.500,Islands of Calleja
+A08.186.211.730.885.287.750.750,Piriform Cortex
+A08.186.211.730.885.380,Diagonal Band of Broca
+A08.186.211.730.885.385,External Capsule
+A08.186.211.730.885.388,Olfactory Bulb
+A08.186.211.730.885.390,Telencephalic Commissures
+A08.186.211.730.885.390.500,Anterior Cerebellar Commissure
+A08.186.211.730.885.390.750,Corpus Callosum
+A08.186.211.730.885.435,Internal Capsule
+A08.186.211.730.885.750,Septum of Brain
+A08.186.211.730.885.750.800,Septal Nuclei
+A08.186.211.730.885.750.814,Septum Pellucidum
+A08.186.566,Meninges
+A08.186.566.166,Arachnoid
+A08.186.566.166.686,Subarachnoid Space
+A08.186.566.166.686.351,Cisterna Magna
+A08.186.566.395,Dura Mater
+A08.186.566.395.687,Subdural Space
+A08.186.566.731,Pia Mater
+A08.186.854,Spinal Cord
+A08.186.854.126,Cervical Cord
+A08.186.854.253,Extrapyramidal Tracts
+A08.186.854.348,Gray Matter
+A08.186.854.443,Spinal Cord Lateral Horn
+A08.186.854.633,Pyramidal Tracts
+A08.186.854.697,Spinal Cord Dorsal Horn
+A08.186.854.697.500,Posterior Horn Cells
+A08.186.854.697.500.500,Substantia Gelatinosa
+A08.186.854.729,Spinal Cord Ventral Horn
+A08.186.854.729.500,Anterior Horn Cells
+A08.186.854.761,Spinothalamic Tracts
+A08.186.854.880,White Matter
+A08.340,Ganglia
+A08.340.315,"Ganglia, Autonomic"
+A08.340.315.300,"Ganglia, Parasympathetic"
+A08.340.315.350,"Ganglia, Sympathetic"
+A08.340.315.350.800,Stellate Ganglion
+A08.340.315.350.850,Superior Cervical Ganglion
+A08.340.352,"Ganglia, Invertebrate"
+A08.340.390,"Ganglia, Sensory"
+A08.340.390.340,"Ganglia, Spinal"
+A08.340.390.380,Geniculate Ganglion
+A08.340.390.550,Nodose Ganglion
+A08.340.390.800,Spiral Ganglion
+A08.340.390.850,Trigeminal Ganglion
+A08.340.685,"Satellite Cells, Perineuronal"
+A08.511,Nerve Net
+A08.511.500,Central Pattern Generators
+A08.612,Neural Pathways
+A08.612.220,Afferent Pathways
+A08.612.220.110,Auditory Pathways
+A08.612.220.640,Olfactory Pathways
+A08.612.220.725,Spinocerebellar Tracts
+A08.612.220.735,Spinothalamic Tracts
+A08.612.220.830,Visceral Afferents
+A08.612.220.860,Visual Pathways
+A08.612.380,Efferent Pathways
+A08.612.380.239,Extrapyramidal Tracts
+A08.612.380.730,Pyramidal Tracts
+A08.612.435,Internal Capsule
+A08.612.492,Medial Forebrain Bundle
+A08.612.600,Perforant Pathway
+A08.637,Neuroglia
+A08.637.200,Astrocytes
+A08.637.300,Ependymoglial Cells
+A08.637.400,Microglia
+A08.637.500,Neuropil
+A08.637.500.550,Neuropil Threads
+A08.637.550,Oligodendrocyte Precursor Cells
+A08.637.600,Oligodendroglia
+A08.637.600.500,Myelin Sheath
+A08.637.685,"Satellite Cells, Perineuronal"
+A08.637.800,Schwann Cells
+A08.637.800.500,Myelin Sheath
+A08.637.800.500.550,Neurilemma
+A08.637.800.500.700,Ranvier's Nodes
+A08.675,Neurons
+A08.675.100,Adrenergic Neurons
+A08.675.100.500,Adrenergic Fibers
+A08.675.127,Cholinergic Neurons
+A08.675.127.500,Cholinergic Fibers
+A08.675.127.500.060,"Autonomic Fibers, Preganglionic"
+A08.675.127.500.700,"Parasympathetic Fibers, Postganglionic"
+A08.675.256,Dendrites
+A08.675.256.200,Dendritic Spines
+A08.675.256.500,Neurites
+A08.675.278,Dopaminergic Neurons
+A08.675.289,GABAergic Neurons
+A08.675.324,Grid Cells
+A08.675.358,Interneurons
+A08.675.358.050,Amacrine Cells
+A08.675.358.350,Commissural Interneurons
+A08.675.358.650,Renshaw Cells
+A08.675.358.700,Retinal Bipolar Cells
+A08.675.460,Lewy Bodies
+A08.675.500,Mirror Neurons
+A08.675.542,Nerve Fibers
+A08.675.542.075,Adrenergic Fibers
+A08.675.542.075.800,"Sympathetic Fibers, Postganglionic"
+A08.675.542.100,"Autonomic Fibers, Postganglionic"
+A08.675.542.100.700,"Parasympathetic Fibers, Postganglionic"
+A08.675.542.100.800,"Sympathetic Fibers, Postganglionic"
+A08.675.542.145,Axons
+A08.675.542.145.250,Axon Initial Segment
+A08.675.542.145.500,Neurites
+A08.675.542.145.750,Presynaptic Terminals
+A08.675.542.145.750.500,"Mossy Fibers, Hippocampal"
+A08.675.542.234,Cholinergic Fibers
+A08.675.542.234.060,"Autonomic Fibers, Preganglionic"
+A08.675.542.234.700,"Parasympathetic Fibers, Postganglionic"
+A08.675.542.512,"Nerve Fibers, Myelinated"
+A08.675.542.512.560,Myelin Sheath
+A08.675.542.512.560.550,Neurilemma
+A08.675.542.512.560.700,Ranvier's Nodes
+A08.675.542.756,"Nerve Fibers, Unmyelinated"
+A08.675.575,Neural Analyzers
+A08.675.609,Neurofibrils
+A08.675.609.520,Neurofibrillary Tangles
+A08.675.650,"Neurons, Afferent"
+A08.675.650.250,"Hair Cells, Auditory"
+A08.675.650.250.250,"Hair Cells, Auditory, Inner"
+A08.675.650.250.315,"Hair Cells, Auditory, Outer"
+A08.675.650.395,"Hair Cells, Vestibular"
+A08.675.650.675,Posterior Horn Cells
+A08.675.650.675.800,Substantia Gelatinosa
+A08.675.650.850,Retinal Neurons
+A08.675.650.850.500,Amacrine Cells
+A08.675.650.850.625,Photoreceptor Cells
+A08.675.650.850.625.660,"Photoreceptor Cells, Invertebrate"
+A08.675.650.850.625.670,"Photoreceptor Cells, Vertebrate"
+A08.675.650.850.625.670.049,Photoreceptor Connecting Cilium
+A08.675.650.850.625.670.100,Retinal Cone Photoreceptor Cells
+A08.675.650.850.625.670.237,Retinal Photoreceptor Cell Inner Segment
+A08.675.650.850.625.670.375,Retinal Photoreceptor Cell Outer Segment
+A08.675.650.850.625.670.375.500,Rod Cell Outer Segment
+A08.675.650.850.625.670.650,Retinal Rod Photoreceptor Cells
+A08.675.650.850.625.670.650.650,Rod Cell Outer Segment
+A08.675.650.850.750,Retinal Bipolar Cells
+A08.675.650.850.875,Retinal Ganglion Cells
+A08.675.650.850.937,Retinal Horizontal Cells
+A08.675.650.915,Sensory Receptor Cells
+A08.675.650.915.500,Chemoreceptor Cells
+A08.675.650.915.500.530,Neuroepithelial Cells
+A08.675.650.915.500.530.550,Neuroepithelial Bodies
+A08.675.650.915.500.540,Olfactory Receptor Neurons
+A08.675.650.915.500.600,"Paraganglia, Nonchromaffin"
+A08.675.650.915.500.600.050,Aortic Bodies
+A08.675.650.915.500.600.150,Carotid Body
+A08.675.650.915.500.600.350,Glomus Jugulare
+A08.675.650.915.500.600.360,Glomus Tympanicum
+A08.675.650.915.500.800,Taste Buds
+A08.675.650.915.750,Mechanoreceptors
+A08.675.650.915.750.300,Golgi-Mazzoni Corpuscles
+A08.675.650.915.750.425,Merkel Cells
+A08.675.650.915.750.500,Muscle Spindles
+A08.675.650.915.750.600,Neuroepithelial Cells
+A08.675.650.915.750.600.350,"Hair Cells, Auditory"
+A08.675.650.915.750.600.350.350,"Hair Cells, Auditory, Inner"
+A08.675.650.915.750.600.350.365,"Hair Cells, Auditory, Outer"
+A08.675.650.915.750.600.675,"Hair Cells, Vestibular"
+A08.675.650.915.750.700,Pacinian Corpuscles
+A08.675.650.915.750.750,Pressoreceptors
+A08.675.650.915.750.780,Pulmonary Stretch Receptors
+A08.675.650.915.875,Nociceptors
+A08.675.650.915.937,Photoreceptor Cells
+A08.675.650.915.937.650,"Photoreceptor Cells, Invertebrate"
+A08.675.650.915.937.670,"Photoreceptor Cells, Vertebrate"
+A08.675.650.915.937.670.049,Photoreceptor Connecting Cilium
+A08.675.650.915.937.670.100,Retinal Cone Photoreceptor Cells
+A08.675.650.915.937.670.237,Retinal Photoreceptor Cell Inner Segment
+A08.675.650.915.937.670.375,Retinal Photoreceptor Cell Outer Segment
+A08.675.650.915.937.670.375.500,Rod Cell Outer Segment
+A08.675.650.915.937.670.650,Retinal Rod Photoreceptor Cells
+A08.675.650.915.937.670.650.650,Rod Cell Outer Segment
+A08.675.650.915.968,Thermoreceptors
+A08.675.655,"Neurons, Efferent"
+A08.675.655.500,Motor Neurons
+A08.675.655.500.050,Anterior Horn Cells
+A08.675.655.500.525,"Motor Neurons, Gamma"
+A08.675.703,Neuropil
+A08.675.703.550,Neuropil Threads
+A08.675.712,Nissl Bodies
+A08.675.748,Nitrergic Neurons
+A08.675.784,Purkinje Cells
+A08.675.790,Pyramidal Cells
+A08.675.790.500,Place Cells
+A08.675.895,Serotonergic Neurons
+A08.675.947,Suprachiasmatic Nucleus Neurons
+A08.713,Neurosecretory Systems
+A08.713.049,Circumventricular Organs
+A08.713.049.500,Area Postrema
+A08.713.049.750,Median Eminence
+A08.713.049.875,"Pituitary Gland, Posterior"
+A08.713.049.937,Subcommissural Organ
+A08.713.049.968,Subfornical Organ
+A08.713.100,Corpora Allata
+A08.713.228,Glomus Tympanicum
+A08.713.357,Hypothalamo-Hypophyseal System
+A08.713.357.500,Median Eminence
+A08.713.357.750,Pituitary Gland
+A08.713.357.750.500,"Pituitary Gland, Anterior"
+A08.713.357.750.500.500,Corticotrophs
+A08.713.357.750.500.750,Gonadotrophs
+A08.713.357.750.500.812,Lactotrophs
+A08.713.357.750.500.937,Somatotrophs
+A08.713.357.750.500.968,Thyrotrophs
+A08.713.357.750.750,"Pituitary Gland, Intermediate"
+A08.713.357.750.750.500,Melanotrophs
+A08.713.357.750.875,"Pituitary Gland, Posterior"
+A08.713.733,Pineal Gland
+A08.800,Peripheral Nervous System
+A08.800.050,Autonomic Nervous System
+A08.800.050.050,Autonomic Pathways
+A08.800.050.050.050,"Autonomic Fibers, Postganglionic"
+A08.800.050.050.050.700,"Parasympathetic Fibers, Postganglionic"
+A08.800.050.050.050.800,"Sympathetic Fibers, Postganglionic"
+A08.800.050.050.060,"Autonomic Fibers, Preganglionic"
+A08.800.050.050.150,Celiac Plexus
+A08.800.050.050.275,Facial Nerve
+A08.800.050.050.337,Glossopharyngeal Nerve
+A08.800.050.050.400,Hypogastric Plexus
+A08.800.050.050.500,Myenteric Plexus
+A08.800.050.050.650,Oculomotor Nerve
+A08.800.050.050.800,Splanchnic Nerves
+A08.800.050.050.850,Submucous Plexus
+A08.800.050.050.925,Vagus Nerve
+A08.800.050.050.925.450,Laryngeal Nerves
+A08.800.050.050.925.450.700,Recurrent Laryngeal Nerve
+A08.800.050.050.925.550,Nodose Ganglion
+A08.800.050.150,Enteric Nervous System
+A08.800.050.150.500,Myenteric Plexus
+A08.800.050.150.750,Submucous Plexus
+A08.800.050.300,"Ganglia, Autonomic"
+A08.800.050.300.250,"Ganglia, Parasympathetic"
+A08.800.050.300.300,"Ganglia, Sympathetic"
+A08.800.050.300.300.800,Stellate Ganglion
+A08.800.050.300.300.850,Superior Cervical Ganglion
+A08.800.050.600,Parasympathetic Nervous System
+A08.800.050.600.149,Facial Nerve
+A08.800.050.600.300,"Ganglia, Parasympathetic"
+A08.800.050.600.387,Glossopharyngeal Nerve
+A08.800.050.600.475,Oculomotor Nerve
+A08.800.050.600.650,"Parasympathetic Fibers, Postganglionic"
+A08.800.050.600.825,Vagus Nerve
+A08.800.050.600.825.450,Laryngeal Nerves
+A08.800.050.600.825.450.700,Recurrent Laryngeal Nerve
+A08.800.050.600.825.550,Nodose Ganglion
+A08.800.050.800,Sympathetic Nervous System
+A08.800.050.800.300,"Ganglia, Sympathetic"
+A08.800.050.800.300.800,Stellate Ganglion
+A08.800.050.800.300.850,Superior Cervical Ganglion
+A08.800.050.800.800,Splanchnic Nerves
+A08.800.050.800.900,Vasomotor System
+A08.800.050.800.900.700,Pressoreceptors
+A08.800.350,"Ganglia, Sensory"
+A08.800.350.340,"Ganglia, Spinal"
+A08.800.350.380,Geniculate Ganglion
+A08.800.350.550,Nodose Ganglion
+A08.800.350.800,Spiral Ganglion
+A08.800.350.850,Trigeminal Ganglion
+A08.800.550,Nerve Endings
+A08.800.550.550,Neuroeffector Junction
+A08.800.550.550.550,Neuromuscular Junction
+A08.800.550.550.550.500,Motor Endplate
+A08.800.800,Peripheral Nerves
+A08.800.800.060,Autonomic Pathways
+A08.800.800.060.050,"Autonomic Fibers, Postganglionic"
+A08.800.800.060.050.700,"Parasympathetic Fibers, Postganglionic"
+A08.800.800.060.050.800,"Sympathetic Fibers, Postganglionic"
+A08.800.800.060.060,"Autonomic Fibers, Preganglionic"
+A08.800.800.060.150,Celiac Plexus
+A08.800.800.060.275,Facial Nerve
+A08.800.800.060.337,Glossopharyngeal Nerve
+A08.800.800.060.400,Hypogastric Plexus
+A08.800.800.060.500,Myenteric Plexus
+A08.800.800.060.650,Oculomotor Nerve
+A08.800.800.060.800,Splanchnic Nerves
+A08.800.800.060.840,Submucous Plexus
+A08.800.800.060.920,Vagus Nerve
+A08.800.800.060.920.450,Laryngeal Nerves
+A08.800.800.060.920.450.700,Recurrent Laryngeal Nerve
+A08.800.800.060.920.550,Nodose Ganglion
+A08.800.800.090,Blood-Nerve Barrier
+A08.800.800.120,Cranial Nerves
+A08.800.800.120.030,Abducens Nerve
+A08.800.800.120.060,Accessory Nerve
+A08.800.800.120.250,Facial Nerve
+A08.800.800.120.250.120,Chorda Tympani Nerve
+A08.800.800.120.250.280,Geniculate Ganglion
+A08.800.800.120.290,Glossopharyngeal Nerve
+A08.800.800.120.330,Hypoglossal Nerve
+A08.800.800.120.600,Oculomotor Nerve
+A08.800.800.120.640,Olfactory Nerve
+A08.800.800.120.680,Optic Nerve
+A08.800.800.120.680.600,Optic Chiasm
+A08.800.800.120.680.660,Optic Disk
+A08.800.800.120.760,Trigeminal Nerve
+A08.800.800.120.760.500,Mandibular Nerve
+A08.800.800.120.760.500.450,Lingual Nerve
+A08.800.800.120.760.550,Maxillary Nerve
+A08.800.800.120.760.650,Ophthalmic Nerve
+A08.800.800.120.760.825,Trigeminal Ganglion
+A08.800.800.120.800,Trochlear Nerve
+A08.800.800.120.900,Vagus Nerve
+A08.800.800.120.900.450,Laryngeal Nerves
+A08.800.800.120.900.450.700,Recurrent Laryngeal Nerve
+A08.800.800.120.900.550,Nodose Ganglion
+A08.800.800.120.910,Vestibulocochlear Nerve
+A08.800.800.120.910.120,Cochlear Nerve
+A08.800.800.120.910.120.800,Spiral Ganglion
+A08.800.800.120.910.900,Vestibular Nerve
+A08.800.800.690,Schwann Cells
+A08.800.800.690.500,Myelin Sheath
+A08.800.800.690.500.550,Neurilemma
+A08.800.800.690.500.700,Ranvier's Nodes
+A08.800.800.720,Spinal Nerves
+A08.800.800.720.050,Brachial Plexus
+A08.800.800.720.050.500,Median Nerve
+A08.800.800.720.050.540,Musculocutaneous Nerve
+A08.800.800.720.050.700,Radial Nerve
+A08.800.800.720.050.850,Ulnar Nerve
+A08.800.800.720.150,Cervical Plexus
+A08.800.800.720.150.700,Phrenic Nerve
+A08.800.800.720.450,Lumbosacral Plexus
+A08.800.800.720.450.250,Femoral Nerve
+A08.800.800.720.450.600,Obturator Nerve
+A08.800.800.720.450.680,Pudendal Nerve
+A08.800.800.720.450.760,Sciatic Nerve
+A08.800.800.720.450.760.640,Peroneal Nerve
+A08.800.800.720.450.760.820,Tibial Nerve
+A08.800.800.720.450.760.820.820,Sural Nerve
+A08.800.800.720.725,Spinal Nerve Roots
+A08.800.800.720.725.150,Cauda Equina
+A08.800.800.720.725.350,"Ganglia, Spinal"
+A08.800.800.720.800,Thoracic Nerves
+A08.800.800.720.800.350,Intercostal Nerves
+A08.800.950,Sensory Receptor Cells
+A08.800.950.500,Chemoreceptor Cells
+A08.800.950.500.530,Neuroepithelial Cells
+A08.800.950.500.530.550,Neuroepithelial Bodies
+A08.800.950.500.540,Olfactory Receptor Neurons
+A08.800.950.500.600,"Paraganglia, Nonchromaffin"
+A08.800.950.500.600.050,Aortic Bodies
+A08.800.950.500.600.150,Carotid Body
+A08.800.950.500.600.350,Glomus Jugulare
+A08.800.950.500.600.360,Glomus Tympanicum
+A08.800.950.500.800,Taste Buds
+A08.800.950.750,Mechanoreceptors
+A08.800.950.750.300,Golgi-Mazzoni Corpuscles
+A08.800.950.750.425,Merkel Cells
+A08.800.950.750.500,Muscle Spindles
+A08.800.950.750.600,Neuroepithelial Cells
+A08.800.950.750.600.350,"Hair Cells, Auditory"
+A08.800.950.750.600.350.350,"Hair Cells, Auditory, Inner"
+A08.800.950.750.600.350.365,"Hair Cells, Auditory, Outer"
+A08.800.950.750.600.675,"Hair Cells, Vestibular"
+A08.800.950.750.700,Pacinian Corpuscles
+A08.800.950.750.750,Pressoreceptors
+A08.800.950.750.780,Pulmonary Stretch Receptors
+A08.800.950.875,Nociceptors
+A08.800.950.937,Photoreceptor Cells
+A08.800.950.937.650,"Photoreceptor Cells, Invertebrate"
+A08.800.950.937.670,"Photoreceptor Cells, Vertebrate"
+A08.800.950.937.670.049,Photoreceptor Connecting Cilium
+A08.800.950.937.670.100,Retinal Cone Photoreceptor Cells
+A08.800.950.937.670.237,Retinal Photoreceptor Cell Inner Segment
+A08.800.950.937.670.375,Retinal Photoreceptor Cell Outer Segment
+A08.800.950.937.670.375.500,Rod Cell Outer Segment
+A08.800.950.937.670.650,Retinal Rod Photoreceptor Cells
+A08.800.950.937.670.650.650,Rod Cell Outer Segment
+A08.800.950.968,Thermoreceptors
+A08.850,Synapses
+A08.850.180,Electrical Synapses
+A08.850.550,Neuroeffector Junction
+A08.850.550.550,Neuromuscular Junction
+A08.850.550.550.500,Motor Endplate
+A08.850.700,Presynaptic Terminals
+A08.850.700.500,"Mossy Fibers, Hippocampal"
+A08.850.800,Synaptic Membranes
+A08.850.800.500,Post-Synaptic Density
+A08.850.840,Synaptic Vesicles

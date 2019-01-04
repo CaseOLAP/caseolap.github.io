@@ -1,0 +1,200 @@
+id,value
+Parasitic Diseases,C03
+Parasitic Diseases.Central Nervous System Parasitic Infections,C03.105
+Parasitic Diseases.Central Nervous System Parasitic Infections.Central Nervous System Helminthiasis,C03.105.250
+Parasitic Diseases.Central Nervous System Parasitic Infections.Central Nervous System Helminthiasis.Neurocysticercosis,C03.105.250.550
+Parasitic Diseases.Central Nervous System Parasitic Infections.Central Nervous System Helminthiasis.Neuroschistosomiasis,C03.105.250.600
+Parasitic Diseases.Central Nervous System Parasitic Infections.Central Nervous System Protozoal Infections,C03.105.300
+"Parasitic Diseases.Central Nervous System Parasitic Infections.Central Nervous System Protozoal Infections.Malaria, Cerebral",C03.105.300.500
+"Parasitic Diseases.Central Nervous System Parasitic Infections.Central Nervous System Protozoal Infections.Toxoplasmosis, Cerebral",C03.105.300.800
+Parasitic Diseases.Coinfection,C03.202
+"Parasitic Diseases.Eye Infections, Parasitic",C03.300
+"Parasitic Diseases.Eye Infections, Parasitic.Acanthamoeba Keratitis",C03.300.125
+"Parasitic Diseases.Eye Infections, Parasitic.Onchocerciasis, Ocular",C03.300.562
+"Parasitic Diseases.Eye Infections, Parasitic.Toxoplasmosis, Ocular",C03.300.781
+Parasitic Diseases.Helminthiasis,C03.335
+Parasitic Diseases.Helminthiasis.Cestode Infections,C03.335.190
+Parasitic Diseases.Helminthiasis.Cestode Infections.Diphyllobothriasis,C03.335.190.304
+Parasitic Diseases.Helminthiasis.Cestode Infections.Diphyllobothriasis.Sparganosis,C03.335.190.304.780
+Parasitic Diseases.Helminthiasis.Cestode Infections.Echinococcosis,C03.335.190.396
+"Parasitic Diseases.Helminthiasis.Cestode Infections.Echinococcosis.Echinococcosis, Hepatic",C03.335.190.396.314
+"Parasitic Diseases.Helminthiasis.Cestode Infections.Echinococcosis.Echinococcosis, Pulmonary",C03.335.190.396.480
+Parasitic Diseases.Helminthiasis.Cestode Infections.Hymenolepiasis,C03.335.190.519
+Parasitic Diseases.Helminthiasis.Cestode Infections.Monieziasis,C03.335.190.628
+Parasitic Diseases.Helminthiasis.Cestode Infections.Taeniasis,C03.335.190.902
+Parasitic Diseases.Helminthiasis.Cestode Infections.Taeniasis.Cysticercosis,C03.335.190.902.185
+Parasitic Diseases.Helminthiasis.Cestode Infections.Taeniasis.Cysticercosis.Neurocysticercosis,C03.335.190.902.185.550
+"Parasitic Diseases.Helminthiasis.Helminthiasis, Animal",C03.335.349
+"Parasitic Diseases.Helminthiasis.Helminthiasis, Animal.Dictyocaulus Infections",C03.335.349.315
+"Parasitic Diseases.Helminthiasis.Helminthiasis, Animal.Dirofilariasis",C03.335.349.320
+"Parasitic Diseases.Helminthiasis.Helminthiasis, Animal.Fascioloidiasis",C03.335.349.444
+"Parasitic Diseases.Helminthiasis.Helminthiasis, Animal.Monieziasis",C03.335.349.656
+"Parasitic Diseases.Helminthiasis.Helminthiasis, Animal.Setariasis",C03.335.349.820
+"Parasitic Diseases.Helminthiasis.Helminthiasis, Animal.Strongyle Infections, Equine",C03.335.349.840
+"Parasitic Diseases.Helminthiasis.Helminthiasis, Animal.Toxocariasis",C03.335.349.868
+Parasitic Diseases.Helminthiasis.Nematode Infections,C03.335.508
+Parasitic Diseases.Helminthiasis.Nematode Infections.Adenophorea Infections,C03.335.508.100
+Parasitic Diseases.Helminthiasis.Nematode Infections.Adenophorea Infections.Enoplida Infections,C03.335.508.100.275
+Parasitic Diseases.Helminthiasis.Nematode Infections.Adenophorea Infections.Enoplida Infections.Trichinellosis,C03.335.508.100.275.882
+Parasitic Diseases.Helminthiasis.Nematode Infections.Adenophorea Infections.Enoplida Infections.Trichuriasis,C03.335.508.100.275.895
+Parasitic Diseases.Helminthiasis.Nematode Infections.Larva Migrans,C03.335.508.523
+"Parasitic Diseases.Helminthiasis.Nematode Infections.Larva Migrans.Larva Migrans, Visceral",C03.335.508.523.780
+Parasitic Diseases.Helminthiasis.Nematode Infections.Secernentea Infections,C03.335.508.700
+Parasitic Diseases.Helminthiasis.Nematode Infections.Secernentea Infections.Ascaridida Infections,C03.335.508.700.100
+Parasitic Diseases.Helminthiasis.Nematode Infections.Secernentea Infections.Ascaridida Infections.Anisakiasis,C03.335.508.700.100.060
+Parasitic Diseases.Helminthiasis.Nematode Infections.Secernentea Infections.Ascaridida Infections.Ascariasis,C03.335.508.700.100.070
+Parasitic Diseases.Helminthiasis.Nematode Infections.Secernentea Infections.Ascaridida Infections.Ascaridiasis,C03.335.508.700.100.080
+Parasitic Diseases.Helminthiasis.Nematode Infections.Secernentea Infections.Ascaridida Infections.Toxascariasis,C03.335.508.700.100.850
+Parasitic Diseases.Helminthiasis.Nematode Infections.Secernentea Infections.Ascaridida Infections.Toxocariasis,C03.335.508.700.100.868
+"Parasitic Diseases.Helminthiasis.Nematode Infections.Secernentea Infections.Ascaridida Infections.Toxocariasis.Larva Migrans, Visceral",C03.335.508.700.100.868.420
+Parasitic Diseases.Helminthiasis.Nematode Infections.Secernentea Infections.Oxyurida Infections,C03.335.508.700.550
+Parasitic Diseases.Helminthiasis.Nematode Infections.Secernentea Infections.Oxyurida Infections.Oxyuriasis,C03.335.508.700.550.550
+Parasitic Diseases.Helminthiasis.Nematode Infections.Secernentea Infections.Oxyurida Infections.Oxyuriasis.Enterobiasis,C03.335.508.700.550.550.375
+Parasitic Diseases.Helminthiasis.Nematode Infections.Secernentea Infections.Rhabditida Infections,C03.335.508.700.700
+Parasitic Diseases.Helminthiasis.Nematode Infections.Secernentea Infections.Rhabditida Infections.Strongyloidiasis,C03.335.508.700.700.799
+Parasitic Diseases.Helminthiasis.Nematode Infections.Secernentea Infections.Spirurida Infections,C03.335.508.700.750
+Parasitic Diseases.Helminthiasis.Nematode Infections.Secernentea Infections.Spirurida Infections.Dracunculiasis,C03.335.508.700.750.299
+Parasitic Diseases.Helminthiasis.Nematode Infections.Secernentea Infections.Spirurida Infections.Filariasis,C03.335.508.700.750.361
+Parasitic Diseases.Helminthiasis.Nematode Infections.Secernentea Infections.Spirurida Infections.Filariasis.Acanthocheilonemiasis,C03.335.508.700.750.361.137
+Parasitic Diseases.Helminthiasis.Nematode Infections.Secernentea Infections.Spirurida Infections.Filariasis.Dipetalonema Infections,C03.335.508.700.750.361.275
+Parasitic Diseases.Helminthiasis.Nematode Infections.Secernentea Infections.Spirurida Infections.Filariasis.Dirofilariasis,C03.335.508.700.750.361.290
+"Parasitic Diseases.Helminthiasis.Nematode Infections.Secernentea Infections.Spirurida Infections.Filariasis.Elephantiasis, Filarial",C03.335.508.700.750.361.350
+Parasitic Diseases.Helminthiasis.Nematode Infections.Secernentea Infections.Spirurida Infections.Filariasis.Loiasis,C03.335.508.700.750.361.518
+Parasitic Diseases.Helminthiasis.Nematode Infections.Secernentea Infections.Spirurida Infections.Filariasis.Mansonelliasis,C03.335.508.700.750.361.588
+Parasitic Diseases.Helminthiasis.Nematode Infections.Secernentea Infections.Spirurida Infections.Filariasis.Onchocerciasis,C03.335.508.700.750.361.699
+"Parasitic Diseases.Helminthiasis.Nematode Infections.Secernentea Infections.Spirurida Infections.Filariasis.Onchocerciasis.Onchocerciasis, Ocular",C03.335.508.700.750.361.699.500
+Parasitic Diseases.Helminthiasis.Nematode Infections.Secernentea Infections.Spirurida Infections.Filariasis.Setariasis,C03.335.508.700.750.361.852
+Parasitic Diseases.Helminthiasis.Nematode Infections.Secernentea Infections.Spirurida Infections.Gnathostomiasis,C03.335.508.700.750.380
+Parasitic Diseases.Helminthiasis.Nematode Infections.Secernentea Infections.Strongylida Infections,C03.335.508.700.775
+Parasitic Diseases.Helminthiasis.Nematode Infections.Secernentea Infections.Strongylida Infections.Hookworm Infections,C03.335.508.700.775.455
+Parasitic Diseases.Helminthiasis.Nematode Infections.Secernentea Infections.Strongylida Infections.Hookworm Infections.Ancylostomiasis,C03.335.508.700.775.455.154
+Parasitic Diseases.Helminthiasis.Nematode Infections.Secernentea Infections.Strongylida Infections.Hookworm Infections.Necatoriasis,C03.335.508.700.775.455.683
+Parasitic Diseases.Helminthiasis.Nematode Infections.Secernentea Infections.Strongylida Infections.Oesophagostomiasis,C03.335.508.700.775.583
+"Parasitic Diseases.Helminthiasis.Nematode Infections.Secernentea Infections.Strongylida Infections.Strongyle Infections, Equine",C03.335.508.700.775.773
+Parasitic Diseases.Helminthiasis.Nematode Infections.Secernentea Infections.Strongylida Infections.Trichostrongyloidiasis,C03.335.508.700.775.825
+Parasitic Diseases.Helminthiasis.Nematode Infections.Secernentea Infections.Strongylida Infections.Trichostrongyloidiasis.Dictyocaulus Infections,C03.335.508.700.775.825.315
+Parasitic Diseases.Helminthiasis.Nematode Infections.Secernentea Infections.Strongylida Infections.Trichostrongyloidiasis.Haemonchiasis,C03.335.508.700.775.825.400
+Parasitic Diseases.Helminthiasis.Nematode Infections.Secernentea Infections.Strongylida Infections.Trichostrongyloidiasis.Ostertagiasis,C03.335.508.700.775.825.580
+Parasitic Diseases.Helminthiasis.Nematode Infections.Secernentea Infections.Strongylida Infections.Trichostrongyloidiasis.Trichostrongylosis,C03.335.508.700.775.825.842
+Parasitic Diseases.Helminthiasis.Trematode Infections,C03.335.865
+Parasitic Diseases.Helminthiasis.Trematode Infections.Clonorchiasis,C03.335.865.148
+Parasitic Diseases.Helminthiasis.Trematode Infections.Dicrocoeliasis,C03.335.865.224
+Parasitic Diseases.Helminthiasis.Trematode Infections.Echinostomiasis,C03.335.865.282
+Parasitic Diseases.Helminthiasis.Trematode Infections.Fascioliasis,C03.335.865.354
+Parasitic Diseases.Helminthiasis.Trematode Infections.Fascioloidiasis,C03.335.865.399
+Parasitic Diseases.Helminthiasis.Trematode Infections.Opisthorchiasis,C03.335.865.685
+Parasitic Diseases.Helminthiasis.Trematode Infections.Paragonimiasis,C03.335.865.741
+Parasitic Diseases.Helminthiasis.Trematode Infections.Schistosomiasis,C03.335.865.859
+Parasitic Diseases.Helminthiasis.Trematode Infections.Schistosomiasis.Neuroschistosomiasis,C03.335.865.859.213
+Parasitic Diseases.Helminthiasis.Trematode Infections.Schistosomiasis.Schistosomiasis haematobia,C03.335.865.859.427
+Parasitic Diseases.Helminthiasis.Trematode Infections.Schistosomiasis.Schistosomiasis japonica,C03.335.865.859.521
+Parasitic Diseases.Helminthiasis.Trematode Infections.Schistosomiasis.Schistosomiasis mansoni,C03.335.865.859.576
+"Parasitic Diseases.Intestinal Diseases, Parasitic",C03.432
+"Parasitic Diseases.Intestinal Diseases, Parasitic.Anisakiasis",C03.432.060
+"Parasitic Diseases.Intestinal Diseases, Parasitic.Balantidiasis",C03.432.146
+"Parasitic Diseases.Intestinal Diseases, Parasitic.Blastocystis Infections",C03.432.250
+"Parasitic Diseases.Intestinal Diseases, Parasitic.Cryptosporidiosis",C03.432.269
+"Parasitic Diseases.Intestinal Diseases, Parasitic.Dientamoebiasis",C03.432.275
+"Parasitic Diseases.Intestinal Diseases, Parasitic.Dysentery, Amebic",C03.432.396
+"Parasitic Diseases.Intestinal Diseases, Parasitic.Giardiasis",C03.432.481
+"Parasitic Diseases.Liver Diseases, Parasitic",C03.518
+"Parasitic Diseases.Liver Diseases, Parasitic.Echinococcosis, Hepatic",C03.518.314
+"Parasitic Diseases.Liver Diseases, Parasitic.Fascioliasis",C03.518.424
+"Parasitic Diseases.Liver Diseases, Parasitic.Liver Abscess, Amebic",C03.518.600
+"Parasitic Diseases.Lung Diseases, Parasitic",C03.582
+"Parasitic Diseases.Lung Diseases, Parasitic.Echinococcosis, Pulmonary",C03.582.314
+Parasitic Diseases.Mesomycetozoea Infections,C03.600
+Parasitic Diseases.Mesomycetozoea Infections.Rhinosporidiosis,C03.600.700
+Parasitic Diseases.Opportunistic Infections,C03.684
+Parasitic Diseases.Opportunistic Infections.AIDS-Related Opportunistic Infections,C03.684.050
+Parasitic Diseases.Opportunistic Infections.Superinfection,C03.684.880
+Parasitic Diseases.Parasitemia,C03.695
+"Parasitic Diseases.Parasitic Diseases, Animal",C03.701
+"Parasitic Diseases.Parasitic Diseases, Animal.Helminthiasis, Animal",C03.701.377
+"Parasitic Diseases.Parasitic Diseases, Animal.Helminthiasis, Animal.Dictyocaulus Infections",C03.701.377.315
+"Parasitic Diseases.Parasitic Diseases, Animal.Helminthiasis, Animal.Dirofilariasis",C03.701.377.320
+"Parasitic Diseases.Parasitic Diseases, Animal.Helminthiasis, Animal.Fascioloidiasis",C03.701.377.444
+"Parasitic Diseases.Parasitic Diseases, Animal.Helminthiasis, Animal.Monieziasis",C03.701.377.656
+"Parasitic Diseases.Parasitic Diseases, Animal.Helminthiasis, Animal.Setariasis",C03.701.377.820
+"Parasitic Diseases.Parasitic Diseases, Animal.Helminthiasis, Animal.Strongyle Infections, Equine",C03.701.377.840
+"Parasitic Diseases.Parasitic Diseases, Animal.Helminthiasis, Animal.Toxocariasis",C03.701.377.868
+"Parasitic Diseases.Parasitic Diseases, Animal.Protozoan Infections, Animal",C03.701.688
+"Parasitic Diseases.Parasitic Diseases, Animal.Protozoan Infections, Animal.Babesiosis",C03.701.688.122
+"Parasitic Diseases.Parasitic Diseases, Animal.Protozoan Infections, Animal.Cryptosporidiosis",C03.701.688.235
+"Parasitic Diseases.Parasitic Diseases, Animal.Protozoan Infections, Animal.Dourine",C03.701.688.367
+"Parasitic Diseases.Parasitic Diseases, Animal.Protozoan Infections, Animal.Theileriasis",C03.701.688.735
+"Parasitic Diseases.Parasitic Diseases, Animal.Protozoan Infections, Animal.Toxoplasmosis, Animal",C03.701.688.817
+"Parasitic Diseases.Parasitic Diseases, Animal.Protozoan Infections, Animal.Trypanosomiasis, Bovine",C03.701.688.896
+"Parasitic Diseases.Pregnancy Complications, Parasitic",C03.718
+Parasitic Diseases.Protozoan Infections,C03.752
+Parasitic Diseases.Protozoan Infections.Amebiasis,C03.752.049
+Parasitic Diseases.Protozoan Infections.Amebiasis.Acanthamoeba Keratitis,C03.752.049.203
+Parasitic Diseases.Protozoan Infections.Amebiasis.Blastocystis Infections,C03.752.049.250
+"Parasitic Diseases.Protozoan Infections.Amebiasis.Dysentery, Amebic",C03.752.049.328
+Parasitic Diseases.Protozoan Infections.Amebiasis.Entamoebiasis,C03.752.049.407
+"Parasitic Diseases.Protozoan Infections.Amebiasis.Liver Abscess, Amebic",C03.752.049.703
+Parasitic Diseases.Protozoan Infections.Central Nervous System Protozoal Infections,C03.752.100
+Parasitic Diseases.Protozoan Infections.Ciliophora Infections,C03.752.200
+Parasitic Diseases.Protozoan Infections.Ciliophora Infections.Balantidiasis,C03.752.200.146
+Parasitic Diseases.Protozoan Infections.Coccidiosis,C03.752.250
+Parasitic Diseases.Protozoan Infections.Coccidiosis.Cryptosporidiosis,C03.752.250.269
+Parasitic Diseases.Protozoan Infections.Coccidiosis.Cyclosporiasis,C03.752.250.280
+Parasitic Diseases.Protozoan Infections.Coccidiosis.Isosporiasis,C03.752.250.410
+Parasitic Diseases.Protozoan Infections.Coccidiosis.Sarcocystosis,C03.752.250.634
+Parasitic Diseases.Protozoan Infections.Coccidiosis.Toxoplasmosis,C03.752.250.800
+"Parasitic Diseases.Protozoan Infections.Coccidiosis.Toxoplasmosis.Toxoplasmosis, Animal",C03.752.250.800.110
+"Parasitic Diseases.Protozoan Infections.Coccidiosis.Toxoplasmosis.Toxoplasmosis, Cerebral",C03.752.250.800.250
+"Parasitic Diseases.Protozoan Infections.Coccidiosis.Toxoplasmosis.Toxoplasmosis, Congenital",C03.752.250.800.445
+"Parasitic Diseases.Protozoan Infections.Coccidiosis.Toxoplasmosis.Toxoplasmosis, Ocular",C03.752.250.800.640
+Parasitic Diseases.Protozoan Infections.Dientamoebiasis,C03.752.275
+Parasitic Diseases.Protozoan Infections.Euglenozoa Infections,C03.752.300
+Parasitic Diseases.Protozoan Infections.Euglenozoa Infections.Leishmaniasis,C03.752.300.500
+"Parasitic Diseases.Protozoan Infections.Euglenozoa Infections.Leishmaniasis.Leishmaniasis, Cutaneous",C03.752.300.500.400
+"Parasitic Diseases.Protozoan Infections.Euglenozoa Infections.Leishmaniasis.Leishmaniasis, Cutaneous.Leishmaniasis, Diffuse Cutaneous",C03.752.300.500.400.350
+"Parasitic Diseases.Protozoan Infections.Euglenozoa Infections.Leishmaniasis.Leishmaniasis, Cutaneous.Leishmaniasis, Mucocutaneous",C03.752.300.500.400.385
+"Parasitic Diseases.Protozoan Infections.Euglenozoa Infections.Leishmaniasis.Leishmaniasis, Visceral",C03.752.300.500.510
+Parasitic Diseases.Protozoan Infections.Euglenozoa Infections.Trypanosomiasis,C03.752.300.900
+Parasitic Diseases.Protozoan Infections.Euglenozoa Infections.Trypanosomiasis.Chagas Disease,C03.752.300.900.200
+Parasitic Diseases.Protozoan Infections.Euglenozoa Infections.Trypanosomiasis.Chagas Disease.Chagas Cardiomyopathy,C03.752.300.900.200.190
+Parasitic Diseases.Protozoan Infections.Euglenozoa Infections.Trypanosomiasis.Dourine,C03.752.300.900.226
+"Parasitic Diseases.Protozoan Infections.Euglenozoa Infections.Trypanosomiasis.Trypanosomiasis, African",C03.752.300.900.719
+"Parasitic Diseases.Protozoan Infections.Euglenozoa Infections.Trypanosomiasis.Trypanosomiasis, Bovine",C03.752.300.900.802
+Parasitic Diseases.Protozoan Infections.Giardiasis,C03.752.400
+Parasitic Diseases.Protozoan Infections.Malaria,C03.752.530
+"Parasitic Diseases.Protozoan Infections.Malaria.Malaria, Avian",C03.752.530.606
+"Parasitic Diseases.Protozoan Infections.Malaria.Malaria, Cerebral",C03.752.530.620
+"Parasitic Diseases.Protozoan Infections.Malaria.Malaria, Falciparum",C03.752.530.650
+"Parasitic Diseases.Protozoan Infections.Malaria.Malaria, Falciparum.Blackwater Fever",C03.752.530.650.228
+"Parasitic Diseases.Protozoan Infections.Malaria.Malaria, Vivax",C03.752.530.700
+"Parasitic Diseases.Protozoan Infections.Protozoan Infections, Animal",C03.752.625
+"Parasitic Diseases.Protozoan Infections.Protozoan Infections, Animal.Babesiosis",C03.752.625.122
+"Parasitic Diseases.Protozoan Infections.Protozoan Infections, Animal.Cryptosporidiosis",C03.752.625.235
+"Parasitic Diseases.Protozoan Infections.Protozoan Infections, Animal.Dourine",C03.752.625.367
+"Parasitic Diseases.Protozoan Infections.Protozoan Infections, Animal.Theileriasis",C03.752.625.735
+"Parasitic Diseases.Protozoan Infections.Protozoan Infections, Animal.Toxoplasmosis, Animal",C03.752.625.817
+"Parasitic Diseases.Protozoan Infections.Protozoan Infections, Animal.Trypanosomiasis, Bovine",C03.752.625.896
+Parasitic Diseases.Protozoan Infections.Tick-Borne Diseases,C03.752.875
+Parasitic Diseases.Protozoan Infections.Tick-Borne Diseases.Babesiosis,C03.752.875.175
+Parasitic Diseases.Protozoan Infections.Tick-Borne Diseases.Theileriasis,C03.752.875.850
+Parasitic Diseases.Protozoan Infections.Trichomonas Infections,C03.752.890
+Parasitic Diseases.Protozoan Infections.Trichomonas Infections.Trichomonas Vaginitis,C03.752.890.633
+"Parasitic Diseases.Skin Diseases, Parasitic",C03.858
+"Parasitic Diseases.Skin Diseases, Parasitic.Ectoparasitic Infestations",C03.858.211
+"Parasitic Diseases.Skin Diseases, Parasitic.Ectoparasitic Infestations.Flea Infestations",C03.858.211.250
+"Parasitic Diseases.Skin Diseases, Parasitic.Ectoparasitic Infestations.Flea Infestations.Tungiasis",C03.858.211.250.800
+"Parasitic Diseases.Skin Diseases, Parasitic.Ectoparasitic Infestations.Lice Infestations",C03.858.211.465
+"Parasitic Diseases.Skin Diseases, Parasitic.Ectoparasitic Infestations.Mite Infestations",C03.858.211.480
+"Parasitic Diseases.Skin Diseases, Parasitic.Ectoparasitic Infestations.Mite Infestations.Scabies",C03.858.211.480.708
+"Parasitic Diseases.Skin Diseases, Parasitic.Ectoparasitic Infestations.Mite Infestations.Trombiculiasis",C03.858.211.480.869
+"Parasitic Diseases.Skin Diseases, Parasitic.Ectoparasitic Infestations.Myiasis",C03.858.211.503
+"Parasitic Diseases.Skin Diseases, Parasitic.Ectoparasitic Infestations.Myiasis.Hypodermyiasis",C03.858.211.503.398
+"Parasitic Diseases.Skin Diseases, Parasitic.Ectoparasitic Infestations.Myiasis.Screw Worm Infection",C03.858.211.503.744
+"Parasitic Diseases.Skin Diseases, Parasitic.Ectoparasitic Infestations.Tick Infestations",C03.858.211.857
+"Parasitic Diseases.Skin Diseases, Parasitic.Larva Migrans",C03.858.424
+"Parasitic Diseases.Skin Diseases, Parasitic.Leishmaniasis",C03.858.560
+"Parasitic Diseases.Skin Diseases, Parasitic.Leishmaniasis.Leishmaniasis, Cutaneous",C03.858.560.400
+"Parasitic Diseases.Skin Diseases, Parasitic.Leishmaniasis.Leishmaniasis, Cutaneous.Leishmaniasis, Diffuse Cutaneous",C03.858.560.400.350
+"Parasitic Diseases.Skin Diseases, Parasitic.Leishmaniasis.Leishmaniasis, Cutaneous.Leishmaniasis, Mucocutaneous",C03.858.560.400.385
+"Parasitic Diseases.Skin Diseases, Parasitic.Onchocerciasis",C03.858.650
+Parasitic Diseases.Zoonoses,C03.908
+Parasitic Diseases.Zoonoses.Pythiosis,C03.908.650

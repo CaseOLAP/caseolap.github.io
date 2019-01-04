@@ -1,0 +1,324 @@
+id,name
+M01,Persons
+M01.050,Abortion Applicants
+M01.055,Adult Children
+M01.060,Age Groups
+M01.060.057,Adolescent
+M01.060.116,Adult
+M01.060.116.100,Aged
+M01.060.116.100.080,"Aged, 80 and over"
+M01.060.116.100.540,Frail Elderly
+M01.060.116.630,Middle Aged
+M01.060.116.815,Young Adult
+M01.060.406,Child
+M01.060.406.448,"Child, Preschool"
+M01.060.703,Infant
+M01.060.703.520,"Infant, Newborn"
+M01.060.703.520.460,"Infant, Low Birth Weight"
+M01.060.703.520.460.560,"Infant, Small for Gestational Age"
+M01.060.703.520.460.600,"Infant, Very Low Birth Weight"
+M01.060.703.520.460.600.500,"Infant, Extremely Low Birth Weight"
+M01.060.703.520.500,"Infant, Postmature"
+M01.060.703.520.520,"Infant, Premature"
+M01.060.703.520.520.500,"Infant, Extremely Premature"
+M01.066,Alcoholics
+M01.072,Athletes
+M01.079,Bedridden Persons
+M01.085,Caregivers
+M01.097,"Child, Abandoned"
+M01.100,"Child, Adopted"
+M01.102,"Child, Exceptional"
+M01.102.350,"Child, Gifted"
+M01.106,Child of Impaired Parents
+M01.107,"Child, Foster"
+M01.108,"Child, Orphaned"
+M01.111,"Child, Unwanted"
+M01.120,Consultants
+M01.135,Crime Victims
+M01.135.500,Adult Survivors of Child Abuse
+M01.142,Criminals
+M01.150,Disabled Persons
+M01.150.100,Amputees
+M01.150.200,Disabled Children
+M01.150.600,Mentally Disabled Persons
+M01.150.725,Mentally Ill Persons
+M01.150.750,Persons With Hearing Impairments
+M01.150.850,Visually Impaired Persons
+M01.159,Disaster Victims
+M01.169,Drug Users
+M01.189,Emigrants and Immigrants
+M01.189.500,Undocumented Immigrants
+M01.228,Famous Persons
+M01.252,Friends
+M01.264,Grandparents
+M01.276,Homebound Persons
+M01.325,Homeless Persons
+M01.325.400,Homeless Youth
+M01.352,Jehovah's Witnesses
+M01.380,Legal Guardians
+M01.380.600,Proxy
+M01.385,Medically Uninsured
+M01.390,Men
+M01.390.660,"Nurses, Male"
+M01.395,Mentors
+M01.416,Minors
+M01.427,Missionaries
+M01.438,Multiple Birth Offspring
+M01.438.486,Quadruplets
+M01.438.587,Quintuplets
+M01.438.768,Triplets
+M01.438.873,Twins
+M01.438.873.920,"Twins, Dizygotic"
+M01.438.873.940,"Twins, Monozygotic"
+M01.526,Occupational Groups
+M01.526.070,Administrative Personnel
+M01.526.070.245,Case Managers
+M01.526.070.490,Health Facility Administrators
+M01.526.070.490.490,Hospital Administrators
+M01.526.070.490.490.100,"Chief Executive Officers, Hospital"
+M01.526.070.670,Nurse Administrators
+M01.526.070.700,Physician Executives
+M01.526.070.940,Trustees
+M01.526.173,Astronauts
+M01.526.225,Counselors
+M01.526.276,Ethicists
+M01.526.373,Emergency Responders
+M01.526.373.250,Emergency Medical Technicians
+M01.526.373.400,Firefighters
+M01.526.373.750,Police
+M01.526.390,Farmers
+M01.526.407,Foreign Professional Personnel
+M01.526.407.435,Foreign Medical Graduates
+M01.526.407.717,"Nurses, International"
+M01.526.446,Government Employees
+M01.526.485,Health Personnel
+M01.526.485.067,Allied Health Personnel
+M01.526.485.067.040,Animal Technicians
+M01.526.485.067.080,Community Health Workers
+M01.526.485.067.105,Dental Auxiliaries
+M01.526.485.067.105.250,Dental Assistants
+M01.526.485.067.105.376,Dental Hygienists
+M01.526.485.067.105.503,Dental Technicians
+M01.526.485.067.105.751,Denturists
+M01.526.485.067.150,Emergency Medical Technicians
+M01.526.485.067.350,Home Health Aides
+M01.526.485.067.450,Licensed Practical Nurses
+M01.526.485.067.550,Medical Record Administrators
+M01.526.485.067.600,Medical Secretaries
+M01.526.485.067.600.630,Medical Receptionists
+M01.526.485.067.652,Nurses' Aides
+M01.526.485.067.652.628,Psychiatric Aides
+M01.526.485.067.700,Operating Room Technicians
+M01.526.485.067.735,Pharmacy Technicians
+M01.526.485.067.738,Physical Therapist Assistants
+M01.526.485.067.740,Physician Assistants
+M01.526.485.067.740.690,Ophthalmic Assistants
+M01.526.485.067.740.750,Pediatric Assistants
+M01.526.485.133,Anatomists
+M01.526.485.140,Anesthetists
+M01.526.485.140.040,Anesthesiologists
+M01.526.485.140.650,Nurse Anesthetists
+M01.526.485.170,Audiologists
+M01.526.485.200,Caregivers
+M01.526.485.215,Case Managers
+M01.526.485.230,Coroners and Medical Examiners
+M01.526.485.290,Dental Staff
+M01.526.485.290.490,"Dental Staff, Hospital"
+M01.526.485.330,Dentists
+M01.526.485.330.310,"Dentists, Women"
+M01.526.485.330.397,Endodontists
+M01.526.485.330.483,Oral and Maxillofacial Surgeons
+M01.526.485.330.655,Orthodontists
+M01.526.485.345,Doulas
+M01.526.485.349,Emergency Medical Dispatcher
+M01.526.485.353,Epidemiologists
+M01.526.485.360,"Faculty, Dental"
+M01.526.485.375,"Faculty, Medical"
+M01.526.485.390,"Faculty, Nursing"
+M01.526.485.410,Health Educators
+M01.526.485.430,Health Facility Administrators
+M01.526.485.430.490,Hospital Administrators
+M01.526.485.430.490.100,"Chief Executive Officers, Hospital"
+M01.526.485.490,Infection Control Practitioners
+M01.526.485.500,Medical Chaperones
+M01.526.485.510,Medical Laboratory Personnel
+M01.526.485.630,Medical Staff
+M01.526.485.630.490,"Medical Staff, Hospital"
+M01.526.485.630.490.400,Hospitalists
+M01.526.485.650,Nurses
+M01.526.485.650.580,Nurse Administrators
+M01.526.485.650.640,Nurse Practitioners
+M01.526.485.650.640.249,Family Nurse Practitioners
+M01.526.485.650.640.500,Pediatric Nurse Practitioners
+M01.526.485.650.648,Nurse Specialists
+M01.526.485.650.648.500,Nurse Anesthetists
+M01.526.485.650.648.525,Nurse Clinicians
+M01.526.485.650.648.762,Nurse Midwives
+M01.526.485.650.648.940,"Nurses, Pediatric"
+M01.526.485.650.648.940.500,"Nurses, Neonatal"
+M01.526.485.650.655,"Nurses, Community Health"
+M01.526.485.650.662,"Nurses, International"
+M01.526.485.650.670,"Nurses, Male"
+M01.526.485.650.835,"Nurses, Public Health"
+M01.526.485.680,Nursing Staff
+M01.526.485.680.490,"Nursing Staff, Hospital"
+M01.526.485.695,Nutritionists
+M01.526.485.710,Occupational Therapists
+M01.526.485.725,Optometrists
+M01.526.485.740,"Personnel, Hospital"
+M01.526.485.740.322,"Dental Staff, Hospital"
+M01.526.485.740.380,Hospital Administrators
+M01.526.485.740.380.100,"Chief Executive Officers, Hospital"
+M01.526.485.740.400,Hospital Volunteers
+M01.526.485.740.422,"Medical Staff, Hospital"
+M01.526.485.740.422.400,Hospitalists
+M01.526.485.740.523,"Nursing Staff, Hospital"
+M01.526.485.780,Pharmacists
+M01.526.485.790,Physical Therapists
+M01.526.485.800,Physician Executives
+M01.526.485.810,Physicians
+M01.526.485.810.020,Allergists
+M01.526.485.810.040,Anesthesiologists
+M01.526.485.810.128,Cardiologists
+M01.526.485.810.215,Dermatologists
+M01.526.485.810.303,Endocrinologists
+M01.526.485.810.390,Foreign Medical Graduates
+M01.526.485.810.438,Gastroenterologists
+M01.526.485.810.485,General Practitioners
+M01.526.485.810.533,Geriatricians
+M01.526.485.810.580,Hospitalists
+M01.526.485.810.628,Nephrologists
+M01.526.485.810.652,Neurologists
+M01.526.485.810.675,Occupational Health Physicians
+M01.526.485.810.699,Oncologists
+M01.526.485.810.699.500,Radiation Oncologists
+M01.526.485.810.705,Ophthalmologists
+M01.526.485.810.722,Osteopathic Physicians
+M01.526.485.810.734,Otolaryngologists
+M01.526.485.810.746,Pathologists
+M01.526.485.810.758,Pediatricians
+M01.526.485.810.758.500,Neonatologists
+M01.526.485.810.764,Physiatrists
+M01.526.485.810.770,"Physicians, Family"
+M01.526.485.810.800,"Physicians, Primary Care"
+M01.526.485.810.820,"Physicians, Women"
+M01.526.485.810.865,Pulmonologists
+M01.526.485.810.877,Radiologists
+M01.526.485.810.877.500,Radiation Oncologists
+M01.526.485.810.888,Rheumatologists
+M01.526.485.810.910,Surgeons
+M01.526.485.810.910.500,Barber Surgeons
+M01.526.485.810.910.750,Neurosurgeons
+M01.526.485.810.910.875,Orthopedic Surgeons
+M01.526.485.810.955,Urologists
+M01.526.485.905,Veterinarians
+M01.526.493,Inventors
+M01.526.502,Laboratory Personnel
+M01.526.502.500,Medical Laboratory Personnel
+M01.526.520,Lawyers
+M01.526.555,Librarians
+M01.526.625,Military Personnel
+M01.526.693,Miners
+M01.526.702,Educational Personnel
+M01.526.702.250,Faculty
+M01.526.702.250.273,"Faculty, Dental"
+M01.526.702.250.373,"Faculty, Medical"
+M01.526.702.250.473,"Faculty, Nursing"
+M01.526.702.250.736,"Faculty, Pharmacy"
+M01.526.702.500,School Teachers
+M01.526.727,Pilots
+M01.526.760,Police
+M01.526.799,Religious Personnel
+M01.526.799.500,Clergy
+M01.526.799.750,Monks
+M01.526.799.875,Nuns
+M01.526.839,Research Personnel
+M01.526.919,Social Workers
+M01.620,Parents
+M01.620.390,Fathers
+M01.620.630,Mothers
+M01.620.785,Single Parent
+M01.620.892,Surrogate Mothers
+M01.643,Patients
+M01.643.050,"Adolescent, Hospitalized"
+M01.643.154,"Adolescent, Institutionalized"
+M01.643.259,"Child, Hospitalized"
+M01.643.364,"Child, Institutionalized"
+M01.643.470,Inpatients
+M01.643.550,No-Show Patients
+M01.643.630,Outpatients
+M01.665,Pedestrians
+M01.686,Population Groups
+M01.686.508,Continental Population Groups
+M01.686.508.100,African Continental Ancestry Group
+M01.686.508.100.100,African Americans
+M01.686.508.150,American Native Continental Ancestry Group
+M01.686.508.150.288,Alaska Natives
+M01.686.508.150.575,"Indians, Central American"
+M01.686.508.150.600,"Indians, North American"
+M01.686.508.150.625,"Indians, South American"
+M01.686.508.150.675,Inuits
+M01.686.508.200,Asian Continental Ancestry Group
+M01.686.508.200.100,Asian Americans
+M01.686.508.400,European Continental Ancestry Group
+M01.686.508.600,Oceanic Ancestry Group
+M01.686.754,Ethnic Groups
+M01.686.754.100,African Americans
+M01.686.754.133,Amish
+M01.686.754.167,Arabs
+M01.686.754.225,Asian Americans
+M01.686.754.283,Roma
+M01.686.754.441,Hispanic Americans
+M01.686.754.441.500,Mexican Americans
+M01.686.754.520,Inuits
+M01.686.754.600,Jews
+M01.729,Prisoners
+M01.729.500,Prisoners of War
+M01.755,Refugees
+M01.774,Research Subjects
+M01.774.500,Healthy Volunteers
+M01.776,Sex Workers
+M01.777,Sexual and Gender Minorities
+M01.777.500,Transgender Persons
+M01.778,Sexual Partners
+M01.781,Siblings
+M01.785,Single Person
+M01.800,Slaves
+M01.808,Smokers
+M01.816,Spouses
+M01.848,Students
+M01.848.602,Student Dropouts
+M01.848.769,"Students, Health Occupations"
+M01.848.769.519,"Students, Dental"
+M01.848.769.602,"Students, Medical"
+M01.848.769.685,"Students, Nursing"
+M01.848.769.768,"Students, Pharmacy"
+M01.848.769.851,"Students, Premedical"
+M01.848.769.925,"Students, Public Health"
+M01.860,Survivors
+M01.860.300,Adult Survivors of Child Adverse Events
+M01.860.300.500,Adult Survivors of Child Abuse
+M01.860.350,Cancer Survivors
+M01.860.400,HIV Long-Term Survivors
+M01.873,Terminally Ill
+M01.898,Tissue Donors
+M01.898.313,Blood Donors
+M01.898.656,Living Donors
+M01.898.828,Unrelated Donors
+M01.920,Transients and Migrants
+M01.925,Transplant Recipients
+M01.928,Vegetarians
+M01.928.500,Vegans
+M01.930,Veterans
+M01.935,Visitors to Patients
+M01.955,Volunteers
+M01.955.236,Healthy Volunteers
+M01.955.473,Hospital Volunteers
+M01.965,Vulnerable Populations
+M01.975,Women
+M01.975.155,Battered Women
+M01.975.310,"Dentists, Women"
+M01.975.790,"Physicians, Women"
+M01.975.807,Pregnant Women
+M01.975.825,"Women, Working"
+M01.987,Working Poor

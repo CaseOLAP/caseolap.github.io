@@ -1,0 +1,671 @@
+id,value
+Environment and Public Health,N06
+Environment and Public Health.Environment,N06.230
+Environment and Public Health.Environment.Altitude,N06.230.058
+Environment and Public Health.Environment.Carbon Footprint,N06.230.063
+Environment and Public Health.Environment.Caves,N06.230.066
+Environment and Public Health.Environment.Cities,N06.230.069
+Environment and Public Health.Environment.Confined Spaces,N06.230.074
+Environment and Public Health.Environment.Conservation of Natural Resources,N06.230.080
+Environment and Public Health.Environment.Conservation of Natural Resources.Conservation of Energy Resources,N06.230.080.078
+Environment and Public Health.Environment.Conservation of Natural Resources.Endangered Species,N06.230.080.200
+Environment and Public Health.Environment.Conservation of Natural Resources.Environmental Restoration and Remediation,N06.230.080.600
+"Environment and Public Health.Environment.Conservation of Natural Resources.Environmental Restoration and Remediation.Biodegradation, Environmental",N06.230.080.600.500
+Environment and Public Health.Environment.Conservation of Natural Resources.Conservation of Water Resources,N06.230.080.800
+Environment and Public Health.Environment.Disasters,N06.230.100
+Environment and Public Health.Environment.Disasters.Disaster Planning,N06.230.100.035
+Environment and Public Health.Environment.Disasters.Disaster Planning.Strategic Stockpile,N06.230.100.035.500
+Environment and Public Health.Environment.Disasters.Emergencies,N06.230.100.083
+Environment and Public Health.Environment.Disasters.Emergency Shelter,N06.230.100.121
+Environment and Public Health.Environment.Disasters.Mass Casualty Incidents,N06.230.100.160
+Environment and Public Health.Environment.Disasters.Relief Work,N06.230.100.300
+Environment and Public Health.Environment.Disasters.Rescue Work,N06.230.100.350
+Environment and Public Health.Environment.Ecosystem,N06.230.124
+Environment and Public Health.Environment.Ecosystem.Biodiversity,N06.230.124.049
+Environment and Public Health.Environment.Ecosystem.Biodiversity.Biota,N06.230.124.049.100
+Environment and Public Health.Environment.Ecosystem.Biodiversity.Biota.Microbiota,N06.230.124.049.100.500
+Environment and Public Health.Environment.Ecosystem.Biodiversity.Biota.Microbiota.Gastrointestinal Microbiome,N06.230.124.049.100.500.250
+Environment and Public Health.Environment.Ecosystem.Biodiversity.Biota.Microbiota.Microbial Consortia,N06.230.124.049.100.500.500
+Environment and Public Health.Environment.Ecosystem.Biodiversity.Biota.Microbiota.Mycobiome,N06.230.124.049.100.500.750
+Environment and Public Health.Environment.Ecosystem.Biodiversity.Biota.Microbiota.Periphyton,N06.230.124.049.100.500.875
+Environment and Public Health.Environment.Ecosystem.Biodiversity.Ecotype,N06.230.124.049.230
+Environment and Public Health.Environment.Ecosystem.Biodiversity.Endangered Species,N06.230.124.049.250
+Environment and Public Health.Environment.Ecosystem.Biodiversity.Introduced Species,N06.230.124.049.400
+Environment and Public Health.Environment.Ecosystem.Biomass,N06.230.124.100
+Environment and Public Health.Environment.Ecosystem.Coral Reefs,N06.230.124.130
+"Environment and Public Health.Environment.Ecosystem.Ecological Systems, Closed",N06.230.124.240
+Environment and Public Health.Environment.Ecosystem.Food Chain,N06.230.124.250
+Environment and Public Health.Environment.Ecosystem.Forests,N06.230.124.343
+Environment and Public Health.Environment.Ecosystem.Forests.Rainforest,N06.230.124.343.500
+Environment and Public Health.Environment.Ecosystem.Forests.Taiga,N06.230.124.343.750
+Environment and Public Health.Environment.Ecosystem.Grassland,N06.230.124.390
+Environment and Public Health.Environment.Ecosystem.Rhizosphere,N06.230.124.437
+Environment and Public Health.Environment.Ecosystem.Tundra,N06.230.124.531
+Environment and Public Health.Environment.Ecosystem.Tundra.Permafrost,N06.230.124.531.500
+Environment and Public Health.Environment.Ecosystem.Wetlands,N06.230.124.625
+Environment and Public Health.Environment.Energy-Generating Resources,N06.230.132
+Environment and Public Health.Environment.Energy-Generating Resources.Fossil Fuels,N06.230.132.258
+Environment and Public Health.Environment.Energy-Generating Resources.Fossil Fuels.Coal,N06.230.132.258.108
+Environment and Public Health.Environment.Energy-Generating Resources.Fossil Fuels.Coal.Coke,N06.230.132.258.108.110
+Environment and Public Health.Environment.Energy-Generating Resources.Fossil Fuels.Natural Gas,N06.230.132.258.369
+Environment and Public Health.Environment.Energy-Generating Resources.Fossil Fuels.Petroleum,N06.230.132.258.630
+Environment and Public Health.Environment.Energy-Generating Resources.Fossil Fuels.Petroleum.Fuel Oils,N06.230.132.258.630.500
+Environment and Public Health.Environment.Energy-Generating Resources.Fossil Fuels.Petroleum.Gasoline,N06.230.132.258.630.540
+Environment and Public Health.Environment.Energy-Generating Resources.Fossil Fuels.Petroleum.Kerosene,N06.230.132.258.630.600
+Environment and Public Health.Environment.Energy-Generating Resources.Nuclear Energy,N06.230.132.580
+Environment and Public Health.Environment.Energy-Generating Resources.Nuclear Energy.Nuclear Fission,N06.230.132.580.500
+Environment and Public Health.Environment.Energy-Generating Resources.Nuclear Energy.Nuclear Fusion,N06.230.132.580.520
+Environment and Public Health.Environment.Energy-Generating Resources.Renewable Energy,N06.230.132.644
+Environment and Public Health.Environment.Energy-Generating Resources.Renewable Energy.Biofuels,N06.230.132.644.124
+Environment and Public Health.Environment.Energy-Generating Resources.Renewable Energy.Geothermal Energy,N06.230.132.644.186
+Environment and Public Health.Environment.Energy-Generating Resources.Renewable Energy.Solar Energy,N06.230.132.644.500
+Environment and Public Health.Environment.Energy-Generating Resources.Renewable Energy.Water Movements,N06.230.132.644.750
+Environment and Public Health.Environment.Energy-Generating Resources.Renewable Energy.Water Movements.Tidal Waves,N06.230.132.644.750.500
+Environment and Public Health.Environment.Energy-Generating Resources.Renewable Energy.Wind,N06.230.132.644.875
+"Environment and Public Health.Environment.Environment, Controlled",N06.230.150
+"Environment and Public Health.Environment.Environment, Controlled.Air Conditioning",N06.230.150.050
+"Environment and Public Health.Environment.Environment, Controlled.Diving",N06.230.150.150
+"Environment and Public Health.Environment.Environment, Controlled.Ecological Systems, Closed",N06.230.150.225
+"Environment and Public Health.Environment.Environment, Controlled.Heating",N06.230.150.300
+"Environment and Public Health.Environment.Environment, Controlled.Housing",N06.230.150.360
+"Environment and Public Health.Environment.Environment, Controlled.Housing.Housing, Animal",N06.230.150.360.250
+"Environment and Public Health.Environment.Environment, Controlled.Housing.Housing, Animal.Hospitals, Animal",N06.230.150.360.250.200
+"Environment and Public Health.Environment.Environment, Controlled.Housing.Housing for the Elderly",N06.230.150.360.260
+"Environment and Public Health.Environment.Environment, Controlled.Housing.Public Housing",N06.230.150.360.650
+"Environment and Public Health.Environment.Environment, Controlled.Humidity",N06.230.150.372
+"Environment and Public Health.Environment.Environment, Controlled.Life Support Systems",N06.230.150.391
+"Environment and Public Health.Environment.Environment, Controlled.Lighting",N06.230.150.410
+"Environment and Public Health.Environment.Environment, Controlled.Space Simulation",N06.230.150.440
+"Environment and Public Health.Environment.Environment, Controlled.Space Simulation.Weightlessness Simulation",N06.230.150.440.950
+"Environment and Public Health.Environment.Environment, Controlled.Space Simulation.Weightlessness Simulation.Hindlimb Suspension",N06.230.150.440.950.400
+"Environment and Public Health.Environment.Environment, Controlled.Temperature",N06.230.150.450
+"Environment and Public Health.Environment.Environment, Controlled.Ventilation",N06.230.150.520
+Environment and Public Health.Environment.Environment Design,N06.230.200
+Environment and Public Health.Environment.Environmental Policy,N06.230.204
+Environment and Public Health.Environment.Explosions,N06.230.208
+Environment and Public Health.Environment.Fires,N06.230.216
+Environment and Public Health.Environment.Fires.Fire Extinguishing Systems,N06.230.216.500
+Environment and Public Health.Environment.Fires.Spontaneous Combustion,N06.230.216.750
+Environment and Public Health.Environment.Fires.Wildfires,N06.230.216.875
+Environment and Public Health.Environment.Fresh Water,N06.230.232
+Environment and Public Health.Environment.Fresh Water.Lakes,N06.230.232.500
+Environment and Public Health.Environment.Fresh Water.Ponds,N06.230.232.625
+Environment and Public Health.Environment.Fresh Water.Rivers,N06.230.232.650
+Environment and Public Health.Environment.Greenhouse Effect,N06.230.265
+Environment and Public Health.Environment.Ice,N06.230.291
+Environment and Public Health.Environment.Ice.Ice Cover,N06.230.291.500
+Environment and Public Health.Environment.Islands,N06.230.295
+Environment and Public Health.Environment.Meteorological Concepts,N06.230.300
+Environment and Public Health.Environment.Meteorological Concepts.Atmosphere,N06.230.300.100
+Environment and Public Health.Environment.Meteorological Concepts.Atmosphere.Air,N06.230.300.100.150
+Environment and Public Health.Environment.Meteorological Concepts.Atmosphere.Air.Air Ionization,N06.230.300.100.150.100
+Environment and Public Health.Environment.Meteorological Concepts.Atmosphere.Air.Air Movements,N06.230.300.100.150.185
+Environment and Public Health.Environment.Meteorological Concepts.Atmosphere.Air.Air Movements.Wind,N06.230.300.100.150.185.200
+Environment and Public Health.Environment.Meteorological Concepts.Atmosphere.Air.Compressed Air,N06.230.300.100.150.592
+Environment and Public Health.Environment.Meteorological Concepts.Atmosphere.Atmospheric Pressure,N06.230.300.100.185
+Environment and Public Health.Environment.Meteorological Concepts.Atmosphere.Atmospheric Pressure.Air Pressure,N06.230.300.100.185.100
+Environment and Public Health.Environment.Meteorological Concepts.Atmosphere.Atmospheric Pressure.Vacuum,N06.230.300.100.185.902
+Environment and Public Health.Environment.Meteorological Concepts.Atmosphere.Climate,N06.230.300.100.250
+Environment and Public Health.Environment.Meteorological Concepts.Atmosphere.Climate.Cold Climate,N06.230.300.100.250.275
+Environment and Public Health.Environment.Meteorological Concepts.Atmosphere.Climate.Desert Climate,N06.230.300.100.250.325
+Environment and Public Health.Environment.Meteorological Concepts.Atmosphere.Climate.Microclimate,N06.230.300.100.250.450
+Environment and Public Health.Environment.Meteorological Concepts.Atmosphere.Climate.Seasons,N06.230.300.100.250.525
+Environment and Public Health.Environment.Meteorological Concepts.Atmosphere.Climate.Tropical Climate,N06.230.300.100.250.600
+Environment and Public Health.Environment.Meteorological Concepts.Atmosphere.Cosmic Radiation,N06.230.300.100.300
+Environment and Public Health.Environment.Meteorological Concepts.Atmosphere.Stratospheric Ozone,N06.230.300.100.700
+Environment and Public Health.Environment.Meteorological Concepts.Atmosphere.Stratospheric Ozone.Ozone Depletion,N06.230.300.100.700.500
+Environment and Public Health.Environment.Meteorological Concepts.Atmosphere.Weather,N06.230.300.100.725
+Environment and Public Health.Environment.Meteorological Concepts.Atmosphere.Weather.Cold Temperature,N06.230.300.100.725.154
+Environment and Public Health.Environment.Meteorological Concepts.Atmosphere.Weather.Cold Temperature.Extreme Cold,N06.230.300.100.725.154.500
+Environment and Public Health.Environment.Meteorological Concepts.Atmosphere.Weather.Hot Temperature,N06.230.300.100.725.232
+Environment and Public Health.Environment.Meteorological Concepts.Atmosphere.Weather.Hot Temperature.Extreme Heat,N06.230.300.100.725.232.500
+Environment and Public Health.Environment.Meteorological Concepts.Atmosphere.Weather.Humidity,N06.230.300.100.725.310
+Environment and Public Health.Environment.Meteorological Concepts.Atmosphere.Weather.Lightning,N06.230.300.100.725.375
+Environment and Public Health.Environment.Meteorological Concepts.Atmosphere.Weather.Rain,N06.230.300.100.725.450
+Environment and Public Health.Environment.Meteorological Concepts.Atmosphere.Weather.Rain.Acid Rain,N06.230.300.100.725.450.050
+Environment and Public Health.Environment.Meteorological Concepts.Atmosphere.Weather.Snow,N06.230.300.100.725.480
+Environment and Public Health.Environment.Meteorological Concepts.Atmosphere.Weather.Sunlight,N06.230.300.100.725.525
+Environment and Public Health.Environment.Meteorological Concepts.Atmosphere.Weather.Sunlight.Infrared Rays,N06.230.300.100.725.525.400
+Environment and Public Health.Environment.Meteorological Concepts.Atmosphere.Weather.Sunlight.Ultraviolet Rays,N06.230.300.100.725.525.600
+Environment and Public Health.Environment.Meteorological Concepts.Atmosphere.Weather.Temperature,N06.230.300.100.725.710
+Environment and Public Health.Environment.Meteorological Concepts.Atmosphere.Weather.Temperature.Cold Temperature,N06.230.300.100.725.710.300
+Environment and Public Health.Environment.Meteorological Concepts.Atmosphere.Weather.Temperature.Cold Temperature.Extreme Cold,N06.230.300.100.725.710.300.500
+Environment and Public Health.Environment.Meteorological Concepts.Atmosphere.Weather.Temperature.Hot Temperature,N06.230.300.100.725.710.380
+Environment and Public Health.Environment.Meteorological Concepts.Atmosphere.Weather.Temperature.Hot Temperature.Extreme Heat,N06.230.300.100.725.710.380.500
+Environment and Public Health.Environment.Meteorological Concepts.Atmosphere.Weather.Wind,N06.230.300.100.725.780
+Environment and Public Health.Environment.Natural Resources,N06.230.350
+Environment and Public Health.Environment.Natural Resources.Water Resources,N06.230.350.500
+Environment and Public Health.Environment.Noise,N06.230.400
+"Environment and Public Health.Environment.Noise.Noise, Occupational",N06.230.400.500
+"Environment and Public Health.Environment.Noise.Noise, Transportation",N06.230.400.550
+Environment and Public Health.Environment.Odorants,N06.230.480
+Environment and Public Health.Environment.Rain,N06.230.520
+Environment and Public Health.Environment.Rain.Acid Rain,N06.230.520.050
+Environment and Public Health.Environment.Soil,N06.230.600
+Environment and Public Health.Environment.Soil.Permafrost,N06.230.600.500
+Environment and Public Health.Environment.Steam,N06.230.650
+Environment and Public Health.Environment.Structure Collapse,N06.230.750
+Environment and Public Health.Environment.Water Movements,N06.230.850
+Environment and Public Health.Public Health,N06.850
+Environment and Public Health.Public Health.Accidents,N06.850.135
+Environment and Public Health.Public Health.Accidents.Accident Prevention,N06.850.135.060
+Environment and Public Health.Public Health.Accidents.Accident Prevention.Safety,N06.850.135.060.075
+Environment and Public Health.Public Health.Accidents.Accident Prevention.Safety.Chemical Safety,N06.850.135.060.075.199
+Environment and Public Health.Public Health.Accidents.Accident Prevention.Safety.Containment of Biohazards,N06.850.135.060.075.249
+Environment and Public Health.Public Health.Accidents.Accident Prevention.Safety.Hazard Analysis and Critical Control Points,N06.850.135.060.075.299
+Environment and Public Health.Public Health.Accidents.Accident Prevention.Safety.Patient Harm,N06.850.135.060.075.349
+Environment and Public Health.Public Health.Accidents.Accident Prevention.Safety.Patient Safety,N06.850.135.060.075.399
+Environment and Public Health.Public Health.Accidents.Accident Prevention.Safety.Safety Management,N06.850.135.060.075.800
+Environment and Public Health.Public Health.Accidents.Accident Prevention.Safety.Safety Management.Material Safety Data Sheets,N06.850.135.060.075.800.500
+Environment and Public Health.Public Health.Accidents.Accidental Falls,N06.850.135.122
+"Environment and Public Health.Public Health.Accidents.Accidents, Aviation",N06.850.135.185
+Environment and Public Health.Public Health.Accidents.Biohazard Release,N06.850.135.190
+Environment and Public Health.Public Health.Accidents.Biohazard Release.Sverdlovsk Accidental Release,N06.850.135.190.500
+Environment and Public Health.Public Health.Accidents.Chemical Hazard Release,N06.850.135.195
+Environment and Public Health.Public Health.Accidents.Chemical Hazard Release.Bhopal Accidental Release,N06.850.135.195.249
+Environment and Public Health.Public Health.Accidents.Chemical Hazard Release.Seveso Accidental Release,N06.850.135.195.500
+"Environment and Public Health.Public Health.Accidents.Accidents, Home",N06.850.135.217
+"Environment and Public Health.Public Health.Accidents.Accidents, Occupational",N06.850.135.240
+"Environment and Public Health.Public Health.Accidents.Accidents, Traffic",N06.850.135.392
+Environment and Public Health.Public Health.Accidents.Drowning,N06.850.135.696
+Environment and Public Health.Public Health.Accidents.Drowning.Near Drowning,N06.850.135.696.500
+Environment and Public Health.Public Health.Accidents.Radioactive Hazard Release,N06.850.135.848
+Environment and Public Health.Public Health.Accidents.Radioactive Hazard Release.Chernobyl Nuclear Accident,N06.850.135.848.500
+Environment and Public Health.Public Health.Accidents.Radioactive Hazard Release.Fukushima Nuclear Accident,N06.850.135.848.750
+Environment and Public Health.Public Health.Carrier State,N06.850.160
+Environment and Public Health.Public Health.Consumer Product Safety,N06.850.210
+Environment and Public Health.Public Health.Consumer Product Safety.Device Approval,N06.850.210.275
+Environment and Public Health.Public Health.Consumer Product Safety.Device Approval.Diagnostic Test Approval,N06.850.210.275.500
+Environment and Public Health.Public Health.Consumer Product Safety.Product Recalls and Withdrawals,N06.850.210.637
+Environment and Public Health.Public Health.Consumer Product Safety.Product Recalls and Withdrawals.Drug Recalls,N06.850.210.637.200
+Environment and Public Health.Public Health.Consumer Product Safety.Product Recalls and Withdrawals.Medical Device Recalls,N06.850.210.637.500
+Environment and Public Health.Public Health.Consumer Product Safety.Product Recalls and Withdrawals.Safety-Based Drug Withdrawals,N06.850.210.637.700
+Environment and Public Health.Public Health.Consumer Product Safety.Product Recalls and Withdrawals.Safety-Based Medical Device Withdrawals,N06.850.210.637.750
+Environment and Public Health.Public Health.Disease Eradication,N06.850.275
+Environment and Public Health.Public Health.Disease Eradication.Mass Drug Administration,N06.850.275.500
+Environment and Public Health.Public Health.Disease Outbreaks,N06.850.290
+Environment and Public Health.Public Health.Disease Outbreaks.Epidemics,N06.850.290.200
+Environment and Public Health.Public Health.Disease Outbreaks.Epidemics.Pandemics,N06.850.290.200.600
+Environment and Public Health.Public Health.Disease Reservoirs,N06.850.295
+Environment and Public Health.Public Health.Disease Reservoirs.Fomites,N06.850.295.300
+"Environment and Public Health.Public Health.Disease Transmission, Infectious",N06.850.310
+"Environment and Public Health.Public Health.Disease Transmission, Infectious.Basic Reproduction Number",N06.850.310.149
+"Environment and Public Health.Public Health.Disease Transmission, Infectious.Disease Vectors",N06.850.310.350
+"Environment and Public Health.Public Health.Disease Transmission, Infectious.Disease Vectors.Arthropod Vectors",N06.850.310.350.100
+"Environment and Public Health.Public Health.Disease Transmission, Infectious.Disease Vectors.Arthropod Vectors.Arachnid Vectors",N06.850.310.350.100.100
+"Environment and Public Health.Public Health.Disease Transmission, Infectious.Disease Vectors.Arthropod Vectors.Insect Vectors",N06.850.310.350.100.500
+"Environment and Public Health.Public Health.Disease Transmission, Infectious.Disease Vectors.Arthropod Vectors.Insect Vectors.Mosquito Vectors",N06.850.310.350.100.500.500
+"Environment and Public Health.Public Health.Disease Transmission, Infectious.Infectious Disease Incubation Period",N06.850.310.405
+"Environment and Public Health.Public Health.Disease Transmission, Infectious.Infectious Disease Transmission, Patient-to-Professional",N06.850.310.410
+"Environment and Public Health.Public Health.Disease Transmission, Infectious.Infectious Disease Transmission, Professional-to-Patient",N06.850.310.415
+"Environment and Public Health.Public Health.Disease Transmission, Infectious.Infectious Disease Transmission, Vertical",N06.850.310.425
+Environment and Public Health.Public Health.Drug Contamination,N06.850.360
+Environment and Public Health.Public Health.Emergencies,N06.850.376
+Environment and Public Health.Public Health.Endemic Diseases,N06.850.392
+Environment and Public Health.Public Health.Environmental Medicine,N06.850.420
+Environment and Public Health.Public Health.Environmental Microbiology,N06.850.425
+Environment and Public Health.Public Health.Environmental Microbiology.Air Microbiology,N06.850.425.110
+Environment and Public Health.Public Health.Environmental Microbiology.Food Microbiology,N06.850.425.200
+Environment and Public Health.Public Health.Environmental Microbiology.Soil Microbiology,N06.850.425.300
+Environment and Public Health.Public Health.Environmental Microbiology.Water Microbiology,N06.850.425.450
+Environment and Public Health.Public Health.Environmental Pollution,N06.850.460
+Environment and Public Health.Public Health.Environmental Pollution.Air Pollution,N06.850.460.100
+"Environment and Public Health.Public Health.Environmental Pollution.Air Pollution.Air Pollution, Indoor",N06.850.460.100.080
+"Environment and Public Health.Public Health.Environmental Pollution.Air Pollution.Air Pollution, Radioactive",N06.850.460.100.110
+Environment and Public Health.Public Health.Environmental Pollution.Air Pollution.Tobacco Smoke Pollution,N06.850.460.100.555
+Environment and Public Health.Public Health.Environmental Pollution.Biofouling,N06.850.460.150
+Environment and Public Health.Public Health.Environmental Pollution.Body Burden,N06.850.460.200
+Environment and Public Health.Public Health.Environmental Pollution.Body Burden.Drug Residues,N06.850.460.200.250
+Environment and Public Health.Public Health.Environmental Pollution.Body Burden.Pesticide Residues,N06.850.460.200.700
+Environment and Public Health.Public Health.Environmental Pollution.Environmental Exposure,N06.850.460.350
+Environment and Public Health.Public Health.Environmental Pollution.Environmental Exposure.Dietary Exposure,N06.850.460.350.040
+Environment and Public Health.Public Health.Environmental Pollution.Environmental Exposure.Environmental Monitoring,N06.850.460.350.080
+Environment and Public Health.Public Health.Environmental Pollution.Environmental Exposure.Environmental Monitoring.Environmental Biomarkers,N06.850.460.350.080.250
+Environment and Public Health.Public Health.Environmental Pollution.Environmental Exposure.Environmental Monitoring.Biological Oxygen Demand Analysis,N06.850.460.350.080.500
+Environment and Public Health.Public Health.Environmental Pollution.Environmental Exposure.Environmental Monitoring.Water Quality,N06.850.460.350.080.750
+Environment and Public Health.Public Health.Environmental Pollution.Environmental Exposure.Inhalation Exposure,N06.850.460.350.112
+Environment and Public Health.Public Health.Environmental Pollution.Environmental Exposure.Maternal Exposure,N06.850.460.350.145
+Environment and Public Health.Public Health.Environmental Pollution.Environmental Exposure.Maximum Allowable Concentration,N06.850.460.350.210
+Environment and Public Health.Public Health.Environmental Pollution.Environmental Exposure.Occupational Exposure,N06.850.460.350.600
+Environment and Public Health.Public Health.Environmental Pollution.Environmental Exposure.Occupational Exposure.Maximum Allowable Concentration,N06.850.460.350.600.615
+Environment and Public Health.Public Health.Environmental Pollution.Environmental Exposure.Occupational Exposure.Threshold Limit Values,N06.850.460.350.600.807
+Environment and Public Health.Public Health.Environmental Pollution.Environmental Exposure.Occupational Exposure.War Exposure,N06.850.460.350.600.903
+Environment and Public Health.Public Health.Environmental Pollution.Environmental Exposure.Occupational Exposure.War Exposure.War-Related Injuries,N06.850.460.350.600.903.500
+Environment and Public Health.Public Health.Environmental Pollution.Environmental Exposure.Paternal Exposure,N06.850.460.350.700
+Environment and Public Health.Public Health.Environmental Pollution.Environmental Exposure.Radiation Exposure,N06.850.460.350.850
+Environment and Public Health.Public Health.Environmental Pollution.Environmental Exposure.Radiation Exposure.Radiation Injuries,N06.850.460.350.850.500
+"Environment and Public Health.Public Health.Environmental Pollution.Environmental Exposure.Radiation Exposure.Radiation Injuries.Abnormalities, Radiation-Induced",N06.850.460.350.850.500.031
+Environment and Public Health.Public Health.Environmental Pollution.Environmental Exposure.Radiation Exposure.Radiation Injuries.Acute Radiation Syndrome,N06.850.460.350.850.500.158
+"Environment and Public Health.Public Health.Environmental Pollution.Environmental Exposure.Radiation Exposure.Radiation Injuries.Radiation Injuries, Experimental",N06.850.460.350.850.500.285
+Environment and Public Health.Public Health.Environmental Pollution.Environmental Restoration and Remediation,N06.850.460.375
+"Environment and Public Health.Public Health.Environmental Pollution.Environmental Restoration and Remediation.Biodegradation, Environmental",N06.850.460.375.500
+Environment and Public Health.Public Health.Environmental Pollution.Food Contamination,N06.850.460.400
+"Environment and Public Health.Public Health.Environmental Pollution.Food Contamination.Food Contamination, Radioactive",N06.850.460.400.250
+Environment and Public Health.Public Health.Environmental Pollution.Food Contamination.Food Microbiology,N06.850.460.400.300
+Environment and Public Health.Public Health.Environmental Pollution.Food Contamination.Food Parasitology,N06.850.460.400.650
+Environment and Public Health.Public Health.Environmental Pollution.Noise,N06.850.460.610
+"Environment and Public Health.Public Health.Environmental Pollution.Noise.Noise, Occupational",N06.850.460.610.526
+"Environment and Public Health.Public Health.Environmental Pollution.Noise.Noise, Transportation",N06.850.460.610.680
+Environment and Public Health.Public Health.Environmental Pollution.Petroleum Pollution,N06.850.460.660
+Environment and Public Health.Public Health.Environmental Pollution.Waste Products,N06.850.460.710
+Environment and Public Health.Public Health.Environmental Pollution.Waste Products.Electronic Waste,N06.850.460.710.189
+Environment and Public Health.Public Health.Environmental Pollution.Waste Products.Hazardous Waste,N06.850.460.710.380
+Environment and Public Health.Public Health.Environmental Pollution.Waste Products.Hazardous Waste.Radioactive Waste,N06.850.460.710.380.638
+Environment and Public Health.Public Health.Environmental Pollution.Waste Products.Industrial Waste,N06.850.460.710.420
+Environment and Public Health.Public Health.Environmental Pollution.Waste Products.Medical Waste,N06.850.460.710.460
+Environment and Public Health.Public Health.Environmental Pollution.Waste Products.Medical Waste.Dental Waste,N06.850.460.710.460.150
+Environment and Public Health.Public Health.Environmental Pollution.Waste Products.Medical Waste.Medical Waste Disposal,N06.850.460.710.460.300
+Environment and Public Health.Public Health.Environmental Pollution.Waste Products.Solid Waste,N06.850.460.710.730
+Environment and Public Health.Public Health.Environmental Pollution.Waste Products.Waste Water,N06.850.460.710.865
+Environment and Public Health.Public Health.Environmental Pollution.Water Pollution,N06.850.460.790
+Environment and Public Health.Public Health.Environmental Pollution.Water Pollution.Non-Point Source Pollution,N06.850.460.790.205
+"Environment and Public Health.Public Health.Environmental Pollution.Water Pollution.Water Pollution, Chemical",N06.850.460.790.410
+"Environment and Public Health.Public Health.Environmental Pollution.Water Pollution.Water Pollution, Chemical.Acid Rain",N06.850.460.790.410.050
+"Environment and Public Health.Public Health.Environmental Pollution.Water Pollution.Water Pollution, Radioactive",N06.850.460.790.460
+Environment and Public Health.Public Health.Environmental Pollution.Water Pollution.Water Quality,N06.850.460.790.730
+Environment and Public Health.Public Health.Epidemiologic Factors,N06.850.490
+Environment and Public Health.Public Health.Epidemiologic Factors.Age Factors,N06.850.490.250
+Environment and Public Health.Public Health.Epidemiologic Factors.Age Factors.Age of Onset,N06.850.490.250.100
+Environment and Public Health.Public Health.Epidemiologic Factors.Age Factors.Maternal Age,N06.850.490.250.550
+Environment and Public Health.Public Health.Epidemiologic Factors.Bias,N06.850.490.500
+Environment and Public Health.Public Health.Epidemiologic Factors.Bias.Observer Variation,N06.850.490.500.250
+Environment and Public Health.Public Health.Epidemiologic Factors.Bias.Selection Bias,N06.850.490.500.500
+Environment and Public Health.Public Health.Epidemiologic Factors.Causality,N06.850.490.625
+Environment and Public Health.Public Health.Epidemiologic Factors.Causality.Precipitating Factors,N06.850.490.625.500
+Environment and Public Health.Public Health.Epidemiologic Factors.Causality.Protective Factors,N06.850.490.625.625
+Environment and Public Health.Public Health.Epidemiologic Factors.Causality.Risk Factors,N06.850.490.625.750
+Environment and Public Health.Public Health.Epidemiologic Factors.Comorbidity,N06.850.490.687
+Environment and Public Health.Public Health.Epidemiologic Factors.Comorbidity.Multimorbidity,N06.850.490.687.500
+Environment and Public Health.Public Health.Epidemiologic Factors.Confounding Factors (Epidemiology),N06.850.490.718
+"Environment and Public Health.Public Health.Epidemiologic Factors.Effect Modifier, Epidemiologic",N06.850.490.734
+"Environment and Public Health.Public Health.Epidemiologic Factors.Effect Modifier, Epidemiologic.Cohort Effect",N06.850.490.734.500
+"Environment and Public Health.Public Health.Epidemiologic Factors.Effect Modifier, Epidemiologic.Healthy Worker Effect",N06.850.490.734.750
+"Environment and Public Health.Public Health.Epidemiologic Factors.Effect Modifier, Epidemiologic.Placebo Effect",N06.850.490.734.875
+"Environment and Public Health.Public Health.Epidemiologic Factors.Effect Modifier, Epidemiologic.Placebo Effect.Nocebo Effect",N06.850.490.734.875.500
+Environment and Public Health.Public Health.Epidemiologic Factors.Reproductive History,N06.850.490.812
+Environment and Public Health.Public Health.Epidemiologic Factors.Reproductive History.Gravidity,N06.850.490.812.250
+Environment and Public Health.Public Health.Epidemiologic Factors.Reproductive History.Parity,N06.850.490.812.600
+Environment and Public Health.Public Health.Epidemiologic Factors.Sex Factors,N06.850.490.875
+Environment and Public Health.Public Health.Epidemiologic Measurements,N06.850.505
+Environment and Public Health.Public Health.Epidemiologic Measurements.Biometry,N06.850.505.200
+Environment and Public Health.Public Health.Epidemiologic Measurements.Biometry.Anthropometry,N06.850.505.200.100
+Environment and Public Health.Public Health.Epidemiologic Measurements.Biometry.Anthropometry.Body Mass Index,N06.850.505.200.100.175
+Environment and Public Health.Public Health.Epidemiologic Measurements.Biometry.Anthropometry.Cephalometry,N06.850.505.200.100.300
+Environment and Public Health.Public Health.Epidemiologic Measurements.Biometry.Anthropometry.Crown-Rump Length,N06.850.505.200.100.400
+Environment and Public Health.Public Health.Epidemiologic Measurements.Biometry.Anthropometry.Kinanthropometry,N06.850.505.200.100.700
+Environment and Public Health.Public Health.Epidemiologic Measurements.Demography,N06.850.505.400
+Environment and Public Health.Public Health.Epidemiologic Measurements.Demography.Age Distribution,N06.850.505.400.050
+Environment and Public Health.Public Health.Epidemiologic Measurements.Demography.Censuses,N06.850.505.400.225
+Environment and Public Health.Public Health.Epidemiologic Measurements.Demography.Family Characteristics,N06.850.505.400.400
+Environment and Public Health.Public Health.Epidemiologic Measurements.Demography.Family Characteristics.Birth Order,N06.850.505.400.400.160
+Environment and Public Health.Public Health.Epidemiologic Measurements.Demography.Health Status,N06.850.505.400.425
+Environment and Public Health.Public Health.Epidemiologic Measurements.Demography.Health Status.Geriatric Assessment,N06.850.505.400.425.350
+Environment and Public Health.Public Health.Epidemiologic Measurements.Demography.Health Status.Health Status Disparities,N06.850.505.400.425.675
+Environment and Public Health.Public Health.Epidemiologic Measurements.Demography.Health Status.Quality of Life,N06.850.505.400.425.837
+Environment and Public Health.Public Health.Epidemiologic Measurements.Demography.Population Density,N06.850.505.400.600
+Environment and Public Health.Public Health.Epidemiologic Measurements.Demography.Population Dynamics,N06.850.505.400.700
+Environment and Public Health.Public Health.Epidemiologic Measurements.Demography.Population Dynamics.Health Transition,N06.850.505.400.700.400
+Environment and Public Health.Public Health.Epidemiologic Measurements.Demography.Population Dynamics.Human Migration,N06.850.505.400.700.525
+Environment and Public Health.Public Health.Epidemiologic Measurements.Demography.Population Dynamics.Human Migration.Emigration and Immigration,N06.850.505.400.700.525.500
+Environment and Public Health.Public Health.Epidemiologic Measurements.Demography.Population Dynamics.Population Control,N06.850.505.400.700.650
+Environment and Public Health.Public Health.Epidemiologic Measurements.Demography.Population Dynamics.Population Growth,N06.850.505.400.700.660
+Environment and Public Health.Public Health.Epidemiologic Measurements.Demography.Residence Characteristics,N06.850.505.400.800
+Environment and Public Health.Public Health.Epidemiologic Measurements.Demography.Residence Characteristics.Catchment Area (Health),N06.850.505.400.800.200
+Environment and Public Health.Public Health.Epidemiologic Measurements.Demography.Residence Characteristics.Housing,N06.850.505.400.800.400
+Environment and Public Health.Public Health.Epidemiologic Measurements.Demography.Residence Characteristics.Independent Living,N06.850.505.400.800.550
+Environment and Public Health.Public Health.Epidemiologic Measurements.Demography.Sex Distribution,N06.850.505.400.850
+Environment and Public Health.Public Health.Epidemiologic Measurements.Demography.Sex Distribution.Sex Ratio,N06.850.505.400.850.815
+Environment and Public Health.Public Health.Epidemiologic Measurements.Demography.Vital Statistics,N06.850.505.400.975
+Environment and Public Health.Public Health.Epidemiologic Measurements.Demography.Vital Statistics.Life Expectancy,N06.850.505.400.975.450
+Environment and Public Health.Public Health.Epidemiologic Measurements.Demography.Vital Statistics.Life Tables,N06.850.505.400.975.475
+Environment and Public Health.Public Health.Epidemiologic Measurements.Demography.Vital Statistics.Morbidity,N06.850.505.400.975.525
+Environment and Public Health.Public Health.Epidemiologic Measurements.Demography.Vital Statistics.Morbidity.Basic Reproduction Number,N06.850.505.400.975.525.080
+Environment and Public Health.Public Health.Epidemiologic Measurements.Demography.Vital Statistics.Morbidity.Incidence,N06.850.505.400.975.525.375
+Environment and Public Health.Public Health.Epidemiologic Measurements.Demography.Vital Statistics.Morbidity.Prevalence,N06.850.505.400.975.525.750
+Environment and Public Health.Public Health.Epidemiologic Measurements.Demography.Vital Statistics.Mortality,N06.850.505.400.975.550
+Environment and Public Health.Public Health.Epidemiologic Measurements.Demography.Vital Statistics.Mortality.Cause of Death,N06.850.505.400.975.550.250
+Environment and Public Health.Public Health.Epidemiologic Measurements.Demography.Vital Statistics.Mortality.Child Mortality,N06.850.505.400.975.550.287
+Environment and Public Health.Public Health.Epidemiologic Measurements.Demography.Vital Statistics.Mortality.Fatal Outcome,N06.850.505.400.975.550.325
+Environment and Public Health.Public Health.Epidemiologic Measurements.Demography.Vital Statistics.Mortality.Fetal Mortality,N06.850.505.400.975.550.362
+Environment and Public Health.Public Health.Epidemiologic Measurements.Demography.Vital Statistics.Mortality.Hospital Mortality,N06.850.505.400.975.550.400
+Environment and Public Health.Public Health.Epidemiologic Measurements.Demography.Vital Statistics.Mortality.Infant Mortality,N06.850.505.400.975.550.475
+Environment and Public Health.Public Health.Epidemiologic Measurements.Demography.Vital Statistics.Mortality.Infant Mortality.Perinatal Mortality,N06.850.505.400.975.550.475.500
+Environment and Public Health.Public Health.Epidemiologic Measurements.Demography.Vital Statistics.Mortality.Maternal Mortality,N06.850.505.400.975.550.500
+"Environment and Public Health.Public Health.Epidemiologic Measurements.Demography.Vital Statistics.Mortality.Mortality, Premature",N06.850.505.400.975.550.550
+Environment and Public Health.Public Health.Epidemiologic Measurements.Demography.Vital Statistics.Mortality.Survival Rate,N06.850.505.400.975.550.900
+Environment and Public Health.Public Health.Epidemiologic Measurements.Demography.Vital Statistics.Pregnancy Rate,N06.850.505.400.975.775
+Environment and Public Health.Public Health.Epidemiologic Measurements.Demography.Vital Statistics.Pregnancy Rate.Birth Rate,N06.850.505.400.975.775.500
+Environment and Public Health.Public Health.Epidemiologic Measurements.Nutrition Assessment,N06.850.505.557
+Environment and Public Health.Public Health.Epidemiologic Measurements.Nutrition Surveys,N06.850.505.616
+Environment and Public Health.Public Health.Epidemiologic Measurements.Nutrition Surveys.Diet Surveys,N06.850.505.616.300
+Environment and Public Health.Public Health.Epidemiologic Measurements.Pharmacovigilance,N06.850.505.636
+Environment and Public Health.Public Health.Epidemiologic Measurements.Risk Assessment,N06.850.505.715
+Environment and Public Health.Public Health.Epidemiologic Measurements.Risk Assessment.Adverse Outcome Pathways,N06.850.505.715.250
+Environment and Public Health.Public Health.Epidemiologic Measurements.Risk Assessment.Healthcare Failure Mode and Effect Analysis,N06.850.505.715.500
+Environment and Public Health.Public Health.Epidemiologic Measurements.Risk Assessment.Risk Evaluation and Mitigation,N06.850.505.715.750
+Environment and Public Health.Public Health.Epidemiologic Methods,N06.850.520
+Environment and Public Health.Public Health.Epidemiologic Methods.Contact Tracing,N06.850.520.270
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection,N06.850.520.308
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Datasets as Topic,N06.850.520.308.056
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Focus Groups,N06.850.520.308.112
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Geriatric Assessment,N06.850.520.308.225
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Interviews as Topic,N06.850.520.308.420
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Lot Quality Assurance Sampling,N06.850.520.308.461
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Narration,N06.850.520.308.502
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Nutrition Assessment,N06.850.520.308.585
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Preliminary Data,N06.850.520.308.763
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Records as Topic,N06.850.520.308.940
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Records as Topic.Birth Certificates,N06.850.520.308.940.250
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Records as Topic.Death Certificates,N06.850.520.308.940.350
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Records as Topic.Dental Records,N06.850.520.308.940.375
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Records as Topic.Hospital Records,N06.850.520.308.940.425
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Records as Topic.Medical Records,N06.850.520.308.940.968
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Records as Topic.Medical Records.Clinical Coding,N06.850.520.308.940.968.249
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Records as Topic.Medical Records.Medical Record Linkage,N06.850.520.308.940.968.500
+"Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Records as Topic.Medical Records.Medical Records, Problem-Oriented",N06.850.520.308.940.968.550
+"Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Records as Topic.Medical Records.Medical Records Systems, Computerized",N06.850.520.308.940.968.625
+"Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Records as Topic.Medical Records.Medical Records Systems, Computerized.Health Smart Cards",N06.850.520.308.940.968.625.500
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Records as Topic.Medical Records.Patient Discharge Summaries,N06.850.520.308.940.968.750
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Records as Topic.Medical Records.Trauma Severity Indices,N06.850.520.308.940.968.875
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Records as Topic.Nursing Records,N06.850.520.308.940.984
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Registries,N06.850.520.308.970
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Registries.SEER Program,N06.850.520.308.970.725
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Surveys and Questionnaires,N06.850.520.308.980
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Surveys and Questionnaires.Contraceptive Prevalence Surveys,N06.850.520.308.980.313
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Surveys and Questionnaires.Health Care Surveys,N06.850.520.308.980.344
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Surveys and Questionnaires.Health Care Surveys.Patient Reported Outcome Measures,N06.850.520.308.980.344.500
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Surveys and Questionnaires.Health Surveys,N06.850.520.308.980.438
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Surveys and Questionnaires.Health Surveys.Behavioral Risk Factor Surveillance System,N06.850.520.308.980.438.149
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Surveys and Questionnaires.Health Surveys.Dental Health Surveys,N06.850.520.308.980.438.300
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Surveys and Questionnaires.Health Surveys.Dental Health Surveys.Dental Plaque Index,N06.850.520.308.980.438.300.300
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Surveys and Questionnaires.Health Surveys.Dental Health Surveys.DMF Index,N06.850.520.308.980.438.300.350
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Surveys and Questionnaires.Health Surveys.Dental Health Surveys.Index of Orthodontic Treatment Need,N06.850.520.308.980.438.300.512
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Surveys and Questionnaires.Health Surveys.Dental Health Surveys.Oral Hygiene Index,N06.850.520.308.980.438.300.675
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Surveys and Questionnaires.Health Surveys.Dental Health Surveys.Periodontal Index,N06.850.520.308.980.438.300.725
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Surveys and Questionnaires.Health Surveys.Health Status Indicators,N06.850.520.308.980.438.475
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Surveys and Questionnaires.Health Surveys.Health Status Indicators.Cost of Illness,N06.850.520.308.980.438.475.046
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Surveys and Questionnaires.Health Surveys.Health Status Indicators.Global Burden of Disease,N06.850.520.308.980.438.475.091
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Surveys and Questionnaires.Health Surveys.Health Status Indicators.Patient Acuity,N06.850.520.308.980.438.475.364
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Surveys and Questionnaires.Health Surveys.Health Status Indicators.Patient Acuity.Severity of Illness Index,N06.850.520.308.980.438.475.364.500
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Surveys and Questionnaires.Health Surveys.Health Status Indicators.Patient Acuity.Severity of Illness Index.APACHE,N06.850.520.308.980.438.475.364.500.250
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Surveys and Questionnaires.Health Surveys.Health Status Indicators.Patient Acuity.Severity of Illness Index.Karnofsky Performance Status,N06.850.520.308.980.438.475.364.500.500
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Surveys and Questionnaires.Health Surveys.Health Status Indicators.Patient Acuity.Severity of Illness Index.Organ Dysfunction Scores,N06.850.520.308.980.438.475.364.500.625
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Surveys and Questionnaires.Health Surveys.Health Status Indicators.Patient Acuity.Severity of Illness Index.Simplified Acute Physiology Score,N06.850.520.308.980.438.475.364.500.750
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Surveys and Questionnaires.Health Surveys.Health Status Indicators.Sickness Impact Profile,N06.850.520.308.980.438.475.730
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Surveys and Questionnaires.Health Surveys.Mass Screening,N06.850.520.308.980.438.580
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Surveys and Questionnaires.Health Surveys.Mass Screening.Anonymous Testing,N06.850.520.308.980.438.580.174
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Surveys and Questionnaires.Health Surveys.Mass Screening.Mass Chest X-Ray,N06.850.520.308.980.438.580.510
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Surveys and Questionnaires.Health Surveys.Mass Screening.Multiphasic Screening,N06.850.520.308.980.438.580.560
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Surveys and Questionnaires.Health Surveys.Mass Screening.Neonatal Screening,N06.850.520.308.980.438.580.580
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Surveys and Questionnaires.Health Surveys.Mass Screening.Vision Screening,N06.850.520.308.980.438.580.925
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Surveys and Questionnaires.Health Surveys.Population Surveillance,N06.850.520.308.980.438.700
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Surveys and Questionnaires.Health Surveys.Population Surveillance.Public Health Surveillance,N06.850.520.308.980.438.700.324
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Surveys and Questionnaires.Health Surveys.Population Surveillance.Sentinel Surveillance,N06.850.520.308.980.438.700.650
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Surveys and Questionnaires.Nutrition Surveys,N06.850.520.308.980.469
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Surveys and Questionnaires.Nutrition Surveys.Diet Surveys,N06.850.520.308.980.469.350
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Surveys and Questionnaires.Patient Health Questionnaire,N06.850.520.308.980.485
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Surveys and Questionnaires.Self Report,N06.850.520.308.980.500
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Vital Statistics,N06.850.520.308.985
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Vital Statistics.Life Expectancy,N06.850.520.308.985.450
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Vital Statistics.Life Tables,N06.850.520.308.985.475
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Vital Statistics.Morbidity,N06.850.520.308.985.525
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Vital Statistics.Morbidity.Basic Reproduction Number,N06.850.520.308.985.525.080
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Vital Statistics.Morbidity.Incidence,N06.850.520.308.985.525.375
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Vital Statistics.Morbidity.Prevalence,N06.850.520.308.985.525.750
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Vital Statistics.Mortality,N06.850.520.308.985.550
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Vital Statistics.Mortality.Cause of Death,N06.850.520.308.985.550.250
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Vital Statistics.Mortality.Child Mortality,N06.850.520.308.985.550.287
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Vital Statistics.Mortality.Fatal Outcome,N06.850.520.308.985.550.325
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Vital Statistics.Mortality.Fetal Mortality,N06.850.520.308.985.550.362
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Vital Statistics.Mortality.Hospital Mortality,N06.850.520.308.985.550.400
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Vital Statistics.Mortality.Infant Mortality,N06.850.520.308.985.550.475
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Vital Statistics.Mortality.Infant Mortality.Perinatal Mortality,N06.850.520.308.985.550.475.500
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Vital Statistics.Mortality.Maternal Mortality,N06.850.520.308.985.550.500
+"Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Vital Statistics.Mortality.Mortality, Premature",N06.850.520.308.985.550.550
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Vital Statistics.Mortality.Survival Rate,N06.850.520.308.985.550.900
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Vital Statistics.Pregnancy Rate,N06.850.520.308.985.775
+Environment and Public Health.Public Health.Epidemiologic Methods.Data Collection.Vital Statistics.Pregnancy Rate.Birth Rate,N06.850.520.308.985.775.500
+Environment and Public Health.Public Health.Epidemiologic Methods.Disease Notification,N06.850.520.373
+Environment and Public Health.Public Health.Epidemiologic Methods.Epidemiologic Research Design,N06.850.520.445
+Environment and Public Health.Public Health.Epidemiologic Methods.Epidemiologic Research Design.Cross-Over Studies,N06.850.520.445.150
+Environment and Public Health.Public Health.Epidemiologic Methods.Epidemiologic Research Design.Double-Blind Method,N06.850.520.445.300
+Environment and Public Health.Public Health.Epidemiologic Methods.Epidemiologic Research Design.Genome-Wide Association Study,N06.850.520.445.392
+Environment and Public Health.Public Health.Epidemiologic Methods.Epidemiologic Research Design.Matched-Pair Analysis,N06.850.520.445.485
+Environment and Public Health.Public Health.Epidemiologic Methods.Epidemiologic Research Design.Meta-Analysis as Topic,N06.850.520.445.500
+Environment and Public Health.Public Health.Epidemiologic Methods.Epidemiologic Research Design.Meta-Analysis as Topic.Network Meta-Analysis,N06.850.520.445.500.500
+Environment and Public Health.Public Health.Epidemiologic Methods.Epidemiologic Research Design.Random Allocation,N06.850.520.445.700
+Environment and Public Health.Public Health.Epidemiologic Methods.Epidemiologic Research Design.Reproducibility of Results,N06.850.520.445.725
+Environment and Public Health.Public Health.Epidemiologic Methods.Epidemiologic Research Design.Reproducibility of Results.Dimensional Measurement Accuracy,N06.850.520.445.725.500
+Environment and Public Health.Public Health.Epidemiologic Methods.Epidemiologic Research Design.Sample Size,N06.850.520.445.762
+Environment and Public Health.Public Health.Epidemiologic Methods.Epidemiologic Research Design.Sensitivity and Specificity,N06.850.520.445.800
+Environment and Public Health.Public Health.Epidemiologic Methods.Epidemiologic Research Design.Sensitivity and Specificity.Predictive Value of Tests,N06.850.520.445.800.650
+Environment and Public Health.Public Health.Epidemiologic Methods.Epidemiologic Research Design.Sensitivity and Specificity.ROC Curve,N06.850.520.445.800.750
+Environment and Public Health.Public Health.Epidemiologic Methods.Epidemiologic Research Design.Sensitivity and Specificity.Signal-To-Noise Ratio,N06.850.520.445.800.875
+Environment and Public Health.Public Health.Epidemiologic Methods.Epidemiologic Research Design.Single-Blind Method,N06.850.520.445.850
+Environment and Public Health.Public Health.Epidemiologic Methods.Epidemiologic Study Characteristics,N06.850.520.450
+Environment and Public Health.Public Health.Epidemiologic Methods.Epidemiologic Study Characteristics.Clinical Studies as Topic,N06.850.520.450.250
+Environment and Public Health.Public Health.Epidemiologic Methods.Epidemiologic Study Characteristics.Clinical Studies as Topic.Clinical Trials as Topic,N06.850.520.450.250.250
+Environment and Public Health.Public Health.Epidemiologic Methods.Epidemiologic Study Characteristics.Clinical Studies as Topic.Clinical Trials as Topic.Adaptive Clinical Trials as Topic,N06.850.520.450.250.250.100
+"Environment and Public Health.Public Health.Epidemiologic Methods.Epidemiologic Study Characteristics.Clinical Studies as Topic.Clinical Trials as Topic.Clinical Trials, Phase I as Topic",N06.850.520.450.250.250.200
+"Environment and Public Health.Public Health.Epidemiologic Methods.Epidemiologic Study Characteristics.Clinical Studies as Topic.Clinical Trials as Topic.Clinical Trials, Phase II as Topic",N06.850.520.450.250.250.210
+"Environment and Public Health.Public Health.Epidemiologic Methods.Epidemiologic Study Characteristics.Clinical Studies as Topic.Clinical Trials as Topic.Clinical Trials, Phase III as Topic",N06.850.520.450.250.250.220
+"Environment and Public Health.Public Health.Epidemiologic Methods.Epidemiologic Study Characteristics.Clinical Studies as Topic.Clinical Trials as Topic.Clinical Trials, Phase IV as Topic",N06.850.520.450.250.250.230
+Environment and Public Health.Public Health.Epidemiologic Methods.Epidemiologic Study Characteristics.Clinical Studies as Topic.Clinical Trials as Topic.Controlled Clinical Trials as Topic,N06.850.520.450.250.250.365
+Environment and Public Health.Public Health.Epidemiologic Methods.Epidemiologic Study Characteristics.Clinical Studies as Topic.Clinical Trials as Topic.Controlled Clinical Trials as Topic.Non-Randomized Controlled Trials as Topic,N06.850.520.450.250.250.365.250
+Environment and Public Health.Public Health.Epidemiologic Methods.Epidemiologic Study Characteristics.Clinical Studies as Topic.Clinical Trials as Topic.Controlled Clinical Trials as Topic.Randomized Controlled Trials as Topic,N06.850.520.450.250.250.365.500
+Environment and Public Health.Public Health.Epidemiologic Methods.Epidemiologic Study Characteristics.Clinical Studies as Topic.Clinical Trials as Topic.Controlled Clinical Trials as Topic.Randomized Controlled Trials as Topic.Equivalence Trials as Topic,N06.850.520.450.250.250.365.500.250
+Environment and Public Health.Public Health.Epidemiologic Methods.Epidemiologic Study Characteristics.Clinical Studies as Topic.Clinical Trials as Topic.Controlled Clinical Trials as Topic.Randomized Controlled Trials as Topic.Intention to Treat Analysis,N06.850.520.450.250.250.365.500.500
+Environment and Public Health.Public Health.Epidemiologic Methods.Epidemiologic Study Characteristics.Clinical Studies as Topic.Clinical Trials as Topic.Controlled Clinical Trials as Topic.Randomized Controlled Trials as Topic.Pragmatic Clinical Trials as Topic,N06.850.520.450.250.250.365.500.750
+Environment and Public Health.Public Health.Epidemiologic Methods.Epidemiologic Study Characteristics.Clinical Studies as Topic.Observational Studies as Topic,N06.850.520.450.250.500
+Environment and Public Health.Public Health.Epidemiologic Methods.Epidemiologic Study Characteristics.Epidemiologic Studies,N06.850.520.450.500
+Environment and Public Health.Public Health.Epidemiologic Methods.Epidemiologic Study Characteristics.Epidemiologic Studies.Case-Control Studies,N06.850.520.450.500.500
+Environment and Public Health.Public Health.Epidemiologic Methods.Epidemiologic Study Characteristics.Epidemiologic Studies.Case-Control Studies.Retrospective Studies,N06.850.520.450.500.500.500
+Environment and Public Health.Public Health.Epidemiologic Methods.Epidemiologic Study Characteristics.Epidemiologic Studies.Cohort Studies,N06.850.520.450.500.750
+Environment and Public Health.Public Health.Epidemiologic Methods.Epidemiologic Study Characteristics.Epidemiologic Studies.Cohort Studies.Follow-Up Studies,N06.850.520.450.500.750.350
+Environment and Public Health.Public Health.Epidemiologic Methods.Epidemiologic Study Characteristics.Epidemiologic Studies.Cohort Studies.Longitudinal Studies,N06.850.520.450.500.750.500
+Environment and Public Health.Public Health.Epidemiologic Methods.Epidemiologic Study Characteristics.Epidemiologic Studies.Cohort Studies.Longitudinal Studies.National Longitudinal Study of Adolescent Health,N06.850.520.450.500.750.500.500
+Environment and Public Health.Public Health.Epidemiologic Methods.Epidemiologic Study Characteristics.Epidemiologic Studies.Cohort Studies.Prospective Studies,N06.850.520.450.500.750.650
+Environment and Public Health.Public Health.Epidemiologic Methods.Epidemiologic Study Characteristics.Epidemiologic Studies.Cohort Studies.Retrospective Studies,N06.850.520.450.500.750.825
+Environment and Public Health.Public Health.Epidemiologic Methods.Epidemiologic Study Characteristics.Epidemiologic Studies.Controlled Before-After Studies,N06.850.520.450.500.812
+Environment and Public Health.Public Health.Epidemiologic Methods.Epidemiologic Study Characteristics.Epidemiologic Studies.Cross-Sectional Studies,N06.850.520.450.500.875
+Environment and Public Health.Public Health.Epidemiologic Methods.Epidemiologic Study Characteristics.Epidemiologic Studies.Interrupted Time Series Analysis,N06.850.520.450.500.912
+Environment and Public Health.Public Health.Epidemiologic Methods.Epidemiologic Study Characteristics.Epidemiologic Studies.Seroepidemiologic Studies,N06.850.520.450.500.950
+Environment and Public Health.Public Health.Epidemiologic Methods.Epidemiologic Study Characteristics.Epidemiologic Studies.Seroepidemiologic Studies.HIV Seroprevalence,N06.850.520.450.500.950.375
+Environment and Public Health.Public Health.Epidemiologic Methods.Epidemiologic Study Characteristics.Feasibility Studies,N06.850.520.450.550
+Environment and Public Health.Public Health.Epidemiologic Methods.Epidemiologic Study Characteristics.Multicenter Studies as Topic,N06.850.520.450.643
+Environment and Public Health.Public Health.Epidemiologic Methods.Epidemiologic Study Characteristics.Pilot Projects,N06.850.520.450.720
+Environment and Public Health.Public Health.Epidemiologic Methods.Epidemiologic Study Characteristics.Sampling Studies,N06.850.520.450.875
+Environment and Public Health.Public Health.Epidemiologic Methods.Epidemiologic Study Characteristics.Twin Studies as Topic,N06.850.520.450.900
+Environment and Public Health.Public Health.Epidemiologic Methods.Epidemiological Monitoring,N06.850.520.460
+Environment and Public Health.Public Health.Epidemiologic Methods.Molecular Epidemiology,N06.850.520.470
+Environment and Public Health.Public Health.Epidemiologic Methods.Molecular Epidemiology.Genome-Wide Association Study,N06.850.520.470.500
+Environment and Public Health.Public Health.Epidemiologic Methods.Sentinel Surveillance,N06.850.520.699
+Environment and Public Health.Public Health.Epidemiologic Methods.Statistics as Topic,N06.850.520.830
+Environment and Public Health.Public Health.Epidemiologic Methods.Statistics as Topic.Actuarial Analysis,N06.850.520.830.100
+Environment and Public Health.Public Health.Epidemiologic Methods.Statistics as Topic.Analysis of Variance,N06.850.520.830.150
+Environment and Public Health.Public Health.Epidemiologic Methods.Statistics as Topic.Analysis of Variance.Multivariate Analysis,N06.850.520.830.150.500
+Environment and Public Health.Public Health.Epidemiologic Methods.Statistics as Topic.Area Under Curve,N06.850.520.830.200
+Environment and Public Health.Public Health.Epidemiologic Methods.Statistics as Topic.Cluster Analysis,N06.850.520.830.250
+Environment and Public Health.Public Health.Epidemiologic Methods.Statistics as Topic.Cluster Analysis.Small-Area Analysis,N06.850.520.830.250.675
+Environment and Public Health.Public Health.Epidemiologic Methods.Statistics as Topic.Cluster Analysis.Space-Time Clustering,N06.850.520.830.250.700
+Environment and Public Health.Public Health.Epidemiologic Methods.Statistics as Topic.Confidence Intervals,N06.850.520.830.275
+"Environment and Public Health.Public Health.Epidemiologic Methods.Statistics as Topic.Data Interpretation, Statistical",N06.850.520.830.300
+Environment and Public Health.Public Health.Epidemiologic Methods.Statistics as Topic.Discriminant Analysis,N06.850.520.830.350
+"Environment and Public Health.Public Health.Epidemiologic Methods.Statistics as Topic.Factor Analysis, Statistical",N06.850.520.830.400
+Environment and Public Health.Public Health.Epidemiologic Methods.Statistics as Topic.Matched-Pair Analysis,N06.850.520.830.475
+"Environment and Public Health.Public Health.Epidemiologic Methods.Statistics as Topic.Models, Statistical",N06.850.520.830.500
+"Environment and Public Health.Public Health.Epidemiologic Methods.Statistics as Topic.Models, Statistical.Likelihood Functions",N06.850.520.830.500.475
+"Environment and Public Health.Public Health.Epidemiologic Methods.Statistics as Topic.Models, Statistical.Linear Models",N06.850.520.830.500.500
+"Environment and Public Health.Public Health.Epidemiologic Methods.Statistics as Topic.Models, Statistical.Logistic Models",N06.850.520.830.500.525
+"Environment and Public Health.Public Health.Epidemiologic Methods.Statistics as Topic.Models, Statistical.Models, Economic",N06.850.520.830.500.600
+"Environment and Public Health.Public Health.Epidemiologic Methods.Statistics as Topic.Models, Statistical.Models, Economic.Models, Econometric",N06.850.520.830.500.600.500
+"Environment and Public Health.Public Health.Epidemiologic Methods.Statistics as Topic.Models, Statistical.Nomograms",N06.850.520.830.500.625
+"Environment and Public Health.Public Health.Epidemiologic Methods.Statistics as Topic.Models, Statistical.Proportional Hazards Models",N06.850.520.830.500.700
+Environment and Public Health.Public Health.Epidemiologic Methods.Statistics as Topic.Monte Carlo Method,N06.850.520.830.525
+Environment and Public Health.Public Health.Epidemiologic Methods.Statistics as Topic.Multilevel Analysis,N06.850.520.830.562
+Environment and Public Health.Public Health.Epidemiologic Methods.Statistics as Topic.Probability,N06.850.520.830.600
+Environment and Public Health.Public Health.Epidemiologic Methods.Statistics as Topic.Probability.Bayes Theorem,N06.850.520.830.600.200
+Environment and Public Health.Public Health.Epidemiologic Methods.Statistics as Topic.Probability.Likelihood Functions,N06.850.520.830.600.400
+Environment and Public Health.Public Health.Epidemiologic Methods.Statistics as Topic.Probability.Markov Chains,N06.850.520.830.600.500
+Environment and Public Health.Public Health.Epidemiologic Methods.Statistics as Topic.Probability.Odds Ratio,N06.850.520.830.600.600
+Environment and Public Health.Public Health.Epidemiologic Methods.Statistics as Topic.Probability.Propensity Score,N06.850.520.830.600.650
+Environment and Public Health.Public Health.Epidemiologic Methods.Statistics as Topic.Probability.Proportional Hazards Models,N06.850.520.830.600.700
+Environment and Public Health.Public Health.Epidemiologic Methods.Statistics as Topic.Probability.Risk,N06.850.520.830.600.800
+Environment and Public Health.Public Health.Epidemiologic Methods.Statistics as Topic.Probability.Risk.Logistic Models,N06.850.520.830.600.800.450
+Environment and Public Health.Public Health.Epidemiologic Methods.Statistics as Topic.Probability.Risk.Protective Factors,N06.850.520.830.600.800.582
+Environment and Public Health.Public Health.Epidemiologic Methods.Statistics as Topic.Probability.Risk.Risk Assessment,N06.850.520.830.600.800.715
+Environment and Public Health.Public Health.Epidemiologic Methods.Statistics as Topic.Probability.Risk.Risk Assessment.Healthcare Failure Mode and Effect Analysis,N06.850.520.830.600.800.715.500
+Environment and Public Health.Public Health.Epidemiologic Methods.Statistics as Topic.Probability.Risk.Risk Factors,N06.850.520.830.600.800.725
+Environment and Public Health.Public Health.Epidemiologic Methods.Statistics as Topic.Probability.Uncertainty,N06.850.520.830.600.900
+Environment and Public Health.Public Health.Epidemiologic Methods.Statistics as Topic.Regression Analysis,N06.850.520.830.750
+Environment and Public Health.Public Health.Epidemiologic Methods.Statistics as Topic.Regression Analysis.Least-Squares Analysis,N06.850.520.830.750.400
+Environment and Public Health.Public Health.Epidemiologic Methods.Statistics as Topic.Regression Analysis.Linear Models,N06.850.520.830.750.425
+Environment and Public Health.Public Health.Epidemiologic Methods.Statistics as Topic.Regression Analysis.Logistic Models,N06.850.520.830.750.450
+Environment and Public Health.Public Health.Epidemiologic Methods.Statistics as Topic.Regression Analysis.Proportional Hazards Models,N06.850.520.830.750.725
+Environment and Public Health.Public Health.Epidemiologic Methods.Statistics as Topic.Regression Analysis.Spatial Regression,N06.850.520.830.750.862
+Environment and Public Health.Public Health.Epidemiologic Methods.Statistics as Topic.Sensitivity and Specificity,N06.850.520.830.872
+Environment and Public Health.Public Health.Epidemiologic Methods.Statistics as Topic.Sensitivity and Specificity.Limit of Detection,N06.850.520.830.872.500
+Environment and Public Health.Public Health.Epidemiologic Methods.Statistics as Topic.Sensitivity and Specificity.Signal-To-Noise Ratio,N06.850.520.830.872.750
+Environment and Public Health.Public Health.Epidemiologic Methods.Statistics as Topic.Spatial Analysis,N06.850.520.830.933
+Environment and Public Health.Public Health.Epidemiologic Methods.Statistics as Topic.Spatial Analysis.Geographic Mapping,N06.850.520.830.933.249
+Environment and Public Health.Public Health.Epidemiologic Methods.Statistics as Topic.Spatial Analysis.Spatial Regression,N06.850.520.830.933.375
+Environment and Public Health.Public Health.Epidemiologic Methods.Statistics as Topic.Spatial Analysis.Spatio-Temporal Analysis,N06.850.520.830.933.500
+Environment and Public Health.Public Health.Epidemiologic Methods.Statistics as Topic.Statistical Distributions,N06.850.520.830.994
+Environment and Public Health.Public Health.Epidemiologic Methods.Statistics as Topic.Statistical Distributions.Binomial Distribution,N06.850.520.830.994.250
+Environment and Public Health.Public Health.Epidemiologic Methods.Statistics as Topic.Statistical Distributions.Chi-Square Distribution,N06.850.520.830.994.300
+Environment and Public Health.Public Health.Epidemiologic Methods.Statistics as Topic.Statistical Distributions.Normal Distribution,N06.850.520.830.994.500
+Environment and Public Health.Public Health.Epidemiologic Methods.Statistics as Topic.Statistical Distributions.Poisson Distribution,N06.850.520.830.994.750
+"Environment and Public Health.Public Health.Epidemiologic Methods.Statistics as Topic.Statistics, Nonparametric",N06.850.520.830.995
+Environment and Public Health.Public Health.Epidemiologic Methods.Statistics as Topic.Stochastic Processes,N06.850.520.830.996
+Environment and Public Health.Public Health.Epidemiologic Methods.Statistics as Topic.Stochastic Processes.Markov Chains,N06.850.520.830.996.500
+Environment and Public Health.Public Health.Epidemiologic Methods.Statistics as Topic.Survival Analysis,N06.850.520.830.998
+Environment and Public Health.Public Health.Epidemiologic Methods.Statistics as Topic.Survival Analysis.Disease-Free Survival,N06.850.520.830.998.300
+Environment and Public Health.Public Health.Epidemiologic Methods.Statistics as Topic.Survival Analysis.Kaplan-Meier Estimate,N06.850.520.830.998.650
+Environment and Public Health.Public Health.Equipment Contamination,N06.850.540
+Environment and Public Health.Public Health.Equipment Contamination.Biofouling,N06.850.540.500
+Environment and Public Health.Public Health.Equipment Reuse,N06.850.585
+Environment and Public Health.Public Health.Food Quality,N06.850.601
+Environment and Public Health.Public Health.Food Quality.Food Safety,N06.850.601.500
+Environment and Public Health.Public Health.Food Quality.Food Safety.Food Contamination,N06.850.601.500.249
+"Environment and Public Health.Public Health.Food Quality.Food Safety.Food Contamination.Food Contamination, Radioactive",N06.850.601.500.249.250
+Environment and Public Health.Public Health.Food Quality.Food Safety.Food Contamination.Food Microbiology,N06.850.601.500.249.300
+Environment and Public Health.Public Health.Food Quality.Food Safety.Food Contamination.Food Parasitology,N06.850.601.500.249.650
+Environment and Public Health.Public Health.Food Quality.Food Safety.Food Inspection,N06.850.601.500.500
+Environment and Public Health.Public Health.Food Quality.Food Safety.Hazard Analysis and Critical Control Points,N06.850.601.500.750
+Environment and Public Health.Public Health.Food Quality.Nutritive Value,N06.850.601.750
+Environment and Public Health.Public Health.Food Quality.Nutritive Value.Glycemic Index,N06.850.601.750.500
+Environment and Public Health.Public Health.Food Quality.Nutritive Value.Glycemic Load,N06.850.601.750.750
+Environment and Public Health.Public Health.Health Transition,N06.850.650
+Environment and Public Health.Public Health.Hygiene,N06.850.670
+Environment and Public Health.Public Health.Hygiene.Hand Hygiene,N06.850.670.150
+Environment and Public Health.Public Health.Hygiene.Hand Hygiene.Hand Disinfection,N06.850.670.150.500
+Environment and Public Health.Public Health.Hygiene.Military Hygiene,N06.850.670.300
+Environment and Public Health.Public Health.Patient Harm,N06.850.725
+Environment and Public Health.Public Health.Public Health Practice,N06.850.780
+Environment and Public Health.Public Health.Public Health Practice.Communicable Disease Control,N06.850.780.200
+Environment and Public Health.Public Health.Public Health Practice.Communicable Disease Control.Animal Culling,N06.850.780.200.112
+Environment and Public Health.Public Health.Public Health Practice.Communicable Disease Control.Contact Tracing,N06.850.780.200.225
+Environment and Public Health.Public Health.Public Health Practice.Communicable Disease Control.Disease Notification,N06.850.780.200.262
+Environment and Public Health.Public Health.Public Health Practice.Communicable Disease Control.Fumigation,N06.850.780.200.300
+Environment and Public Health.Public Health.Public Health Practice.Communicable Disease Control.Immunization,N06.850.780.200.425
+Environment and Public Health.Public Health.Public Health Practice.Communicable Disease Control.Immunization.Vaccination,N06.850.780.200.425.900
+Environment and Public Health.Public Health.Public Health Practice.Communicable Disease Control.Immunization.Vaccination.Mass Vaccination,N06.850.780.200.425.900.500
+Environment and Public Health.Public Health.Public Health Practice.Communicable Disease Control.Infection Control,N06.850.780.200.450
+Environment and Public Health.Public Health.Public Health Practice.Communicable Disease Control.Infection Control.Antisepsis,N06.850.780.200.450.150
+Environment and Public Health.Public Health.Public Health Practice.Communicable Disease Control.Infection Control.Antisepsis.Asepsis,N06.850.780.200.450.150.160
+Environment and Public Health.Public Health.Public Health Practice.Communicable Disease Control.Infection Control.Blood Safety,N06.850.780.200.450.325
+"Environment and Public Health.Public Health.Public Health Practice.Communicable Disease Control.Infection Control.Infection Control, Dental",N06.850.780.200.450.500
+Environment and Public Health.Public Health.Public Health Practice.Communicable Disease Control.Infection Control.Patient Isolation,N06.850.780.200.450.650
+Environment and Public Health.Public Health.Public Health Practice.Communicable Disease Control.Infection Control.Quarantine,N06.850.780.200.450.700
+Environment and Public Health.Public Health.Public Health Practice.Communicable Disease Control.Infection Control.Sterilization,N06.850.780.200.450.850
+Environment and Public Health.Public Health.Public Health Practice.Communicable Disease Control.Infection Control.Sterilization.Disinfection,N06.850.780.200.450.850.375
+Environment and Public Health.Public Health.Public Health Practice.Communicable Disease Control.Mandatory Testing,N06.850.780.200.550
+Environment and Public Health.Public Health.Public Health Practice.Communicable Disease Control.Mass Drug Administration,N06.850.780.200.600
+Environment and Public Health.Public Health.Public Health Practice.Communicable Disease Control.Pest Control,N06.850.780.200.650
+Environment and Public Health.Public Health.Public Health Practice.Communicable Disease Control.Pest Control.Insect Control,N06.850.780.200.650.425
+Environment and Public Health.Public Health.Public Health Practice.Communicable Disease Control.Pest Control.Insect Control.Mosquito Control,N06.850.780.200.650.425.500
+"Environment and Public Health.Public Health.Public Health Practice.Communicable Disease Control.Pest Control.Pest Control, Biological",N06.850.780.200.650.650
+Environment and Public Health.Public Health.Public Health Practice.Communicable Disease Control.Pest Control.Rodent Control,N06.850.780.200.650.700
+Environment and Public Health.Public Health.Public Health Practice.Communicable Disease Control.Pest Control.Tick Control,N06.850.780.200.650.850
+Environment and Public Health.Public Health.Public Health Practice.Communicable Disease Control.Pest Control.Weed Control,N06.850.780.200.650.925
+Environment and Public Health.Public Health.Public Health Practice.Communicable Disease Control.Sanitation,N06.850.780.200.800
+Environment and Public Health.Public Health.Public Health Practice.Communicable Disease Control.Sanitation.Food Inspection,N06.850.780.200.800.325
+Environment and Public Health.Public Health.Public Health Practice.Communicable Disease Control.Sanitation.Sanitary Engineering,N06.850.780.200.800.800
+"Environment and Public Health.Public Health.Public Health Practice.Communicable Disease Control.Sanitation.Sanitary Engineering.Drainage, Sanitary",N06.850.780.200.800.800.350
+Environment and Public Health.Public Health.Public Health Practice.Communicable Disease Control.Sanitation.Sanitary Engineering.Recycling,N06.850.780.200.800.800.525
+Environment and Public Health.Public Health.Public Health Practice.Communicable Disease Control.Sanitation.Sanitary Engineering.Refuse Disposal,N06.850.780.200.800.800.700
+Environment and Public Health.Public Health.Public Health Practice.Communicable Disease Control.Sanitation.Sanitary Engineering.Refuse Disposal.Composting,N06.850.780.200.800.800.700.500
+Environment and Public Health.Public Health.Public Health Practice.Communicable Disease Control.Sanitation.Sanitary Engineering.Toilet Facilities,N06.850.780.200.800.800.795
+"Environment and Public Health.Public Health.Public Health Practice.Communicable Disease Control.Sanitation.Sanitary Engineering.Waste Disposal, Fluid",N06.850.780.200.800.800.890
+Environment and Public Health.Public Health.Public Health Practice.Communicable Disease Control.Sanitation.Sanitary Engineering.Waste Management,N06.850.780.200.800.800.900
+Environment and Public Health.Public Health.Public Health Practice.Communicable Disease Control.Sanitation.Sanitary Engineering.Waste Management.Waste Disposal Facilities,N06.850.780.200.800.800.900.449
+Environment and Public Health.Public Health.Public Health Practice.Communicable Disease Control.Sanitation.Sanitary Engineering.Waste Management.Waste Disposal Facilities.Hazardous Waste Sites,N06.850.780.200.800.800.900.449.500
+Environment and Public Health.Public Health.Public Health Practice.Communicable Disease Control.Sanitation.Sanitary Engineering.Waste Management.Water Purification,N06.850.780.200.800.800.900.900
+Environment and Public Health.Public Health.Public Health Practice.Communicable Disease Control.Universal Precautions,N06.850.780.200.925
+Environment and Public Health.Public Health.Public Health Practice.Decontamination,N06.850.780.325
+Environment and Public Health.Public Health.Public Health Practice.Environmental Monitoring,N06.850.780.375
+Environment and Public Health.Public Health.Public Health Practice.Environmental Monitoring.Biological Oxygen Demand Analysis,N06.850.780.375.349
+Environment and Public Health.Public Health.Public Health Practice.Environmental Monitoring.Radiation Monitoring,N06.850.780.375.700
+Environment and Public Health.Public Health.Public Health Practice.Mass Screening,N06.850.780.500
+Environment and Public Health.Public Health.Public Health Practice.Mass Screening.Anonymous Testing,N06.850.780.500.162
+Environment and Public Health.Public Health.Public Health Practice.Mass Screening.Mandatory Testing,N06.850.780.500.412
+Environment and Public Health.Public Health.Public Health Practice.Mass Screening.Mass Chest X-Ray,N06.850.780.500.500
+Environment and Public Health.Public Health.Public Health Practice.Mass Screening.Multiphasic Screening,N06.850.780.500.560
+Environment and Public Health.Public Health.Public Health Practice.Mass Screening.Neonatal Screening,N06.850.780.500.580
+Environment and Public Health.Public Health.Public Health Practice.Mass Screening.Substance Abuse Detection,N06.850.780.500.765
+Environment and Public Health.Public Health.Public Health Practice.Mass Screening.Vision Screening,N06.850.780.500.950
+Environment and Public Health.Public Health.Public Health Practice.Population Surveillance,N06.850.780.675
+Environment and Public Health.Public Health.Public Health Practice.Population Surveillance.Biosurveillance,N06.850.780.675.324
+Environment and Public Health.Public Health.Public Health Practice.Population Surveillance.Public Health Surveillance,N06.850.780.675.487
+Environment and Public Health.Public Health.Public Health Practice.Population Surveillance.Sentinel Surveillance,N06.850.780.675.650
+Environment and Public Health.Public Health.Public Health Practice.Primary Prevention,N06.850.780.680
+Environment and Public Health.Public Health.Public Health Practice.Primary Prevention.Immunization,N06.850.780.680.310
+Environment and Public Health.Public Health.Public Health Practice.Primary Prevention.Immunization.Vaccination,N06.850.780.680.310.890
+Environment and Public Health.Public Health.Public Health Practice.Primary Prevention.Immunization.Vaccination.Mass Vaccination,N06.850.780.680.310.890.500
+Environment and Public Health.Public Health.Public Health Practice.Primary Prevention.Pre-Exposure Prophylaxis,N06.850.780.680.655
+Environment and Public Health.Public Health.Public Health Practice.Secondary Prevention,N06.850.780.750
+Environment and Public Health.Public Health.Public Health Practice.Tertiary Prevention,N06.850.780.800
+Environment and Public Health.Public Health.Radiologic Health,N06.850.810
+"Environment and Public Health.Public Health.Radiologic Health.Air Pollution, Radioactive",N06.850.810.080
+"Environment and Public Health.Public Health.Radiologic Health.Food Contamination, Radioactive",N06.850.810.125
+Environment and Public Health.Public Health.Radiologic Health.Radiation Dosage,N06.850.810.250
+"Environment and Public Health.Public Health.Radiologic Health.Radiation Dosage.Dose-Response Relationship, Radiation",N06.850.810.250.180
+Environment and Public Health.Public Health.Radiologic Health.Radiation Dosage.Relative Biological Effectiveness,N06.850.810.250.275
+Environment and Public Health.Public Health.Radiologic Health.Radiation Effects,N06.850.810.300
+Environment and Public Health.Public Health.Radiologic Health.Radiation Effects.Radiation Injuries,N06.850.810.300.360
+"Environment and Public Health.Public Health.Radiologic Health.Radiation Effects.Radiation Injuries.Abnormalities, Radiation-Induced",N06.850.810.300.360.031
+Environment and Public Health.Public Health.Radiologic Health.Radiation Effects.Radiation Injuries.Acute Radiation Syndrome,N06.850.810.300.360.158
+"Environment and Public Health.Public Health.Radiologic Health.Radiation Effects.Radiation Injuries.Radiation Injuries, Experimental",N06.850.810.300.360.285
+Environment and Public Health.Public Health.Radiologic Health.Radiation Genetics,N06.850.810.335
+Environment and Public Health.Public Health.Radiologic Health.Radiation Monitoring,N06.850.810.370
+Environment and Public Health.Public Health.Radiologic Health.Radiation Monitoring.Film Dosimetry,N06.850.810.370.310
+Environment and Public Health.Public Health.Radiologic Health.Radiation Monitoring.Optically Stimulated Luminescence Dosimetry,N06.850.810.370.365
+Environment and Public Health.Public Health.Radiologic Health.Radiation Monitoring.Thermoluminescent Dosimetry,N06.850.810.370.420
+Environment and Public Health.Public Health.Radiologic Health.Radiation Protection,N06.850.810.425
+Environment and Public Health.Public Health.Radiologic Health.Radioactive Fallout,N06.850.810.460
+Environment and Public Health.Public Health.Radiologic Health.Radioactive Waste,N06.850.810.485
+"Environment and Public Health.Public Health.Radiologic Health.Water Pollution, Radioactive",N06.850.810.530
+Environment and Public Health.Public Health.Sanitation,N06.850.860
+Environment and Public Health.Public Health.Sanitation.Sanitary Engineering,N06.850.860.510
+Environment and Public Health.Public Health.Sanitation.Sanitary Engineering.Recycling,N06.850.860.510.244
+Environment and Public Health.Public Health.Sanitation.Sanitary Engineering.Toilet Facilities,N06.850.860.510.490
+Environment and Public Health.Public Health.Sanitation.Sanitary Engineering.Waste Management,N06.850.860.510.900
+Environment and Public Health.Public Health.Sanitation.Sanitary Engineering.Waste Management.Refuse Disposal,N06.850.860.510.900.600
+Environment and Public Health.Public Health.Sanitation.Sanitary Engineering.Waste Management.Refuse Disposal.Composting,N06.850.860.510.900.600.200
+Environment and Public Health.Public Health.Sanitation.Sanitary Engineering.Waste Management.Refuse Disposal.Garbage,N06.850.860.510.900.600.400
+Environment and Public Health.Public Health.Sanitation.Sanitary Engineering.Waste Management.Refuse Disposal.Incineration,N06.850.860.510.900.600.500
+Environment and Public Health.Public Health.Sanitation.Sanitary Engineering.Waste Management.Refuse Disposal.Medical Waste Disposal,N06.850.860.510.900.600.600
+"Environment and Public Health.Public Health.Sanitation.Sanitary Engineering.Waste Management.Refuse Disposal.Waste Disposal, Fluid",N06.850.860.510.900.600.900
+Environment and Public Health.Public Health.Sanitation.Sanitary Engineering.Waste Management.Waste Disposal Facilities,N06.850.860.510.900.700
+Environment and Public Health.Public Health.Sanitation.Sanitary Engineering.Waste Management.Waste Disposal Facilities.Hazardous Waste Sites,N06.850.860.510.900.700.500
+Environment and Public Health.Public Health.Sanitation.Sanitary Engineering.Waste Management.Water Purification,N06.850.860.510.900.900
+Environment and Public Health.Public Health.Sanitation.Sanitary Engineering.Water Softening,N06.850.860.510.910
+Environment and Public Health.Public Health Dentistry,N06.890
+Environment and Public Health.Public Health Dentistry.Dental Health Surveys,N06.890.160
+Environment and Public Health.Public Health Dentistry.Dental Health Surveys.Dental Plaque Index,N06.890.160.090
+Environment and Public Health.Public Health Dentistry.Dental Health Surveys.DMF Index,N06.890.160.100
+Environment and Public Health.Public Health Dentistry.Dental Health Surveys.Index of Orthodontic Treatment Need,N06.890.160.134
+Environment and Public Health.Public Health Dentistry.Dental Health Surveys.Oral Hygiene Index,N06.890.160.168
+Environment and Public Health.Public Health Dentistry.Dental Health Surveys.Periodontal Index,N06.890.160.215
+Environment and Public Health.Public Health Dentistry.Fluoridation,N06.890.235
+"Environment and Public Health.Public Health Dentistry.Health Education, Dental",N06.890.410

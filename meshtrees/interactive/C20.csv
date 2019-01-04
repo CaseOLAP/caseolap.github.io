@@ -1,0 +1,247 @@
+id,name
+C20,Immune System Diseases
+C20.111,Autoimmune Diseases
+C20.111.163,Addison Disease
+C20.111.175,"Anemia, Hemolytic, Autoimmune"
+C20.111.190,Anti-Glomerular Basement Membrane Disease
+C20.111.193,Anti-Neutrophil Cytoplasmic Antibody-Associated Vasculitis
+C20.111.193.500,Churg-Strauss Syndrome
+C20.111.193.750,Microscopic Polyangiitis
+C20.111.193.875,Granulomatosis with Polyangiitis
+C20.111.197,Antiphospholipid Syndrome
+C20.111.198,"Arthritis, Juvenile"
+C20.111.199,"Arthritis, Rheumatoid"
+C20.111.199.389,Felty Syndrome
+C20.111.199.581,Rheumatoid Vasculitis
+C20.111.199.774,Sjogren's Syndrome
+C20.111.199.870,"Still's Disease, Adult-Onset"
+C20.111.258,Autoimmune Diseases of the Nervous System
+C20.111.258.124,Anti-N-Methyl-D-Aspartate Receptor Encephalitis
+C20.111.258.250,"Demyelinating Autoimmune Diseases, CNS"
+C20.111.258.250.175,Diffuse Cerebral Sclerosis of Schilder
+C20.111.258.250.350,"Encephalomyelitis, Acute Disseminated"
+C20.111.258.250.350.500,"Leukoencephalitis, Acute Hemorrhagic"
+C20.111.258.250.425,"Leukoencephalitis, Acute Hemorrhagic"
+C20.111.258.250.500,Multiple Sclerosis
+C20.111.258.250.500.200,"Multiple Sclerosis, Chronic Progressive"
+C20.111.258.250.500.600,"Multiple Sclerosis, Relapsing-Remitting"
+C20.111.258.250.550,"Myelitis, Transverse"
+C20.111.258.250.550.500,Neuromyelitis Optica
+C20.111.258.250.775,Neuromyelitis Optica
+C20.111.258.350,Lambert-Eaton Myasthenic Syndrome
+C20.111.258.500,Myasthenia Gravis
+C20.111.258.500.300,"Myasthenia Gravis, Autoimmune, Experimental"
+C20.111.258.500.650,"Myasthenia Gravis, Neonatal"
+C20.111.258.625,"Nervous System Autoimmune Disease, Experimental"
+C20.111.258.625.300,"Encephalomyelitis, Autoimmune, Experimental"
+C20.111.258.625.350,"Myasthenia Gravis, Autoimmune, Experimental"
+C20.111.258.625.700,"Neuritis, Autoimmune, Experimental"
+C20.111.258.750,Polyradiculoneuropathy
+C20.111.258.750.400,Guillain-Barre Syndrome
+C20.111.258.750.400.500,Miller Fisher Syndrome
+C20.111.258.750.800,"Polyradiculoneuropathy, Chronic Inflammatory Demyelinating"
+C20.111.258.850,Stiff-Person Syndrome
+C20.111.258.925,Uveomeningoencephalitic Syndrome
+C20.111.258.962,"Vasculitis, Central Nervous System"
+C20.111.258.962.800,Giant Cell Arteritis
+C20.111.258.962.900,"Lupus Vasculitis, Central Nervous System"
+C20.111.273,Autoimmune Hypophysitis
+C20.111.288,Autoimmune Lymphoproliferative Syndrome
+C20.111.318,Dermatitis Herpetiformis
+C20.111.327,"Diabetes Mellitus, Type 1"
+C20.111.525,"Glomerulonephritis, IGA"
+C20.111.535,"Glomerulonephritis, Membranous"
+C20.111.555,Graves Disease
+C20.111.555.500,Graves Ophthalmopathy
+C20.111.567,"Hepatitis, Autoimmune"
+C20.111.576,Latent Autoimmune Diabetes in Adults
+C20.111.585,Linear IgA Bullous Dermatosis
+C20.111.590,"Lupus Erythematosus, Systemic"
+C20.111.590.560,Lupus Nephritis
+C20.111.590.750,"Lupus Vasculitis, Central Nervous System"
+C20.111.709,"Ophthalmia, Sympathetic"
+C20.111.730,"Pemphigoid, Bullous"
+C20.111.736,Pemphigus
+C20.111.750,"Polyendocrinopathies, Autoimmune"
+C20.111.759,"Purpura, Thrombocytopenic, Idiopathic"
+C20.111.809,"Thyroiditis, Autoimmune"
+C20.111.904,Undifferentiated Connective Tissue Diseases
+C20.306,"Erythroblastosis, Fetal"
+C20.306.480,Hydrops Fetalis
+C20.306.502,Kernicterus
+C20.425,"Glomerulonephritis, Membranoproliferative"
+C20.452,Graft vs Host Disease
+C20.543,Hypersensitivity
+C20.543.206,Drug Hypersensitivity
+C20.543.206.189,"Asthma, Aspirin-Induced"
+C20.543.206.380,Drug Eruptions
+C20.543.206.380.174,Acute Generalized Exanthematous Pustulosis
+C20.543.206.380.262,Drug Hypersensitivity Syndrome
+C20.543.206.380.375,Erythema Nodosum
+C20.543.206.380.587,Nicolau Syndrome
+C20.543.206.380.800,Serum Sickness
+C20.543.206.380.900,Stevens-Johnson Syndrome
+C20.543.312,Environmental Illness
+C20.543.312.500,Multiple Chemical Sensitivity
+C20.543.312.750,Sick Building Syndrome
+C20.543.418,"Hypersensitivity, Delayed"
+C20.543.418.150,"Dermatitis, Allergic Contact"
+C20.543.418.150.600,"Dermatitis, Photoallergic"
+C20.543.418.150.700,"Dermatitis, Toxicodendron"
+C20.543.480,"Hypersensitivity, Immediate"
+C20.543.480.099,Anaphylaxis
+C20.543.480.149,"Asthma, Aspirin-Induced"
+C20.543.480.200,"Conjunctivitis, Allergic"
+C20.543.480.343,"Dermatitis, Atopic"
+C20.543.480.356,Eosinophilic Esophagitis
+C20.543.480.370,Food Hypersensitivity
+C20.543.480.370.150,Egg Hypersensitivity
+C20.543.480.370.500,Milk Hypersensitivity
+C20.543.480.370.572,Nut and Peanut Hypersensitivity
+C20.543.480.370.572.500,Nut Hypersensitivity
+C20.543.480.370.572.750,Peanut Hypersensitivity
+C20.543.480.370.763,Shellfish Hypersensitivity
+C20.543.480.370.850,Wheat Hypersensitivity
+C20.543.480.680,Respiratory Hypersensitivity
+C20.543.480.680.075,"Alveolitis, Extrinsic Allergic"
+C20.543.480.680.075.125,Bird Fancier's Lung
+C20.543.480.680.075.365,Farmer's Lung
+C20.543.480.680.075.682,Trichosporonosis
+C20.543.480.680.085,"Aspergillosis, Allergic Bronchopulmonary"
+C20.543.480.680.095,Asthma
+C20.543.480.680.095.110,"Asthma, Exercise-Induced"
+C20.543.480.680.095.495,"Asthma, Occupational"
+C20.543.480.680.095.880,Status Asthmaticus
+C20.543.480.680.443,"Rhinitis, Allergic"
+C20.543.480.680.443.500,"Rhinitis, Allergic, Perennial"
+C20.543.480.680.443.750,"Rhinitis, Allergic, Seasonal"
+C20.543.480.904,Urticaria
+C20.543.480.904.066,Angioedema
+C20.543.480.904.066.500,"Angioedemas, Hereditary"
+C20.543.480.904.066.500.500,Hereditary Angioedema Type III
+C20.543.480.904.066.500.750,Hereditary Angioedema Types I and II
+C20.543.520,Immune Complex Diseases
+C20.543.520.100,Arthus Reaction
+C20.543.520.350,Mastocytosis
+C20.543.520.350.750,"Mastocytosis, Systemic"
+C20.543.520.600,"Purpura, Schoenlein-Henoch"
+C20.543.520.770,Serum Sickness
+C20.543.520.910,"Vasculitis, Leukocytoclastic, Cutaneous"
+C20.543.560,Kounis Syndrome
+C20.543.600,Latex Hypersensitivity
+C20.543.928,Wissler's Syndrome
+C20.608,Immune Reconstitution Inflammatory Syndrome
+C20.673,Immunologic Deficiency Syndromes
+C20.673.088,Agammaglobulinemia
+C20.673.290,Ataxia Telangiectasia
+C20.673.330,Common Variable Immunodeficiency
+C20.673.430,Dysgammaglobulinemia
+C20.673.430.249,Hyper-IgM Immunodeficiency Syndrome
+C20.673.430.249.500,"Hyper-IgM Immunodeficiency Syndrome, Type 1"
+C20.673.430.500,IgA Deficiency
+C20.673.430.750,IgG Deficiency
+C20.673.480,HIV Infections
+C20.673.480.040,Acquired Immunodeficiency Syndrome
+C20.673.480.044,Acute Retroviral Syndrome
+C20.673.480.048,"AIDS Arteritis, Central Nervous System"
+C20.673.480.050,AIDS-Associated Nephropathy
+C20.673.480.070,AIDS Dementia Complex
+C20.673.480.080,AIDS-Related Complex
+C20.673.480.100,AIDS-Related Opportunistic Infections
+C20.673.480.400,HIV-Associated Lipodystrophy Syndrome
+C20.673.480.480,HIV Enteropathy
+C20.673.480.500,HIV Seropositivity
+C20.673.480.520,HIV Wasting Syndrome
+C20.673.483,Deltaretrovirus Infections
+C20.673.483.260,Enzootic Bovine Leukosis
+C20.673.483.470,HTLV-I Infections
+C20.673.483.480,HTLV-II Infections
+C20.673.600,Leukocyte-Adhesion Deficiency Syndrome
+C20.673.627,Lymphopenia
+C20.673.627.800,"T-Lymphocytopenia, Idiopathic CD4-Positive"
+C20.673.627.900,Wiskott-Aldrich Syndrome
+C20.673.774,Phagocyte Bactericidal Dysfunction
+C20.673.774.257,Chediak-Higashi Syndrome
+C20.673.774.257.270,Aleutian Mink Disease
+C20.673.774.535,"Granulomatous Disease, Chronic"
+C20.673.774.600,Job Syndrome
+C20.673.815,Severe Combined Immunodeficiency
+C20.673.815.500,X-Linked Combined Immunodeficiency Diseases
+C20.683,Immunoproliferative Disorders
+C20.683.460,Hypergammaglobulinemia
+C20.683.460.319,Mevalonate Kinase Deficiency
+C20.683.460.640,Monoclonal Gammopathy of Undetermined Significance
+C20.683.460.820,Smoldering Multiple Myeloma
+C20.683.515,Lymphoproliferative Disorders
+C20.683.515.124,Autoimmune Lymphoproliferative Syndrome
+C20.683.515.250,Castleman Disease
+C20.683.515.501,Immunoblastic Lymphadenopathy
+C20.683.515.507,Immunoglobulin Light-chain Amyloidosis
+C20.683.515.512,Immunoproliferative Small Intestinal Disease
+C20.683.515.515,Infectious Mononucleosis
+C20.683.515.517,"Leukemia, Hairy Cell"
+C20.683.515.528,"Leukemia, Lymphoid"
+C20.683.515.528.080,"Leukemia, B-Cell"
+C20.683.515.528.080.125,"Leukemia, Lymphocytic, Chronic, B-Cell"
+C20.683.515.528.080.562,"Leukemia, Prolymphocytic, B-Cell"
+C20.683.515.528.100,"Leukemia, Biphenotypic, Acute"
+C20.683.515.528.565,"Leukemia, Prolymphocytic"
+C20.683.515.528.565.745,"Leukemia, Prolymphocytic, B-Cell"
+C20.683.515.528.565.750,"Leukemia, Prolymphocytic, T-Cell"
+C20.683.515.528.582,"Leukemia, T-Cell"
+C20.683.515.528.582.049,"Leukemia, Large Granular Lymphocytic"
+C20.683.515.528.582.100,"Leukemia-Lymphoma, Adult T-Cell"
+C20.683.515.528.582.125,"Leukemia, Prolymphocytic, T-Cell"
+C20.683.515.528.600,Precursor Cell Lymphoblastic Leukemia-Lymphoma
+C20.683.515.528.600.600,Precursor B-Cell Lymphoblastic Leukemia-Lymphoma
+C20.683.515.528.600.620,Precursor T-Cell Lymphoblastic Leukemia-Lymphoma
+C20.683.515.710,Lymphangiomyoma
+C20.683.515.710.465,Lymphangioleiomyomatosis
+C20.683.515.761,Lymphoma
+C20.683.515.761.150,Composite Lymphoma
+C20.683.515.761.355,Hodgkin Disease
+C20.683.515.761.417,Intraocular Lymphoma
+C20.683.515.761.480,"Lymphoma, Non-Hodgkin"
+C20.683.515.761.480.150,"Lymphoma, B-Cell"
+C20.683.515.761.480.150.165,Burkitt Lymphoma
+C20.683.515.761.480.150.450,"Lymphoma, AIDS-Related"
+C20.683.515.761.480.150.570,"Lymphoma, B-Cell, Marginal Zone"
+C20.683.515.761.480.150.585,"Lymphoma, Large B-Cell, Diffuse"
+C20.683.515.761.480.150.585.500,Plasmablastic Lymphoma
+C20.683.515.761.480.150.592,"Lymphoma, Primary Effusion"
+C20.683.515.761.480.150.600,Lymphomatoid Granulomatosis
+C20.683.515.761.480.350,"Lymphoma, Follicular"
+C20.683.515.761.480.487,"Lymphoma, Large-Cell, Immunoblastic"
+C20.683.515.761.480.525,"Lymphoma, Mantle-Cell"
+C20.683.515.761.480.750,"Lymphoma, T-Cell"
+C20.683.515.761.480.750.199,Enteropathy-Associated T-Cell Lymphoma
+C20.683.515.761.480.750.399,"Lymphoma, Large-Cell, Anaplastic"
+C20.683.515.761.480.750.800,"Lymphoma, T-Cell, Cutaneous"
+C20.683.515.761.480.750.800.507,"Lymphoma, Primary Cutaneous Anaplastic Large Cell"
+C20.683.515.761.480.750.800.528,Lymphomatoid Papulosis
+C20.683.515.761.480.750.800.550,Mycosis Fungoides
+C20.683.515.761.480.750.800.550.600,Pagetoid Reticulosis
+C20.683.515.761.480.750.800.775,Sezary Syndrome
+C20.683.515.761.480.750.825,"Lymphoma, T-Cell, Peripheral"
+C20.683.515.800,Macrophage Activation Syndrome
+C20.683.515.840,Marek Disease
+C20.683.515.845,Multiple Myeloma
+C20.683.515.845.500,"Leukemia, Plasma Cell"
+C20.683.515.880,Plasmacytoma
+C20.683.515.920,Sezary Syndrome
+C20.683.515.950,Tumor Lysis Syndrome
+C20.683.780,Paraproteinemias
+C20.683.780.250,Cryoglobulinemia
+C20.683.780.490,Heavy Chain Disease
+C20.683.780.490.512,Immunoproliferative Small Intestinal Disease
+C20.683.780.565,Immunoglobulin Light-chain Amyloidosis
+C20.683.780.640,Monoclonal Gammopathy of Undetermined Significance
+C20.683.780.640.700,Schnitzler Syndrome
+C20.683.780.650,Multiple Myeloma
+C20.683.780.750,POEMS Syndrome
+C20.683.780.838,Smoldering Multiple Myeloma
+C20.683.780.925,Waldenstrom Macroglobulinemia
+C20.841,"Purpura, Thrombocytopenic"
+C20.841.600,"Purpura, Thrombocytopenic, Idiopathic"
+C20.920,Transfusion Reaction
+C20.920.500,Transfusion-Related Acute Lung Injury

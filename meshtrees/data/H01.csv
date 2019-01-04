@@ -1,0 +1,292 @@
+id,value
+Natural Science Disciplines,H01
+Natural Science Disciplines.Biological Science Disciplines,H01.158
+Natural Science Disciplines.Biological Science Disciplines.Anatomy,H01.158.100
+"Natural Science Disciplines.Biological Science Disciplines.Anatomy.Anatomy, Artistic",H01.158.100.091
+"Natural Science Disciplines.Biological Science Disciplines.Anatomy.Anatomy, Comparative",H01.158.100.154
+"Natural Science Disciplines.Biological Science Disciplines.Anatomy.Anatomy, Cross-Sectional",H01.158.100.185
+"Natural Science Disciplines.Biological Science Disciplines.Anatomy.Anatomy, Cross-Sectional.Visible Human Projects",H01.158.100.185.905
+"Natural Science Disciplines.Biological Science Disciplines.Anatomy.Anatomy, Regional",H01.158.100.216
+"Natural Science Disciplines.Biological Science Disciplines.Anatomy.Anatomy, Veterinary",H01.158.100.279
+Natural Science Disciplines.Biological Science Disciplines.Anatomy.Cell Biology,H01.158.100.433
+Natural Science Disciplines.Biological Science Disciplines.Anatomy.Embryology,H01.158.100.529
+Natural Science Disciplines.Biological Science Disciplines.Anatomy.Embryology.Teratology,H01.158.100.529.500
+Natural Science Disciplines.Biological Science Disciplines.Anatomy.Histology,H01.158.100.656
+Natural Science Disciplines.Biological Science Disciplines.Anatomy.Histology.Histocytochemistry,H01.158.100.656.234
+Natural Science Disciplines.Biological Science Disciplines.Anatomy.Histology.Histocytochemistry.Immunohistochemistry,H01.158.100.656.234.512
+"Natural Science Disciplines.Biological Science Disciplines.Anatomy.Histology.Histology, Comparative",H01.158.100.656.469
+Natural Science Disciplines.Biological Science Disciplines.Anatomy.Neuroanatomy,H01.158.100.700
+Natural Science Disciplines.Biological Science Disciplines.Anatomy.Osteology,H01.158.100.720
+Natural Science Disciplines.Biological Science Disciplines.Biochemistry,H01.158.201
+Natural Science Disciplines.Biological Science Disciplines.Biochemistry.Carbohydrate Biochemistry,H01.158.201.085
+Natural Science Disciplines.Biological Science Disciplines.Biochemistry.Carbohydrate Biochemistry.Glycomics,H01.158.201.085.320
+"Natural Science Disciplines.Biological Science Disciplines.Biochemistry.Chemistry, Bioinorganic",H01.158.201.214
+Natural Science Disciplines.Biological Science Disciplines.Biochemistry.Histocytochemistry,H01.158.201.344
+Natural Science Disciplines.Biological Science Disciplines.Biochemistry.Histocytochemistry.Immunohistochemistry,H01.158.201.344.512
+Natural Science Disciplines.Biological Science Disciplines.Biochemistry.Immunochemistry,H01.158.201.486
+Natural Science Disciplines.Biological Science Disciplines.Biochemistry.Immunochemistry.Immunohistochemistry,H01.158.201.486.512
+Natural Science Disciplines.Biological Science Disciplines.Biochemistry.Metabolomics,H01.158.201.586
+Natural Science Disciplines.Biological Science Disciplines.Biochemistry.Molecular Biology,H01.158.201.636
+Natural Science Disciplines.Biological Science Disciplines.Biochemistry.Molecular Biology.Molecular Medicine,H01.158.201.636.475
+Natural Science Disciplines.Biological Science Disciplines.Biochemistry.Molecular Biology.Molecular Medicine.Molecular Epidemiology,H01.158.201.636.475.500
+"Natural Science Disciplines.Biological Science Disciplines.Biochemistry.Molecular Biology.Molecular Medicine.Pathology, Molecular",H01.158.201.636.475.750
+Natural Science Disciplines.Biological Science Disciplines.Biochemistry.Neurochemistry,H01.158.201.687
+Natural Science Disciplines.Biological Science Disciplines.Biochemistry.Proteomics,H01.158.201.843
+Natural Science Disciplines.Biological Science Disciplines.Biochemistry.Proteomics.Proteogenomics,H01.158.201.843.500
+Natural Science Disciplines.Biological Science Disciplines.Biology,H01.158.273
+Natural Science Disciplines.Biological Science Disciplines.Biology.Botany,H01.158.273.118
+Natural Science Disciplines.Biological Science Disciplines.Biology.Botany.Ethnobotany,H01.158.273.118.299
+Natural Science Disciplines.Biological Science Disciplines.Biology.Botany.Pharmacognosy,H01.158.273.118.598
+Natural Science Disciplines.Biological Science Disciplines.Biology.Botany.Pharmacognosy.Herbal Medicine,H01.158.273.118.598.500
+Natural Science Disciplines.Biological Science Disciplines.Biology.Cell Biology,H01.158.273.160
+Natural Science Disciplines.Biological Science Disciplines.Biology.Computational Biology,H01.158.273.180
+Natural Science Disciplines.Biological Science Disciplines.Biology.Computational Biology.Genomics,H01.158.273.180.350
+Natural Science Disciplines.Biological Science Disciplines.Biology.Computational Biology.Genomics.Epigenomics,H01.158.273.180.350.074
+Natural Science Disciplines.Biological Science Disciplines.Biology.Computational Biology.Genomics.Glycomics,H01.158.273.180.350.150
+Natural Science Disciplines.Biological Science Disciplines.Biology.Computational Biology.Genomics.HapMap Project,H01.158.273.180.350.162
+Natural Science Disciplines.Biological Science Disciplines.Biology.Computational Biology.Genomics.Human Genome Project,H01.158.273.180.350.174
+Natural Science Disciplines.Biological Science Disciplines.Biology.Computational Biology.Genomics.Nutrigenomics,H01.158.273.180.350.349
+Natural Science Disciplines.Biological Science Disciplines.Biology.Computational Biology.Genomics.Proteomics,H01.158.273.180.350.700
+Natural Science Disciplines.Biological Science Disciplines.Biology.Computational Biology.Genomics.Proteomics.Proteogenomics,H01.158.273.180.350.700.500
+Natural Science Disciplines.Biological Science Disciplines.Biology.Computational Biology.Metabolomics,H01.158.273.180.599
+Natural Science Disciplines.Biological Science Disciplines.Biology.Computational Biology.Systems Biology,H01.158.273.180.800
+Natural Science Disciplines.Biological Science Disciplines.Biology.Cryobiology,H01.158.273.195
+Natural Science Disciplines.Biological Science Disciplines.Biology.Developmental Biology,H01.158.273.200
+Natural Science Disciplines.Biological Science Disciplines.Biology.Developmental Biology.Embryology,H01.158.273.200.350
+Natural Science Disciplines.Biological Science Disciplines.Biology.Developmental Biology.Embryology.Teratology,H01.158.273.200.350.500
+Natural Science Disciplines.Biological Science Disciplines.Biology.Developmental Biology.Plant Pathology,H01.158.273.200.675
+Natural Science Disciplines.Biological Science Disciplines.Biology.Ecology,H01.158.273.248
+Natural Science Disciplines.Biological Science Disciplines.Biology.Ecology.Ecotoxicology,H01.158.273.248.500
+Natural Science Disciplines.Biological Science Disciplines.Biology.Ecology.Hydrobiology,H01.158.273.248.750
+Natural Science Disciplines.Biological Science Disciplines.Biology.Ecology.Hydrobiology.Freshwater Biology,H01.158.273.248.750.249
+Natural Science Disciplines.Biological Science Disciplines.Biology.Ecology.Hydrobiology.Marine Biology,H01.158.273.248.750.500
+Natural Science Disciplines.Biological Science Disciplines.Biology.Ecology.Hydrology,H01.158.273.248.875
+Natural Science Disciplines.Biological Science Disciplines.Biology.Exobiology,H01.158.273.295
+Natural Science Disciplines.Biological Science Disciplines.Biology.Genetics,H01.158.273.343
+Natural Science Disciplines.Biological Science Disciplines.Biology.Genetics.Cytogenetics,H01.158.273.343.180
+Natural Science Disciplines.Biological Science Disciplines.Biology.Genetics.Genetic Research,H01.158.273.343.249
+Natural Science Disciplines.Biological Science Disciplines.Biology.Genetics.Genetic Research.Gene Ontology,H01.158.273.343.249.099
+Natural Science Disciplines.Biological Science Disciplines.Biology.Genetics.Genetic Research.HapMap Project,H01.158.273.343.249.199
+Natural Science Disciplines.Biological Science Disciplines.Biology.Genetics.Genetic Research.Human Genome Project,H01.158.273.343.249.400
+"Natural Science Disciplines.Biological Science Disciplines.Biology.Genetics.Genetics, Behavioral",H01.158.273.343.290
+"Natural Science Disciplines.Biological Science Disciplines.Biology.Genetics.Genetics, Microbial",H01.158.273.343.330
+"Natural Science Disciplines.Biological Science Disciplines.Biology.Genetics.Genetics, Population",H01.158.273.343.335
+"Natural Science Disciplines.Biological Science Disciplines.Biology.Genetics.Genetics, Population.Phylogeography",H01.158.273.343.335.500
+Natural Science Disciplines.Biological Science Disciplines.Biology.Genetics.Genomics,H01.158.273.343.350
+Natural Science Disciplines.Biological Science Disciplines.Biology.Genetics.Genomics.Epigenomics,H01.158.273.343.350.042
+Natural Science Disciplines.Biological Science Disciplines.Biology.Genetics.Genomics.Glycomics,H01.158.273.343.350.086
+Natural Science Disciplines.Biological Science Disciplines.Biology.Genetics.Genomics.HapMap Project,H01.158.273.343.350.130
+Natural Science Disciplines.Biological Science Disciplines.Biology.Genetics.Genomics.Human Genome Project,H01.158.273.343.350.174
+Natural Science Disciplines.Biological Science Disciplines.Biology.Genetics.Genomics.Metagenomics,H01.158.273.343.350.261
+Natural Science Disciplines.Biological Science Disciplines.Biology.Genetics.Genomics.Nutrigenomics,H01.158.273.343.350.349
+Natural Science Disciplines.Biological Science Disciplines.Biology.Genetics.Genomics.Proteomics,H01.158.273.343.350.700
+Natural Science Disciplines.Biological Science Disciplines.Biology.Genetics.Genomics.Proteomics.Proteogenomics,H01.158.273.343.350.700.500
+Natural Science Disciplines.Biological Science Disciplines.Biology.Genetics.Human Genetics,H01.158.273.343.385
+"Natural Science Disciplines.Biological Science Disciplines.Biology.Genetics.Human Genetics.Genetics, Medical",H01.158.273.343.385.500
+"Natural Science Disciplines.Biological Science Disciplines.Biology.Genetics.Human Genetics.Genetics, Medical.Genetic Counseling",H01.158.273.343.385.500.384
+Natural Science Disciplines.Biological Science Disciplines.Biology.Genetics.Human Genetics.HapMap Project,H01.158.273.343.385.750
+Natural Science Disciplines.Biological Science Disciplines.Biology.Genetics.Human Genetics.Human Genome Project,H01.158.273.343.385.875
+Natural Science Disciplines.Biological Science Disciplines.Biology.Genetics.Immunogenetics,H01.158.273.343.420
+Natural Science Disciplines.Biological Science Disciplines.Biology.Genetics.Molecular Biology,H01.158.273.343.595
+Natural Science Disciplines.Biological Science Disciplines.Biology.Genetics.Molecular Biology.Molecular Medicine,H01.158.273.343.595.475
+Natural Science Disciplines.Biological Science Disciplines.Biology.Genetics.Molecular Biology.Molecular Medicine.Molecular Epidemiology,H01.158.273.343.595.475.500
+"Natural Science Disciplines.Biological Science Disciplines.Biology.Genetics.Molecular Biology.Molecular Medicine.Pathology, Molecular",H01.158.273.343.595.475.750
+Natural Science Disciplines.Biological Science Disciplines.Biology.Genetics.Pharmacogenetics,H01.158.273.343.750
+Natural Science Disciplines.Biological Science Disciplines.Biology.Genetics.Radiation Genetics,H01.158.273.343.800
+Natural Science Disciplines.Biological Science Disciplines.Biology.Genetics.Toxicogenetics,H01.158.273.343.900
+Natural Science Disciplines.Biological Science Disciplines.Biology.Laboratory Animal Science,H01.158.273.368
+Natural Science Disciplines.Biological Science Disciplines.Biology.Microbiology,H01.158.273.540
+Natural Science Disciplines.Biological Science Disciplines.Biology.Microbiology.Bacteriology,H01.158.273.540.177
+Natural Science Disciplines.Biological Science Disciplines.Biology.Microbiology.Environmental Microbiology,H01.158.273.540.274
+Natural Science Disciplines.Biological Science Disciplines.Biology.Microbiology.Environmental Microbiology.Air Microbiology,H01.158.273.540.274.110
+Natural Science Disciplines.Biological Science Disciplines.Biology.Microbiology.Environmental Microbiology.Food Microbiology,H01.158.273.540.274.332
+Natural Science Disciplines.Biological Science Disciplines.Biology.Microbiology.Environmental Microbiology.Soil Microbiology,H01.158.273.540.274.555
+Natural Science Disciplines.Biological Science Disciplines.Biology.Microbiology.Environmental Microbiology.Water Microbiology,H01.158.273.540.274.777
+"Natural Science Disciplines.Biological Science Disciplines.Biology.Microbiology.Genetics, Microbial",H01.158.273.540.367
+Natural Science Disciplines.Biological Science Disciplines.Biology.Microbiology.Industrial Microbiology,H01.158.273.540.460
+Natural Science Disciplines.Biological Science Disciplines.Biology.Microbiology.Mycology,H01.158.273.540.553
+Natural Science Disciplines.Biological Science Disciplines.Biology.Microbiology.Plant Pathology,H01.158.273.540.706
+Natural Science Disciplines.Biological Science Disciplines.Biology.Microbiology.Virology,H01.158.273.540.859
+Natural Science Disciplines.Biological Science Disciplines.Biology.Natural History,H01.158.273.602
+Natural Science Disciplines.Biological Science Disciplines.Biology.Neurobiology,H01.158.273.610
+Natural Science Disciplines.Biological Science Disciplines.Biology.Parasitology,H01.158.273.688
+Natural Science Disciplines.Biological Science Disciplines.Biology.Parasitology.Food Parasitology,H01.158.273.688.500
+Natural Science Disciplines.Biological Science Disciplines.Biology.Photobiology,H01.158.273.738
+Natural Science Disciplines.Biological Science Disciplines.Biology.Radiobiology,H01.158.273.789
+Natural Science Disciplines.Biological Science Disciplines.Biology.Sociobiology,H01.158.273.866
+Natural Science Disciplines.Biological Science Disciplines.Biology.Synthetic Biology,H01.158.273.904
+Natural Science Disciplines.Biological Science Disciplines.Biology.Zoology,H01.158.273.943
+Natural Science Disciplines.Biological Science Disciplines.Biology.Zoology.Entomology,H01.158.273.943.409
+Natural Science Disciplines.Biological Science Disciplines.Biophysics,H01.158.344
+Natural Science Disciplines.Biological Science Disciplines.Biophysics.Bionics,H01.158.344.310
+Natural Science Disciplines.Biological Science Disciplines.Biophysics.Electrophysiology,H01.158.344.528
+Natural Science Disciplines.Biological Science Disciplines.Biophysics.Electrophysiology.Cardiac Electrophysiology,H01.158.344.528.500
+Natural Science Disciplines.Biological Science Disciplines.Biotechnology,H01.158.550
+Natural Science Disciplines.Biological Science Disciplines.Biotechnology.Biomimetics,H01.158.550.100
+Natural Science Disciplines.Biological Science Disciplines.Chronobiology Discipline,H01.158.580
+Natural Science Disciplines.Biological Science Disciplines.Neurosciences,H01.158.610
+Natural Science Disciplines.Biological Science Disciplines.Neurosciences.Cognitive Neuroscience,H01.158.610.030
+Natural Science Disciplines.Biological Science Disciplines.Neurosciences.Neuroanatomy,H01.158.610.060
+Natural Science Disciplines.Biological Science Disciplines.Neurosciences.Neurobiology,H01.158.610.080
+Natural Science Disciplines.Biological Science Disciplines.Neurosciences.Neurochemistry,H01.158.610.110
+Natural Science Disciplines.Biological Science Disciplines.Neurosciences.Neuroendocrinology,H01.158.610.160
+Natural Science Disciplines.Biological Science Disciplines.Neurosciences.Neuropathology,H01.158.610.184
+Natural Science Disciplines.Biological Science Disciplines.Neurosciences.Neuropharmacology,H01.158.610.208
+Natural Science Disciplines.Biological Science Disciplines.Neurosciences.Neurophysiology,H01.158.610.268
+Natural Science Disciplines.Biological Science Disciplines.Pharmacology,H01.158.703
+Natural Science Disciplines.Biological Science Disciplines.Pharmacology.Biopharmaceutics,H01.158.703.003
+"Natural Science Disciplines.Biological Science Disciplines.Pharmacology.Chemistry, Pharmaceutical",H01.158.703.007
+"Natural Science Disciplines.Biological Science Disciplines.Pharmacology.Chemistry, Pharmaceutical.Drug Discovery",H01.158.703.007.675
+"Natural Science Disciplines.Biological Science Disciplines.Pharmacology.Chemistry, Pharmaceutical.Drug Discovery.Drug Design",H01.158.703.007.675.500
+Natural Science Disciplines.Biological Science Disciplines.Pharmacology.Ethnopharmacology,H01.158.703.015
+Natural Science Disciplines.Biological Science Disciplines.Pharmacology.Neuropharmacology,H01.158.703.030
+Natural Science Disciplines.Biological Science Disciplines.Pharmacology.Pharmacoepidemiology,H01.158.703.045
+Natural Science Disciplines.Biological Science Disciplines.Pharmacology.Pharmacogenetics,H01.158.703.052
+Natural Science Disciplines.Biological Science Disciplines.Pharmacology.Pharmacognosy,H01.158.703.060
+Natural Science Disciplines.Biological Science Disciplines.Pharmacology.Pharmacognosy.Herbal Medicine,H01.158.703.060.500
+"Natural Science Disciplines.Biological Science Disciplines.Pharmacology.Pharmacology, Clinical",H01.158.703.152
+Natural Science Disciplines.Biological Science Disciplines.Pharmacology.Psychopharmacology,H01.158.703.546
+Natural Science Disciplines.Biological Science Disciplines.Physiology,H01.158.782
+Natural Science Disciplines.Biological Science Disciplines.Physiology.Electrophysiology,H01.158.782.236
+Natural Science Disciplines.Biological Science Disciplines.Physiology.Electrophysiology.Cardiac Electrophysiology,H01.158.782.236.500
+Natural Science Disciplines.Biological Science Disciplines.Physiology.Endocrinology,H01.158.782.323
+Natural Science Disciplines.Biological Science Disciplines.Physiology.Endocrinology.Neuroendocrinology,H01.158.782.323.200
+Natural Science Disciplines.Biological Science Disciplines.Physiology.Neurophysiology,H01.158.782.562
+"Natural Science Disciplines.Biological Science Disciplines.Physiology.Physiology, Comparative",H01.158.782.688
+Natural Science Disciplines.Biological Science Disciplines.Physiology.Psychophysiology,H01.158.782.795
+Natural Science Disciplines.Biological Science Disciplines.Physiology.Psychophysiology.Neuropsychology,H01.158.782.795.110
+Natural Science Disciplines.Biological Science Disciplines.Physiology.Psychophysiology.Psychoneuroimmunology,H01.158.782.795.180
+Natural Science Disciplines.Biological Science Disciplines.Toxicology,H01.158.891
+Natural Science Disciplines.Biological Science Disciplines.Toxicology.Ecotoxicology,H01.158.891.211
+Natural Science Disciplines.Biological Science Disciplines.Toxicology.Forensic Toxicology,H01.158.891.424
+Natural Science Disciplines.Biological Science Disciplines.Toxicology.Toxicogenetics,H01.158.891.850
+Natural Science Disciplines.Chemistry,H01.181
+Natural Science Disciplines.Chemistry.Biochemistry,H01.181.122
+"Natural Science Disciplines.Chemistry.Biochemistry.Chemistry, Bioinorganic",H01.181.122.253
+Natural Science Disciplines.Chemistry.Biochemistry.Glycomics,H01.181.122.508
+Natural Science Disciplines.Chemistry.Biochemistry.Histocytochemistry,H01.181.122.573
+Natural Science Disciplines.Chemistry.Biochemistry.Histocytochemistry.Immunohistochemistry,H01.181.122.573.512
+Natural Science Disciplines.Chemistry.Biochemistry.Immunochemistry,H01.181.122.605
+Natural Science Disciplines.Chemistry.Biochemistry.Immunochemistry.Immunohistochemistry,H01.181.122.605.512
+Natural Science Disciplines.Chemistry.Biochemistry.Metabolomics,H01.181.122.638
+Natural Science Disciplines.Chemistry.Biochemistry.Molecular Biology,H01.181.122.650
+Natural Science Disciplines.Chemistry.Biochemistry.Molecular Biology.Molecular Medicine,H01.181.122.650.475
+Natural Science Disciplines.Chemistry.Biochemistry.Molecular Biology.Molecular Medicine.Molecular Epidemiology,H01.181.122.650.475.550
+"Natural Science Disciplines.Chemistry.Biochemistry.Molecular Biology.Molecular Medicine.Pathology, Molecular",H01.181.122.650.475.680
+Natural Science Disciplines.Chemistry.Biochemistry.Neurochemistry,H01.181.122.709
+Natural Science Disciplines.Chemistry.Biochemistry.Proteomics,H01.181.122.738
+Natural Science Disciplines.Chemistry.Biochemistry.Proteomics.Proteogenomics,H01.181.122.738.500
+"Natural Science Disciplines.Chemistry.Chemistry, Agricultural",H01.181.216
+"Natural Science Disciplines.Chemistry.Chemistry, Analytic",H01.181.309
+"Natural Science Disciplines.Chemistry.Chemistry, Clinical",H01.181.341
+"Natural Science Disciplines.Chemistry.Chemistry, Inorganic",H01.181.370
+"Natural Science Disciplines.Chemistry.Chemistry, Inorganic.Chemistry, Bioinorganic",H01.181.370.310
+"Natural Science Disciplines.Chemistry.Chemistry, Organic",H01.181.404
+"Natural Science Disciplines.Chemistry.Chemistry, Pharmaceutical",H01.181.466
+"Natural Science Disciplines.Chemistry.Chemistry, Pharmaceutical.Drug Discovery",H01.181.466.675
+"Natural Science Disciplines.Chemistry.Chemistry, Pharmaceutical.Drug Discovery.Drug Design",H01.181.466.675.500
+"Natural Science Disciplines.Chemistry.Chemistry, Physical",H01.181.529
+"Natural Science Disciplines.Chemistry.Chemistry, Physical.Crystallography",H01.181.529.240
+"Natural Science Disciplines.Chemistry.Chemistry, Physical.Electrochemistry",H01.181.529.307
+"Natural Science Disciplines.Chemistry.Chemistry, Physical.Photochemistry",H01.181.529.711
+"Natural Science Disciplines.Chemistry.Chemistry, Physical.Radiochemistry",H01.181.529.776
+Natural Science Disciplines.Chemistry.Microchemistry,H01.181.650
+Natural Science Disciplines.Earth Sciences,H01.277
+Natural Science Disciplines.Earth Sciences.Ecology,H01.277.249
+Natural Science Disciplines.Earth Sciences.Ecology.Ecotoxicology,H01.277.249.500
+Natural Science Disciplines.Earth Sciences.Ecology.Hydrobiology,H01.277.249.750
+Natural Science Disciplines.Earth Sciences.Ecology.Hydrobiology.Freshwater Biology,H01.277.249.750.249
+Natural Science Disciplines.Earth Sciences.Ecology.Hydrobiology.Marine Biology,H01.277.249.750.500
+Natural Science Disciplines.Earth Sciences.Ecology.Hydrology,H01.277.249.875
+Natural Science Disciplines.Earth Sciences.Geography,H01.277.500
+"Natural Science Disciplines.Earth Sciences.Geography.Geography, Medical",H01.277.500.097
+"Natural Science Disciplines.Earth Sciences.Geography.Geography, Medical.Topography, Medical",H01.277.500.097.500
+Natural Science Disciplines.Earth Sciences.Geography.Phylogeography,H01.277.500.589
+Natural Science Disciplines.Earth Sciences.Geology,H01.277.562
+Natural Science Disciplines.Earth Sciences.Limnology,H01.277.625
+Natural Science Disciplines.Earth Sciences.Limnology.Freshwater Biology,H01.277.625.500
+Natural Science Disciplines.Earth Sciences.Meteorology,H01.277.687
+Natural Science Disciplines.Earth Sciences.Oceanography,H01.277.750
+Natural Science Disciplines.Earth Sciences.Oceanography.Marine Biology,H01.277.750.500
+Natural Science Disciplines.Earth Sciences.Paleontology,H01.277.875
+Natural Science Disciplines.Materials Science,H01.413
+Natural Science Disciplines.Mathematics,H01.548
+Natural Science Disciplines.Mathematics.Nonlinear Dynamics,H01.548.675
+Natural Science Disciplines.Mathematics.Statistics as Topic,H01.548.832
+Natural Science Disciplines.Microtechnology,H01.570
+Natural Science Disciplines.Nanotechnology,H01.603
+Natural Science Disciplines.Nanotechnology.Nanomedicine,H01.603.600
+Natural Science Disciplines.Nanotechnology.Nanomedicine.Theranostic Nanomedicine,H01.603.600.500
+Natural Science Disciplines.Physics,H01.671
+Natural Science Disciplines.Physics.Acoustics,H01.671.031
+Natural Science Disciplines.Physics.Acoustics.Ultrasonics,H01.671.031.849
+Natural Science Disciplines.Physics.Astronomy,H01.671.065
+Natural Science Disciplines.Physics.Biophysics,H01.671.100
+Natural Science Disciplines.Physics.Biophysics.Bionics,H01.671.100.202
+Natural Science Disciplines.Physics.Electronics,H01.671.293
+Natural Science Disciplines.Physics.Electronics.Bionics,H01.671.293.159
+"Natural Science Disciplines.Physics.Electronics.Electronics, Medical",H01.671.293.319
+Natural Science Disciplines.Physics.Electronics.Robotics,H01.671.293.643
+Natural Science Disciplines.Physics.Health Physics,H01.671.368
+Natural Science Disciplines.Physics.Magnetics,H01.671.493
+Natural Science Disciplines.Physics.Mechanics,H01.671.515
+Natural Science Disciplines.Physics.Meteorology,H01.671.547
+Natural Science Disciplines.Physics.Nuclear Physics,H01.671.579
+Natural Science Disciplines.Physics.Nuclear Physics.Quantum Theory,H01.671.579.800
+Natural Science Disciplines.Physics.Optics and Photonics,H01.671.617
+Natural Science Disciplines.Physics.Optics and Photonics.Fiber Optic Technology,H01.671.617.249
+Natural Science Disciplines.Physics.Optics and Photonics.Microscopy,H01.671.617.562
+Natural Science Disciplines.Physics.Optics and Photonics.Refractometry,H01.671.617.755
+Natural Science Disciplines.Physics.Rheology,H01.671.808
+Natural Science Disciplines.Physics.Rheology.Microfluidics,H01.671.808.500
+Natural Science Disciplines.Science,H01.770
+Natural Science Disciplines.Science.Natural History,H01.770.552
+Natural Science Disciplines.Science.Research,H01.770.644
+Natural Science Disciplines.Science.Research.Animal Experimentation,H01.770.644.053
+Natural Science Disciplines.Science.Research.Behavioral Research,H01.770.644.108
+Natural Science Disciplines.Science.Research.Behavioral Research.Biobehavioral Sciences,H01.770.644.108.687
+Natural Science Disciplines.Science.Research.Biomedical Research,H01.770.644.145
+Natural Science Disciplines.Science.Research.Biomedical Research.Dental Research,H01.770.644.145.124
+Natural Science Disciplines.Science.Research.Biomedical Research.Embryo Research,H01.770.644.145.250
+Natural Science Disciplines.Science.Research.Biomedical Research.Fetal Research,H01.770.644.145.300
+Natural Science Disciplines.Science.Research.Biomedical Research.Genetic Research,H01.770.644.145.350
+Natural Science Disciplines.Science.Research.Biomedical Research.Genetic Research.Gene Ontology,H01.770.644.145.350.124
+Natural Science Disciplines.Science.Research.Biomedical Research.Genetic Research.HapMap Project,H01.770.644.145.350.249
+Natural Science Disciplines.Science.Research.Biomedical Research.Genetic Research.Human Genome Project,H01.770.644.145.350.500
+Natural Science Disciplines.Science.Research.Biomedical Research.Health Services Research,H01.770.644.145.360
+Natural Science Disciplines.Science.Research.Biomedical Research.Health Services Research.Comparative Effectiveness Research,H01.770.644.145.360.500
+Natural Science Disciplines.Science.Research.Biomedical Research.Human Experimentation,H01.770.644.145.365
+Natural Science Disciplines.Science.Research.Biomedical Research.Human Experimentation.Autoexperimentation,H01.770.644.145.365.100
+Natural Science Disciplines.Science.Research.Biomedical Research.Human Experimentation.Nontherapeutic Human Experimentation,H01.770.644.145.365.750
+Natural Science Disciplines.Science.Research.Biomedical Research.Human Experimentation.Therapeutic Human Experimentation,H01.770.644.145.365.875
+Natural Science Disciplines.Science.Research.Biomedical Research.Nursing Research,H01.770.644.145.390
+Natural Science Disciplines.Science.Research.Biomedical Research.Nursing Research.Clinical Nursing Research,H01.770.644.145.390.234
+Natural Science Disciplines.Science.Research.Biomedical Research.Nursing Research.Nursing Administration Research,H01.770.644.145.390.385
+Natural Science Disciplines.Science.Research.Biomedical Research.Nursing Research.Nursing Education Research,H01.770.644.145.390.413
+Natural Science Disciplines.Science.Research.Biomedical Research.Nursing Research.Nursing Evaluation Research,H01.770.644.145.390.432
+Natural Science Disciplines.Science.Research.Biomedical Research.Nursing Research.Nursing Methodology Research,H01.770.644.145.390.634
+Natural Science Disciplines.Science.Research.Biomedical Research.Outcome Assessment (Health Care),H01.770.644.145.431
+"Natural Science Disciplines.Science.Research.Biomedical Research.Outcome Assessment (Health Care).Failure to Rescue, Health Care",H01.770.644.145.431.500
+Natural Science Disciplines.Science.Research.Biomedical Research.Pharmaceutical Research,H01.770.644.145.442
+Natural Science Disciplines.Science.Research.Biomedical Research.Pharmacy Research,H01.770.644.145.452
+Natural Science Disciplines.Science.Research.Biomedical Research.Rehabilitation Research,H01.770.644.145.472
+Natural Science Disciplines.Science.Research.Biomedical Research.Stem Cell Research,H01.770.644.145.512
+Natural Science Disciplines.Science.Research.Biomedical Research.Translational Medical Research,H01.770.644.145.675
+Natural Science Disciplines.Science.Research.Community-Based Participatory Research,H01.770.644.193
+Natural Science Disciplines.Science.Research.Data Anonymization,H01.770.644.205
+Natural Science Disciplines.Science.Research.Dual Use Research,H01.770.644.217
+Natural Science Disciplines.Science.Research.Empirical Research,H01.770.644.241
+Natural Science Disciplines.Science.Research.Empirical Research.Grounded Theory,H01.770.644.241.424
+Natural Science Disciplines.Science.Research.Empirical Research.Qualitative Research,H01.770.644.241.850
+Natural Science Disciplines.Science.Research.Empirical Research.Qualitative Research.Hermeneutics,H01.770.644.241.850.750
+Natural Science Disciplines.Science.Research.Interdisciplinary Research,H01.770.644.287
+Natural Science Disciplines.Science.Research.Operations Research,H01.770.644.333
+Natural Science Disciplines.Science.Research.Parapsychology,H01.770.644.364
+"Natural Science Disciplines.Science.Research.Peer Review, Research",H01.770.644.487
+Natural Science Disciplines.Science.Research.Proof of Concept Study,H01.770.644.578
+Natural Science Disciplines.Science.Research.Public Health Systems Research,H01.770.644.608
+Natural Science Disciplines.Science.Research.Research Design,H01.770.644.728
+Natural Science Disciplines.Science.Research.Research Report,H01.770.644.864
+"Natural Science Disciplines.Science.Research.Social Validity, Research",H01.770.644.932
+Natural Science Disciplines.Science.Systems Integration,H01.770.787
+Natural Science Disciplines.Science.Systems Theory,H01.770.808

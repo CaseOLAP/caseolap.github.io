@@ -1,0 +1,103 @@
+id,name
+A03,Digestive System
+A03.159,Biliary Tract
+A03.159.183,Bile Ducts
+A03.159.183.079,"Bile Ducts, Extrahepatic"
+A03.159.183.079.300,Common Bile Duct
+A03.159.183.079.300.950,Ampulla of Vater
+A03.159.183.079.300.950.600,Sphincter of Oddi
+A03.159.183.079.450,Cystic Duct
+A03.159.183.079.600,"Hepatic Duct, Common"
+A03.159.183.158,"Bile Ducts, Intrahepatic"
+A03.159.183.158.125,Bile Canaliculi
+A03.159.439,Gallbladder
+A03.556,Gastrointestinal Tract
+A03.556.124,Intestines
+A03.556.124.369,Intestinal Mucosa
+A03.556.124.369.290,Enterocytes
+A03.556.124.369.320,Goblet Cells
+A03.556.124.369.700,Paneth Cells
+A03.556.124.526,"Intestine, Large"
+A03.556.124.526.070,Anal Canal
+A03.556.124.526.209,Cecum
+A03.556.124.526.209.290,Appendix
+A03.556.124.526.356,Colon
+A03.556.124.526.356.333,"Colon, Ascending"
+A03.556.124.526.356.500,"Colon, Descending"
+A03.556.124.526.356.668,"Colon, Sigmoid"
+A03.556.124.526.356.834,"Colon, Transverse"
+A03.556.124.526.767,Rectum
+A03.556.124.684,"Intestine, Small"
+A03.556.124.684.124,Duodenum
+A03.556.124.684.124.236,Ampulla of Vater
+A03.556.124.684.124.236.572,Sphincter of Oddi
+A03.556.124.684.124.322,Brunner Glands
+A03.556.124.684.249,Ileum
+A03.556.124.684.249.400,Ileocecal Valve
+A03.556.124.684.249.612,Meckel Diverticulum
+A03.556.124.684.500,Jejunum
+A03.556.249,Lower Gastrointestinal Tract
+A03.556.249.124,Ileum
+A03.556.249.124.400,Ileocecal Valve
+A03.556.249.124.612,Meckel Diverticulum
+A03.556.249.249,"Intestine, Large"
+A03.556.249.249.070,Anal Canal
+A03.556.249.249.209,Cecum
+A03.556.249.249.209.290,Appendix
+A03.556.249.249.356,Colon
+A03.556.249.249.356.333,"Colon, Ascending"
+A03.556.249.249.356.500,"Colon, Descending"
+A03.556.249.249.356.668,"Colon, Sigmoid"
+A03.556.249.249.356.834,"Colon, Transverse"
+A03.556.249.249.767,Rectum
+A03.556.249.750,Jejunum
+A03.556.500,Mouth
+A03.556.500.379,Dentition
+A03.556.500.760,Salivary Glands
+A03.556.500.760.464,Parotid Gland
+A03.556.500.760.640,Salivary Ducts
+A03.556.500.760.650,"Salivary Glands, Minor"
+A03.556.500.760.687,Sublingual Gland
+A03.556.500.760.812,Submandibular Gland
+A03.556.500.760.906,von Ebner Glands
+A03.556.500.885,Tongue
+A03.556.500.885.431,Lingual Frenum
+A03.556.500.885.779,Taste Buds
+A03.556.750,Pharynx
+A03.556.875,Upper Gastrointestinal Tract
+A03.556.875.249,Duodenum
+A03.556.875.249.160,Ampulla of Vater
+A03.556.875.249.160.572,Sphincter of Oddi
+A03.556.875.249.322,Brunner Glands
+A03.556.875.500,Esophagus
+A03.556.875.500.180,Esophageal Mucosa
+A03.556.875.500.360,"Esophageal Sphincter, Upper"
+A03.556.875.500.414,Esophagogastric Junction
+A03.556.875.500.414.350,"Esophageal Sphincter, Lower"
+A03.556.875.875,Stomach
+A03.556.875.875.163,Cardia
+A03.556.875.875.330,Esophagogastric Junction
+A03.556.875.875.330.350,"Esophageal Sphincter, Lower"
+A03.556.875.875.419,Gastric Fundus
+A03.556.875.875.440,Gastric Mucosa
+A03.556.875.875.440.150,"Chief Cells, Gastric"
+A03.556.875.875.440.250,Enterochromaffin Cells
+A03.556.875.875.440.300,Gastrin-Secreting Cells
+A03.556.875.875.440.708,"Parietal Cells, Gastric"
+A03.556.875.875.440.854,Somatostatin-Secreting Cells
+A03.556.875.875.578,Gastric Stump
+A03.556.875.875.716,Pyloric Antrum
+A03.556.875.875.799,Pylorus
+A03.620,Liver
+A03.620.150,"Bile Ducts, Intrahepatic"
+A03.620.150.125,Bile Canaliculi
+A03.620.575,Round Ligament of Liver
+A03.734,Pancreas
+A03.734.414,Islets of Langerhans
+A03.734.414.065,Glucagon-Secreting Cells
+A03.734.414.131,Insulin-Secreting Cells
+A03.734.414.587,Pancreatic Polypeptide-Secreting Cells
+A03.734.414.793,Somatostatin-Secreting Cells
+A03.734.540,"Pancreas, Exocrine"
+A03.734.667,Pancreatic Ducts
+A03.734.667.500,Ampulla of Vater

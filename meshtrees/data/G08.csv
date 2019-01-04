@@ -1,0 +1,184 @@
+id,value
+Reproductive and Urinary Physiological Phenomena,G08
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena,G08.686
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Cell Lineage,G08.686.155
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Climacteric,G08.686.157
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Climacteric.Andropause,G08.686.157.249
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Climacteric.Menopause,G08.686.157.500
+"Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Climacteric.Menopause.Menopause, Premature",G08.686.157.500.500
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Climacteric.Menopause.Perimenopause,G08.686.157.500.562
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Climacteric.Menopause.Postmenopause,G08.686.157.500.625
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Climacteric.Menopause.Premenopause,G08.686.157.500.812
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Clutch Size,G08.686.160
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Estrous Cycle,G08.686.195
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Estrous Cycle.Anestrus,G08.686.195.249
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Estrous Cycle.Diestrus,G08.686.195.374
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Estrous Cycle.Estrus,G08.686.195.500
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Estrous Cycle.Estrus.Estrus Synchronization,G08.686.195.500.500
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Estrous Cycle.Metestrus,G08.686.195.750
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Estrous Cycle.Proestrus,G08.686.195.875
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Fertility,G08.686.210
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Fertility.Ovarian Reserve,G08.686.210.249
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Fertility.Time-to-Pregnancy,G08.686.210.500
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Fetal Viability,G08.686.220
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Fetal Weight,G08.686.280
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Follicular Atresia,G08.686.290
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Gestational Age,G08.686.320
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Gravidity,G08.686.340
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Labor Presentation,G08.686.520
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Labor Presentation.Breech Presentation,G08.686.520.150
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Lactation,G08.686.523
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Lactation.Milk Ejection,G08.686.523.460
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Lacteal Elimination,G08.686.525
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Litter Size,G08.686.530
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Maternal Age,G08.686.560
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Menstrual Cycle,G08.686.605
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Menstrual Cycle.Fertile Period,G08.686.605.154
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Menstrual Cycle.Follicular Phase,G08.686.605.310
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Menstrual Cycle.Luteal Phase,G08.686.605.410
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Menstrual Cycle.Menstruation,G08.686.605.428
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Menstruation,G08.686.617
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Ovarian Reserve,G08.686.628
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Oviparity,G08.686.650
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Ovoviviparity,G08.686.655
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Parity,G08.686.677
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Paternal Age,G08.686.700
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Peripartum Period,G08.686.701
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Postpartum Period,G08.686.702
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Postpartum Period.Lactation,G08.686.702.500
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Postpartum Period.Lactation.Milk Ejection,G08.686.702.500.460
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Pregnancy Rate,G08.686.705
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Pregnancy Trimesters,G08.686.707
+"Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Pregnancy Trimesters.Pregnancy Trimester, First",G08.686.707.408
+"Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Pregnancy Trimesters.Pregnancy Trimester, Second",G08.686.707.490
+"Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Pregnancy Trimesters.Pregnancy Trimester, Third",G08.686.707.520
+"Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Pregnancy, Multiple",G08.686.710
+"Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Pregnancy, Multiple.Pregnancy, Quadruplet",G08.686.710.030
+"Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Pregnancy, Multiple.Pregnancy, Quintuplet",G08.686.710.062
+"Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Pregnancy, Multiple.Pregnancy, Triplet",G08.686.710.126
+"Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Pregnancy, Multiple.Pregnancy, Twin",G08.686.710.253
+"Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Pregnancy, Multiple.Superfetation",G08.686.710.608
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Puberty,G08.686.760
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Puberty.Adrenarche,G08.686.760.204
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Puberty.Menarche,G08.686.760.410
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction,G08.686.784
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Coitus,G08.686.784.041
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Ejaculation,G08.686.784.084
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Embryonic and Fetal Development,G08.686.784.170
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Embryonic and Fetal Development.Embryonic Development,G08.686.784.170.104
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Embryonic and Fetal Development.Embryonic Development.Cell Lineage,G08.686.784.170.104.249
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Embryonic and Fetal Development.Embryonic Development.Embryo Implantation,G08.686.784.170.104.500
+"Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Embryonic and Fetal Development.Embryonic Development.Embryo Implantation.Embryo Implantation, Delayed",G08.686.784.170.104.500.100
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Embryonic and Fetal Development.Embryonic Development.Embryonic Induction,G08.686.784.170.104.750
+"Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Embryonic and Fetal Development.Embryonic Development.Twinning, Monozygotic",G08.686.784.170.104.875
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Embryonic and Fetal Development.Fetal Development,G08.686.784.170.157
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Embryonic and Fetal Development.Fetal Development.Fetal Movement,G08.686.784.170.157.374
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Embryonic and Fetal Development.Fetal Development.Fetal Organ Maturity,G08.686.784.170.157.750
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Embryonic and Fetal Development.Organogenesis,G08.686.784.170.450
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Embryonic and Fetal Development.Organogenesis.Neurogenesis,G08.686.784.170.450.500
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Embryonic and Fetal Development.Organogenesis.Neurogenesis.Neuronal Outgrowth,G08.686.784.170.450.500.750
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Embryonic and Fetal Development.Organogenesis.Neurogenesis.Neuronal Outgrowth.Axon Fasciculation,G08.686.784.170.450.500.750.500
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Embryonic and Fetal Development.Organogenesis.Neurogenesis.Neuronal Outgrowth.Axon Guidance,G08.686.784.170.450.500.750.750
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Fertilization,G08.686.784.277
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Fertilization.Ovum Transport,G08.686.784.277.360
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Fertilization.Self-Fertilization,G08.686.784.277.560
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Fertilization.Sperm Capacitation,G08.686.784.277.760
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Fertilization.Sperm-Ovum Interactions,G08.686.784.277.800
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Fertilization.Sperm-Ovum Interactions.Acrosome Reaction,G08.686.784.277.800.100
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Fertilization.Sperm Transport,G08.686.784.277.820
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Gametogenesis,G08.686.784.310
+"Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Gametogenesis.Gametogenesis, Plant",G08.686.784.310.249
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Gametogenesis.Oogenesis,G08.686.784.310.500
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Gametogenesis.Oogenesis.Vitellogenesis,G08.686.784.310.500.880
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Gametogenesis.Spermatogenesis,G08.686.784.310.760
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Gametogenesis.Spermatogenesis.Sperm Maturation,G08.686.784.310.760.700
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Insemination,G08.686.784.363
+"Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Insemination.Insemination, Artificial",G08.686.784.363.492
+"Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Insemination.Insemination, Artificial.Insemination, Artificial, Heterologous",G08.686.784.363.492.500
+"Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Insemination.Insemination, Artificial.Insemination, Artificial, Homologous",G08.686.784.363.492.750
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Orgasm,G08.686.784.460
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Oviposition,G08.686.784.480
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Ovulation,G08.686.784.690
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Ovulation.Anovulation,G08.686.784.690.080
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Ovulation.Luteinization,G08.686.784.690.355
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Ovulation.Luteinization.Corpus Luteum Maintenance,G08.686.784.690.355.500
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Ovulation.Luteolysis,G08.686.784.690.380
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Ovulation.Ovulation Inhibition,G08.686.784.690.493
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Ovulation.Superovulation,G08.686.784.690.768
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Penile Erection,G08.686.784.717
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Pollination,G08.686.784.743
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Pregnancy,G08.686.784.769
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Pregnancy.Gravidity,G08.686.784.769.213
+"Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Pregnancy.Labor, Obstetric",G08.686.784.769.326
+"Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Pregnancy.Labor, Obstetric.Cervical Ripening",G08.686.784.769.326.100
+"Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Pregnancy.Labor, Obstetric.Labor Onset",G08.686.784.769.326.500
+"Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Pregnancy.Labor, Obstetric.Labor Onset.Labor Stage, First",G08.686.784.769.326.500.080
+"Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Pregnancy.Labor, Obstetric.Labor Onset.Labor Stage, Second",G08.686.784.769.326.500.090
+"Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Pregnancy.Labor, Obstetric.Labor Onset.Labor Stage, Third",G08.686.784.769.326.500.110
+"Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Pregnancy.Labor, Obstetric.Labor Presentation",G08.686.784.769.326.520
+"Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Pregnancy.Labor, Obstetric.Labor Presentation.Breech Presentation",G08.686.784.769.326.520.150
+"Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Pregnancy.Labor, Obstetric.Trial of Labor",G08.686.784.769.326.660
+"Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Pregnancy.Labor, Obstetric.Uterine Contraction",G08.686.784.769.326.700
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Pregnancy.Maternal-Fetal Exchange,G08.686.784.769.455
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Pregnancy.Parity,G08.686.784.769.472
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Pregnancy.Parturition,G08.686.784.769.490
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Pregnancy.Parturition.Home Childbirth,G08.686.784.769.490.124
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Pregnancy.Parturition.Natural Childbirth,G08.686.784.769.490.249
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Pregnancy.Parturition.Term Birth,G08.686.784.769.490.500
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Pregnancy.Placentation,G08.686.784.769.491
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Pregnancy.Pregnancy in Adolescence,G08.686.784.769.494
+"Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Pregnancy.Pregnancy, Animal",G08.686.784.769.498
+"Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Pregnancy.Pregnancy, Animal.Litter Size",G08.686.784.769.498.300
+"Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Pregnancy.Pregnancy, High-Risk",G08.686.784.769.500
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Pregnancy.Pregnancy Maintenance,G08.686.784.769.520
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Pregnancy.Pregnancy Maintenance.Corpus Luteum Maintenance,G08.686.784.769.520.500
+"Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Pregnancy.Pregnancy, Multiple",G08.686.784.769.525
+"Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Pregnancy.Pregnancy, Multiple.Superfetation",G08.686.784.769.525.608
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Pregnancy.Pregnancy Outcome,G08.686.784.769.530
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Pregnancy.Pregnancy Outcome.Live Birth,G08.686.784.769.530.249
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Pregnancy.Pregnancy Outcome.Stillbirth,G08.686.784.769.530.500
+"Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Pregnancy.Pregnancy, Unplanned",G08.686.784.769.570
+"Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Pregnancy.Pregnancy, Unwanted",G08.686.784.769.580
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Pregnancy.Prenatal Nutritional Physiological Phenomena,G08.686.784.769.600
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Pregnancy.Pseudopregnancy,G08.686.784.769.887
+"Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Reproduction, Asexual",G08.686.784.830
+"Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Reproduction, Asexual.Parthenogenesis",G08.686.784.830.500
+"Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Reproduction, Asexual.Parthenogenesis.Apomixis",G08.686.784.830.500.500
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Reproductive Behavior,G08.686.784.891
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Reproduction.Reproductive Behavior.Contraception Behavior,G08.686.784.891.500
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Sex,G08.686.810
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Sex Characteristics,G08.686.815
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Sexual Development,G08.686.841
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Sexual Development.Climacteric,G08.686.841.249
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Sexual Development.Climacteric.Andropause,G08.686.841.249.249
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Sexual Development.Climacteric.Menopause,G08.686.841.249.500
+"Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Sexual Development.Climacteric.Menopause.Menopause, Premature",G08.686.841.249.500.500
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Sexual Development.Climacteric.Menopause.Perimenopause,G08.686.841.249.500.562
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Sexual Development.Climacteric.Menopause.Postmenopause,G08.686.841.249.500.625
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Sexual Development.Climacteric.Menopause.Premenopause,G08.686.841.249.500.812
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Sexual Development.Puberty,G08.686.841.374
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Sexual Development.Puberty.Adrenarche,G08.686.841.374.204
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Sexual Development.Puberty.Menarche,G08.686.841.374.410
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Sexual Development.Sex Determination Processes,G08.686.841.437
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Sexual Development.Sex Differentiation,G08.686.841.500
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Sexual Development.Sexual Maturation,G08.686.841.750
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Sexuality,G08.686.867
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Sexuality.Bisexuality,G08.686.867.200
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Sexuality.Heterosexuality,G08.686.867.400
+Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Sexuality.Homosexuality,G08.686.867.500
+"Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Sexuality.Homosexuality.Homosexuality, Female",G08.686.867.500.400
+"Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Sexuality.Homosexuality.Homosexuality, Male",G08.686.867.500.600
+"Reproductive and Urinary Physiological Phenomena.Reproductive Physiological Phenomena.Viviparity, Nonmammalian",G08.686.920
+Reproductive and Urinary Physiological Phenomena.Urinary Tract Physiological Phenomena,G08.852
+Reproductive and Urinary Physiological Phenomena.Urinary Tract Physiological Phenomena.Diuresis,G08.852.179
+Reproductive and Urinary Physiological Phenomena.Urinary Tract Physiological Phenomena.Diuresis.Natriuresis,G08.852.179.557
+Reproductive and Urinary Physiological Phenomena.Urinary Tract Physiological Phenomena.Glomerular Filtration Rate,G08.852.357
+Reproductive and Urinary Physiological Phenomena.Urinary Tract Physiological Phenomena.Kidney Concentrating Ability,G08.852.536
+Reproductive and Urinary Physiological Phenomena.Urinary Tract Physiological Phenomena.Kidney Concentrating Ability.Renal Reabsorption,G08.852.536.500
+Reproductive and Urinary Physiological Phenomena.Urinary Tract Physiological Phenomena.Renal Circulation,G08.852.725
+"Reproductive and Urinary Physiological Phenomena.Urinary Tract Physiological Phenomena.Renal Circulation.Renal Blood Flow, Effective",G08.852.725.700
+Reproductive and Urinary Physiological Phenomena.Urinary Tract Physiological Phenomena.Renal Circulation.Renal Plasma Flow,G08.852.725.740
+"Reproductive and Urinary Physiological Phenomena.Urinary Tract Physiological Phenomena.Renal Circulation.Renal Plasma Flow, Effective",G08.852.725.750
+Reproductive and Urinary Physiological Phenomena.Urinary Tract Physiological Phenomena.Renal Elimination,G08.852.761
+Reproductive and Urinary Physiological Phenomena.Urinary Tract Physiological Phenomena.Urination,G08.852.880
+Reproductive and Urinary Physiological Phenomena.Urinary Tract Physiological Phenomena.Urodynamics,G08.852.898

@@ -1,0 +1,20 @@
+id,value
+Metabolism,G03
+Metabolism.Biological Transport,G03.143
+"Metabolism.Biological Transport.Biological Transport, Active",G03.143.310
+"Metabolism.Biological Transport.Biological Transport, Active.Active Transport, Cell Nucleus",G03.143.310.100
+Metabolism.Biological Transport.Capillary Permeability,G03.143.330
+Metabolism.Biological Transport.Cell Membrane Permeability,G03.143.335
+Metabolism.Biological Transport.Cytoplasmic Streaming,G03.143.355
+Metabolism.Biological Transport.Cytoplasmic Streaming.Axonal Transport,G03.143.355.040
+Metabolism.Biological Transport.Facilitated Diffusion,G03.143.427
+Metabolism.Biological Transport.Ion Transport,G03.143.500
+Metabolism.Biological Transport.Ion Transport.Calcium Signaling,G03.143.500.100
+Metabolism.Biological Transport.Protein Transport,G03.143.700
+"Metabolism.Biological Transport.Protein Transport.Active Transport, Cell Nucleus",G03.143.700.100
+Metabolism.Biological Transport.Respiratory Transport,G03.143.775
+Metabolism.Biological Transport.Respiratory Transport.Pulmonary Gas Exchange,G03.143.775.602
+Metabolism.Biological Transport.RNA Transport,G03.143.850
+Metabolism.Biological Transport.Secretory Pathway,G03.143.925
+Metabolism.Biological Transport.Transcytosis,G03.143.962
+Metabolism.Biological Transport.Transcytosis.Transcellular Cell Migration,G03.143.962.500

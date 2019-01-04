@@ -1,0 +1,247 @@
+id,value
+Immune System Diseases,C20
+Immune System Diseases.Autoimmune Diseases,C20.111
+Immune System Diseases.Autoimmune Diseases.Addison Disease,C20.111.163
+"Immune System Diseases.Autoimmune Diseases.Anemia, Hemolytic, Autoimmune",C20.111.175
+Immune System Diseases.Autoimmune Diseases.Anti-Glomerular Basement Membrane Disease,C20.111.190
+Immune System Diseases.Autoimmune Diseases.Anti-Neutrophil Cytoplasmic Antibody-Associated Vasculitis,C20.111.193
+Immune System Diseases.Autoimmune Diseases.Anti-Neutrophil Cytoplasmic Antibody-Associated Vasculitis.Churg-Strauss Syndrome,C20.111.193.500
+Immune System Diseases.Autoimmune Diseases.Anti-Neutrophil Cytoplasmic Antibody-Associated Vasculitis.Microscopic Polyangiitis,C20.111.193.750
+Immune System Diseases.Autoimmune Diseases.Anti-Neutrophil Cytoplasmic Antibody-Associated Vasculitis.Granulomatosis with Polyangiitis,C20.111.193.875
+Immune System Diseases.Autoimmune Diseases.Antiphospholipid Syndrome,C20.111.197
+"Immune System Diseases.Autoimmune Diseases.Arthritis, Juvenile",C20.111.198
+"Immune System Diseases.Autoimmune Diseases.Arthritis, Rheumatoid",C20.111.199
+"Immune System Diseases.Autoimmune Diseases.Arthritis, Rheumatoid.Felty Syndrome",C20.111.199.389
+"Immune System Diseases.Autoimmune Diseases.Arthritis, Rheumatoid.Rheumatoid Vasculitis",C20.111.199.581
+"Immune System Diseases.Autoimmune Diseases.Arthritis, Rheumatoid.Sjogren's Syndrome",C20.111.199.774
+"Immune System Diseases.Autoimmune Diseases.Arthritis, Rheumatoid.Still's Disease, Adult-Onset",C20.111.199.870
+Immune System Diseases.Autoimmune Diseases.Autoimmune Diseases of the Nervous System,C20.111.258
+Immune System Diseases.Autoimmune Diseases.Autoimmune Diseases of the Nervous System.Anti-N-Methyl-D-Aspartate Receptor Encephalitis,C20.111.258.124
+"Immune System Diseases.Autoimmune Diseases.Autoimmune Diseases of the Nervous System.Demyelinating Autoimmune Diseases, CNS",C20.111.258.250
+"Immune System Diseases.Autoimmune Diseases.Autoimmune Diseases of the Nervous System.Demyelinating Autoimmune Diseases, CNS.Diffuse Cerebral Sclerosis of Schilder",C20.111.258.250.175
+"Immune System Diseases.Autoimmune Diseases.Autoimmune Diseases of the Nervous System.Demyelinating Autoimmune Diseases, CNS.Encephalomyelitis, Acute Disseminated",C20.111.258.250.350
+"Immune System Diseases.Autoimmune Diseases.Autoimmune Diseases of the Nervous System.Demyelinating Autoimmune Diseases, CNS.Encephalomyelitis, Acute Disseminated.Leukoencephalitis, Acute Hemorrhagic",C20.111.258.250.350.500
+"Immune System Diseases.Autoimmune Diseases.Autoimmune Diseases of the Nervous System.Demyelinating Autoimmune Diseases, CNS.Leukoencephalitis, Acute Hemorrhagic",C20.111.258.250.425
+"Immune System Diseases.Autoimmune Diseases.Autoimmune Diseases of the Nervous System.Demyelinating Autoimmune Diseases, CNS.Multiple Sclerosis",C20.111.258.250.500
+"Immune System Diseases.Autoimmune Diseases.Autoimmune Diseases of the Nervous System.Demyelinating Autoimmune Diseases, CNS.Multiple Sclerosis.Multiple Sclerosis, Chronic Progressive",C20.111.258.250.500.200
+"Immune System Diseases.Autoimmune Diseases.Autoimmune Diseases of the Nervous System.Demyelinating Autoimmune Diseases, CNS.Multiple Sclerosis.Multiple Sclerosis, Relapsing-Remitting",C20.111.258.250.500.600
+"Immune System Diseases.Autoimmune Diseases.Autoimmune Diseases of the Nervous System.Demyelinating Autoimmune Diseases, CNS.Myelitis, Transverse",C20.111.258.250.550
+"Immune System Diseases.Autoimmune Diseases.Autoimmune Diseases of the Nervous System.Demyelinating Autoimmune Diseases, CNS.Myelitis, Transverse.Neuromyelitis Optica",C20.111.258.250.550.500
+"Immune System Diseases.Autoimmune Diseases.Autoimmune Diseases of the Nervous System.Demyelinating Autoimmune Diseases, CNS.Neuromyelitis Optica",C20.111.258.250.775
+Immune System Diseases.Autoimmune Diseases.Autoimmune Diseases of the Nervous System.Lambert-Eaton Myasthenic Syndrome,C20.111.258.350
+Immune System Diseases.Autoimmune Diseases.Autoimmune Diseases of the Nervous System.Myasthenia Gravis,C20.111.258.500
+"Immune System Diseases.Autoimmune Diseases.Autoimmune Diseases of the Nervous System.Myasthenia Gravis.Myasthenia Gravis, Autoimmune, Experimental",C20.111.258.500.300
+"Immune System Diseases.Autoimmune Diseases.Autoimmune Diseases of the Nervous System.Myasthenia Gravis.Myasthenia Gravis, Neonatal",C20.111.258.500.650
+"Immune System Diseases.Autoimmune Diseases.Autoimmune Diseases of the Nervous System.Nervous System Autoimmune Disease, Experimental",C20.111.258.625
+"Immune System Diseases.Autoimmune Diseases.Autoimmune Diseases of the Nervous System.Nervous System Autoimmune Disease, Experimental.Encephalomyelitis, Autoimmune, Experimental",C20.111.258.625.300
+"Immune System Diseases.Autoimmune Diseases.Autoimmune Diseases of the Nervous System.Nervous System Autoimmune Disease, Experimental.Myasthenia Gravis, Autoimmune, Experimental",C20.111.258.625.350
+"Immune System Diseases.Autoimmune Diseases.Autoimmune Diseases of the Nervous System.Nervous System Autoimmune Disease, Experimental.Neuritis, Autoimmune, Experimental",C20.111.258.625.700
+Immune System Diseases.Autoimmune Diseases.Autoimmune Diseases of the Nervous System.Polyradiculoneuropathy,C20.111.258.750
+Immune System Diseases.Autoimmune Diseases.Autoimmune Diseases of the Nervous System.Polyradiculoneuropathy.Guillain-Barre Syndrome,C20.111.258.750.400
+Immune System Diseases.Autoimmune Diseases.Autoimmune Diseases of the Nervous System.Polyradiculoneuropathy.Guillain-Barre Syndrome.Miller Fisher Syndrome,C20.111.258.750.400.500
+"Immune System Diseases.Autoimmune Diseases.Autoimmune Diseases of the Nervous System.Polyradiculoneuropathy.Polyradiculoneuropathy, Chronic Inflammatory Demyelinating",C20.111.258.750.800
+Immune System Diseases.Autoimmune Diseases.Autoimmune Diseases of the Nervous System.Stiff-Person Syndrome,C20.111.258.850
+Immune System Diseases.Autoimmune Diseases.Autoimmune Diseases of the Nervous System.Uveomeningoencephalitic Syndrome,C20.111.258.925
+"Immune System Diseases.Autoimmune Diseases.Autoimmune Diseases of the Nervous System.Vasculitis, Central Nervous System",C20.111.258.962
+"Immune System Diseases.Autoimmune Diseases.Autoimmune Diseases of the Nervous System.Vasculitis, Central Nervous System.Giant Cell Arteritis",C20.111.258.962.800
+"Immune System Diseases.Autoimmune Diseases.Autoimmune Diseases of the Nervous System.Vasculitis, Central Nervous System.Lupus Vasculitis, Central Nervous System",C20.111.258.962.900
+Immune System Diseases.Autoimmune Diseases.Autoimmune Hypophysitis,C20.111.273
+Immune System Diseases.Autoimmune Diseases.Autoimmune Lymphoproliferative Syndrome,C20.111.288
+Immune System Diseases.Autoimmune Diseases.Dermatitis Herpetiformis,C20.111.318
+"Immune System Diseases.Autoimmune Diseases.Diabetes Mellitus, Type 1",C20.111.327
+"Immune System Diseases.Autoimmune Diseases.Glomerulonephritis, IGA",C20.111.525
+"Immune System Diseases.Autoimmune Diseases.Glomerulonephritis, Membranous",C20.111.535
+Immune System Diseases.Autoimmune Diseases.Graves Disease,C20.111.555
+Immune System Diseases.Autoimmune Diseases.Graves Disease.Graves Ophthalmopathy,C20.111.555.500
+"Immune System Diseases.Autoimmune Diseases.Hepatitis, Autoimmune",C20.111.567
+Immune System Diseases.Autoimmune Diseases.Latent Autoimmune Diabetes in Adults,C20.111.576
+Immune System Diseases.Autoimmune Diseases.Linear IgA Bullous Dermatosis,C20.111.585
+"Immune System Diseases.Autoimmune Diseases.Lupus Erythematosus, Systemic",C20.111.590
+"Immune System Diseases.Autoimmune Diseases.Lupus Erythematosus, Systemic.Lupus Nephritis",C20.111.590.560
+"Immune System Diseases.Autoimmune Diseases.Lupus Erythematosus, Systemic.Lupus Vasculitis, Central Nervous System",C20.111.590.750
+"Immune System Diseases.Autoimmune Diseases.Ophthalmia, Sympathetic",C20.111.709
+"Immune System Diseases.Autoimmune Diseases.Pemphigoid, Bullous",C20.111.730
+Immune System Diseases.Autoimmune Diseases.Pemphigus,C20.111.736
+"Immune System Diseases.Autoimmune Diseases.Polyendocrinopathies, Autoimmune",C20.111.750
+"Immune System Diseases.Autoimmune Diseases.Purpura, Thrombocytopenic, Idiopathic",C20.111.759
+"Immune System Diseases.Autoimmune Diseases.Thyroiditis, Autoimmune",C20.111.809
+Immune System Diseases.Autoimmune Diseases.Undifferentiated Connective Tissue Diseases,C20.111.904
+"Immune System Diseases.Erythroblastosis, Fetal",C20.306
+"Immune System Diseases.Erythroblastosis, Fetal.Hydrops Fetalis",C20.306.480
+"Immune System Diseases.Erythroblastosis, Fetal.Kernicterus",C20.306.502
+"Immune System Diseases.Glomerulonephritis, Membranoproliferative",C20.425
+Immune System Diseases.Graft vs Host Disease,C20.452
+Immune System Diseases.Hypersensitivity,C20.543
+Immune System Diseases.Hypersensitivity.Drug Hypersensitivity,C20.543.206
+"Immune System Diseases.Hypersensitivity.Drug Hypersensitivity.Asthma, Aspirin-Induced",C20.543.206.189
+Immune System Diseases.Hypersensitivity.Drug Hypersensitivity.Drug Eruptions,C20.543.206.380
+Immune System Diseases.Hypersensitivity.Drug Hypersensitivity.Drug Eruptions.Acute Generalized Exanthematous Pustulosis,C20.543.206.380.174
+Immune System Diseases.Hypersensitivity.Drug Hypersensitivity.Drug Eruptions.Drug Hypersensitivity Syndrome,C20.543.206.380.262
+Immune System Diseases.Hypersensitivity.Drug Hypersensitivity.Drug Eruptions.Erythema Nodosum,C20.543.206.380.375
+Immune System Diseases.Hypersensitivity.Drug Hypersensitivity.Drug Eruptions.Nicolau Syndrome,C20.543.206.380.587
+Immune System Diseases.Hypersensitivity.Drug Hypersensitivity.Drug Eruptions.Serum Sickness,C20.543.206.380.800
+Immune System Diseases.Hypersensitivity.Drug Hypersensitivity.Drug Eruptions.Stevens-Johnson Syndrome,C20.543.206.380.900
+Immune System Diseases.Hypersensitivity.Environmental Illness,C20.543.312
+Immune System Diseases.Hypersensitivity.Environmental Illness.Multiple Chemical Sensitivity,C20.543.312.500
+Immune System Diseases.Hypersensitivity.Environmental Illness.Sick Building Syndrome,C20.543.312.750
+"Immune System Diseases.Hypersensitivity.Hypersensitivity, Delayed",C20.543.418
+"Immune System Diseases.Hypersensitivity.Hypersensitivity, Delayed.Dermatitis, Allergic Contact",C20.543.418.150
+"Immune System Diseases.Hypersensitivity.Hypersensitivity, Delayed.Dermatitis, Allergic Contact.Dermatitis, Photoallergic",C20.543.418.150.600
+"Immune System Diseases.Hypersensitivity.Hypersensitivity, Delayed.Dermatitis, Allergic Contact.Dermatitis, Toxicodendron",C20.543.418.150.700
+"Immune System Diseases.Hypersensitivity.Hypersensitivity, Immediate",C20.543.480
+"Immune System Diseases.Hypersensitivity.Hypersensitivity, Immediate.Anaphylaxis",C20.543.480.099
+"Immune System Diseases.Hypersensitivity.Hypersensitivity, Immediate.Asthma, Aspirin-Induced",C20.543.480.149
+"Immune System Diseases.Hypersensitivity.Hypersensitivity, Immediate.Conjunctivitis, Allergic",C20.543.480.200
+"Immune System Diseases.Hypersensitivity.Hypersensitivity, Immediate.Dermatitis, Atopic",C20.543.480.343
+"Immune System Diseases.Hypersensitivity.Hypersensitivity, Immediate.Eosinophilic Esophagitis",C20.543.480.356
+"Immune System Diseases.Hypersensitivity.Hypersensitivity, Immediate.Food Hypersensitivity",C20.543.480.370
+"Immune System Diseases.Hypersensitivity.Hypersensitivity, Immediate.Food Hypersensitivity.Egg Hypersensitivity",C20.543.480.370.150
+"Immune System Diseases.Hypersensitivity.Hypersensitivity, Immediate.Food Hypersensitivity.Milk Hypersensitivity",C20.543.480.370.500
+"Immune System Diseases.Hypersensitivity.Hypersensitivity, Immediate.Food Hypersensitivity.Nut and Peanut Hypersensitivity",C20.543.480.370.572
+"Immune System Diseases.Hypersensitivity.Hypersensitivity, Immediate.Food Hypersensitivity.Nut and Peanut Hypersensitivity.Nut Hypersensitivity",C20.543.480.370.572.500
+"Immune System Diseases.Hypersensitivity.Hypersensitivity, Immediate.Food Hypersensitivity.Nut and Peanut Hypersensitivity.Peanut Hypersensitivity",C20.543.480.370.572.750
+"Immune System Diseases.Hypersensitivity.Hypersensitivity, Immediate.Food Hypersensitivity.Shellfish Hypersensitivity",C20.543.480.370.763
+"Immune System Diseases.Hypersensitivity.Hypersensitivity, Immediate.Food Hypersensitivity.Wheat Hypersensitivity",C20.543.480.370.850
+"Immune System Diseases.Hypersensitivity.Hypersensitivity, Immediate.Respiratory Hypersensitivity",C20.543.480.680
+"Immune System Diseases.Hypersensitivity.Hypersensitivity, Immediate.Respiratory Hypersensitivity.Alveolitis, Extrinsic Allergic",C20.543.480.680.075
+"Immune System Diseases.Hypersensitivity.Hypersensitivity, Immediate.Respiratory Hypersensitivity.Alveolitis, Extrinsic Allergic.Bird Fancier's Lung",C20.543.480.680.075.125
+"Immune System Diseases.Hypersensitivity.Hypersensitivity, Immediate.Respiratory Hypersensitivity.Alveolitis, Extrinsic Allergic.Farmer's Lung",C20.543.480.680.075.365
+"Immune System Diseases.Hypersensitivity.Hypersensitivity, Immediate.Respiratory Hypersensitivity.Alveolitis, Extrinsic Allergic.Trichosporonosis",C20.543.480.680.075.682
+"Immune System Diseases.Hypersensitivity.Hypersensitivity, Immediate.Respiratory Hypersensitivity.Aspergillosis, Allergic Bronchopulmonary",C20.543.480.680.085
+"Immune System Diseases.Hypersensitivity.Hypersensitivity, Immediate.Respiratory Hypersensitivity.Asthma",C20.543.480.680.095
+"Immune System Diseases.Hypersensitivity.Hypersensitivity, Immediate.Respiratory Hypersensitivity.Asthma.Asthma, Exercise-Induced",C20.543.480.680.095.110
+"Immune System Diseases.Hypersensitivity.Hypersensitivity, Immediate.Respiratory Hypersensitivity.Asthma.Asthma, Occupational",C20.543.480.680.095.495
+"Immune System Diseases.Hypersensitivity.Hypersensitivity, Immediate.Respiratory Hypersensitivity.Asthma.Status Asthmaticus",C20.543.480.680.095.880
+"Immune System Diseases.Hypersensitivity.Hypersensitivity, Immediate.Respiratory Hypersensitivity.Rhinitis, Allergic",C20.543.480.680.443
+"Immune System Diseases.Hypersensitivity.Hypersensitivity, Immediate.Respiratory Hypersensitivity.Rhinitis, Allergic.Rhinitis, Allergic, Perennial",C20.543.480.680.443.500
+"Immune System Diseases.Hypersensitivity.Hypersensitivity, Immediate.Respiratory Hypersensitivity.Rhinitis, Allergic.Rhinitis, Allergic, Seasonal",C20.543.480.680.443.750
+"Immune System Diseases.Hypersensitivity.Hypersensitivity, Immediate.Urticaria",C20.543.480.904
+"Immune System Diseases.Hypersensitivity.Hypersensitivity, Immediate.Urticaria.Angioedema",C20.543.480.904.066
+"Immune System Diseases.Hypersensitivity.Hypersensitivity, Immediate.Urticaria.Angioedema.Angioedemas, Hereditary",C20.543.480.904.066.500
+"Immune System Diseases.Hypersensitivity.Hypersensitivity, Immediate.Urticaria.Angioedema.Angioedemas, Hereditary.Hereditary Angioedema Type III",C20.543.480.904.066.500.500
+"Immune System Diseases.Hypersensitivity.Hypersensitivity, Immediate.Urticaria.Angioedema.Angioedemas, Hereditary.Hereditary Angioedema Types I and II",C20.543.480.904.066.500.750
+Immune System Diseases.Hypersensitivity.Immune Complex Diseases,C20.543.520
+Immune System Diseases.Hypersensitivity.Immune Complex Diseases.Arthus Reaction,C20.543.520.100
+Immune System Diseases.Hypersensitivity.Immune Complex Diseases.Mastocytosis,C20.543.520.350
+"Immune System Diseases.Hypersensitivity.Immune Complex Diseases.Mastocytosis.Mastocytosis, Systemic",C20.543.520.350.750
+"Immune System Diseases.Hypersensitivity.Immune Complex Diseases.Purpura, Schoenlein-Henoch",C20.543.520.600
+Immune System Diseases.Hypersensitivity.Immune Complex Diseases.Serum Sickness,C20.543.520.770
+"Immune System Diseases.Hypersensitivity.Immune Complex Diseases.Vasculitis, Leukocytoclastic, Cutaneous",C20.543.520.910
+Immune System Diseases.Hypersensitivity.Kounis Syndrome,C20.543.560
+Immune System Diseases.Hypersensitivity.Latex Hypersensitivity,C20.543.600
+Immune System Diseases.Hypersensitivity.Wissler's Syndrome,C20.543.928
+Immune System Diseases.Immune Reconstitution Inflammatory Syndrome,C20.608
+Immune System Diseases.Immunologic Deficiency Syndromes,C20.673
+Immune System Diseases.Immunologic Deficiency Syndromes.Agammaglobulinemia,C20.673.088
+Immune System Diseases.Immunologic Deficiency Syndromes.Ataxia Telangiectasia,C20.673.290
+Immune System Diseases.Immunologic Deficiency Syndromes.Common Variable Immunodeficiency,C20.673.330
+Immune System Diseases.Immunologic Deficiency Syndromes.Dysgammaglobulinemia,C20.673.430
+Immune System Diseases.Immunologic Deficiency Syndromes.Dysgammaglobulinemia.Hyper-IgM Immunodeficiency Syndrome,C20.673.430.249
+"Immune System Diseases.Immunologic Deficiency Syndromes.Dysgammaglobulinemia.Hyper-IgM Immunodeficiency Syndrome.Hyper-IgM Immunodeficiency Syndrome, Type 1",C20.673.430.249.500
+Immune System Diseases.Immunologic Deficiency Syndromes.Dysgammaglobulinemia.IgA Deficiency,C20.673.430.500
+Immune System Diseases.Immunologic Deficiency Syndromes.Dysgammaglobulinemia.IgG Deficiency,C20.673.430.750
+Immune System Diseases.Immunologic Deficiency Syndromes.HIV Infections,C20.673.480
+Immune System Diseases.Immunologic Deficiency Syndromes.HIV Infections.Acquired Immunodeficiency Syndrome,C20.673.480.040
+Immune System Diseases.Immunologic Deficiency Syndromes.HIV Infections.Acute Retroviral Syndrome,C20.673.480.044
+"Immune System Diseases.Immunologic Deficiency Syndromes.HIV Infections.AIDS Arteritis, Central Nervous System",C20.673.480.048
+Immune System Diseases.Immunologic Deficiency Syndromes.HIV Infections.AIDS-Associated Nephropathy,C20.673.480.050
+Immune System Diseases.Immunologic Deficiency Syndromes.HIV Infections.AIDS Dementia Complex,C20.673.480.070
+Immune System Diseases.Immunologic Deficiency Syndromes.HIV Infections.AIDS-Related Complex,C20.673.480.080
+Immune System Diseases.Immunologic Deficiency Syndromes.HIV Infections.AIDS-Related Opportunistic Infections,C20.673.480.100
+Immune System Diseases.Immunologic Deficiency Syndromes.HIV Infections.HIV-Associated Lipodystrophy Syndrome,C20.673.480.400
+Immune System Diseases.Immunologic Deficiency Syndromes.HIV Infections.HIV Enteropathy,C20.673.480.480
+Immune System Diseases.Immunologic Deficiency Syndromes.HIV Infections.HIV Seropositivity,C20.673.480.500
+Immune System Diseases.Immunologic Deficiency Syndromes.HIV Infections.HIV Wasting Syndrome,C20.673.480.520
+Immune System Diseases.Immunologic Deficiency Syndromes.Deltaretrovirus Infections,C20.673.483
+Immune System Diseases.Immunologic Deficiency Syndromes.Deltaretrovirus Infections.Enzootic Bovine Leukosis,C20.673.483.260
+Immune System Diseases.Immunologic Deficiency Syndromes.Deltaretrovirus Infections.HTLV-I Infections,C20.673.483.470
+Immune System Diseases.Immunologic Deficiency Syndromes.Deltaretrovirus Infections.HTLV-II Infections,C20.673.483.480
+Immune System Diseases.Immunologic Deficiency Syndromes.Leukocyte-Adhesion Deficiency Syndrome,C20.673.600
+Immune System Diseases.Immunologic Deficiency Syndromes.Lymphopenia,C20.673.627
+"Immune System Diseases.Immunologic Deficiency Syndromes.Lymphopenia.T-Lymphocytopenia, Idiopathic CD4-Positive",C20.673.627.800
+Immune System Diseases.Immunologic Deficiency Syndromes.Lymphopenia.Wiskott-Aldrich Syndrome,C20.673.627.900
+Immune System Diseases.Immunologic Deficiency Syndromes.Phagocyte Bactericidal Dysfunction,C20.673.774
+Immune System Diseases.Immunologic Deficiency Syndromes.Phagocyte Bactericidal Dysfunction.Chediak-Higashi Syndrome,C20.673.774.257
+Immune System Diseases.Immunologic Deficiency Syndromes.Phagocyte Bactericidal Dysfunction.Chediak-Higashi Syndrome.Aleutian Mink Disease,C20.673.774.257.270
+"Immune System Diseases.Immunologic Deficiency Syndromes.Phagocyte Bactericidal Dysfunction.Granulomatous Disease, Chronic",C20.673.774.535
+Immune System Diseases.Immunologic Deficiency Syndromes.Phagocyte Bactericidal Dysfunction.Job Syndrome,C20.673.774.600
+Immune System Diseases.Immunologic Deficiency Syndromes.Severe Combined Immunodeficiency,C20.673.815
+Immune System Diseases.Immunologic Deficiency Syndromes.Severe Combined Immunodeficiency.X-Linked Combined Immunodeficiency Diseases,C20.673.815.500
+Immune System Diseases.Immunoproliferative Disorders,C20.683
+Immune System Diseases.Immunoproliferative Disorders.Hypergammaglobulinemia,C20.683.460
+Immune System Diseases.Immunoproliferative Disorders.Hypergammaglobulinemia.Mevalonate Kinase Deficiency,C20.683.460.319
+Immune System Diseases.Immunoproliferative Disorders.Hypergammaglobulinemia.Monoclonal Gammopathy of Undetermined Significance,C20.683.460.640
+Immune System Diseases.Immunoproliferative Disorders.Hypergammaglobulinemia.Smoldering Multiple Myeloma,C20.683.460.820
+Immune System Diseases.Immunoproliferative Disorders.Lymphoproliferative Disorders,C20.683.515
+Immune System Diseases.Immunoproliferative Disorders.Lymphoproliferative Disorders.Autoimmune Lymphoproliferative Syndrome,C20.683.515.124
+Immune System Diseases.Immunoproliferative Disorders.Lymphoproliferative Disorders.Castleman Disease,C20.683.515.250
+Immune System Diseases.Immunoproliferative Disorders.Lymphoproliferative Disorders.Immunoblastic Lymphadenopathy,C20.683.515.501
+Immune System Diseases.Immunoproliferative Disorders.Lymphoproliferative Disorders.Immunoglobulin Light-chain Amyloidosis,C20.683.515.507
+Immune System Diseases.Immunoproliferative Disorders.Lymphoproliferative Disorders.Immunoproliferative Small Intestinal Disease,C20.683.515.512
+Immune System Diseases.Immunoproliferative Disorders.Lymphoproliferative Disorders.Infectious Mononucleosis,C20.683.515.515
+"Immune System Diseases.Immunoproliferative Disorders.Lymphoproliferative Disorders.Leukemia, Hairy Cell",C20.683.515.517
+"Immune System Diseases.Immunoproliferative Disorders.Lymphoproliferative Disorders.Leukemia, Lymphoid",C20.683.515.528
+"Immune System Diseases.Immunoproliferative Disorders.Lymphoproliferative Disorders.Leukemia, Lymphoid.Leukemia, B-Cell",C20.683.515.528.080
+"Immune System Diseases.Immunoproliferative Disorders.Lymphoproliferative Disorders.Leukemia, Lymphoid.Leukemia, B-Cell.Leukemia, Lymphocytic, Chronic, B-Cell",C20.683.515.528.080.125
+"Immune System Diseases.Immunoproliferative Disorders.Lymphoproliferative Disorders.Leukemia, Lymphoid.Leukemia, B-Cell.Leukemia, Prolymphocytic, B-Cell",C20.683.515.528.080.562
+"Immune System Diseases.Immunoproliferative Disorders.Lymphoproliferative Disorders.Leukemia, Lymphoid.Leukemia, Biphenotypic, Acute",C20.683.515.528.100
+"Immune System Diseases.Immunoproliferative Disorders.Lymphoproliferative Disorders.Leukemia, Lymphoid.Leukemia, Prolymphocytic",C20.683.515.528.565
+"Immune System Diseases.Immunoproliferative Disorders.Lymphoproliferative Disorders.Leukemia, Lymphoid.Leukemia, Prolymphocytic.Leukemia, Prolymphocytic, B-Cell",C20.683.515.528.565.745
+"Immune System Diseases.Immunoproliferative Disorders.Lymphoproliferative Disorders.Leukemia, Lymphoid.Leukemia, Prolymphocytic.Leukemia, Prolymphocytic, T-Cell",C20.683.515.528.565.750
+"Immune System Diseases.Immunoproliferative Disorders.Lymphoproliferative Disorders.Leukemia, Lymphoid.Leukemia, T-Cell",C20.683.515.528.582
+"Immune System Diseases.Immunoproliferative Disorders.Lymphoproliferative Disorders.Leukemia, Lymphoid.Leukemia, T-Cell.Leukemia, Large Granular Lymphocytic",C20.683.515.528.582.049
+"Immune System Diseases.Immunoproliferative Disorders.Lymphoproliferative Disorders.Leukemia, Lymphoid.Leukemia, T-Cell.Leukemia-Lymphoma, Adult T-Cell",C20.683.515.528.582.100
+"Immune System Diseases.Immunoproliferative Disorders.Lymphoproliferative Disorders.Leukemia, Lymphoid.Leukemia, T-Cell.Leukemia, Prolymphocytic, T-Cell",C20.683.515.528.582.125
+"Immune System Diseases.Immunoproliferative Disorders.Lymphoproliferative Disorders.Leukemia, Lymphoid.Precursor Cell Lymphoblastic Leukemia-Lymphoma",C20.683.515.528.600
+"Immune System Diseases.Immunoproliferative Disorders.Lymphoproliferative Disorders.Leukemia, Lymphoid.Precursor Cell Lymphoblastic Leukemia-Lymphoma.Precursor B-Cell Lymphoblastic Leukemia-Lymphoma",C20.683.515.528.600.600
+"Immune System Diseases.Immunoproliferative Disorders.Lymphoproliferative Disorders.Leukemia, Lymphoid.Precursor Cell Lymphoblastic Leukemia-Lymphoma.Precursor T-Cell Lymphoblastic Leukemia-Lymphoma",C20.683.515.528.600.620
+Immune System Diseases.Immunoproliferative Disorders.Lymphoproliferative Disorders.Lymphangiomyoma,C20.683.515.710
+Immune System Diseases.Immunoproliferative Disorders.Lymphoproliferative Disorders.Lymphangiomyoma.Lymphangioleiomyomatosis,C20.683.515.710.465
+Immune System Diseases.Immunoproliferative Disorders.Lymphoproliferative Disorders.Lymphoma,C20.683.515.761
+Immune System Diseases.Immunoproliferative Disorders.Lymphoproliferative Disorders.Lymphoma.Composite Lymphoma,C20.683.515.761.150
+Immune System Diseases.Immunoproliferative Disorders.Lymphoproliferative Disorders.Lymphoma.Hodgkin Disease,C20.683.515.761.355
+Immune System Diseases.Immunoproliferative Disorders.Lymphoproliferative Disorders.Lymphoma.Intraocular Lymphoma,C20.683.515.761.417
+"Immune System Diseases.Immunoproliferative Disorders.Lymphoproliferative Disorders.Lymphoma.Lymphoma, Non-Hodgkin",C20.683.515.761.480
+"Immune System Diseases.Immunoproliferative Disorders.Lymphoproliferative Disorders.Lymphoma.Lymphoma, Non-Hodgkin.Lymphoma, B-Cell",C20.683.515.761.480.150
+"Immune System Diseases.Immunoproliferative Disorders.Lymphoproliferative Disorders.Lymphoma.Lymphoma, Non-Hodgkin.Lymphoma, B-Cell.Burkitt Lymphoma",C20.683.515.761.480.150.165
+"Immune System Diseases.Immunoproliferative Disorders.Lymphoproliferative Disorders.Lymphoma.Lymphoma, Non-Hodgkin.Lymphoma, B-Cell.Lymphoma, AIDS-Related",C20.683.515.761.480.150.450
+"Immune System Diseases.Immunoproliferative Disorders.Lymphoproliferative Disorders.Lymphoma.Lymphoma, Non-Hodgkin.Lymphoma, B-Cell.Lymphoma, B-Cell, Marginal Zone",C20.683.515.761.480.150.570
+"Immune System Diseases.Immunoproliferative Disorders.Lymphoproliferative Disorders.Lymphoma.Lymphoma, Non-Hodgkin.Lymphoma, B-Cell.Lymphoma, Large B-Cell, Diffuse",C20.683.515.761.480.150.585
+"Immune System Diseases.Immunoproliferative Disorders.Lymphoproliferative Disorders.Lymphoma.Lymphoma, Non-Hodgkin.Lymphoma, B-Cell.Lymphoma, Large B-Cell, Diffuse.Plasmablastic Lymphoma",C20.683.515.761.480.150.585.500
+"Immune System Diseases.Immunoproliferative Disorders.Lymphoproliferative Disorders.Lymphoma.Lymphoma, Non-Hodgkin.Lymphoma, B-Cell.Lymphoma, Primary Effusion",C20.683.515.761.480.150.592
+"Immune System Diseases.Immunoproliferative Disorders.Lymphoproliferative Disorders.Lymphoma.Lymphoma, Non-Hodgkin.Lymphoma, B-Cell.Lymphomatoid Granulomatosis",C20.683.515.761.480.150.600
+"Immune System Diseases.Immunoproliferative Disorders.Lymphoproliferative Disorders.Lymphoma.Lymphoma, Non-Hodgkin.Lymphoma, Follicular",C20.683.515.761.480.350
+"Immune System Diseases.Immunoproliferative Disorders.Lymphoproliferative Disorders.Lymphoma.Lymphoma, Non-Hodgkin.Lymphoma, Large-Cell, Immunoblastic",C20.683.515.761.480.487
+"Immune System Diseases.Immunoproliferative Disorders.Lymphoproliferative Disorders.Lymphoma.Lymphoma, Non-Hodgkin.Lymphoma, Mantle-Cell",C20.683.515.761.480.525
+"Immune System Diseases.Immunoproliferative Disorders.Lymphoproliferative Disorders.Lymphoma.Lymphoma, Non-Hodgkin.Lymphoma, T-Cell",C20.683.515.761.480.750
+"Immune System Diseases.Immunoproliferative Disorders.Lymphoproliferative Disorders.Lymphoma.Lymphoma, Non-Hodgkin.Lymphoma, T-Cell.Enteropathy-Associated T-Cell Lymphoma",C20.683.515.761.480.750.199
+"Immune System Diseases.Immunoproliferative Disorders.Lymphoproliferative Disorders.Lymphoma.Lymphoma, Non-Hodgkin.Lymphoma, T-Cell.Lymphoma, Large-Cell, Anaplastic",C20.683.515.761.480.750.399
+"Immune System Diseases.Immunoproliferative Disorders.Lymphoproliferative Disorders.Lymphoma.Lymphoma, Non-Hodgkin.Lymphoma, T-Cell.Lymphoma, T-Cell, Cutaneous",C20.683.515.761.480.750.800
+"Immune System Diseases.Immunoproliferative Disorders.Lymphoproliferative Disorders.Lymphoma.Lymphoma, Non-Hodgkin.Lymphoma, T-Cell.Lymphoma, T-Cell, Cutaneous.Lymphoma, Primary Cutaneous Anaplastic Large Cell",C20.683.515.761.480.750.800.507
+"Immune System Diseases.Immunoproliferative Disorders.Lymphoproliferative Disorders.Lymphoma.Lymphoma, Non-Hodgkin.Lymphoma, T-Cell.Lymphoma, T-Cell, Cutaneous.Lymphomatoid Papulosis",C20.683.515.761.480.750.800.528
+"Immune System Diseases.Immunoproliferative Disorders.Lymphoproliferative Disorders.Lymphoma.Lymphoma, Non-Hodgkin.Lymphoma, T-Cell.Lymphoma, T-Cell, Cutaneous.Mycosis Fungoides",C20.683.515.761.480.750.800.550
+"Immune System Diseases.Immunoproliferative Disorders.Lymphoproliferative Disorders.Lymphoma.Lymphoma, Non-Hodgkin.Lymphoma, T-Cell.Lymphoma, T-Cell, Cutaneous.Mycosis Fungoides.Pagetoid Reticulosis",C20.683.515.761.480.750.800.550.600
+"Immune System Diseases.Immunoproliferative Disorders.Lymphoproliferative Disorders.Lymphoma.Lymphoma, Non-Hodgkin.Lymphoma, T-Cell.Lymphoma, T-Cell, Cutaneous.Sezary Syndrome",C20.683.515.761.480.750.800.775
+"Immune System Diseases.Immunoproliferative Disorders.Lymphoproliferative Disorders.Lymphoma.Lymphoma, Non-Hodgkin.Lymphoma, T-Cell.Lymphoma, T-Cell, Peripheral",C20.683.515.761.480.750.825
+Immune System Diseases.Immunoproliferative Disorders.Lymphoproliferative Disorders.Macrophage Activation Syndrome,C20.683.515.800
+Immune System Diseases.Immunoproliferative Disorders.Lymphoproliferative Disorders.Marek Disease,C20.683.515.840
+Immune System Diseases.Immunoproliferative Disorders.Lymphoproliferative Disorders.Multiple Myeloma,C20.683.515.845
+"Immune System Diseases.Immunoproliferative Disorders.Lymphoproliferative Disorders.Multiple Myeloma.Leukemia, Plasma Cell",C20.683.515.845.500
+Immune System Diseases.Immunoproliferative Disorders.Lymphoproliferative Disorders.Plasmacytoma,C20.683.515.880
+Immune System Diseases.Immunoproliferative Disorders.Lymphoproliferative Disorders.Sezary Syndrome,C20.683.515.920
+Immune System Diseases.Immunoproliferative Disorders.Lymphoproliferative Disorders.Tumor Lysis Syndrome,C20.683.515.950
+Immune System Diseases.Immunoproliferative Disorders.Paraproteinemias,C20.683.780
+Immune System Diseases.Immunoproliferative Disorders.Paraproteinemias.Cryoglobulinemia,C20.683.780.250
+Immune System Diseases.Immunoproliferative Disorders.Paraproteinemias.Heavy Chain Disease,C20.683.780.490
+Immune System Diseases.Immunoproliferative Disorders.Paraproteinemias.Heavy Chain Disease.Immunoproliferative Small Intestinal Disease,C20.683.780.490.512
+Immune System Diseases.Immunoproliferative Disorders.Paraproteinemias.Immunoglobulin Light-chain Amyloidosis,C20.683.780.565
+Immune System Diseases.Immunoproliferative Disorders.Paraproteinemias.Monoclonal Gammopathy of Undetermined Significance,C20.683.780.640
+Immune System Diseases.Immunoproliferative Disorders.Paraproteinemias.Monoclonal Gammopathy of Undetermined Significance.Schnitzler Syndrome,C20.683.780.640.700
+Immune System Diseases.Immunoproliferative Disorders.Paraproteinemias.Multiple Myeloma,C20.683.780.650
+Immune System Diseases.Immunoproliferative Disorders.Paraproteinemias.POEMS Syndrome,C20.683.780.750
+Immune System Diseases.Immunoproliferative Disorders.Paraproteinemias.Smoldering Multiple Myeloma,C20.683.780.838
+Immune System Diseases.Immunoproliferative Disorders.Paraproteinemias.Waldenstrom Macroglobulinemia,C20.683.780.925
+"Immune System Diseases.Purpura, Thrombocytopenic",C20.841
+"Immune System Diseases.Purpura, Thrombocytopenic.Purpura, Thrombocytopenic, Idiopathic",C20.841.600
+Immune System Diseases.Transfusion Reaction,C20.920
+Immune System Diseases.Transfusion Reaction.Transfusion-Related Acute Lung Injury,C20.920.500

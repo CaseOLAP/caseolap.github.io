@@ -1,0 +1,324 @@
+id,value
+Persons,M01
+Persons.Abortion Applicants,M01.050
+Persons.Adult Children,M01.055
+Persons.Age Groups,M01.060
+Persons.Age Groups.Adolescent,M01.060.057
+Persons.Age Groups.Adult,M01.060.116
+Persons.Age Groups.Adult.Aged,M01.060.116.100
+"Persons.Age Groups.Adult.Aged.Aged, 80 and over",M01.060.116.100.080
+Persons.Age Groups.Adult.Aged.Frail Elderly,M01.060.116.100.540
+Persons.Age Groups.Adult.Middle Aged,M01.060.116.630
+Persons.Age Groups.Adult.Young Adult,M01.060.116.815
+Persons.Age Groups.Child,M01.060.406
+"Persons.Age Groups.Child.Child, Preschool",M01.060.406.448
+Persons.Age Groups.Infant,M01.060.703
+"Persons.Age Groups.Infant.Infant, Newborn",M01.060.703.520
+"Persons.Age Groups.Infant.Infant, Newborn.Infant, Low Birth Weight",M01.060.703.520.460
+"Persons.Age Groups.Infant.Infant, Newborn.Infant, Low Birth Weight.Infant, Small for Gestational Age",M01.060.703.520.460.560
+"Persons.Age Groups.Infant.Infant, Newborn.Infant, Low Birth Weight.Infant, Very Low Birth Weight",M01.060.703.520.460.600
+"Persons.Age Groups.Infant.Infant, Newborn.Infant, Low Birth Weight.Infant, Very Low Birth Weight.Infant, Extremely Low Birth Weight",M01.060.703.520.460.600.500
+"Persons.Age Groups.Infant.Infant, Newborn.Infant, Postmature",M01.060.703.520.500
+"Persons.Age Groups.Infant.Infant, Newborn.Infant, Premature",M01.060.703.520.520
+"Persons.Age Groups.Infant.Infant, Newborn.Infant, Premature.Infant, Extremely Premature",M01.060.703.520.520.500
+Persons.Alcoholics,M01.066
+Persons.Athletes,M01.072
+Persons.Bedridden Persons,M01.079
+Persons.Caregivers,M01.085
+"Persons.Child, Abandoned",M01.097
+"Persons.Child, Adopted",M01.100
+"Persons.Child, Exceptional",M01.102
+"Persons.Child, Exceptional.Child, Gifted",M01.102.350
+Persons.Child of Impaired Parents,M01.106
+"Persons.Child, Foster",M01.107
+"Persons.Child, Orphaned",M01.108
+"Persons.Child, Unwanted",M01.111
+Persons.Consultants,M01.120
+Persons.Crime Victims,M01.135
+Persons.Crime Victims.Adult Survivors of Child Abuse,M01.135.500
+Persons.Criminals,M01.142
+Persons.Disabled Persons,M01.150
+Persons.Disabled Persons.Amputees,M01.150.100
+Persons.Disabled Persons.Disabled Children,M01.150.200
+Persons.Disabled Persons.Mentally Disabled Persons,M01.150.600
+Persons.Disabled Persons.Mentally Ill Persons,M01.150.725
+Persons.Disabled Persons.Persons With Hearing Impairments,M01.150.750
+Persons.Disabled Persons.Visually Impaired Persons,M01.150.850
+Persons.Disaster Victims,M01.159
+Persons.Drug Users,M01.169
+Persons.Emigrants and Immigrants,M01.189
+Persons.Emigrants and Immigrants.Undocumented Immigrants,M01.189.500
+Persons.Famous Persons,M01.228
+Persons.Friends,M01.252
+Persons.Grandparents,M01.264
+Persons.Homebound Persons,M01.276
+Persons.Homeless Persons,M01.325
+Persons.Homeless Persons.Homeless Youth,M01.325.400
+Persons.Jehovah's Witnesses,M01.352
+Persons.Legal Guardians,M01.380
+Persons.Legal Guardians.Proxy,M01.380.600
+Persons.Medically Uninsured,M01.385
+Persons.Men,M01.390
+"Persons.Men.Nurses, Male",M01.390.660
+Persons.Mentors,M01.395
+Persons.Minors,M01.416
+Persons.Missionaries,M01.427
+Persons.Multiple Birth Offspring,M01.438
+Persons.Multiple Birth Offspring.Quadruplets,M01.438.486
+Persons.Multiple Birth Offspring.Quintuplets,M01.438.587
+Persons.Multiple Birth Offspring.Triplets,M01.438.768
+Persons.Multiple Birth Offspring.Twins,M01.438.873
+"Persons.Multiple Birth Offspring.Twins.Twins, Dizygotic",M01.438.873.920
+"Persons.Multiple Birth Offspring.Twins.Twins, Monozygotic",M01.438.873.940
+Persons.Occupational Groups,M01.526
+Persons.Occupational Groups.Administrative Personnel,M01.526.070
+Persons.Occupational Groups.Administrative Personnel.Case Managers,M01.526.070.245
+Persons.Occupational Groups.Administrative Personnel.Health Facility Administrators,M01.526.070.490
+Persons.Occupational Groups.Administrative Personnel.Health Facility Administrators.Hospital Administrators,M01.526.070.490.490
+"Persons.Occupational Groups.Administrative Personnel.Health Facility Administrators.Hospital Administrators.Chief Executive Officers, Hospital",M01.526.070.490.490.100
+Persons.Occupational Groups.Administrative Personnel.Nurse Administrators,M01.526.070.670
+Persons.Occupational Groups.Administrative Personnel.Physician Executives,M01.526.070.700
+Persons.Occupational Groups.Administrative Personnel.Trustees,M01.526.070.940
+Persons.Occupational Groups.Astronauts,M01.526.173
+Persons.Occupational Groups.Counselors,M01.526.225
+Persons.Occupational Groups.Ethicists,M01.526.276
+Persons.Occupational Groups.Emergency Responders,M01.526.373
+Persons.Occupational Groups.Emergency Responders.Emergency Medical Technicians,M01.526.373.250
+Persons.Occupational Groups.Emergency Responders.Firefighters,M01.526.373.400
+Persons.Occupational Groups.Emergency Responders.Police,M01.526.373.750
+Persons.Occupational Groups.Farmers,M01.526.390
+Persons.Occupational Groups.Foreign Professional Personnel,M01.526.407
+Persons.Occupational Groups.Foreign Professional Personnel.Foreign Medical Graduates,M01.526.407.435
+"Persons.Occupational Groups.Foreign Professional Personnel.Nurses, International",M01.526.407.717
+Persons.Occupational Groups.Government Employees,M01.526.446
+Persons.Occupational Groups.Health Personnel,M01.526.485
+Persons.Occupational Groups.Health Personnel.Allied Health Personnel,M01.526.485.067
+Persons.Occupational Groups.Health Personnel.Allied Health Personnel.Animal Technicians,M01.526.485.067.040
+Persons.Occupational Groups.Health Personnel.Allied Health Personnel.Community Health Workers,M01.526.485.067.080
+Persons.Occupational Groups.Health Personnel.Allied Health Personnel.Dental Auxiliaries,M01.526.485.067.105
+Persons.Occupational Groups.Health Personnel.Allied Health Personnel.Dental Auxiliaries.Dental Assistants,M01.526.485.067.105.250
+Persons.Occupational Groups.Health Personnel.Allied Health Personnel.Dental Auxiliaries.Dental Hygienists,M01.526.485.067.105.376
+Persons.Occupational Groups.Health Personnel.Allied Health Personnel.Dental Auxiliaries.Dental Technicians,M01.526.485.067.105.503
+Persons.Occupational Groups.Health Personnel.Allied Health Personnel.Dental Auxiliaries.Denturists,M01.526.485.067.105.751
+Persons.Occupational Groups.Health Personnel.Allied Health Personnel.Emergency Medical Technicians,M01.526.485.067.150
+Persons.Occupational Groups.Health Personnel.Allied Health Personnel.Home Health Aides,M01.526.485.067.350
+Persons.Occupational Groups.Health Personnel.Allied Health Personnel.Licensed Practical Nurses,M01.526.485.067.450
+Persons.Occupational Groups.Health Personnel.Allied Health Personnel.Medical Record Administrators,M01.526.485.067.550
+Persons.Occupational Groups.Health Personnel.Allied Health Personnel.Medical Secretaries,M01.526.485.067.600
+Persons.Occupational Groups.Health Personnel.Allied Health Personnel.Medical Secretaries.Medical Receptionists,M01.526.485.067.600.630
+Persons.Occupational Groups.Health Personnel.Allied Health Personnel.Nurses' Aides,M01.526.485.067.652
+Persons.Occupational Groups.Health Personnel.Allied Health Personnel.Nurses' Aides.Psychiatric Aides,M01.526.485.067.652.628
+Persons.Occupational Groups.Health Personnel.Allied Health Personnel.Operating Room Technicians,M01.526.485.067.700
+Persons.Occupational Groups.Health Personnel.Allied Health Personnel.Pharmacy Technicians,M01.526.485.067.735
+Persons.Occupational Groups.Health Personnel.Allied Health Personnel.Physical Therapist Assistants,M01.526.485.067.738
+Persons.Occupational Groups.Health Personnel.Allied Health Personnel.Physician Assistants,M01.526.485.067.740
+Persons.Occupational Groups.Health Personnel.Allied Health Personnel.Physician Assistants.Ophthalmic Assistants,M01.526.485.067.740.690
+Persons.Occupational Groups.Health Personnel.Allied Health Personnel.Physician Assistants.Pediatric Assistants,M01.526.485.067.740.750
+Persons.Occupational Groups.Health Personnel.Anatomists,M01.526.485.133
+Persons.Occupational Groups.Health Personnel.Anesthetists,M01.526.485.140
+Persons.Occupational Groups.Health Personnel.Anesthetists.Anesthesiologists,M01.526.485.140.040
+Persons.Occupational Groups.Health Personnel.Anesthetists.Nurse Anesthetists,M01.526.485.140.650
+Persons.Occupational Groups.Health Personnel.Audiologists,M01.526.485.170
+Persons.Occupational Groups.Health Personnel.Caregivers,M01.526.485.200
+Persons.Occupational Groups.Health Personnel.Case Managers,M01.526.485.215
+Persons.Occupational Groups.Health Personnel.Coroners and Medical Examiners,M01.526.485.230
+Persons.Occupational Groups.Health Personnel.Dental Staff,M01.526.485.290
+"Persons.Occupational Groups.Health Personnel.Dental Staff.Dental Staff, Hospital",M01.526.485.290.490
+Persons.Occupational Groups.Health Personnel.Dentists,M01.526.485.330
+"Persons.Occupational Groups.Health Personnel.Dentists.Dentists, Women",M01.526.485.330.310
+Persons.Occupational Groups.Health Personnel.Dentists.Endodontists,M01.526.485.330.397
+Persons.Occupational Groups.Health Personnel.Dentists.Oral and Maxillofacial Surgeons,M01.526.485.330.483
+Persons.Occupational Groups.Health Personnel.Dentists.Orthodontists,M01.526.485.330.655
+Persons.Occupational Groups.Health Personnel.Doulas,M01.526.485.345
+Persons.Occupational Groups.Health Personnel.Emergency Medical Dispatcher,M01.526.485.349
+Persons.Occupational Groups.Health Personnel.Epidemiologists,M01.526.485.353
+"Persons.Occupational Groups.Health Personnel.Faculty, Dental",M01.526.485.360
+"Persons.Occupational Groups.Health Personnel.Faculty, Medical",M01.526.485.375
+"Persons.Occupational Groups.Health Personnel.Faculty, Nursing",M01.526.485.390
+Persons.Occupational Groups.Health Personnel.Health Educators,M01.526.485.410
+Persons.Occupational Groups.Health Personnel.Health Facility Administrators,M01.526.485.430
+Persons.Occupational Groups.Health Personnel.Health Facility Administrators.Hospital Administrators,M01.526.485.430.490
+"Persons.Occupational Groups.Health Personnel.Health Facility Administrators.Hospital Administrators.Chief Executive Officers, Hospital",M01.526.485.430.490.100
+Persons.Occupational Groups.Health Personnel.Infection Control Practitioners,M01.526.485.490
+Persons.Occupational Groups.Health Personnel.Medical Chaperones,M01.526.485.500
+Persons.Occupational Groups.Health Personnel.Medical Laboratory Personnel,M01.526.485.510
+Persons.Occupational Groups.Health Personnel.Medical Staff,M01.526.485.630
+"Persons.Occupational Groups.Health Personnel.Medical Staff.Medical Staff, Hospital",M01.526.485.630.490
+"Persons.Occupational Groups.Health Personnel.Medical Staff.Medical Staff, Hospital.Hospitalists",M01.526.485.630.490.400
+Persons.Occupational Groups.Health Personnel.Nurses,M01.526.485.650
+Persons.Occupational Groups.Health Personnel.Nurses.Nurse Administrators,M01.526.485.650.580
+Persons.Occupational Groups.Health Personnel.Nurses.Nurse Practitioners,M01.526.485.650.640
+Persons.Occupational Groups.Health Personnel.Nurses.Nurse Practitioners.Family Nurse Practitioners,M01.526.485.650.640.249
+Persons.Occupational Groups.Health Personnel.Nurses.Nurse Practitioners.Pediatric Nurse Practitioners,M01.526.485.650.640.500
+Persons.Occupational Groups.Health Personnel.Nurses.Nurse Specialists,M01.526.485.650.648
+Persons.Occupational Groups.Health Personnel.Nurses.Nurse Specialists.Nurse Anesthetists,M01.526.485.650.648.500
+Persons.Occupational Groups.Health Personnel.Nurses.Nurse Specialists.Nurse Clinicians,M01.526.485.650.648.525
+Persons.Occupational Groups.Health Personnel.Nurses.Nurse Specialists.Nurse Midwives,M01.526.485.650.648.762
+"Persons.Occupational Groups.Health Personnel.Nurses.Nurse Specialists.Nurses, Pediatric",M01.526.485.650.648.940
+"Persons.Occupational Groups.Health Personnel.Nurses.Nurse Specialists.Nurses, Pediatric.Nurses, Neonatal",M01.526.485.650.648.940.500
+"Persons.Occupational Groups.Health Personnel.Nurses.Nurses, Community Health",M01.526.485.650.655
+"Persons.Occupational Groups.Health Personnel.Nurses.Nurses, International",M01.526.485.650.662
+"Persons.Occupational Groups.Health Personnel.Nurses.Nurses, Male",M01.526.485.650.670
+"Persons.Occupational Groups.Health Personnel.Nurses.Nurses, Public Health",M01.526.485.650.835
+Persons.Occupational Groups.Health Personnel.Nursing Staff,M01.526.485.680
+"Persons.Occupational Groups.Health Personnel.Nursing Staff.Nursing Staff, Hospital",M01.526.485.680.490
+Persons.Occupational Groups.Health Personnel.Nutritionists,M01.526.485.695
+Persons.Occupational Groups.Health Personnel.Occupational Therapists,M01.526.485.710
+Persons.Occupational Groups.Health Personnel.Optometrists,M01.526.485.725
+"Persons.Occupational Groups.Health Personnel.Personnel, Hospital",M01.526.485.740
+"Persons.Occupational Groups.Health Personnel.Personnel, Hospital.Dental Staff, Hospital",M01.526.485.740.322
+"Persons.Occupational Groups.Health Personnel.Personnel, Hospital.Hospital Administrators",M01.526.485.740.380
+"Persons.Occupational Groups.Health Personnel.Personnel, Hospital.Hospital Administrators.Chief Executive Officers, Hospital",M01.526.485.740.380.100
+"Persons.Occupational Groups.Health Personnel.Personnel, Hospital.Hospital Volunteers",M01.526.485.740.400
+"Persons.Occupational Groups.Health Personnel.Personnel, Hospital.Medical Staff, Hospital",M01.526.485.740.422
+"Persons.Occupational Groups.Health Personnel.Personnel, Hospital.Medical Staff, Hospital.Hospitalists",M01.526.485.740.422.400
+"Persons.Occupational Groups.Health Personnel.Personnel, Hospital.Nursing Staff, Hospital",M01.526.485.740.523
+Persons.Occupational Groups.Health Personnel.Pharmacists,M01.526.485.780
+Persons.Occupational Groups.Health Personnel.Physical Therapists,M01.526.485.790
+Persons.Occupational Groups.Health Personnel.Physician Executives,M01.526.485.800
+Persons.Occupational Groups.Health Personnel.Physicians,M01.526.485.810
+Persons.Occupational Groups.Health Personnel.Physicians.Allergists,M01.526.485.810.020
+Persons.Occupational Groups.Health Personnel.Physicians.Anesthesiologists,M01.526.485.810.040
+Persons.Occupational Groups.Health Personnel.Physicians.Cardiologists,M01.526.485.810.128
+Persons.Occupational Groups.Health Personnel.Physicians.Dermatologists,M01.526.485.810.215
+Persons.Occupational Groups.Health Personnel.Physicians.Endocrinologists,M01.526.485.810.303
+Persons.Occupational Groups.Health Personnel.Physicians.Foreign Medical Graduates,M01.526.485.810.390
+Persons.Occupational Groups.Health Personnel.Physicians.Gastroenterologists,M01.526.485.810.438
+Persons.Occupational Groups.Health Personnel.Physicians.General Practitioners,M01.526.485.810.485
+Persons.Occupational Groups.Health Personnel.Physicians.Geriatricians,M01.526.485.810.533
+Persons.Occupational Groups.Health Personnel.Physicians.Hospitalists,M01.526.485.810.580
+Persons.Occupational Groups.Health Personnel.Physicians.Nephrologists,M01.526.485.810.628
+Persons.Occupational Groups.Health Personnel.Physicians.Neurologists,M01.526.485.810.652
+Persons.Occupational Groups.Health Personnel.Physicians.Occupational Health Physicians,M01.526.485.810.675
+Persons.Occupational Groups.Health Personnel.Physicians.Oncologists,M01.526.485.810.699
+Persons.Occupational Groups.Health Personnel.Physicians.Oncologists.Radiation Oncologists,M01.526.485.810.699.500
+Persons.Occupational Groups.Health Personnel.Physicians.Ophthalmologists,M01.526.485.810.705
+Persons.Occupational Groups.Health Personnel.Physicians.Osteopathic Physicians,M01.526.485.810.722
+Persons.Occupational Groups.Health Personnel.Physicians.Otolaryngologists,M01.526.485.810.734
+Persons.Occupational Groups.Health Personnel.Physicians.Pathologists,M01.526.485.810.746
+Persons.Occupational Groups.Health Personnel.Physicians.Pediatricians,M01.526.485.810.758
+Persons.Occupational Groups.Health Personnel.Physicians.Pediatricians.Neonatologists,M01.526.485.810.758.500
+Persons.Occupational Groups.Health Personnel.Physicians.Physiatrists,M01.526.485.810.764
+"Persons.Occupational Groups.Health Personnel.Physicians.Physicians, Family",M01.526.485.810.770
+"Persons.Occupational Groups.Health Personnel.Physicians.Physicians, Primary Care",M01.526.485.810.800
+"Persons.Occupational Groups.Health Personnel.Physicians.Physicians, Women",M01.526.485.810.820
+Persons.Occupational Groups.Health Personnel.Physicians.Pulmonologists,M01.526.485.810.865
+Persons.Occupational Groups.Health Personnel.Physicians.Radiologists,M01.526.485.810.877
+Persons.Occupational Groups.Health Personnel.Physicians.Radiologists.Radiation Oncologists,M01.526.485.810.877.500
+Persons.Occupational Groups.Health Personnel.Physicians.Rheumatologists,M01.526.485.810.888
+Persons.Occupational Groups.Health Personnel.Physicians.Surgeons,M01.526.485.810.910
+Persons.Occupational Groups.Health Personnel.Physicians.Surgeons.Barber Surgeons,M01.526.485.810.910.500
+Persons.Occupational Groups.Health Personnel.Physicians.Surgeons.Neurosurgeons,M01.526.485.810.910.750
+Persons.Occupational Groups.Health Personnel.Physicians.Surgeons.Orthopedic Surgeons,M01.526.485.810.910.875
+Persons.Occupational Groups.Health Personnel.Physicians.Urologists,M01.526.485.810.955
+Persons.Occupational Groups.Health Personnel.Veterinarians,M01.526.485.905
+Persons.Occupational Groups.Inventors,M01.526.493
+Persons.Occupational Groups.Laboratory Personnel,M01.526.502
+Persons.Occupational Groups.Laboratory Personnel.Medical Laboratory Personnel,M01.526.502.500
+Persons.Occupational Groups.Lawyers,M01.526.520
+Persons.Occupational Groups.Librarians,M01.526.555
+Persons.Occupational Groups.Military Personnel,M01.526.625
+Persons.Occupational Groups.Miners,M01.526.693
+Persons.Occupational Groups.Educational Personnel,M01.526.702
+Persons.Occupational Groups.Educational Personnel.Faculty,M01.526.702.250
+"Persons.Occupational Groups.Educational Personnel.Faculty.Faculty, Dental",M01.526.702.250.273
+"Persons.Occupational Groups.Educational Personnel.Faculty.Faculty, Medical",M01.526.702.250.373
+"Persons.Occupational Groups.Educational Personnel.Faculty.Faculty, Nursing",M01.526.702.250.473
+"Persons.Occupational Groups.Educational Personnel.Faculty.Faculty, Pharmacy",M01.526.702.250.736
+Persons.Occupational Groups.Educational Personnel.School Teachers,M01.526.702.500
+Persons.Occupational Groups.Pilots,M01.526.727
+Persons.Occupational Groups.Police,M01.526.760
+Persons.Occupational Groups.Religious Personnel,M01.526.799
+Persons.Occupational Groups.Religious Personnel.Clergy,M01.526.799.500
+Persons.Occupational Groups.Religious Personnel.Monks,M01.526.799.750
+Persons.Occupational Groups.Religious Personnel.Nuns,M01.526.799.875
+Persons.Occupational Groups.Research Personnel,M01.526.839
+Persons.Occupational Groups.Social Workers,M01.526.919
+Persons.Parents,M01.620
+Persons.Parents.Fathers,M01.620.390
+Persons.Parents.Mothers,M01.620.630
+Persons.Parents.Single Parent,M01.620.785
+Persons.Parents.Surrogate Mothers,M01.620.892
+Persons.Patients,M01.643
+"Persons.Patients.Adolescent, Hospitalized",M01.643.050
+"Persons.Patients.Adolescent, Institutionalized",M01.643.154
+"Persons.Patients.Child, Hospitalized",M01.643.259
+"Persons.Patients.Child, Institutionalized",M01.643.364
+Persons.Patients.Inpatients,M01.643.470
+Persons.Patients.No-Show Patients,M01.643.550
+Persons.Patients.Outpatients,M01.643.630
+Persons.Pedestrians,M01.665
+Persons.Population Groups,M01.686
+Persons.Population Groups.Continental Population Groups,M01.686.508
+Persons.Population Groups.Continental Population Groups.African Continental Ancestry Group,M01.686.508.100
+Persons.Population Groups.Continental Population Groups.African Continental Ancestry Group.African Americans,M01.686.508.100.100
+Persons.Population Groups.Continental Population Groups.American Native Continental Ancestry Group,M01.686.508.150
+Persons.Population Groups.Continental Population Groups.American Native Continental Ancestry Group.Alaska Natives,M01.686.508.150.288
+"Persons.Population Groups.Continental Population Groups.American Native Continental Ancestry Group.Indians, Central American",M01.686.508.150.575
+"Persons.Population Groups.Continental Population Groups.American Native Continental Ancestry Group.Indians, North American",M01.686.508.150.600
+"Persons.Population Groups.Continental Population Groups.American Native Continental Ancestry Group.Indians, South American",M01.686.508.150.625
+Persons.Population Groups.Continental Population Groups.American Native Continental Ancestry Group.Inuits,M01.686.508.150.675
+Persons.Population Groups.Continental Population Groups.Asian Continental Ancestry Group,M01.686.508.200
+Persons.Population Groups.Continental Population Groups.Asian Continental Ancestry Group.Asian Americans,M01.686.508.200.100
+Persons.Population Groups.Continental Population Groups.European Continental Ancestry Group,M01.686.508.400
+Persons.Population Groups.Continental Population Groups.Oceanic Ancestry Group,M01.686.508.600
+Persons.Population Groups.Ethnic Groups,M01.686.754
+Persons.Population Groups.Ethnic Groups.African Americans,M01.686.754.100
+Persons.Population Groups.Ethnic Groups.Amish,M01.686.754.133
+Persons.Population Groups.Ethnic Groups.Arabs,M01.686.754.167
+Persons.Population Groups.Ethnic Groups.Asian Americans,M01.686.754.225
+Persons.Population Groups.Ethnic Groups.Roma,M01.686.754.283
+Persons.Population Groups.Ethnic Groups.Hispanic Americans,M01.686.754.441
+Persons.Population Groups.Ethnic Groups.Hispanic Americans.Mexican Americans,M01.686.754.441.500
+Persons.Population Groups.Ethnic Groups.Inuits,M01.686.754.520
+Persons.Population Groups.Ethnic Groups.Jews,M01.686.754.600
+Persons.Prisoners,M01.729
+Persons.Prisoners.Prisoners of War,M01.729.500
+Persons.Refugees,M01.755
+Persons.Research Subjects,M01.774
+Persons.Research Subjects.Healthy Volunteers,M01.774.500
+Persons.Sex Workers,M01.776
+Persons.Sexual and Gender Minorities,M01.777
+Persons.Sexual and Gender Minorities.Transgender Persons,M01.777.500
+Persons.Sexual Partners,M01.778
+Persons.Siblings,M01.781
+Persons.Single Person,M01.785
+Persons.Slaves,M01.800
+Persons.Smokers,M01.808
+Persons.Spouses,M01.816
+Persons.Students,M01.848
+Persons.Students.Student Dropouts,M01.848.602
+"Persons.Students.Students, Health Occupations",M01.848.769
+"Persons.Students.Students, Health Occupations.Students, Dental",M01.848.769.519
+"Persons.Students.Students, Health Occupations.Students, Medical",M01.848.769.602
+"Persons.Students.Students, Health Occupations.Students, Nursing",M01.848.769.685
+"Persons.Students.Students, Health Occupations.Students, Pharmacy",M01.848.769.768
+"Persons.Students.Students, Health Occupations.Students, Premedical",M01.848.769.851
+"Persons.Students.Students, Health Occupations.Students, Public Health",M01.848.769.925
+Persons.Survivors,M01.860
+Persons.Survivors.Adult Survivors of Child Adverse Events,M01.860.300
+Persons.Survivors.Adult Survivors of Child Adverse Events.Adult Survivors of Child Abuse,M01.860.300.500
+Persons.Survivors.Cancer Survivors,M01.860.350
+Persons.Survivors.HIV Long-Term Survivors,M01.860.400
+Persons.Terminally Ill,M01.873
+Persons.Tissue Donors,M01.898
+Persons.Tissue Donors.Blood Donors,M01.898.313
+Persons.Tissue Donors.Living Donors,M01.898.656
+Persons.Tissue Donors.Unrelated Donors,M01.898.828
+Persons.Transients and Migrants,M01.920
+Persons.Transplant Recipients,M01.925
+Persons.Vegetarians,M01.928
+Persons.Vegetarians.Vegans,M01.928.500
+Persons.Veterans,M01.930
+Persons.Visitors to Patients,M01.935
+Persons.Volunteers,M01.955
+Persons.Volunteers.Healthy Volunteers,M01.955.236
+Persons.Volunteers.Hospital Volunteers,M01.955.473
+Persons.Vulnerable Populations,M01.965
+Persons.Women,M01.975
+Persons.Women.Battered Women,M01.975.155
+"Persons.Women.Dentists, Women",M01.975.310
+"Persons.Women.Physicians, Women",M01.975.790
+Persons.Women.Pregnant Women,M01.975.807
+"Persons.Women.Women, Working",M01.975.825
+Persons.Working Poor,M01.987

@@ -1,0 +1,1584 @@
+id,value
+Investigative Techniques,E05
+Investigative Techniques.Accelerometry,E05.003
+Investigative Techniques.Accelerometry.Actigraphy,E05.003.500
+Investigative Techniques.Airway Extubation,E05.008
+Investigative Techniques.Animal Experimentation,E05.017
+Investigative Techniques.Animal Experimentation.Animal Use Alternatives,E05.017.080
+Investigative Techniques.Animal Experimentation.Animal Use Alternatives.Animal Testing Alternatives,E05.017.080.100
+Investigative Techniques.Animal Experimentation.Rotarod Performance Test,E05.017.449
+Investigative Techniques.Animal Experimentation.Vivisection,E05.017.900
+Investigative Techniques.Animal Identification Systems,E05.035
+Investigative Techniques.Anthropometry,E05.041
+Investigative Techniques.Anthropometry.Body Weights and Measures,E05.041.124
+Investigative Techniques.Anthropometry.Body Weights and Measures.Body Mass Index,E05.041.124.125
+Investigative Techniques.Anthropometry.Body Weights and Measures.Body Size,E05.041.124.160
+Investigative Techniques.Anthropometry.Body Weights and Measures.Body Size.Body Height,E05.041.124.160.500
+Investigative Techniques.Anthropometry.Body Weights and Measures.Body Size.Body Height.Crown-Rump Length,E05.041.124.160.500.500
+Investigative Techniques.Anthropometry.Body Weights and Measures.Body Size.Body Weight,E05.041.124.160.750
+Investigative Techniques.Anthropometry.Body Weights and Measures.Body Size.Body Weight.Birth Weight,E05.041.124.160.750.149
+Investigative Techniques.Anthropometry.Body Weights and Measures.Body Size.Body Weight.Fetal Weight,E05.041.124.160.750.300
+Investigative Techniques.Anthropometry.Body Weights and Measures.Body Size.Body Weight.Ideal Body Weight,E05.041.124.160.750.650
+Investigative Techniques.Anthropometry.Body Weights and Measures.Body Size.Sagittal Abdominal Diameter,E05.041.124.160.812
+Investigative Techniques.Anthropometry.Body Weights and Measures.Body Size.Waist Circumference,E05.041.124.160.875
+Investigative Techniques.Anthropometry.Body Weights and Measures.Body Size.Waist Circumference.Lipid Accumulation Product,E05.041.124.160.875.500
+Investigative Techniques.Anthropometry.Body Weights and Measures.Body Size.Waist-Height Ratio,E05.041.124.160.937
+Investigative Techniques.Anthropometry.Body Weights and Measures.Body Surface Area,E05.041.124.231
+Investigative Techniques.Anthropometry.Body Weights and Measures.Organ Size,E05.041.124.715
+Investigative Techniques.Anthropometry.Body Weights and Measures.Skinfold Thickness,E05.041.124.803
+Investigative Techniques.Anthropometry.Body Weights and Measures.Tumor Burden,E05.041.124.892
+Investigative Techniques.Anthropometry.Body Weights and Measures.Waist-Hip Ratio,E05.041.124.946
+Investigative Techniques.Anthropometry.Cephalometry,E05.041.250
+Investigative Techniques.Anthropometry.Odontometry,E05.041.650
+Investigative Techniques.Anthropometry.Odontometry.Age Determination by Teeth,E05.041.650.500
+Investigative Techniques.Anthropometry.Pelvimetry,E05.041.690
+Investigative Techniques.Artifacts,E05.047
+Investigative Techniques.Autoanalysis,E05.059
+"Investigative Techniques.Automation, Laboratory",E05.064
+Investigative Techniques.Autopsy,E05.070
+Investigative Techniques.Biological Assay,E05.091
+Investigative Techniques.Biological Assay.Limulus Test,E05.091.570
+Investigative Techniques.Biomedical Enhancement,E05.104
+Investigative Techniques.Biomedical Enhancement.Genetic Enhancement,E05.104.500
+Investigative Techniques.Bioprinting,E05.111
+Investigative Techniques.Bioprospecting,E05.114
+Investigative Techniques.Bone Demineralization Technique,E05.118
+Investigative Techniques.Catheterization,E05.157
+Investigative Techniques.Catheterization.Angioplasty,E05.157.016
+"Investigative Techniques.Catheterization.Angioplasty.Angioplasty, Balloon",E05.157.016.060
+"Investigative Techniques.Catheterization.Angioplasty.Angioplasty, Balloon.Angioplasty, Balloon, Coronary",E05.157.016.060.100
+"Investigative Techniques.Catheterization.Angioplasty.Angioplasty, Balloon.Angioplasty, Balloon, Laser-Assisted",E05.157.016.060.105
+"Investigative Techniques.Catheterization.Angioplasty.Angioplasty, Laser",E05.157.016.075
+"Investigative Techniques.Catheterization.Angioplasty.Angioplasty, Laser.Angioplasty, Balloon, Laser-Assisted",E05.157.016.075.080
+Investigative Techniques.Catheterization.Angioplasty.Atherectomy,E05.157.016.120
+"Investigative Techniques.Catheterization.Angioplasty.Atherectomy.Atherectomy, Coronary",E05.157.016.120.125
+Investigative Techniques.Catheterization.Balloon Embolectomy,E05.157.032
+Investigative Techniques.Catheterization.Balloon Occlusion,E05.157.063
+Investigative Techniques.Catheterization.Balloon Occlusion.Uterine Balloon Tamponade,E05.157.063.500
+Investigative Techniques.Catheterization.Balloon Valvuloplasty,E05.157.125
+Investigative Techniques.Catheterization.Cardiac Catheterization,E05.157.250
+"Investigative Techniques.Catheterization.Cardiac Catheterization.Catheterization, Swan-Ganz",E05.157.250.165
+"Investigative Techniques.Catheterization.Catheterization, Central Venous",E05.157.313
+"Investigative Techniques.Catheterization.Catheterization, Peripheral",E05.157.375
+"Investigative Techniques.Catheterization.Catheterization, Peripheral.Catheterization, Swan-Ganz",E05.157.375.165
+Investigative Techniques.Catheterization.Urinary Catheterization,E05.157.500
+Investigative Techniques.Catheterization.Urinary Catheterization.Intermittent Urethral Catheterization,E05.157.500.500
+Investigative Techniques.Cementation,E05.170
+Investigative Techniques.Centrifugation,E05.181
+Investigative Techniques.Centrifugation.Ultracentrifugation,E05.181.724
+"Investigative Techniques.Centrifugation.Ultracentrifugation.Centrifugation, Density Gradient",E05.181.724.336
+"Investigative Techniques.Centrifugation.Ultracentrifugation.Centrifugation, Density Gradient.Centrifugation, Isopycnic",E05.181.724.336.253
+"Investigative Techniques.Centrifugation.Ultracentrifugation.Centrifugation, Density Gradient.Centrifugation, Zonal",E05.181.724.336.336
+"Investigative Techniques.Chemistry Techniques, Analytical",E05.196
+"Investigative Techniques.Chemistry Techniques, Analytical.Activation Analysis",E05.196.039
+"Investigative Techniques.Chemistry Techniques, Analytical.Activation Analysis.Neutron Activation Analysis",E05.196.039.564
+"Investigative Techniques.Chemistry Techniques, Analytical.Analytic Sample Preparation Methods",E05.196.059
+"Investigative Techniques.Chemistry Techniques, Analytical.Binding, Competitive",E05.196.080
+"Investigative Techniques.Chemistry Techniques, Analytical.Biuret Reaction",E05.196.085
+"Investigative Techniques.Chemistry Techniques, Analytical.Calorimetry",E05.196.131
+"Investigative Techniques.Chemistry Techniques, Analytical.Calorimetry.Calorimetry, Differential Scanning",E05.196.131.310
+"Investigative Techniques.Chemistry Techniques, Analytical.Calorimetry.Calorimetry, Indirect",E05.196.131.655
+"Investigative Techniques.Chemistry Techniques, Analytical.Chemical Precipitation",E05.196.150
+"Investigative Techniques.Chemistry Techniques, Analytical.Chemical Precipitation.Flocculation",E05.196.150.347
+"Investigative Techniques.Chemistry Techniques, Analytical.Chemical Precipitation.Flocculation.Flocculation Tests",E05.196.150.347.500
+"Investigative Techniques.Chemistry Techniques, Analytical.Chemical Precipitation.Fractional Precipitation",E05.196.150.519
+"Investigative Techniques.Chemistry Techniques, Analytical.Chemical Precipitation.Immunoprecipitation",E05.196.150.639
+"Investigative Techniques.Chemistry Techniques, Analytical.Chemical Precipitation.Immunoprecipitation.Precipitin Tests",E05.196.150.639.500
+"Investigative Techniques.Chemistry Techniques, Analytical.Chemical Fractionation",E05.196.155
+"Investigative Techniques.Chemistry Techniques, Analytical.Chemical Fractionation.Distillation",E05.196.155.249
+"Investigative Techniques.Chemistry Techniques, Analytical.Chemical Fractionation.Fractionation, Field Flow",E05.196.155.500
+"Investigative Techniques.Chemistry Techniques, Analytical.Chemical Fractionation.Liquid-Liquid Extraction",E05.196.155.650
+"Investigative Techniques.Chemistry Techniques, Analytical.Chemical Fractionation.Liquid-Liquid Extraction.Liquid Phase Microextraction",E05.196.155.650.500
+"Investigative Techniques.Chemistry Techniques, Analytical.Chemical Fractionation.Solid Phase Extraction",E05.196.155.800
+"Investigative Techniques.Chemistry Techniques, Analytical.Chemical Fractionation.Solid Phase Extraction.Solid Phase Microextraction",E05.196.155.800.500
+"Investigative Techniques.Chemistry Techniques, Analytical.Chromatography",E05.196.181
+"Investigative Techniques.Chemistry Techniques, Analytical.Chromatography.Chromatography, Gas",E05.196.181.349
+"Investigative Techniques.Chemistry Techniques, Analytical.Chromatography.Chromatography, Gas.Flame Ionization",E05.196.181.349.390
+"Investigative Techniques.Chemistry Techniques, Analytical.Chromatography.Chromatography, Gas.Gas Chromatography-Mass Spectrometry",E05.196.181.349.500
+"Investigative Techniques.Chemistry Techniques, Analytical.Chromatography.Chromatography, Liquid",E05.196.181.400
+"Investigative Techniques.Chemistry Techniques, Analytical.Chromatography.Chromatography, Liquid.Capillary Electrochromatography",E05.196.181.400.150
+"Investigative Techniques.Chemistry Techniques, Analytical.Chromatography.Chromatography, Liquid.Chromatography, Affinity",E05.196.181.400.170
+"Investigative Techniques.Chemistry Techniques, Analytical.Chromatography.Chromatography, Liquid.Chromatography, Affinity.Immunochromatography",E05.196.181.400.170.500
+"Investigative Techniques.Chemistry Techniques, Analytical.Chromatography.Chromatography, Liquid.Chromatography, Gel",E05.196.181.400.250
+"Investigative Techniques.Chemistry Techniques, Analytical.Chromatography.Chromatography, Liquid.Chromatography, Gel.Chromatography, Agarose",E05.196.181.400.250.200
+"Investigative Techniques.Chemistry Techniques, Analytical.Chromatography.Chromatography, Liquid.Chromatography, High Pressure Liquid",E05.196.181.400.300
+"Investigative Techniques.Chemistry Techniques, Analytical.Chromatography.Chromatography, Liquid.Chromatography, Ion Exchange",E05.196.181.400.383
+"Investigative Techniques.Chemistry Techniques, Analytical.Chromatography.Chromatography, Liquid.Chromatography, Ion Exchange.Chromatography, DEAE-Cellulose",E05.196.181.400.383.349
+"Investigative Techniques.Chemistry Techniques, Analytical.Chromatography.Chromatography, Liquid.Chromatography, Paper",E05.196.181.400.454
+"Investigative Techniques.Chemistry Techniques, Analytical.Chromatography.Chromatography, Liquid.Chromatography, Paper.Nucleotide Mapping",E05.196.181.400.454.655
+"Investigative Techniques.Chemistry Techniques, Analytical.Chromatography.Chromatography, Liquid.Chromatography, Paper.Peptide Mapping",E05.196.181.400.454.720
+"Investigative Techniques.Chemistry Techniques, Analytical.Chromatography.Chromatography, Liquid.Chromatography, Reverse-Phase",E05.196.181.400.495
+"Investigative Techniques.Chemistry Techniques, Analytical.Chromatography.Chromatography, Liquid.Chromatography, Thin Layer",E05.196.181.400.537
+"Investigative Techniques.Chemistry Techniques, Analytical.Chromatography.Chromatography, Liquid.Countercurrent Distribution",E05.196.181.400.555
+"Investigative Techniques.Chemistry Techniques, Analytical.Chromatography.Chromatography, Micellar Electrokinetic Capillary",E05.196.181.500
+"Investigative Techniques.Chemistry Techniques, Analytical.Chromatography.Chromatography, Supercritical Fluid",E05.196.181.750
+"Investigative Techniques.Chemistry Techniques, Analytical.Countercurrent Distribution",E05.196.278
+"Investigative Techniques.Chemistry Techniques, Analytical.Crystallization",E05.196.300
+"Investigative Techniques.Chemistry Techniques, Analytical.Crystallography",E05.196.309
+"Investigative Techniques.Chemistry Techniques, Analytical.Crystallography.Neutron Diffraction",E05.196.309.555
+"Investigative Techniques.Chemistry Techniques, Analytical.Crystallography.Powder Diffraction",E05.196.309.711
+"Investigative Techniques.Chemistry Techniques, Analytical.Crystallography.X-Ray Diffraction",E05.196.309.742
+"Investigative Techniques.Chemistry Techniques, Analytical.Crystallography.X-Ray Diffraction.Crystallography, X-Ray",E05.196.309.742.225
+"Investigative Techniques.Chemistry Techniques, Analytical.Desiccation",E05.196.335
+"Investigative Techniques.Chemistry Techniques, Analytical.Deuterium Exchange Measurement",E05.196.344
+"Investigative Techniques.Chemistry Techniques, Analytical.Dialysis",E05.196.353
+"Investigative Techniques.Chemistry Techniques, Analytical.Dialysis.Microdialysis",E05.196.353.500
+"Investigative Techniques.Chemistry Techniques, Analytical.Differential Thermal Analysis",E05.196.370
+"Investigative Techniques.Chemistry Techniques, Analytical.Differential Thermal Analysis.Calorimetry, Differential Scanning",E05.196.370.310
+"Investigative Techniques.Chemistry Techniques, Analytical.Electroosmosis",E05.196.385
+"Investigative Techniques.Chemistry Techniques, Analytical.Electrophoresis",E05.196.401
+"Investigative Techniques.Chemistry Techniques, Analytical.Electrophoresis.Blood Protein Electrophoresis",E05.196.401.076
+"Investigative Techniques.Chemistry Techniques, Analytical.Electrophoresis.Blotting, Northern",E05.196.401.095
+"Investigative Techniques.Chemistry Techniques, Analytical.Electrophoresis.Blotting, Southern",E05.196.401.114
+"Investigative Techniques.Chemistry Techniques, Analytical.Electrophoresis.Blotting, Southwestern",E05.196.401.133
+"Investigative Techniques.Chemistry Techniques, Analytical.Electrophoresis.Blotting, Western",E05.196.401.143
+"Investigative Techniques.Chemistry Techniques, Analytical.Electrophoresis.Blotting, Western.Blotting, Far-Western",E05.196.401.143.500
+"Investigative Techniques.Chemistry Techniques, Analytical.Electrophoresis.Electrophoresis, Agar Gel",E05.196.401.153
+"Investigative Techniques.Chemistry Techniques, Analytical.Electrophoresis.Electrophoresis, Agar Gel.Comet Assay",E05.196.401.153.150
+"Investigative Techniques.Chemistry Techniques, Analytical.Electrophoresis.Electrophoresis, Capillary",E05.196.401.190
+"Investigative Techniques.Chemistry Techniques, Analytical.Electrophoresis.Electrophoresis, Capillary.Capillary Electrochromatography",E05.196.401.190.249
+"Investigative Techniques.Chemistry Techniques, Analytical.Electrophoresis.Electrophoresis, Capillary.Electrophoresis, Microchip",E05.196.401.190.500
+"Investigative Techniques.Chemistry Techniques, Analytical.Electrophoresis.Electrophoresis, Cellulose Acetate",E05.196.401.200
+"Investigative Techniques.Chemistry Techniques, Analytical.Electrophoresis.Electrophoresis, Gel, Pulsed-Field",E05.196.401.220
+"Investigative Techniques.Chemistry Techniques, Analytical.Electrophoresis.Electrophoresis, Gel, Two-Dimensional",E05.196.401.250
+"Investigative Techniques.Chemistry Techniques, Analytical.Electrophoresis.Electrophoresis, Gel, Two-Dimensional.Two-Dimensional Difference Gel Electrophoresis",E05.196.401.250.500
+"Investigative Techniques.Chemistry Techniques, Analytical.Electrophoresis.Electrophoresis, Paper",E05.196.401.319
+"Investigative Techniques.Chemistry Techniques, Analytical.Electrophoresis.Electrophoresis, Paper.Nucleotide Mapping",E05.196.401.319.670
+"Investigative Techniques.Chemistry Techniques, Analytical.Electrophoresis.Electrophoresis, Paper.Peptide Mapping",E05.196.401.319.720
+"Investigative Techniques.Chemistry Techniques, Analytical.Electrophoresis.Electrophoresis, Polyacrylamide Gel",E05.196.401.402
+"Investigative Techniques.Chemistry Techniques, Analytical.Electrophoresis.Electrophoresis, Polyacrylamide Gel.Denaturing Gradient Gel Electrophoresis",E05.196.401.402.117
+"Investigative Techniques.Chemistry Techniques, Analytical.Electrophoresis.Electrophoresis, Polyacrylamide Gel.Electrophoresis, Disc",E05.196.401.402.236
+"Investigative Techniques.Chemistry Techniques, Analytical.Electrophoresis.Electrophoresis, Polyacrylamide Gel.Native Polyacrylamide Gel Electrophoresis",E05.196.401.402.625
+"Investigative Techniques.Chemistry Techniques, Analytical.Electrophoresis.Electrophoresis, Starch Gel",E05.196.401.485
+"Investigative Techniques.Chemistry Techniques, Analytical.Electrophoresis.Electrophoretic Mobility Shift Assay",E05.196.401.500
+"Investigative Techniques.Chemistry Techniques, Analytical.Electrophoresis.Immunoelectrophoresis",E05.196.401.568
+"Investigative Techniques.Chemistry Techniques, Analytical.Electrophoresis.Immunoelectrophoresis.Counterimmunoelectrophoresis",E05.196.401.568.250
+"Investigative Techniques.Chemistry Techniques, Analytical.Electrophoresis.Immunoelectrophoresis.Immunoelectrophoresis, Two-Dimensional",E05.196.401.568.520
+"Investigative Techniques.Chemistry Techniques, Analytical.Electrophoresis.Isoelectric Focusing",E05.196.401.663
+"Investigative Techniques.Chemistry Techniques, Analytical.Electrophoresis.Isotachophoresis",E05.196.401.831
+"Investigative Techniques.Chemistry Techniques, Analytical.Enzyme Assays",E05.196.427
+"Investigative Techniques.Chemistry Techniques, Analytical.Enzyme Assays.Clinical Enzyme Tests",E05.196.427.200
+"Investigative Techniques.Chemistry Techniques, Analytical.Filtration",E05.196.454
+"Investigative Techniques.Chemistry Techniques, Analytical.Filtration.Air Filters",E05.196.454.201
+"Investigative Techniques.Chemistry Techniques, Analytical.Filtration.Micropore Filters",E05.196.454.403
+"Investigative Techniques.Chemistry Techniques, Analytical.Filtration.Ultrafiltration",E05.196.454.807
+"Investigative Techniques.Chemistry Techniques, Analytical.Flow Injection Analysis",E05.196.460
+"Investigative Techniques.Chemistry Techniques, Analytical.Glucose Clamp Technique",E05.196.500
+"Investigative Techniques.Chemistry Techniques, Analytical.Mass Spectrometry",E05.196.566
+"Investigative Techniques.Chemistry Techniques, Analytical.Mass Spectrometry.Gas Chromatography-Mass Spectrometry",E05.196.566.500
+"Investigative Techniques.Chemistry Techniques, Analytical.Mass Spectrometry.Spectrometry, Mass, Electrospray Ionization",E05.196.566.600
+"Investigative Techniques.Chemistry Techniques, Analytical.Mass Spectrometry.Spectrometry, Mass, Fast Atom Bombardment",E05.196.566.750
+"Investigative Techniques.Chemistry Techniques, Analytical.Mass Spectrometry.Spectrometry, Mass, Matrix-Assisted Laser Desorption-Ionization",E05.196.566.755
+"Investigative Techniques.Chemistry Techniques, Analytical.Mass Spectrometry.Spectrometry, Mass, Secondary Ion",E05.196.566.760
+"Investigative Techniques.Chemistry Techniques, Analytical.Mass Spectrometry.Tandem Mass Spectrometry",E05.196.566.880
+"Investigative Techniques.Chemistry Techniques, Analytical.Microchemistry",E05.196.620
+"Investigative Techniques.Chemistry Techniques, Analytical.Molecular Imprinting",E05.196.655
+"Investigative Techniques.Chemistry Techniques, Analytical.Nucleotide Mapping",E05.196.680
+"Investigative Techniques.Chemistry Techniques, Analytical.Osmometry",E05.196.690
+"Investigative Techniques.Chemistry Techniques, Analytical.Peptide Mapping",E05.196.700
+"Investigative Techniques.Chemistry Techniques, Analytical.Peptide Mapping.Protein Footprinting",E05.196.700.690
+"Investigative Techniques.Chemistry Techniques, Analytical.Photometry",E05.196.712
+"Investigative Techniques.Chemistry Techniques, Analytical.Photometry.Densitometry",E05.196.712.224
+"Investigative Techniques.Chemistry Techniques, Analytical.Photometry.Densitometry.Absorptiometry, Photon",E05.196.712.224.187
+"Investigative Techniques.Chemistry Techniques, Analytical.Photometry.Luminescent Measurements",E05.196.712.516
+"Investigative Techniques.Chemistry Techniques, Analytical.Photometry.Luminescent Measurements.Bioluminescence Resonance Energy Transfer Techniques",E05.196.712.516.099
+"Investigative Techniques.Chemistry Techniques, Analytical.Photometry.Luminescent Measurements.Fluorometry",E05.196.712.516.600
+"Investigative Techniques.Chemistry Techniques, Analytical.Photometry.Luminescent Measurements.Fluorometry.Cytophotometry",E05.196.712.516.600.240
+"Investigative Techniques.Chemistry Techniques, Analytical.Photometry.Luminescent Measurements.Fluorometry.Cytophotometry.Flow Cytometry",E05.196.712.516.600.240.350
+"Investigative Techniques.Chemistry Techniques, Analytical.Photometry.Luminescent Measurements.Fluorometry.Cytophotometry.Image Cytometry",E05.196.712.516.600.240.400
+"Investigative Techniques.Chemistry Techniques, Analytical.Photometry.Luminescent Measurements.Fluorometry.Cytophotometry.Image Cytometry.Laser Scanning Cytometry",E05.196.712.516.600.240.400.500
+"Investigative Techniques.Chemistry Techniques, Analytical.Photometry.Luminescent Measurements.Fluorometry.Fluorescence Polarization",E05.196.712.516.600.390
+"Investigative Techniques.Chemistry Techniques, Analytical.Photometry.Luminescent Measurements.Fluorometry.Fluorescence Polarization.Fluorescence Polarization Immunoassay",E05.196.712.516.600.390.350
+"Investigative Techniques.Chemistry Techniques, Analytical.Photometry.Luminescent Measurements.Fluorometry.Fluorescence Recovery After Photobleaching",E05.196.712.516.600.393
+"Investigative Techniques.Chemistry Techniques, Analytical.Photometry.Luminescent Measurements.Fluorometry.Fluorophotometry",E05.196.712.516.600.410
+"Investigative Techniques.Chemistry Techniques, Analytical.Photometry.Luminescent Measurements.Fluorometry.Spectrometry, Fluorescence",E05.196.712.516.600.676
+"Investigative Techniques.Chemistry Techniques, Analytical.Photometry.Luminescent Measurements.Fluorometry.Spectrometry, Fluorescence.Fluorescence Resonance Energy Transfer",E05.196.712.516.600.676.500
+"Investigative Techniques.Chemistry Techniques, Analytical.Photometry.Nephelometry and Turbidimetry",E05.196.712.650
+"Investigative Techniques.Chemistry Techniques, Analytical.Photometry.Nephelometry and Turbidimetry.Immunoturbidimetry",E05.196.712.650.500
+"Investigative Techniques.Chemistry Techniques, Analytical.Photometry.Spectrophotometry",E05.196.712.726
+"Investigative Techniques.Chemistry Techniques, Analytical.Photometry.Spectrophotometry.Microspectrophotometry",E05.196.712.726.300
+"Investigative Techniques.Chemistry Techniques, Analytical.Photometry.Spectrophotometry.Spectrophotometry, Atomic",E05.196.712.726.551
+"Investigative Techniques.Chemistry Techniques, Analytical.Photometry.Spectrophotometry.Spectrophotometry, Infrared",E05.196.712.726.676
+"Investigative Techniques.Chemistry Techniques, Analytical.Photometry.Spectrophotometry.Spectrophotometry, Infrared.Spectroscopy, Fourier Transform Infrared",E05.196.712.726.676.700
+"Investigative Techniques.Chemistry Techniques, Analytical.Photometry.Spectrophotometry.Spectrophotometry, Ultraviolet",E05.196.712.726.802
+"Investigative Techniques.Chemistry Techniques, Analytical.Polarography",E05.196.749
+"Investigative Techniques.Chemistry Techniques, Analytical.Quartz Crystal Microbalance Techniques",E05.196.778
+"Investigative Techniques.Chemistry Techniques, Analytical.Refractometry",E05.196.808
+"Investigative Techniques.Chemistry Techniques, Analytical.Scattering, Radiation",E05.196.822
+"Investigative Techniques.Chemistry Techniques, Analytical.Scattering, Radiation.Dynamic Light Scattering",E05.196.822.325
+"Investigative Techniques.Chemistry Techniques, Analytical.Scattering, Radiation.Neutron Diffraction",E05.196.822.650
+"Investigative Techniques.Chemistry Techniques, Analytical.Scattering, Radiation.Scattering, Small Angle",E05.196.822.830
+"Investigative Techniques.Chemistry Techniques, Analytical.Scattering, Radiation.Spectrum Analysis, Raman",E05.196.822.860
+"Investigative Techniques.Chemistry Techniques, Analytical.Scattering, Radiation.X-Ray Diffraction",E05.196.822.950
+"Investigative Techniques.Chemistry Techniques, Analytical.Spectrum Analysis",E05.196.867
+"Investigative Techniques.Chemistry Techniques, Analytical.Spectrum Analysis.Circular Dichroism",E05.196.867.151
+"Investigative Techniques.Chemistry Techniques, Analytical.Spectrum Analysis.Dielectric Spectroscopy",E05.196.867.335
+"Investigative Techniques.Chemistry Techniques, Analytical.Spectrum Analysis.Ion Mobility Spectrometry",E05.196.867.427
+"Investigative Techniques.Chemistry Techniques, Analytical.Spectrum Analysis.Magnetic Resonance Spectroscopy",E05.196.867.519
+"Investigative Techniques.Chemistry Techniques, Analytical.Spectrum Analysis.Magnetic Resonance Spectroscopy.Carbon-13 Magnetic Resonance Spectroscopy",E05.196.867.519.136
+"Investigative Techniques.Chemistry Techniques, Analytical.Spectrum Analysis.Magnetic Resonance Spectroscopy.Electron Spin Resonance Spectroscopy",E05.196.867.519.274
+"Investigative Techniques.Chemistry Techniques, Analytical.Spectrum Analysis.Magnetic Resonance Spectroscopy.Nuclear Magnetic Resonance, Biomolecular",E05.196.867.519.550
+"Investigative Techniques.Chemistry Techniques, Analytical.Spectrum Analysis.Magnetic Resonance Spectroscopy.Proton Magnetic Resonance Spectroscopy",E05.196.867.519.775
+"Investigative Techniques.Chemistry Techniques, Analytical.Spectrum Analysis.Optical Rotatory Dispersion",E05.196.867.576
+"Investigative Techniques.Chemistry Techniques, Analytical.Spectrum Analysis.Photoelectron Spectroscopy",E05.196.867.618
+"Investigative Techniques.Chemistry Techniques, Analytical.Spectrum Analysis.Pulse Radiolysis",E05.196.867.660
+"Investigative Techniques.Chemistry Techniques, Analytical.Spectrum Analysis.Spectrometry, Fluorescence",E05.196.867.726
+"Investigative Techniques.Chemistry Techniques, Analytical.Spectrum Analysis.Spectrometry, Gamma",E05.196.867.776
+"Investigative Techniques.Chemistry Techniques, Analytical.Spectrum Analysis.Spectrometry, Gamma.Spectroscopy, Mossbauer",E05.196.867.776.751
+"Investigative Techniques.Chemistry Techniques, Analytical.Spectrum Analysis.Spectrometry, X-Ray Emission",E05.196.867.800
+"Investigative Techniques.Chemistry Techniques, Analytical.Spectrum Analysis.Spectrometry, X-Ray Emission.Electron Probe Microanalysis",E05.196.867.800.360
+"Investigative Techniques.Chemistry Techniques, Analytical.Spectrum Analysis.Spectrophotometry",E05.196.867.826
+"Investigative Techniques.Chemistry Techniques, Analytical.Spectrum Analysis.Spectrophotometry.Action Spectrum",E05.196.867.826.150
+"Investigative Techniques.Chemistry Techniques, Analytical.Spectrum Analysis.Spectrophotometry.Microspectrophotometry",E05.196.867.826.300
+"Investigative Techniques.Chemistry Techniques, Analytical.Spectrum Analysis.Spectrophotometry.Spectrophotometry, Atomic",E05.196.867.826.551
+"Investigative Techniques.Chemistry Techniques, Analytical.Spectrum Analysis.Spectrophotometry.Spectrophotometry, Infrared",E05.196.867.826.676
+"Investigative Techniques.Chemistry Techniques, Analytical.Spectrum Analysis.Spectrophotometry.Spectrophotometry, Infrared.Spectroscopy, Fourier Transform Infrared",E05.196.867.826.676.700
+"Investigative Techniques.Chemistry Techniques, Analytical.Spectrum Analysis.Spectrophotometry.Spectrophotometry, Ultraviolet",E05.196.867.826.802
+"Investigative Techniques.Chemistry Techniques, Analytical.Spectrum Analysis.Spectroscopy, Electron Energy-Loss",E05.196.867.838
+"Investigative Techniques.Chemistry Techniques, Analytical.Spectrum Analysis.Spectroscopy, Electron Energy-Loss.Microscopy, Energy-Filtering Transmission Electron",E05.196.867.838.500
+"Investigative Techniques.Chemistry Techniques, Analytical.Spectrum Analysis.Spectroscopy, Near-Infrared",E05.196.867.851
+"Investigative Techniques.Chemistry Techniques, Analytical.Spectrum Analysis.Spectrum Analysis, Raman",E05.196.867.890
+"Investigative Techniques.Chemistry Techniques, Analytical.Spectrum Analysis.Sun Protection Factor",E05.196.867.917
+"Investigative Techniques.Chemistry Techniques, Analytical.Spectrum Analysis.Terahertz Spectroscopy",E05.196.867.945
+"Investigative Techniques.Chemistry Techniques, Analytical.Spectrum Analysis.X-Ray Absorption Spectroscopy",E05.196.867.972
+"Investigative Techniques.Chemistry Techniques, Analytical.Spin Trapping",E05.196.885
+"Investigative Techniques.Chemistry Techniques, Analytical.Surface Plasmon Resonance",E05.196.890
+"Investigative Techniques.Chemistry Techniques, Analytical.Thermogravimetry",E05.196.904
+"Investigative Techniques.Chemistry Techniques, Analytical.Titrimetry",E05.196.922
+"Investigative Techniques.Chemistry Techniques, Analytical.Titrimetry.Colorimetry",E05.196.922.250
+"Investigative Techniques.Chemistry Techniques, Analytical.Titrimetry.Conductometry",E05.196.922.500
+"Investigative Techniques.Chemistry Techniques, Analytical.Titrimetry.Potentiometry",E05.196.922.750
+"Investigative Techniques.Chemistry Techniques, Analytical.Ultracentrifugation",E05.196.941
+"Investigative Techniques.Chemistry Techniques, Analytical.Ultracentrifugation.Centrifugation, Density Gradient",E05.196.941.336
+"Investigative Techniques.Chemistry Techniques, Analytical.Ultracentrifugation.Centrifugation, Density Gradient.Centrifugation, Isopycnic",E05.196.941.336.253
+"Investigative Techniques.Chemistry Techniques, Analytical.Ultracentrifugation.Centrifugation, Density Gradient.Centrifugation, Zonal",E05.196.941.336.419
+"Investigative Techniques.Chemistry Techniques, Synthetic",E05.197
+"Investigative Techniques.Chemistry Techniques, Synthetic.Click Chemistry",E05.197.124
+"Investigative Techniques.Chemistry Techniques, Synthetic.Combinatorial Chemistry Techniques",E05.197.312
+"Investigative Techniques.Chemistry Techniques, Synthetic.Combinatorial Chemistry Techniques.SELEX Aptamer Technique",E05.197.312.500
+"Investigative Techniques.Chemistry Techniques, Synthetic.Cycloaddition Reaction",E05.197.406
+"Investigative Techniques.Chemistry Techniques, Synthetic.Solid-Phase Synthesis Techniques",E05.197.500
+Investigative Techniques.Chromophore-Assisted Light Inactivation,E05.198
+Investigative Techniques.Clinical Laboratory Techniques,E05.200
+Investigative Techniques.Clinical Laboratory Techniques.Clinical Chemistry Tests,E05.200.124
+Investigative Techniques.Clinical Laboratory Techniques.Clinical Chemistry Tests.Blood Chemical Analysis,E05.200.124.100
+Investigative Techniques.Clinical Laboratory Techniques.Clinical Chemistry Tests.Blood Chemical Analysis.Blood Gas Analysis,E05.200.124.100.100
+Investigative Techniques.Clinical Laboratory Techniques.Clinical Chemistry Tests.Blood Chemical Analysis.Blood Gas Analysis.Oximetry,E05.200.124.100.100.600
+"Investigative Techniques.Clinical Laboratory Techniques.Clinical Chemistry Tests.Blood Chemical Analysis.Blood Gas Analysis.Oximetry.Blood Gas Monitoring, Transcutaneous",E05.200.124.100.100.600.100
+Investigative Techniques.Clinical Laboratory Techniques.Clinical Chemistry Tests.Blood Chemical Analysis.Blood Glucose Self-Monitoring,E05.200.124.100.105
+Investigative Techniques.Clinical Laboratory Techniques.Clinical Chemistry Tests.Blood Chemical Analysis.Blood Protein Electrophoresis,E05.200.124.100.110
+Investigative Techniques.Clinical Laboratory Techniques.Clinical Chemistry Tests.Blood Chemical Analysis.Blood Urea Nitrogen,E05.200.124.100.115
+Investigative Techniques.Clinical Laboratory Techniques.Clinical Chemistry Tests.Blood Chemical Analysis.Dried Blood Spot Testing,E05.200.124.100.232
+Investigative Techniques.Clinical Laboratory Techniques.Clinical Chemistry Tests.Blood Chemical Analysis.Glucose Clamp Technique,E05.200.124.100.350
+Investigative Techniques.Clinical Laboratory Techniques.Clinical Chemistry Tests.Blood Chemical Analysis.Glucose Tolerance Test,E05.200.124.100.355
+Investigative Techniques.Clinical Laboratory Techniques.Clinical Chemistry Tests.Blood Chemical Analysis.Lactose Tolerance Test,E05.200.124.100.450
+Investigative Techniques.Clinical Laboratory Techniques.Clinical Chemistry Tests.Blood Chemical Analysis.Petrosal Sinus Sampling,E05.200.124.100.600
+Investigative Techniques.Clinical Laboratory Techniques.Clinical Chemistry Tests.Clinical Enzyme Tests,E05.200.124.200
+Investigative Techniques.Clinical Laboratory Techniques.Clinical Chemistry Tests.Gastric Acidity Determination,E05.200.124.300
+Investigative Techniques.Clinical Laboratory Techniques.Clinical Chemistry Tests.Limulus Test,E05.200.124.470
+Investigative Techniques.Clinical Laboratory Techniques.Clinical Chemistry Tests.Urinalysis,E05.200.124.810
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques,E05.200.500
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Cell Count,E05.200.500.195
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Cell Count.Blood Cell Count,E05.200.500.195.107
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Cell Count.Blood Cell Count.Erythrocyte Count,E05.200.500.195.107.330
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Cell Count.Blood Cell Count.Erythrocyte Count.Reticulocyte Count,E05.200.500.195.107.330.725
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Cell Count.Blood Cell Count.Leukocyte Count,E05.200.500.195.107.595
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Cell Count.Blood Cell Count.Leukocyte Count.Lymphocyte Count,E05.200.500.195.107.595.500
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Cell Count.Blood Cell Count.Leukocyte Count.Lymphocyte Count.CD4 Lymphocyte Count,E05.200.500.195.107.595.500.150
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Cell Count.Blood Cell Count.Leukocyte Count.Lymphocyte Count.CD4 Lymphocyte Count.CD4-CD8 Ratio,E05.200.500.195.107.595.500.150.160
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Cell Count.Blood Cell Count.Platelet Count,E05.200.500.195.107.740
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Cell Count.Sperm Count,E05.200.500.195.870
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Cell Culture Techniques,E05.200.500.265
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Cell Culture Techniques.Primary Cell Culture,E05.200.500.265.500
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Cell Migration Assays,E05.200.500.335
+"Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Cell Migration Assays.Cell Migration Assays, Leukocyte",E05.200.500.335.500
+"Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Cell Migration Assays.Cell Migration Assays, Macrophage",E05.200.500.335.750
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Cell Migration Assays.Skin Window Technique,E05.200.500.335.875
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Cell Separation,E05.200.500.363
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Cell Separation.Cytapheresis,E05.200.500.363.171
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Cell Separation.Cytapheresis.Leukapheresis,E05.200.500.363.171.570
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Cell Separation.Cytapheresis.Plateletpheresis,E05.200.500.363.171.790
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Cell Separation.Flow Cytometry,E05.200.500.363.342
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Cell Separation.Immunomagnetic Separation,E05.200.500.363.441
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Cell Separation.Leukocyte Reduction Procedures,E05.200.500.363.835
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Cell Tracking,E05.200.500.373
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Cellular Reprogramming Techniques,E05.200.500.380
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Cellular Reprogramming Techniques.Mitochondrial Replacement Therapy,E05.200.500.380.250
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Cellular Reprogramming Techniques.Nuclear Transfer Techniques,E05.200.500.380.500
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Colony-Forming Units Assay,E05.200.500.383
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Colony-Forming Units Assay.Tumor Stem Cell Assay,E05.200.500.383.910
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Cytodiagnosis,E05.200.500.384
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Cytodiagnosis.Amniocentesis,E05.200.500.384.050
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Cytodiagnosis.Biopsy,E05.200.500.384.100
+"Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Cytodiagnosis.Biopsy.Biopsy, Needle",E05.200.500.384.100.119
+"Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Cytodiagnosis.Biopsy.Biopsy, Needle.Biopsy, Fine-Needle",E05.200.500.384.100.119.500
+"Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Cytodiagnosis.Biopsy.Biopsy, Needle.Biopsy, Fine-Needle.Endoscopic Ultrasound-Guided Fine Needle Aspiration",E05.200.500.384.100.119.500.500
+"Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Cytodiagnosis.Biopsy.Biopsy, Needle.Biopsy, Large-Core Needle",E05.200.500.384.100.119.750
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Cytodiagnosis.Biopsy.Chorionic Villi Sampling,E05.200.500.384.100.149
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Cytodiagnosis.Biopsy.Conization,E05.200.500.384.100.160
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Cytodiagnosis.Biopsy.Image-Guided Biopsy,E05.200.500.384.100.370
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Cytodiagnosis.Biopsy.Image-Guided Biopsy.Endoscopic Ultrasound-Guided Fine Needle Aspiration,E05.200.500.384.100.370.500
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Cytodiagnosis.Biopsy.Liquid Biopsy,E05.200.500.384.100.396
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Cytodiagnosis.Biopsy.Papanicolaou Test,E05.200.500.384.100.422
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Cytodiagnosis.Biopsy.Sentinel Lymph Node Biopsy,E05.200.500.384.100.580
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Cytodiagnosis.Biopsy.Vaginal Smears,E05.200.500.384.100.800
+"Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Cytodiagnosis.Cytopathogenic Effect, Viral",E05.200.500.384.235
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Cytodiagnosis.Karyometry,E05.200.500.384.467
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Cytogenetic Analysis,E05.200.500.385
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Cytogenetic Analysis.Chromosome Banding,E05.200.500.385.130
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Cytogenetic Analysis.Karyotyping,E05.200.500.385.315
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Cytogenetic Analysis.Karyotyping.Spectral Karyotyping,E05.200.500.385.315.800
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Cytogenetic Analysis.Mitotic Index,E05.200.500.385.500
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Cytophotometry,E05.200.500.386
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Cytophotometry.Flow Cytometry,E05.200.500.386.350
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Cytophotometry.Image Cytometry,E05.200.500.386.400
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Cytophotometry.Image Cytometry.Laser Scanning Cytometry,E05.200.500.386.400.500
+"Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Drug Screening Assays, Antitumor",E05.200.500.388
+"Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Drug Screening Assays, Antitumor.Tumor Stem Cell Assay",E05.200.500.388.930
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Electroporation,E05.200.500.454
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Electroporation.Electrochemotherapy,E05.200.500.454.500
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Enzyme-Linked Immunospot Assay,E05.200.500.508
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Histocytochemistry,E05.200.500.607
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Histocytochemistry.Immunohistochemistry,E05.200.500.607.512
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Histocytochemistry.Immunohistochemistry.Fluorescent Antibody Technique,E05.200.500.607.512.240
+"Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Histocytochemistry.Immunohistochemistry.Fluorescent Antibody Technique.Antibody-Coated Bacteria Test, Urinary",E05.200.500.607.512.240.149
+"Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Histocytochemistry.Immunohistochemistry.Fluorescent Antibody Technique.Fluorescent Antibody Technique, Direct",E05.200.500.607.512.240.300
+"Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Histocytochemistry.Immunohistochemistry.Fluorescent Antibody Technique.Fluorescent Antibody Technique, Indirect",E05.200.500.607.512.240.310
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Histocytochemistry.Immunohistochemistry.Fluorescent Antibody Technique.Fluoroimmunoassay,E05.200.500.607.512.240.655
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Histocytochemistry.Immunohistochemistry.Fluorescent Antibody Technique.Fluoroimmunoassay.Fluorescence Polarization Immunoassay,E05.200.500.607.512.240.655.350
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Histocytochemistry.Periodic Acid-Schiff Reaction,E05.200.500.607.790
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Histocytochemistry.Prussian Blue Reaction,E05.200.500.607.810
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Histocytological Preparation Techniques,E05.200.500.620
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Histocytological Preparation Techniques.Microdissection,E05.200.500.620.265
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Histocytological Preparation Techniques.Microtomy,E05.200.500.620.530
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Histocytological Preparation Techniques.Microtomy.Cryoultramicrotomy,E05.200.500.620.530.160
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Histocytological Preparation Techniques.Microtomy.Cryoultramicrotomy.Frozen Sections,E05.200.500.620.530.160.260
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Histocytological Preparation Techniques.Replica Techniques,E05.200.500.620.620
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Histocytological Preparation Techniques.Replica Techniques.Corrosion Casting,E05.200.500.620.620.150
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Histocytological Preparation Techniques.Replica Techniques.Freeze Fracturing,E05.200.500.620.620.260
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Histocytological Preparation Techniques.Replica Techniques.Freeze Fracturing.Freeze Etching,E05.200.500.620.620.260.400
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Histocytological Preparation Techniques.Staining and Labeling,E05.200.500.620.670
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Histocytological Preparation Techniques.Staining and Labeling.Chromosome Banding,E05.200.500.620.670.130
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Histocytological Preparation Techniques.Staining and Labeling.In Situ Hybridization,E05.200.500.620.670.325
+"Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Histocytological Preparation Techniques.Staining and Labeling.In Situ Hybridization.In Situ Hybridization, Fluorescence",E05.200.500.620.670.325.350
+"Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Histocytological Preparation Techniques.Staining and Labeling.In Situ Hybridization.In Situ Hybridization, Fluorescence.Chromosome Painting",E05.200.500.620.670.325.350.125
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Histocytological Preparation Techniques.Staining and Labeling.In Situ Hybridization.Primed In Situ Labeling,E05.200.500.620.670.325.680
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Histocytological Preparation Techniques.Staining and Labeling.Negative Staining,E05.200.500.620.670.520
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Histocytological Preparation Techniques.Staining and Labeling.Neuroanatomical Tract-Tracing Techniques,E05.200.500.620.670.570
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Histocytological Preparation Techniques.Staining and Labeling.Periodic Acid-Schiff Reaction,E05.200.500.620.670.620
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Histocytological Preparation Techniques.Staining and Labeling.Prussian Blue Reaction,E05.200.500.620.670.660
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Histocytological Preparation Techniques.Staining and Labeling.Shadowing (Histology),E05.200.500.620.670.770
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Histocytological Preparation Techniques.Staining and Labeling.Silver Staining,E05.200.500.620.670.780
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Histocytological Preparation Techniques.Tissue Embedding,E05.200.500.620.720
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Histocytological Preparation Techniques.Tissue Embedding.Paraffin Embedding,E05.200.500.620.720.610
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Histocytological Preparation Techniques.Tissue Embedding.Plastic Embedding,E05.200.500.620.720.640
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Histocytological Preparation Techniques.Tissue Preservation,E05.200.500.620.760
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Histocytological Preparation Techniques.Tissue Preservation.Cryopreservation,E05.200.500.620.760.160
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Histocytological Preparation Techniques.Tissue Preservation.Cryopreservation.Freeze Drying,E05.200.500.620.760.160.260
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Histocytological Preparation Techniques.Tissue Preservation.Cryopreservation.Freeze Drying.Freeze Substitution,E05.200.500.620.760.160.260.270
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Histocytological Preparation Techniques.Tissue Preservation.Tissue Fixation,E05.200.500.620.760.720
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Metabolic Flux Analysis,E05.200.500.810
+Investigative Techniques.Clinical Laboratory Techniques.Cytological Techniques.Patch-Clamp Techniques,E05.200.500.905
+Investigative Techniques.Clinical Laboratory Techniques.Genetic Testing,E05.200.562
+Investigative Techniques.Clinical Laboratory Techniques.Genetic Testing.Genetic Carrier Screening,E05.200.562.250
+Investigative Techniques.Clinical Laboratory Techniques.Genetic Testing.Pharmacogenomic Testing,E05.200.562.500
+Investigative Techniques.Clinical Laboratory Techniques.Hematologic Tests,E05.200.625
+Investigative Techniques.Clinical Laboratory Techniques.Hematologic Tests.Blood Cell Count,E05.200.625.107
+Investigative Techniques.Clinical Laboratory Techniques.Hematologic Tests.Blood Cell Count.Erythrocyte Count,E05.200.625.107.330
+Investigative Techniques.Clinical Laboratory Techniques.Hematologic Tests.Blood Cell Count.Erythrocyte Count.Reticulocyte Count,E05.200.625.107.330.725
+Investigative Techniques.Clinical Laboratory Techniques.Hematologic Tests.Blood Cell Count.Leukocyte Count,E05.200.625.107.595
+Investigative Techniques.Clinical Laboratory Techniques.Hematologic Tests.Blood Cell Count.Leukocyte Count.Lymphocyte Count,E05.200.625.107.595.500
+Investigative Techniques.Clinical Laboratory Techniques.Hematologic Tests.Blood Cell Count.Leukocyte Count.Lymphocyte Count.CD4 Lymphocyte Count,E05.200.625.107.595.500.150
+Investigative Techniques.Clinical Laboratory Techniques.Hematologic Tests.Blood Cell Count.Leukocyte Count.Lymphocyte Count.CD4 Lymphocyte Count.CD4-CD8 Ratio,E05.200.625.107.595.500.150.160
+Investigative Techniques.Clinical Laboratory Techniques.Hematologic Tests.Blood Cell Count.Platelet Count,E05.200.625.107.700
+Investigative Techniques.Clinical Laboratory Techniques.Hematologic Tests.Blood Coagulation Tests,E05.200.625.115
+Investigative Techniques.Clinical Laboratory Techniques.Hematologic Tests.Blood Coagulation Tests.International Normalized Ratio,E05.200.625.115.320
+Investigative Techniques.Clinical Laboratory Techniques.Hematologic Tests.Blood Coagulation Tests.Partial Thromboplastin Time,E05.200.625.115.600
+Investigative Techniques.Clinical Laboratory Techniques.Hematologic Tests.Blood Coagulation Tests.Prothrombin Time,E05.200.625.115.610
+Investigative Techniques.Clinical Laboratory Techniques.Hematologic Tests.Blood Coagulation Tests.Thrombelastography,E05.200.625.115.830
+Investigative Techniques.Clinical Laboratory Techniques.Hematologic Tests.Blood Coagulation Tests.Thrombin Time,E05.200.625.115.870
+Investigative Techniques.Clinical Laboratory Techniques.Hematologic Tests.Blood Coagulation Tests.Whole Blood Coagulation Time,E05.200.625.115.950
+Investigative Techniques.Clinical Laboratory Techniques.Hematologic Tests.Blood Grouping and Crossmatching,E05.200.625.120
+Investigative Techniques.Clinical Laboratory Techniques.Hematologic Tests.Blood Sedimentation,E05.200.625.125
+Investigative Techniques.Clinical Laboratory Techniques.Hematologic Tests.Bone Marrow Examination,E05.200.625.135
+Investigative Techniques.Clinical Laboratory Techniques.Hematologic Tests.Erythrocyte Aggregation,E05.200.625.225
+Investigative Techniques.Clinical Laboratory Techniques.Hematologic Tests.Erythrocyte Indices,E05.200.625.230
+Investigative Techniques.Clinical Laboratory Techniques.Hematologic Tests.Fibrin Clot Lysis Time,E05.200.625.265
+Investigative Techniques.Clinical Laboratory Techniques.Hematologic Tests.FIGLU Test,E05.200.625.300
+Investigative Techniques.Clinical Laboratory Techniques.Hematologic Tests.Hematocrit,E05.200.625.400
+Investigative Techniques.Clinical Laboratory Techniques.Hematologic Tests.Hemoglobinometry,E05.200.625.410
+Investigative Techniques.Clinical Laboratory Techniques.Hematologic Tests.Osmotic Fragility,E05.200.625.550
+Investigative Techniques.Clinical Laboratory Techniques.Hematologic Tests.Platelet Function Tests,E05.200.625.625
+Investigative Techniques.Clinical Laboratory Techniques.Hematologic Tests.Platelet Function Tests.Bleeding Time,E05.200.625.625.100
+Investigative Techniques.Clinical Laboratory Techniques.Hematologic Tests.Platelet Function Tests.Clot Retraction,E05.200.625.625.160
+Investigative Techniques.Clinical Laboratory Techniques.Hematologic Tests.Platelet Function Tests.Mean Platelet Volume,E05.200.625.625.392
+Investigative Techniques.Clinical Laboratory Techniques.Hematologic Tests.Platelet Function Tests.Platelet Count,E05.200.625.625.625
+Investigative Techniques.Clinical Laboratory Techniques.Hematologic Tests.Schilling Test,E05.200.625.750
+Investigative Techniques.Clinical Laboratory Techniques.Histological Techniques,E05.200.750
+Investigative Techniques.Clinical Laboratory Techniques.Histological Techniques.Autoradiography,E05.200.750.132
+Investigative Techniques.Clinical Laboratory Techniques.Histological Techniques.Decalcification Technique,E05.200.750.288
+Investigative Techniques.Clinical Laboratory Techniques.Histological Techniques.Histocytochemistry,E05.200.750.551
+Investigative Techniques.Clinical Laboratory Techniques.Histological Techniques.Histocytochemistry.Immunohistochemistry,E05.200.750.551.512
+Investigative Techniques.Clinical Laboratory Techniques.Histological Techniques.Histocytochemistry.Immunohistochemistry.Fluorescent Antibody Technique,E05.200.750.551.512.240
+"Investigative Techniques.Clinical Laboratory Techniques.Histological Techniques.Histocytochemistry.Immunohistochemistry.Fluorescent Antibody Technique.Antibody-Coated Bacteria Test, Urinary",E05.200.750.551.512.240.149
+"Investigative Techniques.Clinical Laboratory Techniques.Histological Techniques.Histocytochemistry.Immunohistochemistry.Fluorescent Antibody Technique.Fluorescent Antibody Technique, Direct",E05.200.750.551.512.240.300
+"Investigative Techniques.Clinical Laboratory Techniques.Histological Techniques.Histocytochemistry.Immunohistochemistry.Fluorescent Antibody Technique.Fluorescent Antibody Technique, Indirect",E05.200.750.551.512.240.310
+Investigative Techniques.Clinical Laboratory Techniques.Histological Techniques.Histocytochemistry.Immunohistochemistry.Fluorescent Antibody Technique.Fluoroimmunoassay,E05.200.750.551.512.240.655
+Investigative Techniques.Clinical Laboratory Techniques.Histological Techniques.Histocytochemistry.Immunohistochemistry.Fluorescent Antibody Technique.Fluoroimmunoassay.Fluorescence Polarization Immunoassay,E05.200.750.551.512.240.655.350
+Investigative Techniques.Clinical Laboratory Techniques.Histological Techniques.Histocytochemistry.Periodic Acid-Schiff Reaction,E05.200.750.551.790
+Investigative Techniques.Clinical Laboratory Techniques.Histological Techniques.Histocytochemistry.Prussian Blue Reaction,E05.200.750.551.810
+Investigative Techniques.Clinical Laboratory Techniques.Histological Techniques.Histocytological Preparation Techniques,E05.200.750.600
+Investigative Techniques.Clinical Laboratory Techniques.Histological Techniques.Histocytological Preparation Techniques.Microdissection,E05.200.750.600.520
+Investigative Techniques.Clinical Laboratory Techniques.Histological Techniques.Histocytological Preparation Techniques.Microtomy,E05.200.750.600.530
+Investigative Techniques.Clinical Laboratory Techniques.Histological Techniques.Histocytological Preparation Techniques.Microtomy.Cryoultramicrotomy,E05.200.750.600.530.160
+Investigative Techniques.Clinical Laboratory Techniques.Histological Techniques.Histocytological Preparation Techniques.Microtomy.Cryoultramicrotomy.Frozen Sections,E05.200.750.600.530.160.260
+Investigative Techniques.Clinical Laboratory Techniques.Histological Techniques.Histocytological Preparation Techniques.Replica Techniques,E05.200.750.600.620
+Investigative Techniques.Clinical Laboratory Techniques.Histological Techniques.Histocytological Preparation Techniques.Replica Techniques.Corrosion Casting,E05.200.750.600.620.150
+Investigative Techniques.Clinical Laboratory Techniques.Histological Techniques.Histocytological Preparation Techniques.Replica Techniques.Freeze Fracturing,E05.200.750.600.620.260
+Investigative Techniques.Clinical Laboratory Techniques.Histological Techniques.Histocytological Preparation Techniques.Replica Techniques.Freeze Fracturing.Freeze Etching,E05.200.750.600.620.260.400
+Investigative Techniques.Clinical Laboratory Techniques.Histological Techniques.Histocytological Preparation Techniques.Staining and Labeling,E05.200.750.600.670
+Investigative Techniques.Clinical Laboratory Techniques.Histological Techniques.Histocytological Preparation Techniques.Staining and Labeling.Chromosome Banding,E05.200.750.600.670.130
+Investigative Techniques.Clinical Laboratory Techniques.Histological Techniques.Histocytological Preparation Techniques.Staining and Labeling.In Situ Hybridization,E05.200.750.600.670.325
+"Investigative Techniques.Clinical Laboratory Techniques.Histological Techniques.Histocytological Preparation Techniques.Staining and Labeling.In Situ Hybridization.In Situ Hybridization, Fluorescence",E05.200.750.600.670.325.350
+"Investigative Techniques.Clinical Laboratory Techniques.Histological Techniques.Histocytological Preparation Techniques.Staining and Labeling.In Situ Hybridization.In Situ Hybridization, Fluorescence.Chromosome Painting",E05.200.750.600.670.325.350.125
+Investigative Techniques.Clinical Laboratory Techniques.Histological Techniques.Histocytological Preparation Techniques.Staining and Labeling.In Situ Hybridization.Primed In Situ Labeling,E05.200.750.600.670.325.680
+Investigative Techniques.Clinical Laboratory Techniques.Histological Techniques.Histocytological Preparation Techniques.Staining and Labeling.Negative Staining,E05.200.750.600.670.520
+Investigative Techniques.Clinical Laboratory Techniques.Histological Techniques.Histocytological Preparation Techniques.Staining and Labeling.Neuroanatomical Tract-Tracing Techniques,E05.200.750.600.670.570
+Investigative Techniques.Clinical Laboratory Techniques.Histological Techniques.Histocytological Preparation Techniques.Staining and Labeling.Prussian Blue Reaction,E05.200.750.600.670.660
+Investigative Techniques.Clinical Laboratory Techniques.Histological Techniques.Histocytological Preparation Techniques.Staining and Labeling.Shadowing (Histology),E05.200.750.600.670.770
+Investigative Techniques.Clinical Laboratory Techniques.Histological Techniques.Histocytological Preparation Techniques.Staining and Labeling.Silver Staining,E05.200.750.600.670.780
+Investigative Techniques.Clinical Laboratory Techniques.Histological Techniques.Histocytological Preparation Techniques.Tissue Embedding,E05.200.750.600.720
+Investigative Techniques.Clinical Laboratory Techniques.Histological Techniques.Histocytological Preparation Techniques.Tissue Embedding.Paraffin Embedding,E05.200.750.600.720.610
+Investigative Techniques.Clinical Laboratory Techniques.Histological Techniques.Histocytological Preparation Techniques.Tissue Embedding.Plastic Embedding,E05.200.750.600.720.640
+Investigative Techniques.Clinical Laboratory Techniques.Histological Techniques.Histocytological Preparation Techniques.Tissue Preservation,E05.200.750.600.760
+Investigative Techniques.Clinical Laboratory Techniques.Histological Techniques.Histocytological Preparation Techniques.Tissue Preservation.Cryopreservation,E05.200.750.600.760.160
+Investigative Techniques.Clinical Laboratory Techniques.Histological Techniques.Histocytological Preparation Techniques.Tissue Preservation.Cryopreservation.Freeze Drying,E05.200.750.600.760.160.260
+Investigative Techniques.Clinical Laboratory Techniques.Histological Techniques.Histocytological Preparation Techniques.Tissue Preservation.Cryopreservation.Freeze Drying.Freeze Substitution,E05.200.750.600.760.160.260.270
+Investigative Techniques.Clinical Laboratory Techniques.Histological Techniques.Histocytological Preparation Techniques.Tissue Preservation.Tissue Fixation,E05.200.750.600.760.720
+Investigative Techniques.Clinical Laboratory Techniques.Immunologic Tests,E05.200.812
+"Investigative Techniques.Clinical Laboratory Techniques.Immunologic Tests.Antibody-Coated Bacteria Test, Urinary",E05.200.812.049
+Investigative Techniques.Clinical Laboratory Techniques.Immunologic Tests.Basophil Degranulation Test,E05.200.812.100
+Investigative Techniques.Clinical Laboratory Techniques.Immunologic Tests.Cell Migration Assays,E05.200.812.125
+"Investigative Techniques.Clinical Laboratory Techniques.Immunologic Tests.Cell Migration Assays.Cell Migration Assays, Leukocyte",E05.200.812.125.500
+"Investigative Techniques.Clinical Laboratory Techniques.Immunologic Tests.Cell Migration Assays.Cell Migration Assays, Macrophage",E05.200.812.125.750
+Investigative Techniques.Clinical Laboratory Techniques.Immunologic Tests.Cell Migration Assays.Skin Window Technique,E05.200.812.125.875
+"Investigative Techniques.Clinical Laboratory Techniques.Immunologic Tests.Cytotoxicity Tests, Immunologic",E05.200.812.160
+"Investigative Techniques.Clinical Laboratory Techniques.Immunologic Tests.Cytotoxicity Tests, Immunologic.Complement Hemolytic Activity Assay",E05.200.812.160.155
+Investigative Techniques.Clinical Laboratory Techniques.Immunologic Tests.Hemolytic Plaque Technique,E05.200.812.375
+Investigative Techniques.Clinical Laboratory Techniques.Immunologic Tests.Histocompatibility Testing,E05.200.812.385
+Investigative Techniques.Clinical Laboratory Techniques.Immunologic Tests.Histocompatibility Testing.Blood Grouping and Crossmatching,E05.200.812.385.120
+"Investigative Techniques.Clinical Laboratory Techniques.Immunologic Tests.Histocompatibility Testing.Lymphocyte Culture Test, Mixed",E05.200.812.385.475
+Investigative Techniques.Clinical Laboratory Techniques.Immunologic Tests.Immune Adherence Reaction,E05.200.812.400
+Investigative Techniques.Clinical Laboratory Techniques.Immunologic Tests.Immunophenotyping,E05.200.812.447
+Investigative Techniques.Clinical Laboratory Techniques.Immunologic Tests.Interferon-gamma Release Tests,E05.200.812.453
+Investigative Techniques.Clinical Laboratory Techniques.Immunologic Tests.Leukocyte Adherence Inhibition Test,E05.200.812.460
+Investigative Techniques.Clinical Laboratory Techniques.Immunologic Tests.Lymphocyte Activation,E05.200.812.482
+"Investigative Techniques.Clinical Laboratory Techniques.Immunologic Tests.Monitoring, Immunologic",E05.200.812.505
+"Investigative Techniques.Clinical Laboratory Techniques.Immunologic Tests.Pregnancy Tests, Immunologic",E05.200.812.620
+Investigative Techniques.Clinical Laboratory Techniques.Immunologic Tests.Rosette Formation,E05.200.812.706
+Investigative Techniques.Clinical Laboratory Techniques.Immunologic Tests.Serologic Tests,E05.200.812.735
+Investigative Techniques.Clinical Laboratory Techniques.Immunologic Tests.Serologic Tests.Agglutination Tests,E05.200.812.735.050
+Investigative Techniques.Clinical Laboratory Techniques.Immunologic Tests.Serologic Tests.Agglutination Tests.Hemagglutination Tests,E05.200.812.735.050.375
+Investigative Techniques.Clinical Laboratory Techniques.Immunologic Tests.Serologic Tests.Agglutination Tests.Hemagglutination Tests.Coombs Test,E05.200.812.735.050.375.150
+Investigative Techniques.Clinical Laboratory Techniques.Immunologic Tests.Serologic Tests.Agglutination Tests.Latex Fixation Tests,E05.200.812.735.050.450
+Investigative Techniques.Clinical Laboratory Techniques.Immunologic Tests.Serologic Tests.AIDS Serodiagnosis,E05.200.812.735.060
+Investigative Techniques.Clinical Laboratory Techniques.Immunologic Tests.Serologic Tests.Complement Fixation Tests,E05.200.812.735.150
+Investigative Techniques.Clinical Laboratory Techniques.Immunologic Tests.Serologic Tests.Complement Hemolytic Activity Assay,E05.200.812.735.155
+Investigative Techniques.Clinical Laboratory Techniques.Immunologic Tests.Serologic Tests.Hemadsorption Inhibition Tests,E05.200.812.735.360
+Investigative Techniques.Clinical Laboratory Techniques.Immunologic Tests.Serologic Tests.Hemagglutination Inhibition Tests,E05.200.812.735.370
+Investigative Techniques.Clinical Laboratory Techniques.Immunologic Tests.Serologic Tests.Neutralization Tests,E05.200.812.735.550
+Investigative Techniques.Clinical Laboratory Techniques.Immunologic Tests.Serologic Tests.Precipitin Tests,E05.200.812.735.645
+Investigative Techniques.Clinical Laboratory Techniques.Immunologic Tests.Serologic Tests.Precipitin Tests.Flocculation Tests,E05.200.812.735.645.300
+Investigative Techniques.Clinical Laboratory Techniques.Immunologic Tests.Serologic Tests.Precipitin Tests.Immunodiffusion,E05.200.812.735.645.350
+Investigative Techniques.Clinical Laboratory Techniques.Immunologic Tests.Serologic Tests.Precipitin Tests.Immunodiffusion.Immunoelectrophoresis,E05.200.812.735.645.350.350
+Investigative Techniques.Clinical Laboratory Techniques.Immunologic Tests.Serologic Tests.Precipitin Tests.Immunodiffusion.Immunoelectrophoresis.Counterimmunoelectrophoresis,E05.200.812.735.645.350.350.150
+"Investigative Techniques.Clinical Laboratory Techniques.Immunologic Tests.Serologic Tests.Precipitin Tests.Immunodiffusion.Immunoelectrophoresis.Immunoelectrophoresis, Two-Dimensional",E05.200.812.735.645.350.350.350
+Investigative Techniques.Clinical Laboratory Techniques.Immunologic Tests.Serologic Tests.Radioallergosorbent Test,E05.200.812.735.830
+Investigative Techniques.Clinical Laboratory Techniques.Immunologic Tests.Serologic Tests.Radioimmunoprecipitation Assay,E05.200.812.735.840
+Investigative Techniques.Clinical Laboratory Techniques.Immunologic Tests.Serologic Tests.Serum Bactericidal Antibody Assay,E05.200.812.735.845
+Investigative Techniques.Clinical Laboratory Techniques.Immunologic Tests.Serologic Tests.Syphilis Serodiagnosis,E05.200.812.735.850
+Investigative Techniques.Clinical Laboratory Techniques.Immunologic Tests.Serologic Tests.Syphilis Serodiagnosis.Fluorescent Treponemal Antibody-Absorption Test,E05.200.812.735.850.200
+Investigative Techniques.Clinical Laboratory Techniques.Immunologic Tests.Serologic Tests.Syphilis Serodiagnosis.Treponema Immobilization Test,E05.200.812.735.850.800
+Investigative Techniques.Clinical Laboratory Techniques.Immunologic Tests.Serotyping,E05.200.812.742
+Investigative Techniques.Clinical Laboratory Techniques.Immunologic Tests.Skin Tests,E05.200.812.871
+Investigative Techniques.Clinical Laboratory Techniques.Immunologic Tests.Skin Tests.Intradermal Tests,E05.200.812.871.300
+Investigative Techniques.Clinical Laboratory Techniques.Immunologic Tests.Skin Tests.Intradermal Tests.Kveim Test,E05.200.812.871.300.540
+Investigative Techniques.Clinical Laboratory Techniques.Immunologic Tests.Skin Tests.Intradermal Tests.Skin Test End-Point Titration,E05.200.812.871.300.750
+Investigative Techniques.Clinical Laboratory Techniques.Immunologic Tests.Skin Tests.Local Lymph Node Assay,E05.200.812.871.450
+Investigative Techniques.Clinical Laboratory Techniques.Immunologic Tests.Skin Tests.Passive Cutaneous Anaphylaxis,E05.200.812.871.600
+Investigative Techniques.Clinical Laboratory Techniques.Immunologic Tests.Skin Tests.Patch Tests,E05.200.812.871.610
+Investigative Techniques.Clinical Laboratory Techniques.Immunologic Tests.Skin Tests.Skin Window Technique,E05.200.812.871.705
+Investigative Techniques.Clinical Laboratory Techniques.Immunologic Tests.Skin Tests.Tuberculin Test,E05.200.812.871.800
+Investigative Techniques.Clinical Laboratory Techniques.Laboratory Critical Values,E05.200.828
+Investigative Techniques.Clinical Laboratory Techniques.Metabolic Clearance Rate,E05.200.843
+Investigative Techniques.Clinical Laboratory Techniques.Microbiological Techniques,E05.200.875
+Investigative Techniques.Clinical Laboratory Techniques.Microbiological Techniques.Axenic Culture,E05.200.875.074
+Investigative Techniques.Clinical Laboratory Techniques.Microbiological Techniques.Bacteriological Techniques,E05.200.875.150
+Investigative Techniques.Clinical Laboratory Techniques.Microbiological Techniques.Bacteriological Techniques.Bacterial Load,E05.200.875.150.115
+Investigative Techniques.Clinical Laboratory Techniques.Microbiological Techniques.Bacteriological Techniques.Bacterial Typing Techniques,E05.200.875.150.125
+Investigative Techniques.Clinical Laboratory Techniques.Microbiological Techniques.Bacteriological Techniques.Bacterial Typing Techniques.Bacteriophage Typing,E05.200.875.150.125.150
+Investigative Techniques.Clinical Laboratory Techniques.Microbiological Techniques.Bacteriological Techniques.Bacterial Typing Techniques.Molecular Typing,E05.200.875.150.125.457
+Investigative Techniques.Clinical Laboratory Techniques.Microbiological Techniques.Bacteriological Techniques.Bacterial Typing Techniques.Molecular Typing.Multilocus Sequence Typing,E05.200.875.150.125.457.500
+Investigative Techniques.Clinical Laboratory Techniques.Microbiological Techniques.Bacteriological Techniques.Bacterial Typing Techniques.Ribotyping,E05.200.875.150.125.765
+Investigative Techniques.Clinical Laboratory Techniques.Microbiological Techniques.Bacteriological Techniques.Bacterial Typing Techniques.Serotyping,E05.200.875.150.125.890
+Investigative Techniques.Clinical Laboratory Techniques.Microbiological Techniques.Bacteriological Techniques.Limulus Test,E05.200.875.150.570
+Investigative Techniques.Clinical Laboratory Techniques.Microbiological Techniques.Blood Culture,E05.200.875.185
+"Investigative Techniques.Clinical Laboratory Techniques.Microbiological Techniques.Colony Count, Microbial",E05.200.875.220
+"Investigative Techniques.Clinical Laboratory Techniques.Microbiological Techniques.Colony Count, Microbial.Bacterial Load",E05.200.875.220.115
+Investigative Techniques.Clinical Laboratory Techniques.Microbiological Techniques.Microbial Sensitivity Tests,E05.200.875.595
+Investigative Techniques.Clinical Laboratory Techniques.Microbiological Techniques.Microbial Sensitivity Tests.Disk Diffusion Antimicrobial Tests,E05.200.875.595.399
+Investigative Techniques.Clinical Laboratory Techniques.Microbiological Techniques.Microbial Sensitivity Tests.Serum Bactericidal Test,E05.200.875.595.800
+Investigative Techniques.Clinical Laboratory Techniques.Microbiological Techniques.Mycological Typing Techniques,E05.200.875.610
+Investigative Techniques.Clinical Laboratory Techniques.Microbiological Techniques.Serial Passage,E05.200.875.837
+Investigative Techniques.Clinical Laboratory Techniques.Microbiological Techniques.Viral Load,E05.200.875.950
+Investigative Techniques.Clinical Laboratory Techniques.Microbiological Techniques.Virus Cultivation,E05.200.875.970
+Investigative Techniques.Clinical Laboratory Techniques.Microbiological Techniques.Virus Cultivation.Viral Plaque Assay,E05.200.875.970.790
+Investigative Techniques.Clinical Laboratory Techniques.Microbiological Techniques.Virus Inactivation,E05.200.875.977
+Investigative Techniques.Clinical Laboratory Techniques.Microbiological Techniques.Xenodiagnosis,E05.200.875.985
+Investigative Techniques.Clinical Laboratory Techniques.Molecular Diagnostic Techniques,E05.200.880
+Investigative Techniques.Clinical Laboratory Techniques.Molecular Diagnostic Techniques.Human Papillomavirus DNA Tests,E05.200.880.500
+Investigative Techniques.Clinical Laboratory Techniques.Neonatal Screening,E05.200.910
+Investigative Techniques.Clinical Laboratory Techniques.Occult Blood,E05.200.925
+Investigative Techniques.Clinical Laboratory Techniques.Parasite Load,E05.200.932
+Investigative Techniques.Clinical Laboratory Techniques.Parasite Load.Parasite Egg Count,E05.200.932.600
+Investigative Techniques.Clinical Laboratory Techniques.Parasitic Sensitivity Tests,E05.200.940
+Investigative Techniques.Clinical Laboratory Techniques.Pregnancy Tests,E05.200.970
+"Investigative Techniques.Clinical Laboratory Techniques.Pregnancy Tests.Pregnancy Tests, Immunologic",E05.200.970.620
+Investigative Techniques.Clinical Laboratory Techniques.Radioligand Assay,E05.200.985
+Investigative Techniques.Clinical Laboratory Techniques.Semen Analysis,E05.200.992
+Investigative Techniques.Clinical Laboratory Techniques.Semen Analysis.Sperm Count,E05.200.992.624
+Investigative Techniques.Clinical Laboratory Techniques.Semen Analysis.Sperm Motility,E05.200.992.812
+Investigative Techniques.Clinical Laboratory Techniques.Sex Determination Analysis,E05.200.996
+Investigative Techniques.Clinical Laboratory Techniques.Sex Determination Analysis.Sex Determination by Skeleton,E05.200.996.500
+Investigative Techniques.Clinical Laboratory Techniques.Specimen Handling,E05.200.998
+Investigative Techniques.Clinical Laboratory Techniques.Specimen Handling.Biopsy,E05.200.998.054
+"Investigative Techniques.Clinical Laboratory Techniques.Specimen Handling.Biopsy.Biopsy, Needle",E05.200.998.054.119
+"Investigative Techniques.Clinical Laboratory Techniques.Specimen Handling.Biopsy.Biopsy, Needle.Biopsy, Fine-Needle",E05.200.998.054.119.500
+"Investigative Techniques.Clinical Laboratory Techniques.Specimen Handling.Biopsy.Biopsy, Needle.Biopsy, Fine-Needle.Endoscopic Ultrasound-Guided Fine Needle Aspiration",E05.200.998.054.119.500.500
+"Investigative Techniques.Clinical Laboratory Techniques.Specimen Handling.Biopsy.Biopsy, Needle.Biopsy, Large-Core Needle",E05.200.998.054.119.750
+Investigative Techniques.Clinical Laboratory Techniques.Specimen Handling.Biopsy.Chorionic Villi Sampling,E05.200.998.054.149
+Investigative Techniques.Clinical Laboratory Techniques.Specimen Handling.Biopsy.Conization,E05.200.998.054.160
+Investigative Techniques.Clinical Laboratory Techniques.Specimen Handling.Biopsy.Image-Guided Biopsy,E05.200.998.054.370
+Investigative Techniques.Clinical Laboratory Techniques.Specimen Handling.Biopsy.Image-Guided Biopsy.Endoscopic Ultrasound-Guided Fine Needle Aspiration,E05.200.998.054.370.500
+Investigative Techniques.Clinical Laboratory Techniques.Specimen Handling.Biopsy.Liquid Biopsy,E05.200.998.054.396
+Investigative Techniques.Clinical Laboratory Techniques.Specimen Handling.Biopsy.Papanicolaou Test,E05.200.998.054.422
+Investigative Techniques.Clinical Laboratory Techniques.Specimen Handling.Biopsy.Sentinel Lymph Node Biopsy,E05.200.998.054.580
+Investigative Techniques.Clinical Laboratory Techniques.Specimen Handling.Biopsy.Spinal Puncture,E05.200.998.054.790
+Investigative Techniques.Clinical Laboratory Techniques.Specimen Handling.Biopsy.Vaginal Smears,E05.200.998.054.800
+Investigative Techniques.Clinical Laboratory Techniques.Specimen Handling.Blood Specimen Collection,E05.200.998.110
+Investigative Techniques.Clinical Laboratory Techniques.Specimen Handling.Blood Specimen Collection.Cordocentesis,E05.200.998.110.150
+Investigative Techniques.Clinical Laboratory Techniques.Specimen Handling.Blood Specimen Collection.Petrosal Sinus Sampling,E05.200.998.110.600
+Investigative Techniques.Clinical Laboratory Techniques.Specimen Handling.Blood Specimen Collection.Phlebotomy,E05.200.998.110.625
+Investigative Techniques.Clinical Laboratory Techniques.Specimen Handling.Dissection,E05.200.998.221
+Investigative Techniques.Clinical Laboratory Techniques.Specimen Handling.Dissection.Microdissection,E05.200.998.221.580
+Investigative Techniques.Clinical Laboratory Techniques.Specimen Handling.Dissection.Microdissection.Laser Capture Microdissection,E05.200.998.221.580.500
+Investigative Techniques.Clinical Laboratory Techniques.Specimen Handling.DNA Contamination,E05.200.998.293
+Investigative Techniques.Clinical Laboratory Techniques.Specimen Handling.Paracentesis,E05.200.998.329
+Investigative Techniques.Clinical Laboratory Techniques.Specimen Handling.Paracentesis.Amniocentesis,E05.200.998.329.309
+Investigative Techniques.Clinical Laboratory Techniques.Specimen Handling.Paracentesis.Arthrocentesis,E05.200.998.329.465
+Investigative Techniques.Clinical Laboratory Techniques.Specimen Handling.Paracentesis.Cordocentesis,E05.200.998.329.543
+Investigative Techniques.Clinical Laboratory Techniques.Specimen Handling.Paracentesis.Pericardiocentesis,E05.200.998.329.620
+Investigative Techniques.Clinical Laboratory Techniques.Specimen Handling.Paracentesis.Thoracentesis,E05.200.998.329.810
+Investigative Techniques.Clinical Laboratory Techniques.Specimen Handling.Paracentesis.Tympanocentesis,E05.200.998.329.905
+Investigative Techniques.Clinical Laboratory Techniques.Specimen Handling.Urine Specimen Collection,E05.200.998.762
+Investigative Techniques.Constriction,E05.225
+Investigative Techniques.Containment of Biohazards,E05.235
+Investigative Techniques.Cytological Techniques,E05.242
+Investigative Techniques.Cytological Techniques.Cell Count,E05.242.195
+Investigative Techniques.Cytological Techniques.Cell Count.Blood Cell Count,E05.242.195.107
+Investigative Techniques.Cytological Techniques.Cell Count.Blood Cell Count.Erythrocyte Count,E05.242.195.107.330
+Investigative Techniques.Cytological Techniques.Cell Count.Blood Cell Count.Erythrocyte Count.Reticulocyte Count,E05.242.195.107.330.725
+Investigative Techniques.Cytological Techniques.Cell Count.Blood Cell Count.Leukocyte Count,E05.242.195.107.595
+Investigative Techniques.Cytological Techniques.Cell Count.Blood Cell Count.Leukocyte Count.Lymphocyte Count,E05.242.195.107.595.500
+Investigative Techniques.Cytological Techniques.Cell Count.Blood Cell Count.Leukocyte Count.Lymphocyte Count.CD4 Lymphocyte Count,E05.242.195.107.595.500.150
+Investigative Techniques.Cytological Techniques.Cell Count.Blood Cell Count.Leukocyte Count.Lymphocyte Count.CD4 Lymphocyte Count.CD4-CD8 Ratio,E05.242.195.107.595.500.150.160
+Investigative Techniques.Cytological Techniques.Cell Count.Blood Cell Count.Platelet Count,E05.242.195.107.740
+Investigative Techniques.Cytological Techniques.Cell Count.Sperm Count,E05.242.195.870
+Investigative Techniques.Cytological Techniques.Cell Culture Techniques,E05.242.223
+Investigative Techniques.Cytological Techniques.Cell Culture Techniques.Primary Cell Culture,E05.242.223.500
+Investigative Techniques.Cytological Techniques.Cell Fractionation,E05.242.251
+Investigative Techniques.Cytological Techniques.Cell Fusion,E05.242.307
+Investigative Techniques.Cytological Techniques.Cell Migration Assays,E05.242.335
+"Investigative Techniques.Cytological Techniques.Cell Migration Assays.Cell Migration Assays, Leukocyte",E05.242.335.500
+"Investigative Techniques.Cytological Techniques.Cell Migration Assays.Cell Migration Assays, Macrophage",E05.242.335.750
+Investigative Techniques.Cytological Techniques.Cell Migration Assays.Skin Window Technique,E05.242.335.875
+Investigative Techniques.Cytological Techniques.Cell Separation,E05.242.363
+Investigative Techniques.Cytological Techniques.Cell Separation.Cytapheresis,E05.242.363.171
+Investigative Techniques.Cytological Techniques.Cell Separation.Cytapheresis.Leukapheresis,E05.242.363.171.570
+Investigative Techniques.Cytological Techniques.Cell Separation.Cytapheresis.Plateletpheresis,E05.242.363.171.790
+Investigative Techniques.Cytological Techniques.Cell Separation.Flow Cytometry,E05.242.363.342
+Investigative Techniques.Cytological Techniques.Cell Separation.Immunomagnetic Separation,E05.242.363.441
+Investigative Techniques.Cytological Techniques.Cell Separation.Leukocyte Reduction Procedures,E05.242.363.540
+Investigative Techniques.Cytological Techniques.Cell Tracking,E05.242.373
+Investigative Techniques.Cytological Techniques.Cellular Reprogramming Techniques,E05.242.378
+Investigative Techniques.Cytological Techniques.Colony-Forming Units Assay,E05.242.383
+Investigative Techniques.Cytological Techniques.Colony-Forming Units Assay.Tumor Stem Cell Assay,E05.242.383.910
+Investigative Techniques.Cytological Techniques.Cytodiagnosis,E05.242.384
+Investigative Techniques.Cytological Techniques.Cytodiagnosis.Amniocentesis,E05.242.384.050
+Investigative Techniques.Cytological Techniques.Cytodiagnosis.Biopsy,E05.242.384.100
+"Investigative Techniques.Cytological Techniques.Cytodiagnosis.Biopsy.Biopsy, Needle",E05.242.384.100.119
+"Investigative Techniques.Cytological Techniques.Cytodiagnosis.Biopsy.Biopsy, Needle.Biopsy, Fine-Needle",E05.242.384.100.119.500
+"Investigative Techniques.Cytological Techniques.Cytodiagnosis.Biopsy.Biopsy, Needle.Biopsy, Fine-Needle.Endoscopic Ultrasound-Guided Fine Needle Aspiration",E05.242.384.100.119.500.500
+"Investigative Techniques.Cytological Techniques.Cytodiagnosis.Biopsy.Biopsy, Needle.Biopsy, Large-Core Needle",E05.242.384.100.119.750
+Investigative Techniques.Cytological Techniques.Cytodiagnosis.Biopsy.Chorionic Villi Sampling,E05.242.384.100.149
+Investigative Techniques.Cytological Techniques.Cytodiagnosis.Biopsy.Conization,E05.242.384.100.160
+Investigative Techniques.Cytological Techniques.Cytodiagnosis.Biopsy.Image-Guided Biopsy,E05.242.384.100.370
+Investigative Techniques.Cytological Techniques.Cytodiagnosis.Biopsy.Image-Guided Biopsy.Endoscopic Ultrasound-Guided Fine Needle Aspiration,E05.242.384.100.370.500
+Investigative Techniques.Cytological Techniques.Cytodiagnosis.Biopsy.Liquid Biopsy,E05.242.384.100.396
+Investigative Techniques.Cytological Techniques.Cytodiagnosis.Biopsy.Papanicolaou Test,E05.242.384.100.422
+Investigative Techniques.Cytological Techniques.Cytodiagnosis.Biopsy.Sentinel Lymph Node Biopsy,E05.242.384.100.580
+Investigative Techniques.Cytological Techniques.Cytodiagnosis.Biopsy.Vaginal Smears,E05.242.384.100.800
+"Investigative Techniques.Cytological Techniques.Cytodiagnosis.Cytopathogenic Effect, Viral",E05.242.384.235
+Investigative Techniques.Cytological Techniques.Cytodiagnosis.Karyometry,E05.242.384.467
+Investigative Techniques.Cytological Techniques.Cytogenetic Analysis,E05.242.385
+Investigative Techniques.Cytological Techniques.Cytogenetic Analysis.Chromosome Banding,E05.242.385.130
+Investigative Techniques.Cytological Techniques.Cytogenetic Analysis.Karyotyping,E05.242.385.315
+Investigative Techniques.Cytological Techniques.Cytogenetic Analysis.Karyotyping.Spectral Karyotyping,E05.242.385.315.800
+Investigative Techniques.Cytological Techniques.Cytogenetic Analysis.Mitotic Index,E05.242.385.500
+Investigative Techniques.Cytological Techniques.Cytophotometry,E05.242.386
+Investigative Techniques.Cytological Techniques.Cytophotometry.Flow Cytometry,E05.242.386.350
+Investigative Techniques.Cytological Techniques.Cytophotometry.Image Cytometry,E05.242.386.400
+Investigative Techniques.Cytological Techniques.Cytophotometry.Image Cytometry.Laser Scanning Cytometry,E05.242.386.400.500
+"Investigative Techniques.Cytological Techniques.Drug Screening Assays, Antitumor",E05.242.417
+"Investigative Techniques.Cytological Techniques.Drug Screening Assays, Antitumor.Tumor Stem Cell Assay",E05.242.417.500
+Investigative Techniques.Cytological Techniques.Electroporation,E05.242.448
+Investigative Techniques.Cytological Techniques.Electroporation.Electrochemotherapy,E05.242.448.500
+Investigative Techniques.Cytological Techniques.Enzyme-Linked Immunospot Assay,E05.242.551
+Investigative Techniques.Cytological Techniques.Metabolic Flux Analysis,E05.242.654
+Investigative Techniques.Cytological Techniques.Patch-Clamp Techniques,E05.242.800
+Investigative Techniques.Cytological Techniques.Single-Cell Analysis,E05.242.900
+Investigative Techniques.Cytological Techniques.Stem Cell Research,E05.242.950
+Investigative Techniques.Decision Support Techniques,E05.245
+"Investigative Techniques.Decision Support Techniques.Data Interpretation, Statistical",E05.245.380
+Investigative Techniques.Dermatoglyphics,E05.256
+Investigative Techniques.Dilatation,E05.284
+Investigative Techniques.Drug Discovery,E05.295
+Investigative Techniques.Drug Discovery.Drug Design,E05.295.500
+Investigative Techniques.Drug Discovery.Drug Design.Polypharmacology,E05.295.500.500
+"Investigative Techniques.Drug Discovery.Drug Evaluation, Preclinical",E05.295.750
+Investigative Techniques.Drug Discovery.Drug Repositioning,E05.295.875
+Investigative Techniques.Ecological Parameter Monitoring,E05.298
+Investigative Techniques.Electrochemical Techniques,E05.301
+Investigative Techniques.Electrochemical Techniques.Conductometry,E05.301.160
+Investigative Techniques.Electrochemical Techniques.Electrolysis,E05.301.250
+Investigative Techniques.Electrochemical Techniques.Electrolysis.Electroplating,E05.301.250.348
+Investigative Techniques.Electrochemical Techniques.Electroosmosis,E05.301.270
+Investigative Techniques.Electrochemical Techniques.Electrophoresis,E05.301.300
+Investigative Techniques.Electrochemical Techniques.Electrophoresis.Blood Protein Electrophoresis,E05.301.300.049
+"Investigative Techniques.Electrochemical Techniques.Electrophoresis.Blotting, Northern",E05.301.300.074
+"Investigative Techniques.Electrochemical Techniques.Electrophoresis.Blotting, Southern",E05.301.300.087
+"Investigative Techniques.Electrochemical Techniques.Electrophoresis.Blotting, Southwestern",E05.301.300.093
+"Investigative Techniques.Electrochemical Techniques.Electrophoresis.Blotting, Western",E05.301.300.096
+"Investigative Techniques.Electrochemical Techniques.Electrophoresis.Blotting, Western.Blotting, Far-Western",E05.301.300.096.500
+"Investigative Techniques.Electrochemical Techniques.Electrophoresis.Electrophoresis, Agar Gel",E05.301.300.100
+"Investigative Techniques.Electrochemical Techniques.Electrophoresis.Electrophoresis, Agar Gel.Comet Assay",E05.301.300.100.150
+"Investigative Techniques.Electrochemical Techniques.Electrophoresis.Electrophoresis, Capillary",E05.301.300.190
+"Investigative Techniques.Electrochemical Techniques.Electrophoresis.Electrophoresis, Capillary.Capillary Electrochromatography",E05.301.300.190.500
+"Investigative Techniques.Electrochemical Techniques.Electrophoresis.Electrophoresis, Cellulose Acetate",E05.301.300.200
+"Investigative Techniques.Electrochemical Techniques.Electrophoresis.Electrophoresis, Gel, Pulsed-Field",E05.301.300.220
+"Investigative Techniques.Electrochemical Techniques.Electrophoresis.Electrophoresis, Gel, Two-Dimensional",E05.301.300.230
+"Investigative Techniques.Electrochemical Techniques.Electrophoresis.Electrophoresis, Gel, Two-Dimensional.Two-Dimensional Difference Gel Electrophoresis",E05.301.300.230.500
+"Investigative Techniques.Electrochemical Techniques.Electrophoresis.Electrophoresis, Paper",E05.301.300.236
+"Investigative Techniques.Electrochemical Techniques.Electrophoresis.Electrophoresis, Polyacrylamide Gel",E05.301.300.319
+"Investigative Techniques.Electrochemical Techniques.Electrophoresis.Electrophoresis, Polyacrylamide Gel.Denaturing Gradient Gel Electrophoresis",E05.301.300.319.201
+"Investigative Techniques.Electrochemical Techniques.Electrophoresis.Electrophoresis, Polyacrylamide Gel.Electrophoresis, Disc",E05.301.300.319.403
+"Investigative Techniques.Electrochemical Techniques.Electrophoresis.Electrophoresis, Polyacrylamide Gel.Native Polyacrylamide Gel Electrophoresis",E05.301.300.319.725
+"Investigative Techniques.Electrochemical Techniques.Electrophoresis.Electrophoresis, Starch Gel",E05.301.300.402
+Investigative Techniques.Electrochemical Techniques.Electrophoresis.Immunoelectrophoresis,E05.301.300.568
+Investigative Techniques.Electrochemical Techniques.Electrophoresis.Immunoelectrophoresis.Counterimmunoelectrophoresis,E05.301.300.568.250
+"Investigative Techniques.Electrochemical Techniques.Electrophoresis.Immunoelectrophoresis.Immunoelectrophoresis, Two-Dimensional",E05.301.300.568.520
+Investigative Techniques.Electrochemical Techniques.Electrophoresis.Iontophoresis,E05.301.300.575
+Investigative Techniques.Electrochemical Techniques.Electrophoresis.Isoelectric Focusing,E05.301.300.663
+Investigative Techniques.Electrochemical Techniques.Electrophoresis.Isoelectric Focusing.Isoelectric Point,E05.301.300.663.500
+Investigative Techniques.Electrochemical Techniques.Electrophoresis.Isotachophoresis,E05.301.300.831
+Investigative Techniques.Electrochemical Techniques.Electroporation,E05.301.500
+Investigative Techniques.Electrochemical Techniques.Electroporation.Electrochemotherapy,E05.301.500.500
+Investigative Techniques.Electrochemical Techniques.Polarography,E05.301.700
+Investigative Techniques.Electrochemical Techniques.Potentiometry,E05.301.710
+Investigative Techniques.Embryo Research,E05.313
+Investigative Techniques.Embryo Research.Research Embryo Creation,E05.313.750
+Investigative Techniques.Endpoint Determination,E05.315
+Investigative Techniques.Epidemiologic Methods,E05.318
+Investigative Techniques.Epidemiologic Methods.Contact Tracing,E05.318.270
+Investigative Techniques.Epidemiologic Methods.Data Collection,E05.318.308
+Investigative Techniques.Epidemiologic Methods.Data Collection.Data Accuracy,E05.318.308.028
+Investigative Techniques.Epidemiologic Methods.Data Collection.Datasets as Topic,E05.318.308.056
+Investigative Techniques.Epidemiologic Methods.Data Collection.Focus Groups,E05.318.308.112
+Investigative Techniques.Epidemiologic Methods.Data Collection.Geriatric Assessment,E05.318.308.225
+Investigative Techniques.Epidemiologic Methods.Data Collection.Health Impact Assessment,E05.318.308.237
+Investigative Techniques.Epidemiologic Methods.Data Collection.Interviews as Topic,E05.318.308.420
+Investigative Techniques.Epidemiologic Methods.Data Collection.Lot Quality Assurance Sampling,E05.318.308.461
+Investigative Techniques.Epidemiologic Methods.Data Collection.Narration,E05.318.308.502
+Investigative Techniques.Epidemiologic Methods.Data Collection.Nutrition Assessment,E05.318.308.585
+Investigative Techniques.Epidemiologic Methods.Data Collection.Preliminary Data,E05.318.308.763
+Investigative Techniques.Epidemiologic Methods.Data Collection.Records as Topic,E05.318.308.940
+Investigative Techniques.Epidemiologic Methods.Data Collection.Records as Topic.Birth Certificates,E05.318.308.940.250
+Investigative Techniques.Epidemiologic Methods.Data Collection.Records as Topic.Death Certificates,E05.318.308.940.350
+Investigative Techniques.Epidemiologic Methods.Data Collection.Records as Topic.Dental Records,E05.318.308.940.375
+Investigative Techniques.Epidemiologic Methods.Data Collection.Records as Topic.Hospital Records,E05.318.308.940.425
+Investigative Techniques.Epidemiologic Methods.Data Collection.Records as Topic.Medical Records,E05.318.308.940.968
+"Investigative Techniques.Epidemiologic Methods.Data Collection.Records as Topic.Medical Records.Health Records, Personal",E05.318.308.940.968.249
+"Investigative Techniques.Epidemiologic Methods.Data Collection.Records as Topic.Medical Records.Health Records, Personal.Patient Generated Health Data",E05.318.308.940.968.249.625
+"Investigative Techniques.Epidemiologic Methods.Data Collection.Records as Topic.Medical Records.Health Records, Personal.Patient Portals",E05.318.308.940.968.249.750
+Investigative Techniques.Epidemiologic Methods.Data Collection.Records as Topic.Medical Records.Medical Record Linkage,E05.318.308.940.968.500
+"Investigative Techniques.Epidemiologic Methods.Data Collection.Records as Topic.Medical Records.Medical Records, Problem-Oriented",E05.318.308.940.968.550
+"Investigative Techniques.Epidemiologic Methods.Data Collection.Records as Topic.Medical Records.Medical Records Systems, Computerized",E05.318.308.940.968.625
+"Investigative Techniques.Epidemiologic Methods.Data Collection.Records as Topic.Medical Records.Medical Records Systems, Computerized.Electronic Health Records",E05.318.308.940.968.625.500
+"Investigative Techniques.Epidemiologic Methods.Data Collection.Records as Topic.Medical Records.Medical Records Systems, Computerized.Electronic Health Records.Health Information Exchange",E05.318.308.940.968.625.500.500
+"Investigative Techniques.Epidemiologic Methods.Data Collection.Records as Topic.Medical Records.Medical Records Systems, Computerized.Health Smart Cards",E05.318.308.940.968.625.750
+Investigative Techniques.Epidemiologic Methods.Data Collection.Records as Topic.Medical Records.Trauma Severity Indices,E05.318.308.940.968.875
+Investigative Techniques.Epidemiologic Methods.Data Collection.Records as Topic.Medical Records.Trauma Severity Indices.Abbreviated Injury Scale,E05.318.308.940.968.875.125
+Investigative Techniques.Epidemiologic Methods.Data Collection.Records as Topic.Medical Records.Trauma Severity Indices.Glasgow Coma Scale,E05.318.308.940.968.875.250
+Investigative Techniques.Epidemiologic Methods.Data Collection.Records as Topic.Medical Records.Trauma Severity Indices.Glasgow Outcome Scale,E05.318.308.940.968.875.260
+Investigative Techniques.Epidemiologic Methods.Data Collection.Records as Topic.Medical Records.Trauma Severity Indices.Injury Severity Score,E05.318.308.940.968.875.500
+Investigative Techniques.Epidemiologic Methods.Data Collection.Records as Topic.Nursing Records,E05.318.308.940.984
+Investigative Techniques.Epidemiologic Methods.Data Collection.Registries,E05.318.308.970
+Investigative Techniques.Epidemiologic Methods.Data Collection.Registries.SEER Program,E05.318.308.970.725
+Investigative Techniques.Epidemiologic Methods.Data Collection.Surveys and Questionnaires,E05.318.308.980
+Investigative Techniques.Epidemiologic Methods.Data Collection.Surveys and Questionnaires.Contraceptive Prevalence Surveys,E05.318.308.980.313
+Investigative Techniques.Epidemiologic Methods.Data Collection.Surveys and Questionnaires.Health Care Surveys,E05.318.308.980.344
+Investigative Techniques.Epidemiologic Methods.Data Collection.Surveys and Questionnaires.Health Care Surveys.Patient Reported Outcome Measures,E05.318.308.980.344.500
+Investigative Techniques.Epidemiologic Methods.Data Collection.Surveys and Questionnaires.Health Surveys,E05.318.308.980.438
+Investigative Techniques.Epidemiologic Methods.Data Collection.Surveys and Questionnaires.Health Surveys.Behavioral Risk Factor Surveillance System,E05.318.308.980.438.149
+Investigative Techniques.Epidemiologic Methods.Data Collection.Surveys and Questionnaires.Health Surveys.Dental Health Surveys,E05.318.308.980.438.300
+Investigative Techniques.Epidemiologic Methods.Data Collection.Surveys and Questionnaires.Health Surveys.Dental Health Surveys.Dental Plaque Index,E05.318.308.980.438.300.300
+Investigative Techniques.Epidemiologic Methods.Data Collection.Surveys and Questionnaires.Health Surveys.Dental Health Surveys.DMF Index,E05.318.308.980.438.300.350
+Investigative Techniques.Epidemiologic Methods.Data Collection.Surveys and Questionnaires.Health Surveys.Dental Health Surveys.Index of Orthodontic Treatment Need,E05.318.308.980.438.300.512
+Investigative Techniques.Epidemiologic Methods.Data Collection.Surveys and Questionnaires.Health Surveys.Dental Health Surveys.Oral Hygiene Index,E05.318.308.980.438.300.675
+Investigative Techniques.Epidemiologic Methods.Data Collection.Surveys and Questionnaires.Health Surveys.Dental Health Surveys.Periodontal Index,E05.318.308.980.438.300.725
+Investigative Techniques.Epidemiologic Methods.Data Collection.Surveys and Questionnaires.Health Surveys.Health Status Indicators,E05.318.308.980.438.475
+Investigative Techniques.Epidemiologic Methods.Data Collection.Surveys and Questionnaires.Health Surveys.Health Status Indicators.APACHE,E05.318.308.980.438.475.365
+Investigative Techniques.Epidemiologic Methods.Data Collection.Surveys and Questionnaires.Health Surveys.Health Status Indicators.Patient Acuity,E05.318.308.980.438.475.456
+Investigative Techniques.Epidemiologic Methods.Data Collection.Surveys and Questionnaires.Health Surveys.Health Status Indicators.Patient Acuity.Severity of Illness Index,E05.318.308.980.438.475.456.500
+Investigative Techniques.Epidemiologic Methods.Data Collection.Surveys and Questionnaires.Health Surveys.Health Status Indicators.Patient Acuity.Severity of Illness Index.APACHE,E05.318.308.980.438.475.456.500.250
+Investigative Techniques.Epidemiologic Methods.Data Collection.Surveys and Questionnaires.Health Surveys.Health Status Indicators.Patient Acuity.Severity of Illness Index.Karnofsky Performance Status,E05.318.308.980.438.475.456.500.500
+Investigative Techniques.Epidemiologic Methods.Data Collection.Surveys and Questionnaires.Health Surveys.Health Status Indicators.Patient Acuity.Severity of Illness Index.Organ Dysfunction Scores,E05.318.308.980.438.475.456.500.625
+Investigative Techniques.Epidemiologic Methods.Data Collection.Surveys and Questionnaires.Health Surveys.Health Status Indicators.Patient Acuity.Severity of Illness Index.Simplified Acute Physiology Score,E05.318.308.980.438.475.456.500.750
+Investigative Techniques.Epidemiologic Methods.Data Collection.Surveys and Questionnaires.Health Surveys.Health Status Indicators.Sickness Impact Profile,E05.318.308.980.438.475.730
+Investigative Techniques.Epidemiologic Methods.Data Collection.Surveys and Questionnaires.Health Surveys.Mass Screening,E05.318.308.980.438.580
+Investigative Techniques.Epidemiologic Methods.Data Collection.Surveys and Questionnaires.Health Surveys.Mass Screening.Anonymous Testing,E05.318.308.980.438.580.174
+Investigative Techniques.Epidemiologic Methods.Data Collection.Surveys and Questionnaires.Health Surveys.Mass Screening.Mass Chest X-Ray,E05.318.308.980.438.580.510
+Investigative Techniques.Epidemiologic Methods.Data Collection.Surveys and Questionnaires.Health Surveys.Mass Screening.Multiphasic Screening,E05.318.308.980.438.580.560
+Investigative Techniques.Epidemiologic Methods.Data Collection.Surveys and Questionnaires.Health Surveys.Mass Screening.Neonatal Screening,E05.318.308.980.438.580.580
+Investigative Techniques.Epidemiologic Methods.Data Collection.Surveys and Questionnaires.Health Surveys.Mass Screening.Vision Screening,E05.318.308.980.438.580.925
+Investigative Techniques.Epidemiologic Methods.Data Collection.Surveys and Questionnaires.Health Surveys.Population Surveillance,E05.318.308.980.438.700
+Investigative Techniques.Epidemiologic Methods.Data Collection.Surveys and Questionnaires.Health Surveys.Population Surveillance.Public Health Surveillance,E05.318.308.980.438.700.324
+Investigative Techniques.Epidemiologic Methods.Data Collection.Surveys and Questionnaires.Health Surveys.Population Surveillance.Sentinel Surveillance,E05.318.308.980.438.700.650
+Investigative Techniques.Epidemiologic Methods.Data Collection.Surveys and Questionnaires.Nutrition Surveys,E05.318.308.980.485
+Investigative Techniques.Epidemiologic Methods.Data Collection.Surveys and Questionnaires.Nutrition Surveys.Diet Surveys,E05.318.308.980.485.350
+Investigative Techniques.Epidemiologic Methods.Data Collection.Surveys and Questionnaires.Patient Health Questionnaire,E05.318.308.980.493
+Investigative Techniques.Epidemiologic Methods.Data Collection.Surveys and Questionnaires.Self Report,E05.318.308.980.500
+Investigative Techniques.Epidemiologic Methods.Data Collection.Vital Statistics,E05.318.308.985
+Investigative Techniques.Epidemiologic Methods.Data Collection.Vital Statistics.Life Expectancy,E05.318.308.985.450
+Investigative Techniques.Epidemiologic Methods.Data Collection.Vital Statistics.Life Tables,E05.318.308.985.475
+Investigative Techniques.Epidemiologic Methods.Data Collection.Vital Statistics.Morbidity,E05.318.308.985.525
+Investigative Techniques.Epidemiologic Methods.Data Collection.Vital Statistics.Morbidity.Basic Reproduction Number,E05.318.308.985.525.080
+Investigative Techniques.Epidemiologic Methods.Data Collection.Vital Statistics.Morbidity.Incidence,E05.318.308.985.525.375
+Investigative Techniques.Epidemiologic Methods.Data Collection.Vital Statistics.Morbidity.Prevalence,E05.318.308.985.525.750
+Investigative Techniques.Epidemiologic Methods.Data Collection.Vital Statistics.Mortality,E05.318.308.985.550
+Investigative Techniques.Epidemiologic Methods.Data Collection.Vital Statistics.Mortality.Cause of Death,E05.318.308.985.550.250
+Investigative Techniques.Epidemiologic Methods.Data Collection.Vital Statistics.Mortality.Child Mortality,E05.318.308.985.550.287
+Investigative Techniques.Epidemiologic Methods.Data Collection.Vital Statistics.Mortality.Fatal Outcome,E05.318.308.985.550.325
+Investigative Techniques.Epidemiologic Methods.Data Collection.Vital Statistics.Mortality.Fetal Mortality,E05.318.308.985.550.362
+Investigative Techniques.Epidemiologic Methods.Data Collection.Vital Statistics.Mortality.Hospital Mortality,E05.318.308.985.550.400
+Investigative Techniques.Epidemiologic Methods.Data Collection.Vital Statistics.Mortality.Infant Mortality,E05.318.308.985.550.475
+Investigative Techniques.Epidemiologic Methods.Data Collection.Vital Statistics.Mortality.Infant Mortality.Perinatal Mortality,E05.318.308.985.550.475.500
+Investigative Techniques.Epidemiologic Methods.Data Collection.Vital Statistics.Mortality.Maternal Mortality,E05.318.308.985.550.500
+"Investigative Techniques.Epidemiologic Methods.Data Collection.Vital Statistics.Mortality.Mortality, Premature",E05.318.308.985.550.550
+Investigative Techniques.Epidemiologic Methods.Data Collection.Vital Statistics.Mortality.Survival Rate,E05.318.308.985.550.900
+Investigative Techniques.Epidemiologic Methods.Data Collection.Vital Statistics.Pregnancy Rate,E05.318.308.985.775
+Investigative Techniques.Epidemiologic Methods.Data Collection.Vital Statistics.Pregnancy Rate.Birth Rate,E05.318.308.985.775.500
+Investigative Techniques.Epidemiologic Methods.Disease Notification,E05.318.362
+Investigative Techniques.Epidemiologic Methods.Epidemiological Monitoring,E05.318.375
+Investigative Techniques.Epidemiologic Methods.Geographic Mapping,E05.318.389
+Investigative Techniques.Epidemiologic Methods.Molecular Epidemiology,E05.318.416
+Investigative Techniques.Epidemiologic Methods.Molecular Epidemiology.Genome-Wide Association Study,E05.318.416.249
+Investigative Techniques.Epidemiologic Methods.Molecular Epidemiology.Mendelian Randomization Analysis,E05.318.416.500
+Investigative Techniques.Epidemiologic Methods.Sentinel Surveillance,E05.318.650
+Investigative Techniques.Epidemiologic Methods.Statistics as Topic,E05.318.740
+Investigative Techniques.Epidemiologic Methods.Statistics as Topic.Actuarial Analysis,E05.318.740.100
+Investigative Techniques.Epidemiologic Methods.Statistics as Topic.Actuarial Analysis.Life Tables,E05.318.740.100.500
+Investigative Techniques.Epidemiologic Methods.Statistics as Topic.Actuarial Analysis.Life Tables.Quality-Adjusted Life Years,E05.318.740.100.500.700
+Investigative Techniques.Epidemiologic Methods.Statistics as Topic.Analysis of Variance,E05.318.740.150
+Investigative Techniques.Epidemiologic Methods.Statistics as Topic.Analysis of Variance.Multivariate Analysis,E05.318.740.150.500
+Investigative Techniques.Epidemiologic Methods.Statistics as Topic.Area Under Curve,E05.318.740.200
+Investigative Techniques.Epidemiologic Methods.Statistics as Topic.Biometry,E05.318.740.225
+Investigative Techniques.Epidemiologic Methods.Statistics as Topic.Biometry.Biometric Identification,E05.318.740.225.500
+Investigative Techniques.Epidemiologic Methods.Statistics as Topic.Biometry.Biometric Identification.DNA Fingerprinting,E05.318.740.225.500.500
+Investigative Techniques.Epidemiologic Methods.Statistics as Topic.Biostatistics,E05.318.740.237
+Investigative Techniques.Epidemiologic Methods.Statistics as Topic.Cluster Analysis,E05.318.740.250
+Investigative Techniques.Epidemiologic Methods.Statistics as Topic.Cluster Analysis.Small-Area Analysis,E05.318.740.250.675
+Investigative Techniques.Epidemiologic Methods.Statistics as Topic.Cluster Analysis.Space-Time Clustering,E05.318.740.250.700
+Investigative Techniques.Epidemiologic Methods.Statistics as Topic.Confidence Intervals,E05.318.740.275
+"Investigative Techniques.Epidemiologic Methods.Statistics as Topic.Data Interpretation, Statistical",E05.318.740.300
+Investigative Techniques.Epidemiologic Methods.Statistics as Topic.Discriminant Analysis,E05.318.740.350
+"Investigative Techniques.Epidemiologic Methods.Statistics as Topic.Factor Analysis, Statistical",E05.318.740.400
+Investigative Techniques.Epidemiologic Methods.Statistics as Topic.Matched-Pair Analysis,E05.318.740.475
+"Investigative Techniques.Epidemiologic Methods.Statistics as Topic.Models, Statistical",E05.318.740.500
+"Investigative Techniques.Epidemiologic Methods.Statistics as Topic.Models, Statistical.Likelihood Functions",E05.318.740.500.475
+"Investigative Techniques.Epidemiologic Methods.Statistics as Topic.Models, Statistical.Linear Models",E05.318.740.500.500
+"Investigative Techniques.Epidemiologic Methods.Statistics as Topic.Models, Statistical.Logistic Models",E05.318.740.500.525
+"Investigative Techniques.Epidemiologic Methods.Statistics as Topic.Models, Statistical.Models, Economic",E05.318.740.500.600
+"Investigative Techniques.Epidemiologic Methods.Statistics as Topic.Models, Statistical.Models, Economic.Models, Econometric",E05.318.740.500.600.500
+"Investigative Techniques.Epidemiologic Methods.Statistics as Topic.Models, Statistical.Nomograms",E05.318.740.500.625
+"Investigative Techniques.Epidemiologic Methods.Statistics as Topic.Models, Statistical.Proportional Hazards Models",E05.318.740.500.700
+Investigative Techniques.Epidemiologic Methods.Statistics as Topic.Monte Carlo Method,E05.318.740.525
+Investigative Techniques.Epidemiologic Methods.Statistics as Topic.Principal Component Analysis,E05.318.740.562
+Investigative Techniques.Epidemiologic Methods.Statistics as Topic.Probability,E05.318.740.600
+Investigative Techniques.Epidemiologic Methods.Statistics as Topic.Probability.Bayes Theorem,E05.318.740.600.200
+Investigative Techniques.Epidemiologic Methods.Statistics as Topic.Probability.Likelihood Functions,E05.318.740.600.400
+Investigative Techniques.Epidemiologic Methods.Statistics as Topic.Probability.Markov Chains,E05.318.740.600.500
+Investigative Techniques.Epidemiologic Methods.Statistics as Topic.Probability.Odds Ratio,E05.318.740.600.600
+Investigative Techniques.Epidemiologic Methods.Statistics as Topic.Probability.Position-Specific Scoring Matrices,E05.318.740.600.650
+Investigative Techniques.Epidemiologic Methods.Statistics as Topic.Probability.Propensity Score,E05.318.740.600.675
+Investigative Techniques.Epidemiologic Methods.Statistics as Topic.Probability.Proportional Hazards Models,E05.318.740.600.700
+Investigative Techniques.Epidemiologic Methods.Statistics as Topic.Probability.Risk,E05.318.740.600.800
+Investigative Techniques.Epidemiologic Methods.Statistics as Topic.Probability.Risk.Logistic Models,E05.318.740.600.800.450
+Investigative Techniques.Epidemiologic Methods.Statistics as Topic.Probability.Risk.Protective Factors,E05.318.740.600.800.582
+Investigative Techniques.Epidemiologic Methods.Statistics as Topic.Probability.Risk.Risk Assessment,E05.318.740.600.800.715
+Investigative Techniques.Epidemiologic Methods.Statistics as Topic.Probability.Risk.Risk Assessment.Adverse Outcome Pathways,E05.318.740.600.800.715.250
+Investigative Techniques.Epidemiologic Methods.Statistics as Topic.Probability.Risk.Risk Assessment.Healthcare Failure Mode and Effect Analysis,E05.318.740.600.800.715.500
+Investigative Techniques.Epidemiologic Methods.Statistics as Topic.Probability.Risk.Risk Factors,E05.318.740.600.800.725
+Investigative Techniques.Epidemiologic Methods.Statistics as Topic.Probability.Uncertainty,E05.318.740.600.900
+Investigative Techniques.Epidemiologic Methods.Statistics as Topic.Regression Analysis,E05.318.740.750
+Investigative Techniques.Epidemiologic Methods.Statistics as Topic.Regression Analysis.Least-Squares Analysis,E05.318.740.750.400
+Investigative Techniques.Epidemiologic Methods.Statistics as Topic.Regression Analysis.Linear Models,E05.318.740.750.425
+Investigative Techniques.Epidemiologic Methods.Statistics as Topic.Regression Analysis.Logistic Models,E05.318.740.750.450
+Investigative Techniques.Epidemiologic Methods.Statistics as Topic.Regression Analysis.Proportional Hazards Models,E05.318.740.750.725
+Investigative Techniques.Epidemiologic Methods.Statistics as Topic.Regression Analysis.Spatial Regression,E05.318.740.750.862
+Investigative Techniques.Epidemiologic Methods.Statistics as Topic.Sensitivity and Specificity,E05.318.740.872
+Investigative Techniques.Epidemiologic Methods.Statistics as Topic.Sensitivity and Specificity.Limit of Detection,E05.318.740.872.374
+Investigative Techniques.Epidemiologic Methods.Statistics as Topic.Sensitivity and Specificity.ROC Curve,E05.318.740.872.750
+Investigative Techniques.Epidemiologic Methods.Statistics as Topic.Sensitivity and Specificity.Signal-To-Noise Ratio,E05.318.740.872.875
+Investigative Techniques.Epidemiologic Methods.Statistics as Topic.Spatial Analysis,E05.318.740.933
+Investigative Techniques.Epidemiologic Methods.Statistics as Topic.Spatial Analysis.Geographic Mapping,E05.318.740.933.249
+Investigative Techniques.Epidemiologic Methods.Statistics as Topic.Spatial Analysis.Spatial Regression,E05.318.740.933.375
+Investigative Techniques.Epidemiologic Methods.Statistics as Topic.Spatial Analysis.Spatio-Temporal Analysis,E05.318.740.933.500
+Investigative Techniques.Epidemiologic Methods.Statistics as Topic.Statistical Distributions,E05.318.740.994
+Investigative Techniques.Epidemiologic Methods.Statistics as Topic.Statistical Distributions.Binomial Distribution,E05.318.740.994.250
+Investigative Techniques.Epidemiologic Methods.Statistics as Topic.Statistical Distributions.Chi-Square Distribution,E05.318.740.994.300
+Investigative Techniques.Epidemiologic Methods.Statistics as Topic.Statistical Distributions.Normal Distribution,E05.318.740.994.500
+Investigative Techniques.Epidemiologic Methods.Statistics as Topic.Statistical Distributions.Poisson Distribution,E05.318.740.994.750
+"Investigative Techniques.Epidemiologic Methods.Statistics as Topic.Statistics, Nonparametric",E05.318.740.995
+Investigative Techniques.Epidemiologic Methods.Statistics as Topic.Stochastic Processes,E05.318.740.996
+Investigative Techniques.Epidemiologic Methods.Statistics as Topic.Stochastic Processes.Markov Chains,E05.318.740.996.500
+Investigative Techniques.Epidemiologic Methods.Statistics as Topic.Survival Analysis,E05.318.740.998
+Investigative Techniques.Epidemiologic Methods.Statistics as Topic.Survival Analysis.Disease-Free Survival,E05.318.740.998.300
+Investigative Techniques.Epidemiologic Methods.Statistics as Topic.Survival Analysis.Kaplan-Meier Estimate,E05.318.740.998.650
+Investigative Techniques.Epidemiologic Methods.Statistics as Topic.Survival Analysis.Proportional Hazards Models,E05.318.740.998.825
+Investigative Techniques.Epidemiologic Methods.Epidemiologic Study Characteristics,E05.318.760
+Investigative Techniques.Epidemiologic Methods.Epidemiologic Study Characteristics.Clinical Studies as Topic,E05.318.760.250
+Investigative Techniques.Epidemiologic Methods.Epidemiologic Study Characteristics.Clinical Studies as Topic.Clinical Trials as Topic,E05.318.760.250.500
+Investigative Techniques.Epidemiologic Methods.Epidemiologic Study Characteristics.Clinical Studies as Topic.Clinical Trials as Topic.Adaptive Clinical Trials as Topic,E05.318.760.250.500.100
+"Investigative Techniques.Epidemiologic Methods.Epidemiologic Study Characteristics.Clinical Studies as Topic.Clinical Trials as Topic.Clinical Trials, Phase I as Topic",E05.318.760.250.500.200
+"Investigative Techniques.Epidemiologic Methods.Epidemiologic Study Characteristics.Clinical Studies as Topic.Clinical Trials as Topic.Clinical Trials, Phase II as Topic",E05.318.760.250.500.210
+"Investigative Techniques.Epidemiologic Methods.Epidemiologic Study Characteristics.Clinical Studies as Topic.Clinical Trials as Topic.Clinical Trials, Phase III as Topic",E05.318.760.250.500.220
+"Investigative Techniques.Epidemiologic Methods.Epidemiologic Study Characteristics.Clinical Studies as Topic.Clinical Trials as Topic.Clinical Trials, Phase IV as Topic",E05.318.760.250.500.230
+Investigative Techniques.Epidemiologic Methods.Epidemiologic Study Characteristics.Clinical Studies as Topic.Clinical Trials as Topic.Controlled Clinical Trials as Topic,E05.318.760.250.500.365
+Investigative Techniques.Epidemiologic Methods.Epidemiologic Study Characteristics.Clinical Studies as Topic.Clinical Trials as Topic.Controlled Clinical Trials as Topic.Non-Randomized Controlled Trials as Topic,E05.318.760.250.500.365.250
+Investigative Techniques.Epidemiologic Methods.Epidemiologic Study Characteristics.Clinical Studies as Topic.Clinical Trials as Topic.Controlled Clinical Trials as Topic.Randomized Controlled Trials as Topic,E05.318.760.250.500.365.500
+Investigative Techniques.Epidemiologic Methods.Epidemiologic Study Characteristics.Clinical Studies as Topic.Clinical Trials as Topic.Controlled Clinical Trials as Topic.Randomized Controlled Trials as Topic.Equivalence Trials as Topic,E05.318.760.250.500.365.500.125
+Investigative Techniques.Epidemiologic Methods.Epidemiologic Study Characteristics.Clinical Studies as Topic.Clinical Trials as Topic.Controlled Clinical Trials as Topic.Randomized Controlled Trials as Topic.Intention to Treat Analysis,E05.318.760.250.500.365.500.250
+Investigative Techniques.Epidemiologic Methods.Epidemiologic Study Characteristics.Clinical Studies as Topic.Clinical Trials as Topic.Controlled Clinical Trials as Topic.Randomized Controlled Trials as Topic.Pragmatic Clinical Trials as Topic,E05.318.760.250.500.365.500.500
+Investigative Techniques.Epidemiologic Methods.Epidemiologic Study Characteristics.Clinical Studies as Topic.Observational Studies as Topic,E05.318.760.250.750
+Investigative Techniques.Epidemiologic Methods.Epidemiologic Study Characteristics.Epidemiologic Studies,E05.318.760.500
+Investigative Techniques.Epidemiologic Methods.Epidemiologic Study Characteristics.Epidemiologic Studies.Case-Control Studies,E05.318.760.500.500
+Investigative Techniques.Epidemiologic Methods.Epidemiologic Study Characteristics.Epidemiologic Studies.Case-Control Studies.Retrospective Studies,E05.318.760.500.500.500
+Investigative Techniques.Epidemiologic Methods.Epidemiologic Study Characteristics.Epidemiologic Studies.Cohort Studies,E05.318.760.500.750
+Investigative Techniques.Epidemiologic Methods.Epidemiologic Study Characteristics.Epidemiologic Studies.Cohort Studies.Follow-Up Studies,E05.318.760.500.750.249
+Investigative Techniques.Epidemiologic Methods.Epidemiologic Study Characteristics.Epidemiologic Studies.Cohort Studies.Longitudinal Studies,E05.318.760.500.750.500
+Investigative Techniques.Epidemiologic Methods.Epidemiologic Study Characteristics.Epidemiologic Studies.Cohort Studies.Longitudinal Studies.National Longitudinal Study of Adolescent Health,E05.318.760.500.750.500.500
+Investigative Techniques.Epidemiologic Methods.Epidemiologic Study Characteristics.Epidemiologic Studies.Cohort Studies.Prospective Studies,E05.318.760.500.750.625
+Investigative Techniques.Epidemiologic Methods.Epidemiologic Study Characteristics.Epidemiologic Studies.Cohort Studies.Retrospective Studies,E05.318.760.500.750.750
+Investigative Techniques.Epidemiologic Methods.Epidemiologic Study Characteristics.Epidemiologic Studies.Controlled Before-After Studies,E05.318.760.500.812
+Investigative Techniques.Epidemiologic Methods.Epidemiologic Study Characteristics.Epidemiologic Studies.Cross-Sectional Studies,E05.318.760.500.875
+Investigative Techniques.Epidemiologic Methods.Epidemiologic Study Characteristics.Epidemiologic Studies.Historically Controlled Study,E05.318.760.500.912
+Investigative Techniques.Epidemiologic Methods.Epidemiologic Study Characteristics.Epidemiologic Studies.Interrupted Time Series Analysis,E05.318.760.500.931
+Investigative Techniques.Epidemiologic Methods.Epidemiologic Study Characteristics.Epidemiologic Studies.Seroepidemiologic Studies,E05.318.760.500.950
+Investigative Techniques.Epidemiologic Methods.Epidemiologic Study Characteristics.Epidemiologic Studies.Seroepidemiologic Studies.HIV Seroprevalence,E05.318.760.500.950.375
+Investigative Techniques.Epidemiologic Methods.Epidemiologic Study Characteristics.Feasibility Studies,E05.318.760.550
+Investigative Techniques.Epidemiologic Methods.Epidemiologic Study Characteristics.Multicenter Studies as Topic,E05.318.760.658
+Investigative Techniques.Epidemiologic Methods.Epidemiologic Study Characteristics.Pilot Projects,E05.318.760.750
+Investigative Techniques.Epidemiologic Methods.Epidemiologic Study Characteristics.Sampling Studies,E05.318.760.875
+Investigative Techniques.Epidemiologic Methods.Epidemiologic Study Characteristics.Twin Studies as Topic,E05.318.760.900
+Investigative Techniques.Epidemiologic Methods.Epidemiologic Research Design,E05.318.780
+Investigative Techniques.Epidemiologic Methods.Epidemiologic Research Design.Control Groups,E05.318.780.074
+Investigative Techniques.Epidemiologic Methods.Epidemiologic Research Design.Cross-Over Studies,E05.318.780.150
+Investigative Techniques.Epidemiologic Methods.Epidemiologic Research Design.Double-Blind Method,E05.318.780.300
+Investigative Techniques.Epidemiologic Methods.Epidemiologic Research Design.Genome-Wide Association Study,E05.318.780.392
+Investigative Techniques.Epidemiologic Methods.Epidemiologic Research Design.Lost to Follow-Up,E05.318.780.438
+Investigative Techniques.Epidemiologic Methods.Epidemiologic Research Design.Matched-Pair Analysis,E05.318.780.485
+Investigative Techniques.Epidemiologic Methods.Epidemiologic Research Design.Meta-Analysis as Topic,E05.318.780.500
+Investigative Techniques.Epidemiologic Methods.Epidemiologic Research Design.Meta-Analysis as Topic.Network Meta-Analysis,E05.318.780.500.500
+Investigative Techniques.Epidemiologic Methods.Epidemiologic Research Design.Random Allocation,E05.318.780.700
+Investigative Techniques.Epidemiologic Methods.Epidemiologic Research Design.Reproducibility of Results,E05.318.780.725
+Investigative Techniques.Epidemiologic Methods.Epidemiologic Research Design.Reproducibility of Results.Data Accuracy,E05.318.780.725.250
+Investigative Techniques.Epidemiologic Methods.Epidemiologic Research Design.Reproducibility of Results.Data Accuracy.Scientific Experimental Error,E05.318.780.725.250.500
+Investigative Techniques.Epidemiologic Methods.Epidemiologic Research Design.Reproducibility of Results.Dimensional Measurement Accuracy,E05.318.780.725.500
+Investigative Techniques.Epidemiologic Methods.Epidemiologic Research Design.Sample Size,E05.318.780.762
+Investigative Techniques.Epidemiologic Methods.Epidemiologic Research Design.Sensitivity and Specificity,E05.318.780.800
+Investigative Techniques.Epidemiologic Methods.Epidemiologic Research Design.Sensitivity and Specificity.Predictive Value of Tests,E05.318.780.800.650
+Investigative Techniques.Epidemiologic Methods.Epidemiologic Research Design.Sensitivity and Specificity.ROC Curve,E05.318.780.800.750
+Investigative Techniques.Epidemiologic Methods.Epidemiologic Research Design.Sensitivity and Specificity.Signal-To-Noise Ratio,E05.318.780.800.875
+Investigative Techniques.Epidemiologic Methods.Epidemiologic Research Design.Single-Blind Method,E05.318.780.850
+Investigative Techniques.Equipment Design,E05.320
+Investigative Techniques.Equipment Design.Orthodontic Appliance Design,E05.320.274
+Investigative Techniques.Equipment Design.Prosthesis Design,E05.320.550
+Investigative Techniques.Equipment Design.Prosthesis Design.Prosthesis Coloring,E05.320.550.550
+Investigative Techniques.Equipment Failure,E05.325
+Investigative Techniques.Equipment Failure.Catheter Obstruction,E05.325.095
+Investigative Techniques.Equipment Failure.Equipment Failure Analysis,E05.325.192
+Investigative Techniques.Equipment Failure.Intrauterine Device Migration,E05.325.578
+Investigative Techniques.Equipment Failure.Intrauterine Device Migration.Intrauterine Device Expulsion,E05.325.578.500
+Investigative Techniques.Equipment Failure.Prosthesis Failure,E05.325.771
+Investigative Techniques.Equipment Reuse,E05.328
+Investigative Techniques.Equipment Safety,E05.330
+Investigative Techniques.Ergometry,E05.333
+Investigative Techniques.Ergometry.Exercise Test,E05.333.250
+"Investigative Techniques.Euthanasia, Animal",E05.335
+Investigative Techniques.Evaluation Studies as Topic,E05.337
+Investigative Techniques.Evaluation Studies as Topic.Device Approval,E05.337.275
+Investigative Techniques.Evaluation Studies as Topic.Device Approval.Diagnostic Test Approval,E05.337.275.500
+Investigative Techniques.Evaluation Studies as Topic.Drug Approval,E05.337.300
+Investigative Techniques.Evaluation Studies as Topic.Drug Approval.Compassionate Use Trials,E05.337.300.199
+Investigative Techniques.Evaluation Studies as Topic.Drug Approval.Investigational New Drug Application,E05.337.300.400
+Investigative Techniques.Evaluation Studies as Topic.Drug Evaluation,E05.337.425
+"Investigative Techniques.Evaluation Studies as Topic.Drug Evaluation, Preclinical",E05.337.550
+"Investigative Techniques.Evaluation Studies as Topic.Drug Evaluation, Preclinical.Drug Screening Assays, Antitumor",E05.337.550.200
+"Investigative Techniques.Evaluation Studies as Topic.Drug Evaluation, Preclinical.Drug Screening Assays, Antitumor.Tumor Stem Cell Assay",E05.337.550.200.800
+"Investigative Techniques.Evaluation Studies as Topic.Drug Evaluation, Preclinical.Drug Screening Assays, Antitumor.Xenograft Model Antitumor Assays",E05.337.550.200.900
+"Investigative Techniques.Evaluation Studies as Topic.Drug Evaluation, Preclinical.Drug Screening Assays, Antitumor.Xenograft Model Antitumor Assays.Subrenal Capsule Assay",E05.337.550.200.900.830
+"Investigative Techniques.Evaluation Studies as Topic.Drug Evaluation, Preclinical.Microbial Sensitivity Tests",E05.337.550.400
+"Investigative Techniques.Evaluation Studies as Topic.Drug Evaluation, Preclinical.Microbial Sensitivity Tests.Serum Bactericidal Test",E05.337.550.400.800
+"Investigative Techniques.Evaluation Studies as Topic.Drug Evaluation, Preclinical.Parasitic Sensitivity Tests",E05.337.550.700
+Investigative Techniques.Evaluation Studies as Topic.Feasibility Studies,E05.337.675
+Investigative Techniques.Evaluation Studies as Topic.Pilot Projects,E05.337.737
+"Investigative Techniques.Evaluation Studies as Topic.Product Surveillance, Postmarketing",E05.337.800
+"Investigative Techniques.Evaluation Studies as Topic.Product Surveillance, Postmarketing.Adverse Drug Reaction Reporting Systems",E05.337.800.120
+"Investigative Techniques.Evaluation Studies as Topic.Product Surveillance, Postmarketing.Clinical Trials, Phase IV as Topic",E05.337.800.200
+"Investigative Techniques.Evaluation Studies as Topic.Product Surveillance, Postmarketing.Pharmacovigilance",E05.337.800.600
+"Investigative Techniques.Evaluation Studies as Topic.Product Surveillance, Postmarketing.Prescription Drug Monitoring Programs",E05.337.800.800
+Investigative Techniques.Evaluation Studies as Topic.Program Evaluation,E05.337.820
+Investigative Techniques.Evaluation Studies as Topic.Reproducibility of Results,E05.337.851
+Investigative Techniques.Evaluation Studies as Topic.Reproducibility of Results.Dimensional Measurement Accuracy,E05.337.851.500
+Investigative Techniques.Evaluation Studies as Topic.Validation Studies as Topic,E05.337.925
+Investigative Techniques.Fetal Research,E05.349
+Investigative Techniques.Finite Element Analysis,E05.355
+Investigative Techniques.Food Analysis,E05.362
+Investigative Techniques.Fourier Analysis,E05.377
+"Investigative Techniques.Games, Experimental",E05.385
+"Investigative Techniques.Games, Experimental.Prisoner Dilemma",E05.385.500
+Investigative Techniques.Genetic Techniques,E05.393
+Investigative Techniques.Genetic Techniques.Cellular Reprogramming Techniques,E05.393.085
+Investigative Techniques.Genetic Techniques.Cellular Reprogramming Techniques.Mitochondrial Replacement Therapy,E05.393.085.250
+Investigative Techniques.Genetic Techniques.Cellular Reprogramming Techniques.Nuclear Transfer Techniques,E05.393.085.500
+Investigative Techniques.Genetic Techniques.Chromatin Immunoprecipitation,E05.393.170
+Investigative Techniques.Genetic Techniques.Chromosome Mapping,E05.393.183
+Investigative Techniques.Genetic Techniques.Chromosome Mapping.Chromosome Walking,E05.393.183.250
+Investigative Techniques.Genetic Techniques.Chromosome Mapping.Physical Chromosome Mapping,E05.393.183.620
+Investigative Techniques.Genetic Techniques.Chromosome Mapping.Physical Chromosome Mapping.Contig Mapping,E05.393.183.620.160
+Investigative Techniques.Genetic Techniques.Chromosome Mapping.Physical Chromosome Mapping.Radiation Hybrid Mapping,E05.393.183.620.405
+Investigative Techniques.Genetic Techniques.Chromosome Mapping.Physical Chromosome Mapping.Restriction Mapping,E05.393.183.620.650
+Investigative Techniques.Genetic Techniques.Chromosome Mapping.Physical Chromosome Mapping.Restriction Mapping.Optical Restriction Mapping,E05.393.183.620.650.500
+"Investigative Techniques.Genetic Techniques.Cloning, Molecular",E05.393.220
+"Investigative Techniques.Genetic Techniques.Cloning, Molecular.Artificial Gene Fusion",E05.393.220.250
+"Investigative Techniques.Genetic Techniques.Cloning, Molecular.Artificial Gene Fusion.Cell Surface Display Techniques",E05.393.220.250.500
+"Investigative Techniques.Genetic Techniques.Cloning, Molecular.Two-Hybrid System Techniques",E05.393.220.870
+"Investigative Techniques.Genetic Techniques.Cloning, Organism",E05.393.240
+Investigative Techniques.Genetic Techniques.Contig Mapping,E05.393.260
+"Investigative Techniques.Genetic Techniques.Crosses, Genetic",E05.393.281
+"Investigative Techniques.Genetic Techniques.Crosses, Genetic.Genetic Complementation Test",E05.393.281.526
+Investigative Techniques.Genetic Techniques.Cytogenetic Analysis,E05.393.285
+Investigative Techniques.Genetic Techniques.Cytogenetic Analysis.Chromosome Banding,E05.393.285.130
+Investigative Techniques.Genetic Techniques.Cytogenetic Analysis.Comparative Genomic Hybridization,E05.393.285.240
+"Investigative Techniques.Genetic Techniques.Cytogenetic Analysis.In Situ Hybridization, Fluorescence",E05.393.285.350
+"Investigative Techniques.Genetic Techniques.Cytogenetic Analysis.In Situ Hybridization, Fluorescence.Chromosome Painting",E05.393.285.350.125
+"Investigative Techniques.Genetic Techniques.Cytogenetic Analysis.In Situ Hybridization, Fluorescence.Chromosome Painting.Spectral Karyotyping",E05.393.285.350.125.800
+Investigative Techniques.Genetic Techniques.Cytogenetic Analysis.Karyotyping,E05.393.285.475
+Investigative Techniques.Genetic Techniques.Cytogenetic Analysis.Karyotyping.Spectral Karyotyping,E05.393.285.475.800
+Investigative Techniques.Genetic Techniques.Cytogenetic Analysis.Sex Determination Analysis,E05.393.285.830
+Investigative Techniques.Genetic Techniques.Cytogenetic Analysis.Sex Determination Analysis.Sex Determination by Skeleton,E05.393.285.830.500
+Investigative Techniques.Genetic Techniques.DNA Fingerprinting,E05.393.290
+Investigative Techniques.Genetic Techniques.DNA Fingerprinting.Amplified Fragment Length Polymorphism Analysis,E05.393.290.382
+Investigative Techniques.Genetic Techniques.DNA Fingerprinting.DNA Contamination,E05.393.290.573
+Investigative Techniques.Genetic Techniques.DNA Fingerprinting.Ribotyping,E05.393.290.765
+Investigative Techniques.Genetic Techniques.DNA Footprinting,E05.393.300
+Investigative Techniques.Genetic Techniques.Gene Expression Profiling,E05.393.332
+Investigative Techniques.Genetic Techniques.Gene Expression Profiling.Subtractive Hybridization Techniques,E05.393.332.500
+Investigative Techniques.Genetic Techniques.Gene Targeting,E05.393.335
+Investigative Techniques.Genetic Techniques.Gene Targeting.Gene Knock-In Techniques,E05.393.335.249
+Investigative Techniques.Genetic Techniques.Gene Targeting.Gene Knockdown Techniques,E05.393.335.500
+Investigative Techniques.Genetic Techniques.Gene Targeting.Gene Knockout Techniques,E05.393.335.750
+Investigative Techniques.Genetic Techniques.Gene Transfer Techniques,E05.393.350
+Investigative Techniques.Genetic Techniques.Gene Transfer Techniques.Biolistics,E05.393.350.100
+"Investigative Techniques.Genetic Techniques.Gene Transfer Techniques.Transduction, Genetic",E05.393.350.800
+Investigative Techniques.Genetic Techniques.Gene Transfer Techniques.Transfection,E05.393.350.810
+"Investigative Techniques.Genetic Techniques.Gene Transfer Techniques.Transfection.Transformation, Bacterial",E05.393.350.810.500
+Investigative Techniques.Genetic Techniques.Genetic Association Studies,E05.393.385
+Investigative Techniques.Genetic Techniques.Genetic Association Studies.Genome-Wide Association Study,E05.393.385.500
+Investigative Techniques.Genetic Techniques.Genetic Engineering,E05.393.420
+Investigative Techniques.Genetic Techniques.Genetic Engineering.Directed Molecular Evolution,E05.393.420.175
+Investigative Techniques.Genetic Techniques.Genetic Engineering.Directed Molecular Evolution.Gene Drive Technology,E05.393.420.175.500
+Investigative Techniques.Genetic Techniques.Genetic Engineering.DNA Shuffling,E05.393.420.238
+Investigative Techniques.Genetic Techniques.Genetic Engineering.Gene Editing,E05.393.420.270
+Investigative Techniques.Genetic Techniques.Genetic Engineering.Genetic Therapy,E05.393.420.301
+Investigative Techniques.Genetic Techniques.Genetic Engineering.Genetic Therapy.Targeted Gene Repair,E05.393.420.301.500
+Investigative Techniques.Genetic Techniques.Genetic Engineering.Genetic Enhancement,E05.393.420.451
+Investigative Techniques.Genetic Techniques.Genetic Engineering.Metabolic Engineering,E05.393.420.526
+Investigative Techniques.Genetic Techniques.Genetic Engineering.Protein Engineering,E05.393.420.601
+Investigative Techniques.Genetic Techniques.Genetic Engineering.Protein Engineering.Amino Acid Substitution,E05.393.420.601.035
+Investigative Techniques.Genetic Techniques.Genetic Engineering.Protein Engineering.Cell Surface Display Techniques,E05.393.420.601.292
+"Investigative Techniques.Genetic Techniques.Genetic Engineering.Protein Engineering.Mutagenesis, Insertional",E05.393.420.601.550
+"Investigative Techniques.Genetic Techniques.Genetic Engineering.Protein Engineering.Mutagenesis, Site-Directed",E05.393.420.601.575
+"Investigative Techniques.Genetic Techniques.Genetic Engineering.Protein Engineering.Mutagenesis, Site-Directed.Targeted Gene Repair",E05.393.420.601.575.500
+Investigative Techniques.Genetic Techniques.Genetic Engineering.Sex Preselection,E05.393.420.890
+Investigative Techniques.Genetic Techniques.Genetic Testing,E05.393.435
+Investigative Techniques.Genetic Techniques.Genetic Testing.Genetic Carrier Screening,E05.393.435.250
+Investigative Techniques.Genetic Techniques.Genetic Testing.Pharmacogenomic Testing,E05.393.435.500
+Investigative Techniques.Genetic Techniques.Genotyping Techniques,E05.393.442
+Investigative Techniques.Genetic Techniques.In Situ Nick-End Labeling,E05.393.475
+Investigative Techniques.Genetic Techniques.Molecular Diagnostic Techniques,E05.393.520
+Investigative Techniques.Genetic Techniques.Molecular Diagnostic Techniques.Comparative Genomic Hybridization,E05.393.520.500
+Investigative Techniques.Genetic Techniques.Molecular Diagnostic Techniques.Human Papillomavirus DNA Tests,E05.393.520.750
+Investigative Techniques.Genetic Techniques.Molecular Epidemiology,E05.393.522
+Investigative Techniques.Genetic Techniques.Molecular Epidemiology.Genome-Wide Association Study,E05.393.522.500
+Investigative Techniques.Genetic Techniques.Molecular Typing,E05.393.542
+"Investigative Techniques.Genetic Techniques.Molecular Typing.DNA Barcoding, Taxonomic",E05.393.542.249
+Investigative Techniques.Genetic Techniques.Molecular Typing.Multilocus Sequence Typing,E05.393.542.500
+Investigative Techniques.Genetic Techniques.Mutagenicity Tests,E05.393.560
+Investigative Techniques.Genetic Techniques.Mutagenicity Tests.Comet Assay,E05.393.560.150
+Investigative Techniques.Genetic Techniques.Mutagenicity Tests.Micronucleus Tests,E05.393.560.598
+Investigative Techniques.Genetic Techniques.Nuclease Protection Assays,E05.393.600
+Investigative Techniques.Genetic Techniques.Nucleic Acid Amplification Techniques,E05.393.620
+Investigative Techniques.Genetic Techniques.Nucleic Acid Amplification Techniques.Ligase Chain Reaction,E05.393.620.311
+Investigative Techniques.Genetic Techniques.Nucleic Acid Amplification Techniques.Polymerase Chain Reaction,E05.393.620.500
+Investigative Techniques.Genetic Techniques.Nucleic Acid Amplification Techniques.Polymerase Chain Reaction.Amplified Fragment Length Polymorphism Analysis,E05.393.620.500.324
+Investigative Techniques.Genetic Techniques.Nucleic Acid Amplification Techniques.Polymerase Chain Reaction.Multiplex Polymerase Chain Reaction,E05.393.620.500.487
+Investigative Techniques.Genetic Techniques.Nucleic Acid Amplification Techniques.Polymerase Chain Reaction.Primed In Situ Labeling,E05.393.620.500.650
+Investigative Techniques.Genetic Techniques.Nucleic Acid Amplification Techniques.Polymerase Chain Reaction.Random Amplified Polymorphic DNA Technique,E05.393.620.500.687
+Investigative Techniques.Genetic Techniques.Nucleic Acid Amplification Techniques.Polymerase Chain Reaction.Real-Time Polymerase Chain Reaction,E05.393.620.500.706
+Investigative Techniques.Genetic Techniques.Nucleic Acid Amplification Techniques.Polymerase Chain Reaction.Reverse Transcriptase Polymerase Chain Reaction,E05.393.620.500.725
+Investigative Techniques.Genetic Techniques.Nucleic Acid Amplification Techniques.Self-Sustained Sequence Replication,E05.393.620.700
+Investigative Techniques.Genetic Techniques.Nucleic Acid Denaturation,E05.393.640
+Investigative Techniques.Genetic Techniques.Nucleic Acid Hybridization,E05.393.661
+Investigative Techniques.Genetic Techniques.Nucleic Acid Hybridization.Branched DNA Signal Amplification Assay,E05.393.661.124
+Investigative Techniques.Genetic Techniques.Nucleic Acid Hybridization.Comparative Genomic Hybridization,E05.393.661.187
+Investigative Techniques.Genetic Techniques.Nucleic Acid Hybridization.Heteroduplex Analysis,E05.393.661.250
+Investigative Techniques.Genetic Techniques.Nucleic Acid Hybridization.In Situ Hybridization,E05.393.661.475
+"Investigative Techniques.Genetic Techniques.Nucleic Acid Hybridization.In Situ Hybridization.In Situ Hybridization, Fluorescence",E05.393.661.475.350
+"Investigative Techniques.Genetic Techniques.Nucleic Acid Hybridization.In Situ Hybridization.In Situ Hybridization, Fluorescence.Chromosome Painting",E05.393.661.475.350.125
+"Investigative Techniques.Genetic Techniques.Nucleic Acid Hybridization.In Situ Hybridization.In Situ Hybridization, Fluorescence.Chromosome Painting.Spectral Karyotyping",E05.393.661.475.350.125.800
+Investigative Techniques.Genetic Techniques.Nucleic Acid Hybridization.In Situ Hybridization.Primed In Situ Labeling,E05.393.661.475.680
+Investigative Techniques.Genetic Techniques.Nucleic Acid Hybridization.Oligonucleotide Array Sequence Analysis,E05.393.661.640
+Investigative Techniques.Genetic Techniques.Nucleic Acid Hybridization.Subtractive Hybridization Techniques,E05.393.661.820
+Investigative Techniques.Genetic Techniques.Optogenetics,E05.393.667
+Investigative Techniques.Genetic Techniques.Pedigree,E05.393.673
+Investigative Techniques.Genetic Techniques.Restriction Mapping,E05.393.712
+Investigative Techniques.Genetic Techniques.Restriction Mapping.Optical Restriction Mapping,E05.393.712.500
+Investigative Techniques.Genetic Techniques.Reverse Genetics,E05.393.731
+Investigative Techniques.Genetic Techniques.Sequence Alignment,E05.393.751
+Investigative Techniques.Genetic Techniques.Sequence Analysis,E05.393.760
+Investigative Techniques.Genetic Techniques.Sequence Analysis.High-Throughput Nucleotide Sequencing,E05.393.760.319
+Investigative Techniques.Genetic Techniques.Sequence Analysis.Molecular Sequence Annotation,E05.393.760.479
+Investigative Techniques.Genetic Techniques.Sequence Analysis.Oligonucleotide Array Sequence Analysis,E05.393.760.640
+Investigative Techniques.Genetic Techniques.Sequence Analysis.Oligonucleotide Array Sequence Analysis.Genome-Wide Association Study,E05.393.760.640.500
+Investigative Techniques.Genetic Techniques.Sequence Analysis.Position-Specific Scoring Matrices,E05.393.760.670
+"Investigative Techniques.Genetic Techniques.Sequence Analysis.Sequence Analysis, DNA",E05.393.760.700
+"Investigative Techniques.Genetic Techniques.Sequence Analysis.Sequence Analysis, DNA.DNA Barcoding, Taxonomic",E05.393.760.700.149
+"Investigative Techniques.Genetic Techniques.Sequence Analysis.Sequence Analysis, DNA.DNA Contamination",E05.393.760.700.224
+"Investigative Techniques.Genetic Techniques.Sequence Analysis.Sequence Analysis, DNA.DNA Mutational Analysis",E05.393.760.700.300
+"Investigative Techniques.Genetic Techniques.Sequence Analysis.Sequence Analysis, DNA.Multilocus Sequence Typing",E05.393.760.700.650
+"Investigative Techniques.Genetic Techniques.Sequence Analysis.Sequence Analysis, DNA.Whole Genome Sequencing",E05.393.760.700.825
+"Investigative Techniques.Genetic Techniques.Sequence Analysis.Sequence Analysis, DNA.Whole Genome Sequencing.Whole Exome Sequencing",E05.393.760.700.825.500
+"Investigative Techniques.Genetic Techniques.Sequence Analysis.Sequence Analysis, Protein",E05.393.760.705
+"Investigative Techniques.Genetic Techniques.Sequence Analysis.Sequence Analysis, Protein.Peptide Mapping",E05.393.760.705.685
+"Investigative Techniques.Genetic Techniques.Sequence Analysis.Sequence Analysis, Protein.Peptide Mapping.Protein Footprinting",E05.393.760.705.685.690
+"Investigative Techniques.Genetic Techniques.Sequence Analysis.Sequence Analysis, RNA",E05.393.760.710
+Investigative Techniques.Hardness Tests,E05.417
+Investigative Techniques.Human Experimentation,E05.445
+Investigative Techniques.Human Experimentation.Autoexperimentation,E05.445.100
+Investigative Techniques.Human Experimentation.Nontherapeutic Human Experimentation,E05.445.750
+Investigative Techniques.Human Experimentation.Therapeutic Human Experimentation,E05.445.875
+Investigative Techniques.Immersion,E05.466
+Investigative Techniques.Immobilization,E05.472
+"Investigative Techniques.Immobilization.Restraint, Physical",E05.472.760
+"Investigative Techniques.Immobilization.Restraint, Physical.Hindlimb Suspension",E05.472.760.370
+Investigative Techniques.Immunologic Techniques,E05.478
+Investigative Techniques.Immunologic Techniques.Epitope Mapping,E05.478.274
+Investigative Techniques.Immunologic Techniques.Immunization,E05.478.550
+"Investigative Techniques.Immunologic Techniques.Immunization.Immunization, Passive",E05.478.550.520
+"Investigative Techniques.Immunologic Techniques.Immunization.Immunization, Passive.Adoptive Transfer",E05.478.550.520.050
+"Investigative Techniques.Immunologic Techniques.Immunization.Immunization, Passive.Adoptive Transfer.Immunotherapy, Adoptive",E05.478.550.520.050.400
+Investigative Techniques.Immunologic Techniques.Immunization.Immunization Schedule,E05.478.550.545
+"Investigative Techniques.Immunologic Techniques.Immunization.Immunization, Secondary",E05.478.550.550
+"Investigative Techniques.Immunologic Techniques.Immunization.Immunotherapy, Active",E05.478.550.600
+"Investigative Techniques.Immunologic Techniques.Immunization.Immunotherapy, Active.Vaccination",E05.478.550.600.890
+"Investigative Techniques.Immunologic Techniques.Immunization.Immunotherapy, Active.Vaccination.Mass Vaccination",E05.478.550.600.890.500
+Investigative Techniques.Immunologic Techniques.Immunoassay,E05.478.566
+Investigative Techniques.Immunologic Techniques.Immunoassay.Fluoroimmunoassay,E05.478.566.159
+Investigative Techniques.Immunologic Techniques.Immunoassay.Fluoroimmunoassay.Fluorescence Polarization Immunoassay,E05.478.566.159.350
+Investigative Techniques.Immunologic Techniques.Immunoassay.Immunoblotting,E05.478.566.320
+"Investigative Techniques.Immunologic Techniques.Immunoassay.Immunoblotting.Blotting, Western",E05.478.566.320.200
+"Investigative Techniques.Immunologic Techniques.Immunoassay.Immunoblotting.Blotting, Western.Blotting, Far-Western",E05.478.566.320.200.200
+Investigative Techniques.Immunologic Techniques.Immunoassay.Immunochromatography,E05.478.566.335
+Investigative Techniques.Immunologic Techniques.Immunoassay.Immunoenzyme Techniques,E05.478.566.350
+Investigative Techniques.Immunologic Techniques.Immunoassay.Immunoenzyme Techniques.Enzyme-Linked Immunosorbent Assay,E05.478.566.350.170
+Investigative Techniques.Immunologic Techniques.Immunoassay.Immunoenzyme Techniques.Enzyme-Linked Immunosorbent Assay.Enzyme-Linked Immunospot Assay,E05.478.566.350.170.500
+Investigative Techniques.Immunologic Techniques.Immunoassay.Immunoenzyme Techniques.Enzyme Multiplied Immunoassay Technique,E05.478.566.350.180
+Investigative Techniques.Immunologic Techniques.Immunoassay.Immunosorbent Techniques,E05.478.566.380
+Investigative Techniques.Immunologic Techniques.Immunoassay.Immunosorbent Techniques.Enzyme-Linked Immunosorbent Assay,E05.478.566.380.360
+Investigative Techniques.Immunologic Techniques.Immunoassay.Immunosorbent Techniques.Enzyme-Linked Immunosorbent Assay.Enzyme-Linked Immunospot Assay,E05.478.566.380.360.500
+Investigative Techniques.Immunologic Techniques.Immunoassay.Immunosorbent Techniques.Radioallergosorbent Test,E05.478.566.380.810
+Investigative Techniques.Immunologic Techniques.Immunoassay.Immunosorbent Techniques.Radioimmunoprecipitation Assay,E05.478.566.380.825
+Investigative Techniques.Immunologic Techniques.Immunoassay.Immunosorbent Techniques.Radioimmunosorbent Test,E05.478.566.380.830
+Investigative Techniques.Immunologic Techniques.Immunoassay.Immunoturbidimetry,E05.478.566.510
+Investigative Techniques.Immunologic Techniques.Immunoassay.Radioimmunoassay,E05.478.566.639
+Investigative Techniques.Immunologic Techniques.Immunoassay.Radioimmunoassay.Immunoradiometric Assay,E05.478.566.639.405
+Investigative Techniques.Immunologic Techniques.Immunoassay.Radioimmunoassay.Radioallergosorbent Test,E05.478.566.639.810
+Investigative Techniques.Immunologic Techniques.Immunoassay.Radioimmunoassay.Radioimmunoprecipitation Assay,E05.478.566.639.825
+Investigative Techniques.Immunologic Techniques.Immunoassay.Radioimmunoassay.Radioimmunosorbent Test,E05.478.566.639.830
+Investigative Techniques.Immunologic Techniques.Immunohistochemistry,E05.478.583
+Investigative Techniques.Immunologic Techniques.Immunohistochemistry.Fluorescent Antibody Technique,E05.478.583.375
+"Investigative Techniques.Immunologic Techniques.Immunohistochemistry.Fluorescent Antibody Technique.Antibody-Coated Bacteria Test, Urinary",E05.478.583.375.050
+"Investigative Techniques.Immunologic Techniques.Immunohistochemistry.Fluorescent Antibody Technique.Fluorescent Antibody Technique, Direct",E05.478.583.375.300
+"Investigative Techniques.Immunologic Techniques.Immunohistochemistry.Fluorescent Antibody Technique.Fluorescent Antibody Technique, Indirect",E05.478.583.375.310
+Investigative Techniques.Immunologic Techniques.Immunohistochemistry.Fluorescent Antibody Technique.Fluoroimmunoassay,E05.478.583.375.655
+Investigative Techniques.Immunologic Techniques.Immunohistochemistry.Fluorescent Antibody Technique.Fluoroimmunoassay.Fluorescence Polarization Immunoassay,E05.478.583.375.655.350
+Investigative Techniques.Immunologic Techniques.Immunohistochemistry.Immunoenzyme Techniques,E05.478.583.400
+Investigative Techniques.Immunologic Techniques.Immunohistochemistry.Immunoenzyme Techniques.Enzyme-Linked Immunosorbent Assay,E05.478.583.400.170
+Investigative Techniques.Immunologic Techniques.Immunohistochemistry.Immunoenzyme Techniques.Enzyme-Linked Immunosorbent Assay.Enzyme-Linked Immunospot Assay,E05.478.583.400.170.500
+Investigative Techniques.Immunologic Techniques.Immunohistochemistry.Immunoenzyme Techniques.Enzyme Multiplied Immunoassay Technique,E05.478.583.400.180
+Investigative Techniques.Immunologic Techniques.Immunologic Tests,E05.478.594
+"Investigative Techniques.Immunologic Techniques.Immunologic Tests.Antibody-Coated Bacteria Test, Urinary",E05.478.594.049
+Investigative Techniques.Immunologic Techniques.Immunologic Tests.Basophil Degranulation Test,E05.478.594.100
+Investigative Techniques.Immunologic Techniques.Immunologic Tests.Cell Migration Assays,E05.478.594.122
+"Investigative Techniques.Immunologic Techniques.Immunologic Tests.Cell Migration Assays.Cell Migration Assays, Leukocyte",E05.478.594.122.500
+"Investigative Techniques.Immunologic Techniques.Immunologic Tests.Cell Migration Assays.Cell Migration Assays, Macrophage",E05.478.594.122.750
+Investigative Techniques.Immunologic Techniques.Immunologic Tests.Cell Migration Assays.Skin Window Technique,E05.478.594.122.875
+"Investigative Techniques.Immunologic Techniques.Immunologic Tests.Cytotoxicity Tests, Immunologic",E05.478.594.160
+"Investigative Techniques.Immunologic Techniques.Immunologic Tests.Cytotoxicity Tests, Immunologic.Complement Hemolytic Activity Assay",E05.478.594.160.150
+Investigative Techniques.Immunologic Techniques.Immunologic Tests.Hemolytic Plaque Technique,E05.478.594.375
+Investigative Techniques.Immunologic Techniques.Immunologic Tests.Histocompatibility Testing,E05.478.594.385
+Investigative Techniques.Immunologic Techniques.Immunologic Tests.Histocompatibility Testing.Blood Grouping and Crossmatching,E05.478.594.385.120
+"Investigative Techniques.Immunologic Techniques.Immunologic Tests.Histocompatibility Testing.Lymphocyte Culture Test, Mixed",E05.478.594.385.429
+Investigative Techniques.Immunologic Techniques.Immunologic Tests.Immune Adherence Reaction,E05.478.594.400
+Investigative Techniques.Immunologic Techniques.Immunologic Tests.Immunophenotyping,E05.478.594.450
+Investigative Techniques.Immunologic Techniques.Immunologic Tests.Interferon-gamma Release Tests,E05.478.594.475
+Investigative Techniques.Immunologic Techniques.Immunologic Tests.Leukocyte Adherence Inhibition Test,E05.478.594.500
+Investigative Techniques.Immunologic Techniques.Immunologic Tests.Lymphocyte Activation,E05.478.594.530
+"Investigative Techniques.Immunologic Techniques.Immunologic Tests.Monitoring, Immunologic",E05.478.594.550
+"Investigative Techniques.Immunologic Techniques.Immunologic Tests.Pregnancy Tests, Immunologic",E05.478.594.662
+Investigative Techniques.Immunologic Techniques.Immunologic Tests.Rosette Formation,E05.478.594.730
+Investigative Techniques.Immunologic Techniques.Immunologic Tests.Serologic Tests,E05.478.594.760
+Investigative Techniques.Immunologic Techniques.Immunologic Tests.Serologic Tests.Agglutination Tests,E05.478.594.760.050
+Investigative Techniques.Immunologic Techniques.Immunologic Tests.Serologic Tests.Agglutination Tests.Hemagglutination Tests,E05.478.594.760.050.375
+Investigative Techniques.Immunologic Techniques.Immunologic Tests.Serologic Tests.Agglutination Tests.Hemagglutination Tests.Coombs Test,E05.478.594.760.050.375.150
+Investigative Techniques.Immunologic Techniques.Immunologic Tests.Serologic Tests.Agglutination Tests.Latex Fixation Tests,E05.478.594.760.050.450
+Investigative Techniques.Immunologic Techniques.Immunologic Tests.Serologic Tests.AIDS Serodiagnosis,E05.478.594.760.060
+Investigative Techniques.Immunologic Techniques.Immunologic Tests.Serologic Tests.Complement Fixation Tests,E05.478.594.760.150
+Investigative Techniques.Immunologic Techniques.Immunologic Tests.Serologic Tests.Complement Hemolytic Activity Assay,E05.478.594.760.155
+Investigative Techniques.Immunologic Techniques.Immunologic Tests.Serologic Tests.Hemadsorption Inhibition Tests,E05.478.594.760.360
+Investigative Techniques.Immunologic Techniques.Immunologic Tests.Serologic Tests.Hemagglutination Inhibition Tests,E05.478.594.760.370
+Investigative Techniques.Immunologic Techniques.Immunologic Tests.Serologic Tests.Neutralization Tests,E05.478.594.760.550
+Investigative Techniques.Immunologic Techniques.Immunologic Tests.Serologic Tests.Precipitin Tests,E05.478.594.760.645
+Investigative Techniques.Immunologic Techniques.Immunologic Tests.Serologic Tests.Precipitin Tests.Flocculation Tests,E05.478.594.760.645.300
+Investigative Techniques.Immunologic Techniques.Immunologic Tests.Serologic Tests.Precipitin Tests.Immunodiffusion,E05.478.594.760.645.350
+Investigative Techniques.Immunologic Techniques.Immunologic Tests.Serologic Tests.Precipitin Tests.Immunodiffusion.Immunoelectrophoresis,E05.478.594.760.645.350.350
+Investigative Techniques.Immunologic Techniques.Immunologic Tests.Serologic Tests.Precipitin Tests.Immunodiffusion.Immunoelectrophoresis.Counterimmunoelectrophoresis,E05.478.594.760.645.350.350.150
+"Investigative Techniques.Immunologic Techniques.Immunologic Tests.Serologic Tests.Precipitin Tests.Immunodiffusion.Immunoelectrophoresis.Immunoelectrophoresis, Two-Dimensional",E05.478.594.760.645.350.350.350
+Investigative Techniques.Immunologic Techniques.Immunologic Tests.Serologic Tests.Radioallergosorbent Test,E05.478.594.760.830
+Investigative Techniques.Immunologic Techniques.Immunologic Tests.Serologic Tests.Radioimmunoprecipitation Assay,E05.478.594.760.840
+Investigative Techniques.Immunologic Techniques.Immunologic Tests.Serologic Tests.Serum Bactericidal Antibody Assay,E05.478.594.760.845
+Investigative Techniques.Immunologic Techniques.Immunologic Tests.Serologic Tests.Syphilis Serodiagnosis,E05.478.594.760.850
+Investigative Techniques.Immunologic Techniques.Immunologic Tests.Serologic Tests.Syphilis Serodiagnosis.Fluorescent Treponemal Antibody-Absorption Test,E05.478.594.760.850.200
+Investigative Techniques.Immunologic Techniques.Immunologic Tests.Serologic Tests.Syphilis Serodiagnosis.Treponema Immobilization Test,E05.478.594.760.850.800
+Investigative Techniques.Immunologic Techniques.Immunologic Tests.Serotyping,E05.478.594.780
+Investigative Techniques.Immunologic Techniques.Immunologic Tests.Skin Tests,E05.478.594.890
+Investigative Techniques.Immunologic Techniques.Immunologic Tests.Skin Tests.Intradermal Tests,E05.478.594.890.300
+Investigative Techniques.Immunologic Techniques.Immunologic Tests.Skin Tests.Intradermal Tests.Kveim Test,E05.478.594.890.300.540
+Investigative Techniques.Immunologic Techniques.Immunologic Tests.Skin Tests.Intradermal Tests.Skin Test End-Point Titration,E05.478.594.890.300.750
+Investigative Techniques.Immunologic Techniques.Immunologic Tests.Skin Tests.Local Lymph Node Assay,E05.478.594.890.450
+Investigative Techniques.Immunologic Techniques.Immunologic Tests.Skin Tests.Passive Cutaneous Anaphylaxis,E05.478.594.890.600
+Investigative Techniques.Immunologic Techniques.Immunologic Tests.Skin Tests.Patch Tests,E05.478.594.890.610
+Investigative Techniques.Immunologic Techniques.Immunologic Tests.Skin Tests.Skin Window Technique,E05.478.594.890.705
+Investigative Techniques.Immunologic Techniques.Immunologic Tests.Skin Tests.Tuberculin Test,E05.478.594.890.800
+Investigative Techniques.Immunologic Techniques.Immunoprecipitation,E05.478.605
+Investigative Techniques.Immunologic Techniques.Immunoprecipitation.Chromatin Immunoprecipitation,E05.478.605.160
+Investigative Techniques.Immunologic Techniques.Immunoprecipitation.Precipitin Tests,E05.478.605.492
+Investigative Techniques.Immunologic Techniques.Immunoprecipitation.Precipitin Tests.Flocculation Tests,E05.478.605.492.300
+Investigative Techniques.Immunologic Techniques.Immunoprecipitation.Precipitin Tests.Immunodiffusion,E05.478.605.492.350
+Investigative Techniques.Immunologic Techniques.Immunoprecipitation.Precipitin Tests.Immunodiffusion.Immunoelectrophoresis,E05.478.605.492.350.350
+Investigative Techniques.Immunologic Techniques.Immunoprecipitation.Precipitin Tests.Immunodiffusion.Immunoelectrophoresis.Counterimmunoelectrophoresis,E05.478.605.492.350.350.150
+"Investigative Techniques.Immunologic Techniques.Immunoprecipitation.Precipitin Tests.Immunodiffusion.Immunoelectrophoresis.Immunoelectrophoresis, Two-Dimensional",E05.478.605.492.350.350.350
+Investigative Techniques.Immunologic Techniques.Immunoprecipitation.Radioimmunoprecipitation Assay,E05.478.605.825
+Investigative Techniques.Immunologic Techniques.Immunosuppression,E05.478.610
+"Investigative Techniques.Immunologic Techniques.Immunosuppression.Desensitization, Immunologic",E05.478.610.310
+"Investigative Techniques.Immunologic Techniques.Immunosuppression.Desensitization, Immunologic.Sublingual Immunotherapy",E05.478.610.310.500
+"Investigative Techniques.Immunologic Techniques.Immunosuppression.Graft Enhancement, Immunologic",E05.478.610.500
+Investigative Techniques.Immunologic Techniques.Immunosuppression.Lymphocyte Depletion,E05.478.610.570
+Investigative Techniques.Immunologic Techniques.Immunosuppression.Transplantation Conditioning,E05.478.610.800
+Investigative Techniques.Immunologic Techniques.Radioimmunodetection,E05.478.805
+Investigative Techniques.In Vitro Techniques,E05.481
+Investigative Techniques.In Vitro Techniques.Culture Techniques,E05.481.500
+Investigative Techniques.In Vitro Techniques.Culture Techniques.Axenic Culture,E05.481.500.124
+Investigative Techniques.In Vitro Techniques.Culture Techniques.Cell Culture Techniques,E05.481.500.249
+Investigative Techniques.In Vitro Techniques.Culture Techniques.Cell Culture Techniques.Batch Cell Culture Techniques,E05.481.500.249.124
+Investigative Techniques.In Vitro Techniques.Culture Techniques.Cell Culture Techniques.Primary Cell Culture,E05.481.500.249.500
+Investigative Techniques.In Vitro Techniques.Culture Techniques.Cell Engineering,E05.481.500.311
+Investigative Techniques.In Vitro Techniques.Culture Techniques.Cell Engineering.Metabolic Engineering,E05.481.500.311.249
+Investigative Techniques.In Vitro Techniques.Culture Techniques.Cell Engineering.Tissue Engineering,E05.481.500.311.500
+Investigative Techniques.In Vitro Techniques.Culture Techniques.Coculture Techniques,E05.481.500.374
+Investigative Techniques.In Vitro Techniques.Culture Techniques.Embryo Culture Techniques,E05.481.500.468
+Investigative Techniques.In Vitro Techniques.Culture Techniques.Organ Culture Techniques,E05.481.500.484
+Investigative Techniques.In Vitro Techniques.Culture Techniques.Plant Somatic Embryogenesis Techniques,E05.481.500.550
+Investigative Techniques.In Vitro Techniques.Culture Techniques.Tissue Culture Techniques,E05.481.500.617
+Investigative Techniques.Indicator Dilution Techniques,E05.484
+Investigative Techniques.Indicator Dilution Techniques.Dye Dilution Technique,E05.484.250
+Investigative Techniques.Indicator Dilution Techniques.Radioisotope Dilution Technique,E05.484.650
+Investigative Techniques.Indicator Dilution Techniques.Thermodilution,E05.484.750
+Investigative Techniques.Interferometry,E05.490
+"Investigative Techniques.Interferometry.Microscopy, Interference",E05.490.630
+"Investigative Techniques.Interferometry.Microscopy, Interference.Microscopy, Phase-Contrast",E05.490.630.569
+Investigative Techniques.Interferometry.Moire Topography,E05.490.815
+Investigative Techniques.Intubation,E05.497
+"Investigative Techniques.Intubation.Intubation, Gastrointestinal",E05.497.412
+"Investigative Techniques.Intubation.Intubation, Intratracheal",E05.497.578
+"Investigative Techniques.Intubation.Intubation, Intratracheal.Laryngeal Masks",E05.497.578.475
+Investigative Techniques.Ischemic Preconditioning,E05.516
+"Investigative Techniques.Ischemic Preconditioning.Ischemic Preconditioning, Myocardial",E05.516.325
+Investigative Techniques.Isolated Heart Preparation,E05.519
+Investigative Techniques.Isotope Labeling,E05.522
+Investigative Techniques.Magnetometry,E05.540
+Investigative Techniques.Magnetometry.Magnetocardiography,E05.540.249
+Investigative Techniques.Magnetometry.Magnetoencephalography,E05.540.500
+Investigative Techniques.Manometry,E05.559
+Investigative Techniques.Manometry.Rhinomanometry,E05.559.740
+Investigative Techniques.Materials Testing,E05.570
+Investigative Techniques.Methods,E05.581
+Investigative Techniques.Methods.Observation,E05.581.249
+Investigative Techniques.Methods.Research Design,E05.581.500
+Investigative Techniques.Methods.Research Design.Control Groups,E05.581.500.149
+Investigative Techniques.Methods.Research Design.Double-Blind Method,E05.581.500.300
+Investigative Techniques.Methods.Research Design.Early Termination of Clinical Trials,E05.581.500.400
+Investigative Techniques.Methods.Research Design.Meta-Analysis as Topic,E05.581.500.501
+Investigative Techniques.Methods.Research Design.Meta-Analysis as Topic.Network Meta-Analysis,E05.581.500.501.500
+Investigative Techniques.Methods.Research Design.Patient Selection,E05.581.500.653
+Investigative Techniques.Methods.Research Design.Random Allocation,E05.581.500.805
+Investigative Techniques.Methods.Research Design.Sample Size,E05.581.500.902
+Investigative Techniques.Methods.Research Design.Sample Size.Numbers Needed To Treat,E05.581.500.902.500
+Investigative Techniques.Microchip Analytical Procedures,E05.588
+Investigative Techniques.Microchip Analytical Procedures.Microfluidic Analytical Techniques,E05.588.465
+"Investigative Techniques.Microchip Analytical Procedures.Microfluidic Analytical Techniques.Electrophoresis, Microchip",E05.588.465.340
+Investigative Techniques.Microchip Analytical Procedures.Microarray Analysis,E05.588.570
+Investigative Techniques.Microchip Analytical Procedures.Microarray Analysis.Oligonucleotide Array Sequence Analysis,E05.588.570.660
+Investigative Techniques.Microchip Analytical Procedures.Microarray Analysis.Protein Array Analysis,E05.588.570.700
+Investigative Techniques.Microchip Analytical Procedures.Microarray Analysis.Tissue Array Analysis,E05.588.570.850
+Investigative Techniques.Micromanipulation,E05.591
+Investigative Techniques.Micromanipulation.Microdissection,E05.591.560
+Investigative Techniques.Micromanipulation.Microdissection.Laser Capture Microdissection,E05.591.560.500
+Investigative Techniques.Micromanipulation.Microinjections,E05.591.570
+Investigative Techniques.Micromanipulation.Microsurgery,E05.591.580
+Investigative Techniques.Microscopy,E05.595
+Investigative Techniques.Microscopy.Intravital Microscopy,E05.595.185
+Investigative Techniques.Microscopy.Intravital Microscopy.Dermoscopy,E05.595.185.250
+Investigative Techniques.Microscopy.Intravital Microscopy.Microscopic Angioscopy,E05.595.185.500
+"Investigative Techniques.Microscopy.Microscopy, Acoustic",E05.595.370
+"Investigative Techniques.Microscopy.Microscopy, Confocal",E05.595.395
+"Investigative Techniques.Microscopy.Microscopy, Confocal.Laser Scanning Cytometry",E05.595.395.500
+"Investigative Techniques.Microscopy.Microscopy, Electron",E05.595.402
+"Investigative Techniques.Microscopy.Microscopy, Electron.Cryoelectron Microscopy",E05.595.402.150
+"Investigative Techniques.Microscopy.Microscopy, Electron.Electron Probe Microanalysis",E05.595.402.250
+"Investigative Techniques.Microscopy.Microscopy, Electron.Microscopy, Electron, Scanning",E05.595.402.541
+"Investigative Techniques.Microscopy.Microscopy, Electron.Microscopy, Electron, Transmission",E05.595.402.580
+"Investigative Techniques.Microscopy.Microscopy, Electron.Microscopy, Electron, Transmission.Electron Microscope Tomography",E05.595.402.580.239
+"Investigative Techniques.Microscopy.Microscopy, Electron.Microscopy, Electron, Transmission.Microscopy, Electron, Scanning Transmission",E05.595.402.580.480
+"Investigative Techniques.Microscopy.Microscopy, Electron.Microscopy, Electron, Transmission.Microscopy, Energy-Filtering Transmission Electron",E05.595.402.580.500
+"Investigative Techniques.Microscopy.Microscopy, Electron.Microscopy, Immunoelectron",E05.595.402.625
+"Investigative Techniques.Microscopy.Microscopy, Fluorescence",E05.595.458
+"Investigative Techniques.Microscopy.Microscopy, Fluorescence.Microscopy, Fluorescence, Multiphoton",E05.595.458.500
+"Investigative Techniques.Microscopy.Microscopy, Interference",E05.595.513
+"Investigative Techniques.Microscopy.Microscopy, Interference.Microscopy, Phase-Contrast",E05.595.513.569
+"Investigative Techniques.Microscopy.Microscopy, Polarization",E05.595.624
+"Investigative Techniques.Microscopy.Microscopy, Scanning Probe",E05.595.666
+"Investigative Techniques.Microscopy.Microscopy, Scanning Probe.Microscopy, Atomic Force",E05.595.666.400
+"Investigative Techniques.Microscopy.Microscopy, Scanning Probe.Microscopy, Electrochemical, Scanning",E05.595.666.450
+"Investigative Techniques.Microscopy.Microscopy, Scanning Probe.Microscopy, Scanning Tunneling",E05.595.666.500
+"Investigative Techniques.Microscopy.Microscopy, Ultraviolet",E05.595.680
+"Investigative Techniques.Microscopy.Microscopy, Video",E05.595.690
+Investigative Techniques.Microscopy.Nonlinear Optical Microscopy,E05.595.717
+"Investigative Techniques.Microscopy.Nonlinear Optical Microscopy.Microscopy, Fluorescence, Multiphoton",E05.595.717.250
+Investigative Techniques.Microscopy.Nonlinear Optical Microscopy.Second Harmonic Generation Microscopy,E05.595.717.500
+Investigative Techniques.Microscopy.Nuclear Microscopy,E05.595.744
+Investigative Techniques.Microscopy.Photomicrography,E05.595.799
+Investigative Techniques.Microscopy.Single Molecule Imaging,E05.595.899
+"Investigative Techniques.Models, Animal",E05.598
+"Investigative Techniques.Models, Animal.Disease Models, Animal",E05.598.500
+"Investigative Techniques.Models, Animal.Disease Models, Animal.Arthritis, Experimental",E05.598.500.249
+"Investigative Techniques.Models, Animal.Disease Models, Animal.Diabetes Mellitus, Experimental",E05.598.500.374
+"Investigative Techniques.Models, Animal.Disease Models, Animal.Liver Cirrhosis, Experimental",E05.598.500.468
+"Investigative Techniques.Models, Animal.Disease Models, Animal.Neoplasms, Experimental",E05.598.500.496
+"Investigative Techniques.Models, Animal.Disease Models, Animal.Neoplasms, Experimental.Leukemia, Experimental",E05.598.500.496.500
+"Investigative Techniques.Models, Animal.Disease Models, Animal.Neoplasms, Experimental.Liver Neoplasms, Experimental",E05.598.500.496.750
+"Investigative Techniques.Models, Animal.Disease Models, Animal.Neoplasms, Experimental.Mammary Neoplasms, Experimental",E05.598.500.496.843
+"Investigative Techniques.Models, Animal.Disease Models, Animal.Neoplasms, Experimental.Melanoma, Experimental",E05.598.500.496.937
+"Investigative Techniques.Models, Animal.Disease Models, Animal.Neoplasms, Experimental.Sarcoma, Experimental",E05.598.500.496.968
+"Investigative Techniques.Models, Animal.Disease Models, Animal.Nervous System Autoimmune Disease, Experimental",E05.598.500.500
+"Investigative Techniques.Models, Animal.Disease Models, Animal.Nervous System Autoimmune Disease, Experimental.Encephalomyelitis, Autoimmune, Experimental",E05.598.500.500.500
+"Investigative Techniques.Models, Animal.Disease Models, Animal.Nervous System Autoimmune Disease, Experimental.Myasthenia Gravis, Autoimmune, Experimental",E05.598.500.500.750
+"Investigative Techniques.Models, Animal.Disease Models, Animal.Nervous System Autoimmune Disease, Experimental.Neuritis, Autoimmune, Experimental",E05.598.500.500.875
+"Investigative Techniques.Models, Animal.Disease Models, Animal.Radiation Injuries, Experimental",E05.598.500.750
+"Investigative Techniques.Models, Animal.Isolated Heart Preparation",E05.598.750
+"Investigative Techniques.Models, Theoretical",E05.599
+"Investigative Techniques.Models, Theoretical.Fractals",E05.599.125
+"Investigative Techniques.Models, Theoretical.Fuzzy Logic",E05.599.250
+"Investigative Techniques.Models, Theoretical.Models, Biological",E05.599.395
+"Investigative Techniques.Models, Theoretical.Models, Biological.Adverse Outcome Pathways",E05.599.395.040
+"Investigative Techniques.Models, Theoretical.Models, Biological.Disease Models, Animal",E05.599.395.080
+"Investigative Techniques.Models, Theoretical.Models, Biological.Models, Cardiovascular",E05.599.395.161
+"Investigative Techniques.Models, Theoretical.Models, Biological.Models, Genetic",E05.599.395.397
+"Investigative Techniques.Models, Theoretical.Models, Biological.Models, Immunological",E05.599.395.500
+"Investigative Techniques.Models, Theoretical.Models, Biological.Models, Neurological",E05.599.395.642
+"Investigative Techniques.Models, Theoretical.Models, Biological.Models, Neurological.Neurolinguistic Programming",E05.599.395.642.550
+"Investigative Techniques.Models, Theoretical.Models, Biological.Patient-Specific Modeling",E05.599.395.821
+"Investigative Techniques.Models, Theoretical.Models, Chemical",E05.599.495
+"Investigative Techniques.Models, Theoretical.Models, Educational",E05.599.545
+"Investigative Techniques.Models, Theoretical.Models, Molecular",E05.599.595
+"Investigative Techniques.Models, Theoretical.Models, Molecular.Molecular Docking Simulation",E05.599.595.249
+"Investigative Techniques.Models, Theoretical.Models, Molecular.Molecular Dynamics Simulation",E05.599.595.500
+"Investigative Techniques.Models, Theoretical.Models, Nursing",E05.599.645
+"Investigative Techniques.Models, Theoretical.Models, Organizational",E05.599.670
+"Investigative Techniques.Models, Theoretical.Models, Psychological",E05.599.695
+"Investigative Techniques.Models, Theoretical.Models, Psychological.Neurolinguistic Programming",E05.599.695.550
+"Investigative Techniques.Models, Theoretical.Models, Statistical",E05.599.835
+"Investigative Techniques.Models, Theoretical.Models, Statistical.Likelihood Functions",E05.599.835.500
+"Investigative Techniques.Models, Theoretical.Models, Statistical.Linear Models",E05.599.835.750
+"Investigative Techniques.Models, Theoretical.Models, Statistical.Logistic Models",E05.599.835.875
+"Investigative Techniques.Models, Theoretical.Models, Statistical.Models, Economic",E05.599.835.890
+"Investigative Techniques.Models, Theoretical.Models, Statistical.Models, Economic.Models, Econometric",E05.599.835.890.500
+"Investigative Techniques.Models, Theoretical.Models, Statistical.Models, Spatial Interaction",E05.599.835.893
+"Investigative Techniques.Models, Theoretical.Models, Statistical.Nomograms",E05.599.835.895
+"Investigative Techniques.Models, Theoretical.Models, Statistical.Proportional Hazards Models",E05.599.835.900
+"Investigative Techniques.Models, Theoretical.Nonlinear Dynamics",E05.599.850
+Investigative Techniques.Molecular Probe Techniques,E05.601
+Investigative Techniques.Molecular Probe Techniques.Biosensing Techniques,E05.601.043
+Investigative Techniques.Molecular Probe Techniques.Biosensing Techniques.Surface Plasmon Resonance,E05.601.043.700
+Investigative Techniques.Molecular Probe Techniques.Biotinylation,E05.601.085
+"Investigative Techniques.Molecular Probe Techniques.Blotting, Northern",E05.601.100
+"Investigative Techniques.Molecular Probe Techniques.Blotting, Southern",E05.601.150
+"Investigative Techniques.Molecular Probe Techniques.Blotting, Southwestern",E05.601.225
+"Investigative Techniques.Molecular Probe Techniques.Blotting, Western",E05.601.262
+"Investigative Techniques.Molecular Probe Techniques.Blotting, Western.Blotting, Far-Western",E05.601.262.500
+Investigative Techniques.Molecular Probe Techniques.Branched DNA Signal Amplification Assay,E05.601.300
+Investigative Techniques.Molecular Probe Techniques.Immunoassay,E05.601.470
+Investigative Techniques.Molecular Probe Techniques.Immunoassay.Immunoblotting,E05.601.470.320
+"Investigative Techniques.Molecular Probe Techniques.Immunoassay.Immunoblotting.Blotting, Western",E05.601.470.320.200
+"Investigative Techniques.Molecular Probe Techniques.Immunoassay.Immunoblotting.Blotting, Western.Blotting, Far-Western",E05.601.470.320.200.500
+Investigative Techniques.Molecular Probe Techniques.Immunoassay.Immunoenzyme Techniques,E05.601.470.350
+Investigative Techniques.Molecular Probe Techniques.Immunoassay.Immunoenzyme Techniques.Enzyme-Linked Immunosorbent Assay,E05.601.470.350.170
+Investigative Techniques.Molecular Probe Techniques.Immunoassay.Immunoenzyme Techniques.Enzyme-Linked Immunosorbent Assay.Enzyme-Linked Immunospot Assay,E05.601.470.350.170.500
+Investigative Techniques.Molecular Probe Techniques.Immunoassay.Immunoenzyme Techniques.Enzyme Multiplied Immunoassay Technique,E05.601.470.350.180
+Investigative Techniques.Molecular Probe Techniques.Immunoassay.Immunosorbent Techniques,E05.601.470.380
+Investigative Techniques.Molecular Probe Techniques.Immunoassay.Immunosorbent Techniques.Enzyme-Linked Immunosorbent Assay,E05.601.470.380.360
+Investigative Techniques.Molecular Probe Techniques.Immunoassay.Immunosorbent Techniques.Enzyme-Linked Immunosorbent Assay.Enzyme-Linked Immunospot Assay,E05.601.470.380.360.500
+Investigative Techniques.Molecular Probe Techniques.Immunoassay.Immunosorbent Techniques.Radioallergosorbent Test,E05.601.470.380.810
+Investigative Techniques.Molecular Probe Techniques.Immunoassay.Immunosorbent Techniques.Radioimmunoprecipitation Assay,E05.601.470.380.825
+Investigative Techniques.Molecular Probe Techniques.Immunoassay.Immunosorbent Techniques.Radioimmunosorbent Test,E05.601.470.380.830
+Investigative Techniques.Molecular Probe Techniques.Immunoassay.Immunoturbidimetry,E05.601.470.510
+Investigative Techniques.Molecular Probe Techniques.Immunoassay.Radioimmunoassay,E05.601.470.639
+Investigative Techniques.Molecular Probe Techniques.Immunoassay.Radioimmunoassay.Immunoradiometric Assay,E05.601.470.639.405
+Investigative Techniques.Molecular Probe Techniques.Immunoassay.Radioimmunoassay.Radioallergosorbent Test,E05.601.470.639.810
+Investigative Techniques.Molecular Probe Techniques.Immunoassay.Radioimmunoassay.Radioimmunoprecipitation Assay,E05.601.470.639.825
+Investigative Techniques.Molecular Probe Techniques.Immunoassay.Radioimmunoassay.Radioimmunosorbent Test,E05.601.470.639.830
+Investigative Techniques.Molecular Probe Techniques.Molecular Imaging,E05.601.555
+Investigative Techniques.Molecular Probe Techniques.Molecular Imaging.Single Molecule Imaging,E05.601.555.500
+Investigative Techniques.Molecular Probe Techniques.Oligonucleotide Array Sequence Analysis,E05.601.640
+Investigative Techniques.Molecular Probe Techniques.Protein Array Analysis,E05.601.680
+Investigative Techniques.Molecular Probe Techniques.Protein Interaction Mapping,E05.601.690
+"Investigative Techniques.Molecular Probe Techniques.Protein Interaction Mapping.Blotting, Far-Western",E05.601.690.149
+Investigative Techniques.Molecular Probe Techniques.Protein Interaction Mapping.Epitope Mapping,E05.601.690.300
+Investigative Techniques.Molecular Probe Techniques.Protein Interaction Mapping.Two-Hybrid System Techniques,E05.601.690.650
+Investigative Techniques.Molecular Probe Techniques.Random Amplified Polymorphic DNA Technique,E05.601.700
+Investigative Techniques.Molecular Probe Techniques.Two-Hybrid System Techniques,E05.601.870
+Investigative Techniques.Neoplasm Transplantation,E05.624
+Investigative Techniques.Neoplasm Transplantation.Xenograft Model Antitumor Assays,E05.624.850
+Investigative Techniques.Neoplasm Transplantation.Xenograft Model Antitumor Assays.Subrenal Capsule Assay,E05.624.850.830
+Investigative Techniques.Neuroimaging,E05.629
+Investigative Techniques.Neuroimaging.Diffusion Tensor Imaging,E05.629.750
+Investigative Techniques.Neuroimaging.Functional Neuroimaging,E05.629.875
+Investigative Techniques.Neuroimaging.Functional Neuroimaging.Brain Mapping,E05.629.875.500
+Investigative Techniques.Neuroimaging.Functional Neuroimaging.Brain Mapping.Connectome,E05.629.875.500.500
+Investigative Techniques.Neuroimaging.Neuroradiography,E05.629.937
+Investigative Techniques.Neuroimaging.Neuroradiography.Cerebral Angiography,E05.629.937.180
+Investigative Techniques.Neuroimaging.Neuroradiography.Cerebral Ventriculography,E05.629.937.190
+Investigative Techniques.Neuroimaging.Neuroradiography.Echoencephalography,E05.629.937.260
+"Investigative Techniques.Neuroimaging.Neuroradiography.Echoencephalography.Ultrasonography, Doppler, Transcranial",E05.629.937.260.850
+Investigative Techniques.Neuroimaging.Neuroradiography.Myelography,E05.629.937.505
+Investigative Techniques.Neuroimaging.Neuroradiography.Pneumoencephalography,E05.629.937.620
+Investigative Techniques.Neuromuscular Blockade,E05.635
+Investigative Techniques.Olfactometry,E05.638
+Investigative Techniques.Optical Imaging,E05.642
+Investigative Techniques.Optical Imaging.Narrow Band Imaging,E05.642.124
+"Investigative Techniques.Optical Imaging.Tomography, Optical",E05.642.249
+"Investigative Techniques.Optical Imaging.Tomography, Optical.Tomography, Optical Coherence",E05.642.249.500
+Investigative Techniques.Optical Imaging.Transillumination,E05.642.500
+Investigative Techniques.Optical Tweezers,E05.650
+Investigative Techniques.Oscillometry,E05.654
+Investigative Techniques.Oxygen Radical Absorbance Capacity,E05.657
+Investigative Techniques.Parabiosis,E05.660
+Investigative Techniques.Parabiosis.Cross Circulation,E05.660.365
+Investigative Techniques.Perfusion,E05.680
+Investigative Techniques.Perfusion.Reperfusion,E05.680.730
+Investigative Techniques.Perfusion.Reperfusion.Myocardial Reperfusion,E05.680.730.600
+Investigative Techniques.Photoacoustic Techniques,E05.696
+Investigative Techniques.Photography,E05.712
+"Investigative Techniques.Photography.Photography, Dental",E05.712.315
+Investigative Techniques.Photography.Time-Lapse Imaging,E05.712.657
+Investigative Techniques.Physical Stimulation,E05.723
+Investigative Techniques.Physical Stimulation.Acoustic Stimulation,E05.723.136
+Investigative Techniques.Physical Stimulation.Electric Stimulation,E05.723.402
+Investigative Techniques.Physical Stimulation.Electric Stimulation.Chronaxy,E05.723.402.201
+Investigative Techniques.Physical Stimulation.Electric Stimulation.Electroshock,E05.723.402.403
+Investigative Techniques.Physical Stimulation.Photic Stimulation,E05.723.729
+Investigative Techniques.Physiognomy,E05.734
+"Investigative Techniques.Preservation, Biological",E05.760
+"Investigative Techniques.Preservation, Biological.Cryopreservation",E05.760.156
+"Investigative Techniques.Preservation, Biological.Cryopreservation.Freeze Drying",E05.760.156.260
+"Investigative Techniques.Preservation, Biological.Cryopreservation.Freeze Drying.Freeze Substitution",E05.760.156.260.270
+"Investigative Techniques.Preservation, Biological.Refrigeration",E05.760.643
+"Investigative Techniques.Preservation, Biological.Tissue Preservation",E05.760.833
+"Investigative Techniques.Preservation, Biological.Tissue Preservation.Blood Preservation",E05.760.833.230
+"Investigative Techniques.Preservation, Biological.Tissue Preservation.Blood Preservation.Blood Safety",E05.760.833.230.500
+"Investigative Techniques.Preservation, Biological.Tissue Preservation.Cold Ischemia",E05.760.833.445
+"Investigative Techniques.Preservation, Biological.Tissue Preservation.Organ Preservation",E05.760.833.660
+"Investigative Techniques.Preservation, Biological.Tissue Preservation.Semen Preservation",E05.760.833.890
+Investigative Techniques.Protein Refolding,E05.790
+Investigative Techniques.Protein Unfolding,E05.793
+Investigative Techniques.Protein Unfolding.Protein Denaturation,E05.793.500
+Investigative Techniques.Psychological Techniques,E05.796
+Investigative Techniques.Psychological Techniques.Behavior Observation Techniques,E05.796.112
+Investigative Techniques.Psychological Techniques.Galvanic Skin Response,E05.796.332
+Investigative Techniques.Psychological Techniques.Reaction Time,E05.796.817
+"Investigative Techniques.Psychological Techniques.Reaction Time.Refractory Period, Psychological",E05.796.817.559
+"Investigative Techniques.Psychological Techniques.Signal Detection, Psychological",E05.796.908
+Investigative Techniques.Radiometry,E05.799
+Investigative Techniques.Radiometry.Autoradiography,E05.799.256
+Investigative Techniques.Radiometry.Radiation Dosage,E05.799.513
+"Investigative Techniques.Radiometry.Radiation Dosage.Dose-Response Relationship, Radiation",E05.799.513.500
+Investigative Techniques.Radiometry.Radiation Monitoring,E05.799.638
+Investigative Techniques.Radiometry.Radiation Monitoring.Body Burden,E05.799.638.231
+Investigative Techniques.Radiometry.Radiation Monitoring.Film Dosimetry,E05.799.638.420
+Investigative Techniques.Radiometry.Radiation Monitoring.In Vivo Dosimetry,E05.799.638.511
+Investigative Techniques.Radiometry.Radiation Monitoring.Optically Stimulated Luminescence Dosimetry,E05.799.638.602
+Investigative Techniques.Radiometry.Radiation Monitoring.Thermoluminescent Dosimetry,E05.799.638.785
+Investigative Techniques.Radiometry.Radiometric Dating,E05.799.669
+Investigative Techniques.Radiometry.Scintillation Counting,E05.799.700
+"Investigative Techniques.Radiometry.Spectrometry, Gamma",E05.799.801
+"Investigative Techniques.Radiometry.Spectrometry, X-Ray Emission",E05.799.830
+"Investigative Techniques.Radiometry.Spectrometry, X-Ray Emission.Electron Probe Microanalysis",E05.799.830.360
+Investigative Techniques.Radiometry.Sun Protection Factor,E05.799.890
+Investigative Techniques.Radiometry.Whole-Body Counting,E05.799.950
+Investigative Techniques.Reproductive Techniques,E05.820
+Investigative Techniques.Reproductive Techniques.Breeding,E05.820.150
+Investigative Techniques.Reproductive Techniques.Breeding.Estrus Detection,E05.820.150.360
+Investigative Techniques.Reproductive Techniques.Breeding.Estrus Synchronization,E05.820.150.370
+"Investigative Techniques.Reproductive Techniques.Breeding.Hybridization, Genetic",E05.820.150.390
+Investigative Techniques.Reproductive Techniques.Breeding.Inbreeding,E05.820.150.520
+Investigative Techniques.Reproductive Techniques.Breeding.Selective Breeding,E05.820.150.760
+"Investigative Techniques.Reproductive Techniques.Cloning, Organism",E05.820.180
+Investigative Techniques.Reproductive Techniques.Embryo Disposition,E05.820.240
+Investigative Techniques.Reproductive Techniques.Fallopian Tube Patency Tests,E05.820.390
+Investigative Techniques.Reproductive Techniques.Nuclear Transfer Techniques,E05.820.540
+Investigative Techniques.Reproductive Techniques.Ovulation Detection,E05.820.690
+Investigative Techniques.Reproductive Techniques.Ovulation Prediction,E05.820.745
+"Investigative Techniques.Reproductive Techniques.Reproductive Techniques, Assisted",E05.820.800
+"Investigative Techniques.Reproductive Techniques.Reproductive Techniques, Assisted.Donor Conception",E05.820.800.250
+"Investigative Techniques.Reproductive Techniques.Reproductive Techniques, Assisted.Embryo Transfer",E05.820.800.500
+"Investigative Techniques.Reproductive Techniques.Reproductive Techniques, Assisted.Embryo Transfer.Single Embryo Transfer",E05.820.800.500.500
+"Investigative Techniques.Reproductive Techniques.Reproductive Techniques, Assisted.Fertility Preservation",E05.820.800.625
+"Investigative Techniques.Reproductive Techniques.Reproductive Techniques, Assisted.Fertilization in Vitro",E05.820.800.750
+"Investigative Techniques.Reproductive Techniques.Reproductive Techniques, Assisted.Fertilization in Vitro.Mitochondrial Replacement Therapy",E05.820.800.750.350
+"Investigative Techniques.Reproductive Techniques.Reproductive Techniques, Assisted.Fertilization in Vitro.Sperm Injections, Intracytoplasmic",E05.820.800.750.700
+"Investigative Techniques.Reproductive Techniques.Reproductive Techniques, Assisted.Gamete Intrafallopian Transfer",E05.820.800.875
+"Investigative Techniques.Reproductive Techniques.Reproductive Techniques, Assisted.In Vitro Oocyte Maturation Techniques",E05.820.800.906
+"Investigative Techniques.Reproductive Techniques.Reproductive Techniques, Assisted.Insemination, Artificial",E05.820.800.937
+"Investigative Techniques.Reproductive Techniques.Reproductive Techniques, Assisted.Insemination, Artificial.Insemination, Artificial, Heterologous",E05.820.800.937.515
+"Investigative Techniques.Reproductive Techniques.Reproductive Techniques, Assisted.Insemination, Artificial.Insemination, Artificial, Homologous",E05.820.800.937.525
+"Investigative Techniques.Reproductive Techniques.Reproductive Techniques, Assisted.Oocyte Donation",E05.820.800.968
+"Investigative Techniques.Reproductive Techniques.Reproductive Techniques, Assisted.Oocyte Retrieval",E05.820.800.976
+"Investigative Techniques.Reproductive Techniques.Reproductive Techniques, Assisted.Ovulation Induction",E05.820.800.984
+"Investigative Techniques.Reproductive Techniques.Reproductive Techniques, Assisted.Ovulation Induction.Superovulation",E05.820.800.984.500
+"Investigative Techniques.Reproductive Techniques.Reproductive Techniques, Assisted.Posthumous Conception",E05.820.800.986
+"Investigative Techniques.Reproductive Techniques.Reproductive Techniques, Assisted.Sperm Retrieval",E05.820.800.988
+"Investigative Techniques.Reproductive Techniques.Reproductive Techniques, Assisted.Zygote Intrafallopian Transfer",E05.820.800.992
+Investigative Techniques.Rheology,E05.830
+Investigative Techniques.Rheology.Hemorheology,E05.830.250
+Investigative Techniques.Rheology.Laser-Doppler Flowmetry,E05.830.500
+Investigative Techniques.Rheology.Lubrication,E05.830.583
+Investigative Techniques.Rheology.Microfluidics,E05.830.666
+Investigative Techniques.Rheology.Microfluidics.Electrowetting,E05.830.666.500
+Investigative Techniques.Sonication,E05.848
+Investigative Techniques.Sound Spectrography,E05.855
+Investigative Techniques.Stereotaxic Techniques,E05.873
+Investigative Techniques.Stereotaxic Techniques.Neuronavigation,E05.873.249
+Investigative Techniques.Stereotaxic Techniques.Radiosurgery,E05.873.500
+Investigative Techniques.Substance Abuse Detection,E05.885
+"Investigative Techniques.Technology, Pharmaceutical",E05.916
+"Investigative Techniques.Technology, Pharmaceutical.Dosage Forms",E05.916.250
+"Investigative Techniques.Technology, Pharmaceutical.Dosage Forms.Abuse-Deterrent Formulations",E05.916.250.500
+"Investigative Techniques.Technology, Pharmaceutical.Drug Compounding",E05.916.270
+"Investigative Techniques.Technology, Pharmaceutical.Drug Incompatibility",E05.916.290
+"Investigative Techniques.Technology, Pharmaceutical.Drug Labeling",E05.916.310
+"Investigative Techniques.Technology, Pharmaceutical.Drug Packaging",E05.916.320
+"Investigative Techniques.Technology, Pharmaceutical.Drug Stability",E05.916.330
+"Investigative Techniques.Technology, Pharmaceutical.Drug Storage",E05.916.350
+"Investigative Techniques.Technology, Pharmaceutical.Enzyme Stability",E05.916.360
+"Investigative Techniques.Technology, Pharmaceutical.High-Throughput Screening Assays",E05.916.680
+"Investigative Techniques.Technology, Radiologic",E05.920
+"Investigative Techniques.Technology, Radiologic.Teleradiology",E05.920.700
+Investigative Techniques.Telemetry,E05.925
+Investigative Techniques.Telemetry.Remote Sensing Technology,E05.925.500
+Investigative Techniques.Telemetry.Remote Sensing Technology.Satellite Imagery,E05.925.500.500
+Investigative Techniques.Therapeutic Irrigation,E05.927
+Investigative Techniques.Therapeutic Irrigation.Bronchoalveolar Lavage,E05.927.100
+Investigative Techniques.Therapeutic Irrigation.Bronchoalveolar Lavage.Bronchoalveolar Lavage Fluid,E05.927.100.500
+Investigative Techniques.Therapeutic Irrigation.Gastric Lavage,E05.927.441
+Investigative Techniques.Therapeutic Irrigation.Nasal Lavage,E05.927.573
+Investigative Techniques.Therapeutic Irrigation.Nasal Lavage.Nasal Lavage Fluid,E05.927.573.500
+Investigative Techniques.Therapeutic Irrigation.Peritoneal Lavage,E05.927.705
+Investigative Techniques.Therapeutic Irrigation.Vaginal Douching,E05.927.852
+Investigative Techniques.Thermometry,E05.933
+Investigative Techniques.Thermometry.Thermography,E05.933.500
+Investigative Techniques.Toxicity Tests,E05.940
+Investigative Techniques.Toxicity Tests.Carcinogenicity Tests,E05.940.150
+"Investigative Techniques.Toxicity Tests.Cytotoxicity Tests, Immunologic",E05.940.245
+Investigative Techniques.Toxicity Tests.Inhibitory Concentration 50,E05.940.350
+Investigative Techniques.Toxicity Tests.Lethal Dose 50,E05.940.402
+Investigative Techniques.Toxicity Tests.Maximum Tolerated Dose,E05.940.481
+Investigative Techniques.Toxicity Tests.Mutagenicity Tests,E05.940.560
+Investigative Techniques.Toxicity Tests.Mutagenicity Tests.Comet Assay,E05.940.560.150
+Investigative Techniques.Toxicity Tests.No-Observed-Adverse-Effect Level,E05.940.600
+"Investigative Techniques.Toxicity Tests.Toxicity Tests, Acute",E05.940.790
+"Investigative Techniques.Toxicity Tests.Toxicity Tests, Acute.Skin Irritancy Tests",E05.940.790.500
+"Investigative Techniques.Toxicity Tests.Toxicity Tests, Chronic",E05.940.800
+"Investigative Techniques.Toxicity Tests.Toxicity Tests, Subacute",E05.940.850
+"Investigative Techniques.Toxicity Tests.Toxicity Tests, Subchronic",E05.940.900
+Investigative Techniques.Trauma Severity Indices,E05.944
+Investigative Techniques.Trauma Severity Indices.Abbreviated Injury Scale,E05.944.250
+Investigative Techniques.Trauma Severity Indices.Glasgow Coma Scale,E05.944.500
+Investigative Techniques.Trauma Severity Indices.Glasgow Outcome Scale,E05.944.510
+Investigative Techniques.Trauma Severity Indices.Injury Severity Score,E05.944.600
+Investigative Techniques.Wavelet Analysis,E05.959
+Investigative Techniques.Weightlessness Countermeasures,E05.974
+Investigative Techniques.Weightlessness Simulation,E05.977
+Investigative Techniques.Weightlessness Simulation.Hindlimb Suspension,E05.977.400
+Investigative Techniques.Weights and Measures,E05.978
+Investigative Techniques.Weights and Measures.Calibration,E05.978.155
+Investigative Techniques.Weights and Measures.International System of Units,E05.978.507
+Investigative Techniques.Weights and Measures.Metric System,E05.978.539
+Investigative Techniques.Weights and Measures.Quartz Crystal Microbalance Techniques,E05.978.673
+Investigative Techniques.Weights and Measures.Reference Standards,E05.978.808
+Investigative Techniques.Weights and Measures.Reference Standards.Fiducial Markers,E05.978.808.249
+Investigative Techniques.Weights and Measures.Reference Standards.Growth Charts,E05.978.808.500
+Investigative Techniques.Weights and Measures.Reference Values,E05.978.810
+Investigative Techniques.Whole Body Imaging,E05.979
+Investigative Techniques.Whole-Body Irradiation,E05.980

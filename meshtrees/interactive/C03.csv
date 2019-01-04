@@ -1,0 +1,200 @@
+id,name
+C03,Parasitic Diseases
+C03.105,Central Nervous System Parasitic Infections
+C03.105.250,Central Nervous System Helminthiasis
+C03.105.250.550,Neurocysticercosis
+C03.105.250.600,Neuroschistosomiasis
+C03.105.300,Central Nervous System Protozoal Infections
+C03.105.300.500,"Malaria, Cerebral"
+C03.105.300.800,"Toxoplasmosis, Cerebral"
+C03.202,Coinfection
+C03.300,"Eye Infections, Parasitic"
+C03.300.125,Acanthamoeba Keratitis
+C03.300.562,"Onchocerciasis, Ocular"
+C03.300.781,"Toxoplasmosis, Ocular"
+C03.335,Helminthiasis
+C03.335.190,Cestode Infections
+C03.335.190.304,Diphyllobothriasis
+C03.335.190.304.780,Sparganosis
+C03.335.190.396,Echinococcosis
+C03.335.190.396.314,"Echinococcosis, Hepatic"
+C03.335.190.396.480,"Echinococcosis, Pulmonary"
+C03.335.190.519,Hymenolepiasis
+C03.335.190.628,Monieziasis
+C03.335.190.902,Taeniasis
+C03.335.190.902.185,Cysticercosis
+C03.335.190.902.185.550,Neurocysticercosis
+C03.335.349,"Helminthiasis, Animal"
+C03.335.349.315,Dictyocaulus Infections
+C03.335.349.320,Dirofilariasis
+C03.335.349.444,Fascioloidiasis
+C03.335.349.656,Monieziasis
+C03.335.349.820,Setariasis
+C03.335.349.840,"Strongyle Infections, Equine"
+C03.335.349.868,Toxocariasis
+C03.335.508,Nematode Infections
+C03.335.508.100,Adenophorea Infections
+C03.335.508.100.275,Enoplida Infections
+C03.335.508.100.275.882,Trichinellosis
+C03.335.508.100.275.895,Trichuriasis
+C03.335.508.523,Larva Migrans
+C03.335.508.523.780,"Larva Migrans, Visceral"
+C03.335.508.700,Secernentea Infections
+C03.335.508.700.100,Ascaridida Infections
+C03.335.508.700.100.060,Anisakiasis
+C03.335.508.700.100.070,Ascariasis
+C03.335.508.700.100.080,Ascaridiasis
+C03.335.508.700.100.850,Toxascariasis
+C03.335.508.700.100.868,Toxocariasis
+C03.335.508.700.100.868.420,"Larva Migrans, Visceral"
+C03.335.508.700.550,Oxyurida Infections
+C03.335.508.700.550.550,Oxyuriasis
+C03.335.508.700.550.550.375,Enterobiasis
+C03.335.508.700.700,Rhabditida Infections
+C03.335.508.700.700.799,Strongyloidiasis
+C03.335.508.700.750,Spirurida Infections
+C03.335.508.700.750.299,Dracunculiasis
+C03.335.508.700.750.361,Filariasis
+C03.335.508.700.750.361.137,Acanthocheilonemiasis
+C03.335.508.700.750.361.275,Dipetalonema Infections
+C03.335.508.700.750.361.290,Dirofilariasis
+C03.335.508.700.750.361.350,"Elephantiasis, Filarial"
+C03.335.508.700.750.361.518,Loiasis
+C03.335.508.700.750.361.588,Mansonelliasis
+C03.335.508.700.750.361.699,Onchocerciasis
+C03.335.508.700.750.361.699.500,"Onchocerciasis, Ocular"
+C03.335.508.700.750.361.852,Setariasis
+C03.335.508.700.750.380,Gnathostomiasis
+C03.335.508.700.775,Strongylida Infections
+C03.335.508.700.775.455,Hookworm Infections
+C03.335.508.700.775.455.154,Ancylostomiasis
+C03.335.508.700.775.455.683,Necatoriasis
+C03.335.508.700.775.583,Oesophagostomiasis
+C03.335.508.700.775.773,"Strongyle Infections, Equine"
+C03.335.508.700.775.825,Trichostrongyloidiasis
+C03.335.508.700.775.825.315,Dictyocaulus Infections
+C03.335.508.700.775.825.400,Haemonchiasis
+C03.335.508.700.775.825.580,Ostertagiasis
+C03.335.508.700.775.825.842,Trichostrongylosis
+C03.335.865,Trematode Infections
+C03.335.865.148,Clonorchiasis
+C03.335.865.224,Dicrocoeliasis
+C03.335.865.282,Echinostomiasis
+C03.335.865.354,Fascioliasis
+C03.335.865.399,Fascioloidiasis
+C03.335.865.685,Opisthorchiasis
+C03.335.865.741,Paragonimiasis
+C03.335.865.859,Schistosomiasis
+C03.335.865.859.213,Neuroschistosomiasis
+C03.335.865.859.427,Schistosomiasis haematobia
+C03.335.865.859.521,Schistosomiasis japonica
+C03.335.865.859.576,Schistosomiasis mansoni
+C03.432,"Intestinal Diseases, Parasitic"
+C03.432.060,Anisakiasis
+C03.432.146,Balantidiasis
+C03.432.250,Blastocystis Infections
+C03.432.269,Cryptosporidiosis
+C03.432.275,Dientamoebiasis
+C03.432.396,"Dysentery, Amebic"
+C03.432.481,Giardiasis
+C03.518,"Liver Diseases, Parasitic"
+C03.518.314,"Echinococcosis, Hepatic"
+C03.518.424,Fascioliasis
+C03.518.600,"Liver Abscess, Amebic"
+C03.582,"Lung Diseases, Parasitic"
+C03.582.314,"Echinococcosis, Pulmonary"
+C03.600,Mesomycetozoea Infections
+C03.600.700,Rhinosporidiosis
+C03.684,Opportunistic Infections
+C03.684.050,AIDS-Related Opportunistic Infections
+C03.684.880,Superinfection
+C03.695,Parasitemia
+C03.701,"Parasitic Diseases, Animal"
+C03.701.377,"Helminthiasis, Animal"
+C03.701.377.315,Dictyocaulus Infections
+C03.701.377.320,Dirofilariasis
+C03.701.377.444,Fascioloidiasis
+C03.701.377.656,Monieziasis
+C03.701.377.820,Setariasis
+C03.701.377.840,"Strongyle Infections, Equine"
+C03.701.377.868,Toxocariasis
+C03.701.688,"Protozoan Infections, Animal"
+C03.701.688.122,Babesiosis
+C03.701.688.235,Cryptosporidiosis
+C03.701.688.367,Dourine
+C03.701.688.735,Theileriasis
+C03.701.688.817,"Toxoplasmosis, Animal"
+C03.701.688.896,"Trypanosomiasis, Bovine"
+C03.718,"Pregnancy Complications, Parasitic"
+C03.752,Protozoan Infections
+C03.752.049,Amebiasis
+C03.752.049.203,Acanthamoeba Keratitis
+C03.752.049.250,Blastocystis Infections
+C03.752.049.328,"Dysentery, Amebic"
+C03.752.049.407,Entamoebiasis
+C03.752.049.703,"Liver Abscess, Amebic"
+C03.752.100,Central Nervous System Protozoal Infections
+C03.752.200,Ciliophora Infections
+C03.752.200.146,Balantidiasis
+C03.752.250,Coccidiosis
+C03.752.250.269,Cryptosporidiosis
+C03.752.250.280,Cyclosporiasis
+C03.752.250.410,Isosporiasis
+C03.752.250.634,Sarcocystosis
+C03.752.250.800,Toxoplasmosis
+C03.752.250.800.110,"Toxoplasmosis, Animal"
+C03.752.250.800.250,"Toxoplasmosis, Cerebral"
+C03.752.250.800.445,"Toxoplasmosis, Congenital"
+C03.752.250.800.640,"Toxoplasmosis, Ocular"
+C03.752.275,Dientamoebiasis
+C03.752.300,Euglenozoa Infections
+C03.752.300.500,Leishmaniasis
+C03.752.300.500.400,"Leishmaniasis, Cutaneous"
+C03.752.300.500.400.350,"Leishmaniasis, Diffuse Cutaneous"
+C03.752.300.500.400.385,"Leishmaniasis, Mucocutaneous"
+C03.752.300.500.510,"Leishmaniasis, Visceral"
+C03.752.300.900,Trypanosomiasis
+C03.752.300.900.200,Chagas Disease
+C03.752.300.900.200.190,Chagas Cardiomyopathy
+C03.752.300.900.226,Dourine
+C03.752.300.900.719,"Trypanosomiasis, African"
+C03.752.300.900.802,"Trypanosomiasis, Bovine"
+C03.752.400,Giardiasis
+C03.752.530,Malaria
+C03.752.530.606,"Malaria, Avian"
+C03.752.530.620,"Malaria, Cerebral"
+C03.752.530.650,"Malaria, Falciparum"
+C03.752.530.650.228,Blackwater Fever
+C03.752.530.700,"Malaria, Vivax"
+C03.752.625,"Protozoan Infections, Animal"
+C03.752.625.122,Babesiosis
+C03.752.625.235,Cryptosporidiosis
+C03.752.625.367,Dourine
+C03.752.625.735,Theileriasis
+C03.752.625.817,"Toxoplasmosis, Animal"
+C03.752.625.896,"Trypanosomiasis, Bovine"
+C03.752.875,Tick-Borne Diseases
+C03.752.875.175,Babesiosis
+C03.752.875.850,Theileriasis
+C03.752.890,Trichomonas Infections
+C03.752.890.633,Trichomonas Vaginitis
+C03.858,"Skin Diseases, Parasitic"
+C03.858.211,Ectoparasitic Infestations
+C03.858.211.250,Flea Infestations
+C03.858.211.250.800,Tungiasis
+C03.858.211.465,Lice Infestations
+C03.858.211.480,Mite Infestations
+C03.858.211.480.708,Scabies
+C03.858.211.480.869,Trombiculiasis
+C03.858.211.503,Myiasis
+C03.858.211.503.398,Hypodermyiasis
+C03.858.211.503.744,Screw Worm Infection
+C03.858.211.857,Tick Infestations
+C03.858.424,Larva Migrans
+C03.858.560,Leishmaniasis
+C03.858.560.400,"Leishmaniasis, Cutaneous"
+C03.858.560.400.350,"Leishmaniasis, Diffuse Cutaneous"
+C03.858.560.400.385,"Leishmaniasis, Mucocutaneous"
+C03.858.650,Onchocerciasis
+C03.908,Zoonoses
+C03.908.650,Pythiosis

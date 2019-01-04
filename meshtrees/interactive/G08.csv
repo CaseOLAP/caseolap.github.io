@@ -1,0 +1,184 @@
+id,name
+G08,Reproductive and Urinary Physiological Phenomena
+G08.686,Reproductive Physiological Phenomena
+G08.686.155,Cell Lineage
+G08.686.157,Climacteric
+G08.686.157.249,Andropause
+G08.686.157.500,Menopause
+G08.686.157.500.500,"Menopause, Premature"
+G08.686.157.500.562,Perimenopause
+G08.686.157.500.625,Postmenopause
+G08.686.157.500.812,Premenopause
+G08.686.160,Clutch Size
+G08.686.195,Estrous Cycle
+G08.686.195.249,Anestrus
+G08.686.195.374,Diestrus
+G08.686.195.500,Estrus
+G08.686.195.500.500,Estrus Synchronization
+G08.686.195.750,Metestrus
+G08.686.195.875,Proestrus
+G08.686.210,Fertility
+G08.686.210.249,Ovarian Reserve
+G08.686.210.500,Time-to-Pregnancy
+G08.686.220,Fetal Viability
+G08.686.280,Fetal Weight
+G08.686.290,Follicular Atresia
+G08.686.320,Gestational Age
+G08.686.340,Gravidity
+G08.686.520,Labor Presentation
+G08.686.520.150,Breech Presentation
+G08.686.523,Lactation
+G08.686.523.460,Milk Ejection
+G08.686.525,Lacteal Elimination
+G08.686.530,Litter Size
+G08.686.560,Maternal Age
+G08.686.605,Menstrual Cycle
+G08.686.605.154,Fertile Period
+G08.686.605.310,Follicular Phase
+G08.686.605.410,Luteal Phase
+G08.686.605.428,Menstruation
+G08.686.617,Menstruation
+G08.686.628,Ovarian Reserve
+G08.686.650,Oviparity
+G08.686.655,Ovoviviparity
+G08.686.677,Parity
+G08.686.700,Paternal Age
+G08.686.701,Peripartum Period
+G08.686.702,Postpartum Period
+G08.686.702.500,Lactation
+G08.686.702.500.460,Milk Ejection
+G08.686.705,Pregnancy Rate
+G08.686.707,Pregnancy Trimesters
+G08.686.707.408,"Pregnancy Trimester, First"
+G08.686.707.490,"Pregnancy Trimester, Second"
+G08.686.707.520,"Pregnancy Trimester, Third"
+G08.686.710,"Pregnancy, Multiple"
+G08.686.710.030,"Pregnancy, Quadruplet"
+G08.686.710.062,"Pregnancy, Quintuplet"
+G08.686.710.126,"Pregnancy, Triplet"
+G08.686.710.253,"Pregnancy, Twin"
+G08.686.710.608,Superfetation
+G08.686.760,Puberty
+G08.686.760.204,Adrenarche
+G08.686.760.410,Menarche
+G08.686.784,Reproduction
+G08.686.784.041,Coitus
+G08.686.784.084,Ejaculation
+G08.686.784.170,Embryonic and Fetal Development
+G08.686.784.170.104,Embryonic Development
+G08.686.784.170.104.249,Cell Lineage
+G08.686.784.170.104.500,Embryo Implantation
+G08.686.784.170.104.500.100,"Embryo Implantation, Delayed"
+G08.686.784.170.104.750,Embryonic Induction
+G08.686.784.170.104.875,"Twinning, Monozygotic"
+G08.686.784.170.157,Fetal Development
+G08.686.784.170.157.374,Fetal Movement
+G08.686.784.170.157.750,Fetal Organ Maturity
+G08.686.784.170.450,Organogenesis
+G08.686.784.170.450.500,Neurogenesis
+G08.686.784.170.450.500.750,Neuronal Outgrowth
+G08.686.784.170.450.500.750.500,Axon Fasciculation
+G08.686.784.170.450.500.750.750,Axon Guidance
+G08.686.784.277,Fertilization
+G08.686.784.277.360,Ovum Transport
+G08.686.784.277.560,Self-Fertilization
+G08.686.784.277.760,Sperm Capacitation
+G08.686.784.277.800,Sperm-Ovum Interactions
+G08.686.784.277.800.100,Acrosome Reaction
+G08.686.784.277.820,Sperm Transport
+G08.686.784.310,Gametogenesis
+G08.686.784.310.249,"Gametogenesis, Plant"
+G08.686.784.310.500,Oogenesis
+G08.686.784.310.500.880,Vitellogenesis
+G08.686.784.310.760,Spermatogenesis
+G08.686.784.310.760.700,Sperm Maturation
+G08.686.784.363,Insemination
+G08.686.784.363.492,"Insemination, Artificial"
+G08.686.784.363.492.500,"Insemination, Artificial, Heterologous"
+G08.686.784.363.492.750,"Insemination, Artificial, Homologous"
+G08.686.784.460,Orgasm
+G08.686.784.480,Oviposition
+G08.686.784.690,Ovulation
+G08.686.784.690.080,Anovulation
+G08.686.784.690.355,Luteinization
+G08.686.784.690.355.500,Corpus Luteum Maintenance
+G08.686.784.690.380,Luteolysis
+G08.686.784.690.493,Ovulation Inhibition
+G08.686.784.690.768,Superovulation
+G08.686.784.717,Penile Erection
+G08.686.784.743,Pollination
+G08.686.784.769,Pregnancy
+G08.686.784.769.213,Gravidity
+G08.686.784.769.326,"Labor, Obstetric"
+G08.686.784.769.326.100,Cervical Ripening
+G08.686.784.769.326.500,Labor Onset
+G08.686.784.769.326.500.080,"Labor Stage, First"
+G08.686.784.769.326.500.090,"Labor Stage, Second"
+G08.686.784.769.326.500.110,"Labor Stage, Third"
+G08.686.784.769.326.520,Labor Presentation
+G08.686.784.769.326.520.150,Breech Presentation
+G08.686.784.769.326.660,Trial of Labor
+G08.686.784.769.326.700,Uterine Contraction
+G08.686.784.769.455,Maternal-Fetal Exchange
+G08.686.784.769.472,Parity
+G08.686.784.769.490,Parturition
+G08.686.784.769.490.124,Home Childbirth
+G08.686.784.769.490.249,Natural Childbirth
+G08.686.784.769.490.500,Term Birth
+G08.686.784.769.491,Placentation
+G08.686.784.769.494,Pregnancy in Adolescence
+G08.686.784.769.498,"Pregnancy, Animal"
+G08.686.784.769.498.300,Litter Size
+G08.686.784.769.500,"Pregnancy, High-Risk"
+G08.686.784.769.520,Pregnancy Maintenance
+G08.686.784.769.520.500,Corpus Luteum Maintenance
+G08.686.784.769.525,"Pregnancy, Multiple"
+G08.686.784.769.525.608,Superfetation
+G08.686.784.769.530,Pregnancy Outcome
+G08.686.784.769.530.249,Live Birth
+G08.686.784.769.530.500,Stillbirth
+G08.686.784.769.570,"Pregnancy, Unplanned"
+G08.686.784.769.580,"Pregnancy, Unwanted"
+G08.686.784.769.600,Prenatal Nutritional Physiological Phenomena
+G08.686.784.769.887,Pseudopregnancy
+G08.686.784.830,"Reproduction, Asexual"
+G08.686.784.830.500,Parthenogenesis
+G08.686.784.830.500.500,Apomixis
+G08.686.784.891,Reproductive Behavior
+G08.686.784.891.500,Contraception Behavior
+G08.686.810,Sex
+G08.686.815,Sex Characteristics
+G08.686.841,Sexual Development
+G08.686.841.249,Climacteric
+G08.686.841.249.249,Andropause
+G08.686.841.249.500,Menopause
+G08.686.841.249.500.500,"Menopause, Premature"
+G08.686.841.249.500.562,Perimenopause
+G08.686.841.249.500.625,Postmenopause
+G08.686.841.249.500.812,Premenopause
+G08.686.841.374,Puberty
+G08.686.841.374.204,Adrenarche
+G08.686.841.374.410,Menarche
+G08.686.841.437,Sex Determination Processes
+G08.686.841.500,Sex Differentiation
+G08.686.841.750,Sexual Maturation
+G08.686.867,Sexuality
+G08.686.867.200,Bisexuality
+G08.686.867.400,Heterosexuality
+G08.686.867.500,Homosexuality
+G08.686.867.500.400,"Homosexuality, Female"
+G08.686.867.500.600,"Homosexuality, Male"
+G08.686.920,"Viviparity, Nonmammalian"
+G08.852,Urinary Tract Physiological Phenomena
+G08.852.179,Diuresis
+G08.852.179.557,Natriuresis
+G08.852.357,Glomerular Filtration Rate
+G08.852.536,Kidney Concentrating Ability
+G08.852.536.500,Renal Reabsorption
+G08.852.725,Renal Circulation
+G08.852.725.700,"Renal Blood Flow, Effective"
+G08.852.725.740,Renal Plasma Flow
+G08.852.725.750,"Renal Plasma Flow, Effective"
+G08.852.761,Renal Elimination
+G08.852.880,Urination
+G08.852.898,Urodynamics

@@ -1,0 +1,252 @@
+id,name
+A02,Musculoskeletal System
+A02.083,Aponeurosis
+A02.165,Cartilage
+A02.165.257,Elastic Cartilage
+A02.165.257.250,Ear Cartilage
+A02.165.257.625,Laryngeal Cartilages
+A02.165.257.625.083,Arytenoid Cartilage
+A02.165.257.625.211,Cricoid Cartilage
+A02.165.257.625.411,Epiglottis
+A02.165.257.625.870,Thyroid Cartilage
+A02.165.308,Fibrocartilage
+A02.165.308.410,Intervertebral Disc
+A02.165.308.410.250,Annulus Fibrosus
+A02.165.308.410.500,Nucleus Pulposus
+A02.165.308.538,Meniscus
+A02.165.308.538.500,"Menisci, Tibial"
+A02.165.308.575,Palmar Plate
+A02.165.308.650,Plantar Plate
+A02.165.308.800,Triangular Fibrocartilage
+A02.165.407,Hyaline Cartilage
+A02.165.407.150,"Cartilage, Articular"
+A02.165.407.325,Costal Cartilage
+A02.165.407.500,Laryngeal Cartilages
+A02.165.407.500.083,Arytenoid Cartilage
+A02.165.407.500.211,Cricoid Cartilage
+A02.165.407.500.411,Epiglottis
+A02.165.407.500.870,Thyroid Cartilage
+A02.165.407.550,Nasal Cartilages
+A02.340,Fascia
+A02.340.424,Fascia Lata
+A02.340.800,Tenon Capsule
+A02.513,Ligaments
+A02.513.170,Broad Ligament
+A02.513.514,"Ligaments, Articular"
+A02.513.514.100,Anterior Cruciate Ligament
+A02.513.514.162,Collateral Ligaments
+A02.513.514.162.250,"Collateral Ligament, Ulnar"
+A02.513.514.162.500,"Lateral Ligament, Ankle"
+A02.513.514.162.600,"Medial Collateral Ligament, Knee"
+A02.513.514.287,Ligamentum Flavum
+A02.513.514.350,Longitudinal Ligaments
+A02.513.514.475,Patellar Ligament
+A02.513.514.538,Plantar Plate
+A02.513.514.600,Posterior Cruciate Ligament
+A02.513.514.800,Round Ligament of Femur
+A02.513.901,Round Ligaments
+A02.513.901.500,Round Ligament of Femur
+A02.513.901.750,Round Ligament of Liver
+A02.513.901.875,Round Ligament of Uterus
+A02.633,Muscles
+A02.633.567,"Muscle, Skeletal"
+A02.633.567.050,Abdominal Muscles
+A02.633.567.050.375,Abdominal Oblique Muscles
+A02.633.567.050.750,Pelvic Floor
+A02.633.567.050.800,Rectus Abdominis
+A02.633.567.175,Back Muscles
+A02.633.567.175.500,Intermediate Back Muscles
+A02.633.567.175.750,Paraspinal Muscles
+A02.633.567.175.875,Superficial Back Muscles
+A02.633.567.300,Deltoid Muscle
+A02.633.567.400,Facial Muscles
+A02.633.567.425,Gracilis Muscle
+A02.633.567.450,Hamstring Muscles
+A02.633.567.500,Laryngeal Muscles
+A02.633.567.600,Masticatory Muscles
+A02.633.567.600.500,Masseter Muscle
+A02.633.567.600.700,Pterygoid Muscles
+A02.633.567.600.850,Temporal Muscle
+A02.633.567.650,Neck Muscles
+A02.633.567.700,Oculomotor Muscles
+A02.633.567.750,Palatal Muscles
+A02.633.567.775,Pectoralis Muscles
+A02.633.567.800,Pharyngeal Muscles
+A02.633.567.800.360,"Esophageal Sphincter, Upper"
+A02.633.567.800.680,Velopharyngeal Sphincter
+A02.633.567.825,Psoas Muscles
+A02.633.567.850,Quadriceps Muscle
+A02.633.567.900,Respiratory Muscles
+A02.633.567.900.300,Diaphragm
+A02.633.567.900.500,Intercostal Muscles
+A02.633.567.912,Rotator Cuff
+A02.633.567.950,Stapedius
+A02.633.567.975,Tensor Tympani
+A02.633.570,"Muscle, Smooth"
+A02.633.570.210,"Esophageal Sphincter, Lower"
+A02.633.570.491,"Muscle, Smooth, Vascular"
+A02.633.570.500,Myometrium
+A02.633.580,Myocardium
+A02.633.580.680,Papillary Muscles
+A02.835,Skeleton
+A02.835.232,Bone and Bones
+A02.835.232.022,Bone-Implant Interface
+A02.835.232.043,Bones of Lower Extremity
+A02.835.232.043.300,Foot Bones
+A02.835.232.043.300.492,Metatarsal Bones
+A02.835.232.043.300.710,Tarsal Bones
+A02.835.232.043.300.710.300,Calcaneus
+A02.835.232.043.300.710.780,Talus
+A02.835.232.043.300.800,Toe Phalanges
+A02.835.232.043.650,Leg Bones
+A02.835.232.043.650.247,Femur
+A02.835.232.043.650.247.343,Femur Head
+A02.835.232.043.650.247.510,Femur Neck
+A02.835.232.043.650.321,Fibula
+A02.835.232.043.650.624,Patella
+A02.835.232.043.650.883,Tibia
+A02.835.232.043.825,Pelvic Bones
+A02.835.232.043.825.108,Acetabulum
+A02.835.232.043.825.434,Ilium
+A02.835.232.043.825.548,Ischium
+A02.835.232.043.825.781,Pubic Bone
+A02.835.232.087,Bones of Upper Extremity
+A02.835.232.087.090,Arm Bones
+A02.835.232.087.090.400,Humerus
+A02.835.232.087.090.400.400,Humeral Head
+A02.835.232.087.090.700,Radius
+A02.835.232.087.090.850,Ulna
+A02.835.232.087.090.850.600,Olecranon Process
+A02.835.232.087.227,Clavicle
+A02.835.232.087.319,Hand Bones
+A02.835.232.087.319.150,Carpal Bones
+A02.835.232.087.319.150.150,Capitate Bone
+A02.835.232.087.319.150.400,Hamate Bone
+A02.835.232.087.319.150.500,Lunate Bone
+A02.835.232.087.319.150.600,Pisiform Bone
+A02.835.232.087.319.150.750,Scaphoid Bone
+A02.835.232.087.319.150.800,Trapezium Bone
+A02.835.232.087.319.150.805,Trapezoid Bone
+A02.835.232.087.319.150.831,Triquetrum Bone
+A02.835.232.087.319.350,Finger Phalanges
+A02.835.232.087.319.550,Metacarpal Bones
+A02.835.232.087.783,Scapula
+A02.835.232.087.783.261,Acromion
+A02.835.232.087.783.356,Coracoid Process
+A02.835.232.087.783.450,Glenoid Cavity
+A02.835.232.169,Diaphyses
+A02.835.232.251,Epiphyses
+A02.835.232.251.352,Growth Plate
+A02.835.232.409,Hyoid Bone
+A02.835.232.570,Rib Cage
+A02.835.232.570.500,Ribs
+A02.835.232.570.500.150,Cervical Rib
+A02.835.232.570.750,Sternum
+A02.835.232.570.750.442,Manubrium
+A02.835.232.570.750.825,Xiphoid Bone
+A02.835.232.730,Sesamoid Bones
+A02.835.232.730.500,Patella
+A02.835.232.781,Skull
+A02.835.232.781.175,Cranial Fontanelles
+A02.835.232.781.200,Cranial Sutures
+A02.835.232.781.292,Ethmoid Bone
+A02.835.232.781.324,Facial Bones
+A02.835.232.781.324.502,Jaw
+A02.835.232.781.324.502.125,Alveolar Process
+A02.835.232.781.324.502.125.800,Tooth Socket
+A02.835.232.781.324.502.320,Dental Arch
+A02.835.232.781.324.502.632,Mandible
+A02.835.232.781.324.502.632.130,Chin
+A02.835.232.781.324.502.632.600,Mandibular Condyle
+A02.835.232.781.324.502.645,Maxilla
+A02.835.232.781.324.502.660,"Palate, Hard"
+A02.835.232.781.324.665,Nasal Bone
+A02.835.232.781.324.690,Orbit
+A02.835.232.781.324.948,Turbinates
+A02.835.232.781.324.971,Vomer
+A02.835.232.781.324.995,Zygoma
+A02.835.232.781.375,Frontal Bone
+A02.835.232.781.572,Occipital Bone
+A02.835.232.781.572.434,Foramen Magnum
+A02.835.232.781.651,Parietal Bone
+A02.835.232.781.670,Pterygopalatine Fossa
+A02.835.232.781.750,Skull Base
+A02.835.232.781.750.150,"Cranial Fossa, Anterior"
+A02.835.232.781.750.165,"Cranial Fossa, Middle"
+A02.835.232.781.750.400,"Cranial Fossa, Posterior"
+A02.835.232.781.802,Sphenoid Bone
+A02.835.232.781.802.662,Sella Turcica
+A02.835.232.781.885,Temporal Bone
+A02.835.232.781.885.444,Mastoid
+A02.835.232.781.885.681,Petrous Bone
+A02.835.232.834,Spine
+A02.835.232.834.151,Cervical Vertebrae
+A02.835.232.834.151.383,"Axis, Cervical Vertebra"
+A02.835.232.834.151.383.668,Odontoid Process
+A02.835.232.834.151.500,Cervical Atlas
+A02.835.232.834.229,Coccyx
+A02.835.232.834.432,Intervertebral Disc
+A02.835.232.834.432.250,Annulus Fibrosus
+A02.835.232.834.432.500,Nucleus Pulposus
+A02.835.232.834.519,Lumbar Vertebrae
+A02.835.232.834.717,Sacrum
+A02.835.232.834.803,Spinal Canal
+A02.835.232.834.803.350,Epidural Space
+A02.835.232.834.892,Thoracic Vertebrae
+A02.835.583,Joints
+A02.835.583.032,Acromioclavicular Joint
+A02.835.583.097,Atlanto-Axial Joint
+A02.835.583.101,Atlanto-Occipital Joint
+A02.835.583.156,"Bursa, Synovial"
+A02.835.583.192,"Cartilage, Articular"
+A02.835.583.290,Elbow Joint
+A02.835.583.378,Foot Joints
+A02.835.583.378.062,Ankle Joint
+A02.835.583.378.531,Metatarsophalangeal Joint
+A02.835.583.378.531.500,Plantar Plate
+A02.835.583.378.831,Tarsal Joints
+A02.835.583.378.831.780,Subtalar Joint
+A02.835.583.378.900,Toe Joint
+A02.835.583.378.900.500,Plantar Plate
+A02.835.583.405,Hand Joints
+A02.835.583.405.174,Carpal Joints
+A02.835.583.405.200,Carpometacarpal Joints
+A02.835.583.405.350,Finger Joint
+A02.835.583.405.500,Metacarpophalangeal Joint
+A02.835.583.405.500.900,Palmar Plate
+A02.835.583.405.930,Wrist Joint
+A02.835.583.405.930.800,Triangular Fibrocartilage
+A02.835.583.411,Hip Joint
+A02.835.583.411.500,Round Ligament of Femur
+A02.835.583.443,Joint Capsule
+A02.835.583.443.800,Synovial Membrane
+A02.835.583.443.800.800,Synovial Fluid
+A02.835.583.475,Knee Joint
+A02.835.583.475.590,"Menisci, Tibial"
+A02.835.583.475.650,Patellofemoral Joint
+A02.835.583.512,"Ligaments, Articular"
+A02.835.583.512.100,Anterior Cruciate Ligament
+A02.835.583.512.162,Collateral Ligaments
+A02.835.583.512.162.250,"Collateral Ligament, Ulnar"
+A02.835.583.512.162.500,"Lateral Ligament, Ankle"
+A02.835.583.512.162.600,"Medial Collateral Ligament, Knee"
+A02.835.583.512.287,Ligamentum Flavum
+A02.835.583.512.350,Longitudinal Ligaments
+A02.835.583.512.475,Patellar Ligament
+A02.835.583.512.538,Plantar Plate
+A02.835.583.512.600,Posterior Cruciate Ligament
+A02.835.583.512.900,Palmar Plate
+A02.835.583.512.950,Round Ligament of Femur
+A02.835.583.656,Pubic Symphysis
+A02.835.583.707,Sacroiliac Joint
+A02.835.583.748,Shoulder Joint
+A02.835.583.781,Sternoclavicular Joint
+A02.835.583.790,Sternocostal Joints
+A02.835.583.861,Temporomandibular Joint
+A02.835.583.861.900,Temporomandibular Joint Disc
+A02.835.583.979,Zygapophyseal Joint
+A02.880,Tendons
+A02.880.176,Achilles Tendon
+A02.880.307,Hamstring Tendons
+A02.880.438,Patellar Ligament
+A02.880.700,Rotator Cuff

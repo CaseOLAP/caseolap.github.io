@@ -1,0 +1,75 @@
+id,name
+A06,Endocrine System
+A06.224,Chromaffin System
+A06.224.161,Chromaffin Cells
+A06.224.161.500,Chromaffin Granules
+A06.224.358,Enterochromaffin Cells
+A06.224.365,Enterochromaffin-like Cells
+A06.224.636,Para-Aortic Bodies
+A06.224.736,"Paraganglia, Chromaffin"
+A06.390,Enteroendocrine Cells
+A06.390.021,Enterochromaffin Cells
+A06.390.043,Enterochromaffin-like Cells
+A06.390.065,Gastrin-Secreting Cells
+A06.390.087,Glucagon-Secreting Cells
+A06.390.131,Insulin-Secreting Cells
+A06.390.650,Pancreatic Polypeptide-Secreting Cells
+A06.390.825,Somatostatin-Secreting Cells
+A06.407,Endocrine Glands
+A06.407.071,Adrenal Glands
+A06.407.071.140,Adrenal Cortex
+A06.407.071.140.950,Zona Fasciculata
+A06.407.071.140.960,Zona Glomerulosa
+A06.407.071.140.970,Zona Reticularis
+A06.407.071.265,Adrenal Medulla
+A06.407.312,Gonads
+A06.407.312.497,Ovary
+A06.407.312.497.278,Corpus Luteum
+A06.407.312.497.278.400,Luteal Cells
+A06.407.312.497.535,Ovarian Follicle
+A06.407.312.497.535.150,Follicular Fluid
+A06.407.312.497.535.300,Granulosa Cells
+A06.407.312.497.535.300.500,Cumulus Cells
+A06.407.312.497.535.600,Theca Cells
+A06.407.312.782,Testis
+A06.407.312.782.513,Leydig Cells
+A06.407.414,Islets of Langerhans
+A06.407.414.043,Glucagon-Secreting Cells
+A06.407.414.087,Insulin-Secreting Cells
+A06.407.414.587,Pancreatic Polypeptide-Secreting Cells
+A06.407.414.793,Somatostatin-Secreting Cells
+A06.407.560,Parathyroid Glands
+A06.407.635,Pineal Gland
+A06.407.691,Pituitary-Adrenal System
+A06.407.747,Pituitary Gland
+A06.407.747.500,"Pituitary Gland, Anterior"
+A06.407.747.500.500,Corticotrophs
+A06.407.747.500.750,Gonadotrophs
+A06.407.747.500.812,Lactotrophs
+A06.407.747.500.937,Somatotrophs
+A06.407.747.500.968,Thyrotrophs
+A06.407.747.750,"Pituitary Gland, Intermediate"
+A06.407.747.750.500,Melanotrophs
+A06.407.747.875,"Pituitary Gland, Posterior"
+A06.407.900,Thyroid Gland
+A06.688,Neurosecretory Systems
+A06.688.178,Circumventricular Organs
+A06.688.178.500,Area Postrema
+A06.688.178.750,Median Eminence
+A06.688.178.875,"Pituitary Gland, Posterior"
+A06.688.178.937,Subcommissural Organ
+A06.688.178.968,Subfornical Organ
+A06.688.267,Glomus Tympanicum
+A06.688.357,Hypothalamo-Hypophyseal System
+A06.688.357.500,Median Eminence
+A06.688.357.750,Pituitary Gland
+A06.688.357.750.500,"Pituitary Gland, Anterior"
+A06.688.357.750.500.500,Corticotrophs
+A06.688.357.750.500.750,Gonadotrophs
+A06.688.357.750.500.812,Lactotrophs
+A06.688.357.750.500.937,Somatotrophs
+A06.688.357.750.500.968,Thyrotrophs
+A06.688.357.750.750,"Pituitary Gland, Intermediate"
+A06.688.357.750.750.500,Melanotrophs
+A06.688.357.750.875,"Pituitary Gland, Posterior"
+A06.688.733,Pineal Gland

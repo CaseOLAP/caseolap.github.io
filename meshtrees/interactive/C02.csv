@@ -1,0 +1,367 @@
+id,name
+C02,Virus Diseases
+C02.081,Arbovirus Infections
+C02.081.030,African Horse Sickness
+C02.081.125,Bluetongue
+C02.081.270,Dengue
+C02.081.270.200,Severe Dengue
+C02.081.343,"Encephalitis, Arbovirus"
+C02.081.343.340,"Encephalitis, California"
+C02.081.343.345,"Encephalitis, Japanese"
+C02.081.343.350,"Encephalitis, St. Louis"
+C02.081.343.360,"Encephalitis, Tick-Borne"
+C02.081.343.950,West Nile Fever
+C02.081.355,"Encephalomyelitis, Equine"
+C02.081.355.177,"Encephalomyelitis, Eastern Equine"
+C02.081.355.355,"Encephalomyelitis, Venezuelan Equine"
+C02.081.355.677,"Encephalomyelitis, Western Equine"
+C02.081.700,Phlebotomus Fever
+C02.081.810,Rift Valley Fever
+C02.081.885,Tick-Borne Diseases
+C02.081.885.125,African Swine Fever
+C02.081.885.200,Colorado Tick Fever
+C02.081.885.400,"Encephalitis, Tick-Borne"
+C02.081.885.430,"Hemorrhagic Fever, Crimean"
+C02.081.885.440,"Hemorrhagic Fever, Omsk"
+C02.081.885.475,Kyasanur Forest Disease
+C02.081.885.550,Nairobi Sheep Disease
+C02.081.980,Yellow Fever
+C02.081.990,Zika Virus Infection
+C02.109,"Bronchiolitis, Viral"
+C02.182,Central Nervous System Viral Diseases
+C02.182.525,"Encephalitis, Viral"
+C02.182.525.300,"Encephalitis, Arbovirus"
+C02.182.525.300.200,"Encephalitis, California"
+C02.182.525.300.250,"Encephalitis, Japanese"
+C02.182.525.300.300,"Encephalitis, St. Louis"
+C02.182.525.300.350,"Encephalitis, Tick-Borne"
+C02.182.525.300.850,West Nile Fever
+C02.182.525.350,"Encephalitis, Herpes Simplex"
+C02.182.525.400,"Encephalitis, Varicella Zoster"
+C02.182.525.450,"Encephalomyelitis, Equine"
+C02.182.525.450.250,"Encephalomyelitis, Venezuelan Equine"
+C02.182.525.450.300,"Encephalomyelitis, Western Equine"
+C02.182.525.500,"Leukoencephalopathy, Progressive Multifocal"
+C02.182.525.600,Subacute Sclerosing Panencephalitis
+C02.182.550,"Meningitis, Viral"
+C02.182.550.500,Lymphocytic Choriomeningitis
+C02.182.710,Pseudorabies
+C02.219,Coinfection
+C02.256,DNA Virus Infections
+C02.256.076,Adenoviridae Infections
+C02.256.076.045,"Adenovirus Infections, Human"
+C02.256.076.381,"Hepatitis, Infectious Canine"
+C02.256.142,African Swine Fever
+C02.256.200,Circoviridae Infections
+C02.256.200.500,Porcine Postweaning Multisystemic Wasting Syndrome
+C02.256.430,Hepadnaviridae Infections
+C02.256.430.400,Hepatitis B
+C02.256.430.400.100,"Hepatitis B, Chronic"
+C02.256.466,Herpesviridae Infections
+C02.256.466.087,Bell Palsy
+C02.256.466.245,Cytomegalovirus Infections
+C02.256.466.245.150,Cytomegalovirus Retinitis
+C02.256.466.262,"Encephalitis, Herpes Simplex"
+C02.256.466.313,Epstein-Barr Virus Infections
+C02.256.466.313.165,Burkitt Lymphoma
+C02.256.466.313.400,Infectious Mononucleosis
+C02.256.466.313.500,"Leukoplakia, Hairy"
+C02.256.466.382,Herpes Simplex
+C02.256.466.382.290,Herpes Genitalis
+C02.256.466.382.316,Herpes Labialis
+C02.256.466.382.410,Kaposi Varicelliform Eruption
+C02.256.466.382.465,"Keratitis, Herpetic"
+C02.256.466.382.465.450,"Keratitis, Dendritic"
+C02.256.466.382.834,"Stomatitis, Herpetic"
+C02.256.466.488,Infectious Bovine Rhinotracheitis
+C02.256.466.606,Malignant Catarrh
+C02.256.466.650,Marek Disease
+C02.256.466.793,Pseudorabies
+C02.256.466.850,Roseolovirus Infections
+C02.256.466.850.290,Exanthema Subitum
+C02.256.466.860,"Sarcoma, Kaposi"
+C02.256.466.930,Varicella Zoster Virus Infection
+C02.256.466.930.250,Chickenpox
+C02.256.466.930.500,"Encephalitis, Varicella Zoster"
+C02.256.466.930.750,Herpes Zoster
+C02.256.466.930.750.466,Herpes Zoster Ophthalmicus
+C02.256.466.930.750.733,Herpes Zoster Oticus
+C02.256.466.930.750.970,Zoster Sine Herpete
+C02.256.650,Papillomavirus Infections
+C02.256.650.810,Warts
+C02.256.650.810.217,Condylomata Acuminata
+C02.256.650.810.217.500,Buschke-Lowenstein Tumor
+C02.256.650.810.345,Epidermodysplasia Verruciformis
+C02.256.700,Parvoviridae Infections
+C02.256.700.091,Aleutian Mink Disease
+C02.256.700.300,Erythema Infectiosum
+C02.256.700.363,Feline Panleukopenia
+C02.256.700.550,Mink Viral Enteritis
+C02.256.721,Polyomavirus Infections
+C02.256.721.150,"Carcinoma, Merkel Cell"
+C02.256.721.500,"Leukoencephalopathy, Progressive Multifocal"
+C02.256.743,Poxviridae Infections
+C02.256.743.175,Cowpox
+C02.256.743.193,"Ecthyma, Contagious"
+C02.256.743.239,"Ectromelia, Infectious"
+C02.256.743.366,Fowlpox
+C02.256.743.494,Lumpy Skin Disease
+C02.256.743.611,Molluscum Contagiosum
+C02.256.743.615,Monkeypox
+C02.256.743.665,"Myxomatosis, Infectious"
+C02.256.743.826,Smallpox
+C02.256.743.929,Vaccinia
+C02.290,"Encephalitis, Viral"
+C02.290.310,"Encephalitis, Arbovirus"
+C02.290.310.140,"Encephalitis, California"
+C02.290.310.280,"Encephalitis, Japanese"
+C02.290.310.406,"Encephalitis, St. Louis"
+C02.290.310.530,"Encephalitis, Tick-Borne"
+C02.290.310.950,West Nile Fever
+C02.290.325,"Encephalitis, Herpes Simplex"
+C02.290.355,"Encephalitis, Varicella Zoster"
+C02.290.450,"Encephalomyelitis, Equine"
+C02.290.450.200,"Encephalomyelitis, Eastern Equine"
+C02.290.450.225,"Encephalomyelitis, Venezuelan Equine"
+C02.290.450.250,"Encephalomyelitis, Western Equine"
+C02.290.575,"Leukoencephalopathy, Progressive Multifocal"
+C02.290.700,Subacute Sclerosing Panencephalitis
+C02.325,"Eye Infections, Viral"
+C02.325.250,"Conjunctivitis, Viral"
+C02.325.250.250,"Conjunctivitis, Acute Hemorrhagic"
+C02.325.270,Cytomegalovirus Retinitis
+C02.325.450,Herpes Zoster Ophthalmicus
+C02.325.465,"Keratitis, Herpetic"
+C02.325.465.450,"Keratitis, Dendritic"
+C02.330,"Fatigue Syndrome, Chronic"
+C02.407,"Hepatitis, Viral, Animal"
+C02.407.432,"Hepatitis, Infectious Canine"
+C02.407.810,Rift Valley Fever
+C02.440,"Hepatitis, Viral, Human"
+C02.440.420,Hepatitis A
+C02.440.435,Hepatitis B
+C02.440.435.100,"Hepatitis B, Chronic"
+C02.440.440,Hepatitis C
+C02.440.440.120,"Hepatitis C, Chronic"
+C02.440.450,Hepatitis D
+C02.440.450.100,"Hepatitis D, Chronic"
+C02.440.470,Hepatitis E
+C02.597,Opportunistic Infections
+C02.597.050,AIDS-Related Opportunistic Infections
+C02.597.880,Superinfection
+C02.705,"Pneumonia, Viral"
+C02.782,RNA Virus Infections
+C02.782.082,Arenaviridae Infections
+C02.782.082.440,"Hemorrhagic Fever, American"
+C02.782.082.545,Lassa Fever
+C02.782.082.580,Lymphocytic Choriomeningitis
+C02.782.105,Astroviridae Infections
+C02.782.123,Birnaviridae Infections
+C02.782.147,Bunyaviridae Infections
+C02.782.147.340,"Encephalitis, California"
+C02.782.147.420,Hantavirus Infections
+C02.782.147.420.380,Hantavirus Pulmonary Syndrome
+C02.782.147.420.400,Hemorrhagic Fever with Renal Syndrome
+C02.782.147.444,"Hemorrhagic Fever, Crimean"
+C02.782.147.633,Nairobi Sheep Disease
+C02.782.147.700,Phlebotomus Fever
+C02.782.147.810,Rift Valley Fever
+C02.782.160,Caliciviridae Infections
+C02.782.160.927,Vesicular Exanthema of Swine
+C02.782.310,"Encephalitis, Arbovirus"
+C02.782.310.340,"Encephalitis, California"
+C02.782.310.345,"Encephalitis, Japanese"
+C02.782.310.350,"Encephalitis, St. Louis"
+C02.782.310.360,"Encephalitis, Tick-Borne"
+C02.782.310.950,West Nile Fever
+C02.782.350,Flaviviridae Infections
+C02.782.350.250,Flavivirus Infections
+C02.782.350.250.214,Dengue
+C02.782.350.250.214.200,Severe Dengue
+C02.782.350.250.300,"Encephalitis, Japanese"
+C02.782.350.250.450,"Encephalitis, St. Louis"
+C02.782.350.250.500,"Encephalitis, Tick-Borne"
+C02.782.350.250.560,"Hemorrhagic Fever, Omsk"
+C02.782.350.250.635,Kyasanur Forest Disease
+C02.782.350.250.650,Louping Ill
+C02.782.350.250.900,West Nile Fever
+C02.782.350.250.980,Yellow Fever
+C02.782.350.250.990,Zika Virus Infection
+C02.782.350.350,Hepatitis C
+C02.782.350.350.120,"Hepatitis C, Chronic"
+C02.782.350.675,Pestivirus Infections
+C02.782.350.675.100,Border Disease
+C02.782.350.675.106,Bovine Virus Diarrhea-Mucosal Disease
+C02.782.350.675.200,Classical Swine Fever
+C02.782.350.675.400,"Hemorrhagic Syndrome, Bovine"
+C02.782.417,"Hemorrhagic Fevers, Viral"
+C02.782.417.214,Dengue
+C02.782.417.214.200,Severe Dengue
+C02.782.417.400,"Hemorrhagic Fever, American"
+C02.782.417.412,"Hemorrhagic Fever, Crimean"
+C02.782.417.415,"Hemorrhagic Fever, Ebola"
+C02.782.417.435,"Hemorrhagic Fever, Omsk"
+C02.782.417.450,Hemorrhagic Fever with Renal Syndrome
+C02.782.417.475,Kyasanur Forest Disease
+C02.782.417.505,Lassa Fever
+C02.782.417.560,Marburg Virus Disease
+C02.782.417.762,Rift Valley Fever
+C02.782.417.881,Yellow Fever
+C02.782.450,Hepatitis D
+C02.782.450.100,"Hepatitis D, Chronic"
+C02.782.455,Hepatitis E
+C02.782.580,Mononegavirales Infections
+C02.782.580.124,Borna Disease
+C02.782.580.250,Filoviridae Infections
+C02.782.580.250.400,"Hemorrhagic Fever, Ebola"
+C02.782.580.250.500,Marburg Virus Disease
+C02.782.580.600,Paramyxoviridae Infections
+C02.782.580.600.080,Avulavirus Infections
+C02.782.580.600.080.600,Newcastle Disease
+C02.782.580.600.400,Henipavirus Infections
+C02.782.580.600.500,Morbillivirus Infections
+C02.782.580.600.500.285,Distemper
+C02.782.580.600.500.500,Measles
+C02.782.580.600.500.500.800,Subacute Sclerosing Panencephalitis
+C02.782.580.600.500.600,Peste-des-Petits-Ruminants
+C02.782.580.600.500.700,Rinderpest
+C02.782.580.600.600,Respirovirus Infections
+C02.782.580.600.600.648,"Pasteurellosis, Pneumonic"
+C02.782.580.600.620,Pneumovirus Infections
+C02.782.580.600.620.750,Respiratory Syncytial Virus Infections
+C02.782.580.600.680,Rubulavirus Infections
+C02.782.580.600.680.500,Mumps
+C02.782.580.830,Rhabdoviridae Infections
+C02.782.580.830.375,Ephemeral Fever
+C02.782.580.830.450,"Hemorrhagic Septicemia, Viral"
+C02.782.580.830.750,Rabies
+C02.782.580.830.825,Vesicular Stomatitis
+C02.782.600,Nidovirales Infections
+C02.782.600.100,Arterivirus Infections
+C02.782.600.100.700,Porcine Reproductive and Respiratory Syndrome
+C02.782.600.550,Coronaviridae Infections
+C02.782.600.550.200,Coronavirus Infections
+C02.782.600.550.200.325,"Enteritis, Transmissible, of Turkeys"
+C02.782.600.550.200.360,Feline Infectious Peritonitis
+C02.782.600.550.200.400,"Gastroenteritis, Transmissible, of Swine"
+C02.782.600.550.200.750,Severe Acute Respiratory Syndrome
+C02.782.600.550.800,Torovirus Infections
+C02.782.620,Orthomyxoviridae Infections
+C02.782.620.365,"Influenza, Human"
+C02.782.620.375,Influenza in Birds
+C02.782.687,Picornaviridae Infections
+C02.782.687.150,Cardiovirus Infections
+C02.782.687.207,Common Cold
+C02.782.687.359,Enterovirus Infections
+C02.782.687.359.201,"Conjunctivitis, Acute Hemorrhagic"
+C02.782.687.359.213,Coxsackievirus Infections
+C02.782.687.359.213.331,"Hand, Foot and Mouth Disease"
+C02.782.687.359.213.466,Herpangina
+C02.782.687.359.213.737,"Pleurodynia, Epidemic"
+C02.782.687.359.347,Echovirus Infections
+C02.782.687.359.347.500,Herpangina
+C02.782.687.359.456,"Encephalomyelitis, Enzootic Porcine"
+C02.782.687.359.500,Hepatitis A
+C02.782.687.359.764,Poliomyelitis
+C02.782.687.359.764.614,"Poliomyelitis, Bulbar"
+C02.782.687.359.764.650,Postpoliomyelitis Syndrome
+C02.782.687.359.855,Swine Vesicular Disease
+C02.782.687.484,Foot-and-Mouth Disease
+C02.782.791,Reoviridae Infections
+C02.782.791.142,African Horse Sickness
+C02.782.791.315,Bluetongue
+C02.782.791.482,Colorado Tick Fever
+C02.782.791.814,Rotavirus Infections
+C02.782.815,Retroviridae Infections
+C02.782.815.096,Avian Leukosis
+C02.782.815.200,Deltaretrovirus Infections
+C02.782.815.200.260,Enzootic Bovine Leukosis
+C02.782.815.200.470,HTLV-I Infections
+C02.782.815.200.470.710,"Paraparesis, Tropical Spastic"
+C02.782.815.200.480,HTLV-II Infections
+C02.782.815.616,Lentivirus Infections
+C02.782.815.616.300,Equine Infectious Anemia
+C02.782.815.616.350,Feline Acquired Immunodeficiency Syndrome
+C02.782.815.616.400,HIV Infections
+C02.782.815.616.400.040,Acquired Immunodeficiency Syndrome
+C02.782.815.616.400.044,Acute Retroviral Syndrome
+C02.782.815.616.400.048,"AIDS Arteritis, Central Nervous System"
+C02.782.815.616.400.050,AIDS-Associated Nephropathy
+C02.782.815.616.400.070,AIDS Dementia Complex
+C02.782.815.616.400.080,AIDS-Related Complex
+C02.782.815.616.400.100,AIDS-Related Opportunistic Infections
+C02.782.815.616.400.400,HIV-Associated Lipodystrophy Syndrome
+C02.782.815.616.400.480,HIV Enteropathy
+C02.782.815.616.400.500,HIV Seropositivity
+C02.782.815.616.400.520,HIV Wasting Syndrome
+C02.782.815.616.660,"Pneumonia, Progressive Interstitial, of Sheep"
+C02.782.815.616.850,Simian Acquired Immunodeficiency Syndrome
+C02.782.815.616.900,Visna
+C02.782.815.622,"Leukemia, Feline"
+C02.782.815.650,Murine Acquired Immunodeficiency Syndrome
+C02.782.815.725,"Pulmonary Adenomatosis, Ovine"
+C02.782.815.800,"Sarcoma, Avian"
+C02.782.930,Togaviridae Infections
+C02.782.930.100,Alphavirus Infections
+C02.782.930.100.184,Chikungunya Fever
+C02.782.930.100.370,"Encephalomyelitis, Equine"
+C02.782.930.100.370.162,"Encephalomyelitis, Eastern Equine"
+C02.782.930.100.370.325,"Encephalomyelitis, Venezuelan Equine"
+C02.782.930.100.370.662,"Encephalomyelitis, Western Equine"
+C02.782.930.700,Rubivirus Infections
+C02.782.930.700.700,Rubella
+C02.782.930.700.700.700,"Rubella Syndrome, Congenital"
+C02.800,Sexually Transmitted Diseases
+C02.800.801,"Sexually Transmitted Diseases, Viral"
+C02.800.801.220,Condylomata Acuminata
+C02.800.801.220.500,Buschke-Lowenstein Tumor
+C02.800.801.350,Herpes Genitalis
+C02.800.801.400,HIV Infections
+C02.800.801.400.040,Acquired Immunodeficiency Syndrome
+C02.800.801.400.044,Acute Retroviral Syndrome
+C02.800.801.400.048,"AIDS Arteritis, Central Nervous System"
+C02.800.801.400.050,AIDS-Associated Nephropathy
+C02.800.801.400.070,AIDS Dementia Complex
+C02.800.801.400.080,AIDS-Related Complex
+C02.800.801.400.400,HIV-Associated Lipodystrophy Syndrome
+C02.800.801.400.480,HIV Enteropathy
+C02.800.801.400.500,HIV Seropositivity
+C02.800.801.400.520,HIV Wasting Syndrome
+C02.825,"Skin Diseases, Viral"
+C02.825.260,Erythema Infectiosum
+C02.825.290,Exanthema Subitum
+C02.825.320,Herpes Simplex
+C02.825.320.320,Herpes Labialis
+C02.825.320.410,Kaposi Varicelliform Eruption
+C02.825.550,Molluscum Contagiosum
+C02.825.810,Warts
+C02.825.810.110,Condylomata Acuminata
+C02.825.810.110.500,Buschke-Lowenstein Tumor
+C02.825.810.260,Epidermodysplasia Verruciformis
+C02.839,Slow Virus Diseases
+C02.839.040,Acquired Immunodeficiency Syndrome
+C02.839.080,AIDS-Related Complex
+C02.839.091,Aleutian Mink Disease
+C02.839.375,Equine Infectious Anemia
+C02.839.400,Feline Acquired Immunodeficiency Syndrome
+C02.839.550,"Leukoencephalopathy, Progressive Multifocal"
+C02.839.660,"Pneumonia, Progressive Interstitial, of Sheep"
+C02.839.850,Simian Acquired Immunodeficiency Syndrome
+C02.839.862,Subacute Sclerosing Panencephalitis
+C02.839.900,Visna
+C02.928,Tumor Virus Infections
+C02.928.120,Avian Leukosis
+C02.928.216,"Carcinoma, Merkel Cell"
+C02.928.313,Epstein-Barr Virus Infections
+C02.928.313.165,Burkitt Lymphoma
+C02.928.489,Marek Disease
+C02.928.650,Murine Acquired Immunodeficiency Syndrome
+C02.928.725,Papillomavirus Infections
+C02.928.740,"Pulmonary Adenomatosis, Ovine"
+C02.928.800,"Sarcoma, Avian"
+C02.928.914,Warts
+C02.928.914.217,Condylomata Acuminata
+C02.928.914.217.500,Buschke-Lowenstein Tumor
+C02.928.914.345,Epidermodysplasia Verruciformis
+C02.937,Viremia
+C02.968,Zoonoses

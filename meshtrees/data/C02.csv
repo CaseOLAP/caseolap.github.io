@@ -1,0 +1,367 @@
+id,value
+Virus Diseases,C02
+Virus Diseases.Arbovirus Infections,C02.081
+Virus Diseases.Arbovirus Infections.African Horse Sickness,C02.081.030
+Virus Diseases.Arbovirus Infections.Bluetongue,C02.081.125
+Virus Diseases.Arbovirus Infections.Dengue,C02.081.270
+Virus Diseases.Arbovirus Infections.Dengue.Severe Dengue,C02.081.270.200
+"Virus Diseases.Arbovirus Infections.Encephalitis, Arbovirus",C02.081.343
+"Virus Diseases.Arbovirus Infections.Encephalitis, Arbovirus.Encephalitis, California",C02.081.343.340
+"Virus Diseases.Arbovirus Infections.Encephalitis, Arbovirus.Encephalitis, Japanese",C02.081.343.345
+"Virus Diseases.Arbovirus Infections.Encephalitis, Arbovirus.Encephalitis, St. Louis",C02.081.343.350
+"Virus Diseases.Arbovirus Infections.Encephalitis, Arbovirus.Encephalitis, Tick-Borne",C02.081.343.360
+"Virus Diseases.Arbovirus Infections.Encephalitis, Arbovirus.West Nile Fever",C02.081.343.950
+"Virus Diseases.Arbovirus Infections.Encephalomyelitis, Equine",C02.081.355
+"Virus Diseases.Arbovirus Infections.Encephalomyelitis, Equine.Encephalomyelitis, Eastern Equine",C02.081.355.177
+"Virus Diseases.Arbovirus Infections.Encephalomyelitis, Equine.Encephalomyelitis, Venezuelan Equine",C02.081.355.355
+"Virus Diseases.Arbovirus Infections.Encephalomyelitis, Equine.Encephalomyelitis, Western Equine",C02.081.355.677
+Virus Diseases.Arbovirus Infections.Phlebotomus Fever,C02.081.700
+Virus Diseases.Arbovirus Infections.Rift Valley Fever,C02.081.810
+Virus Diseases.Arbovirus Infections.Tick-Borne Diseases,C02.081.885
+Virus Diseases.Arbovirus Infections.Tick-Borne Diseases.African Swine Fever,C02.081.885.125
+Virus Diseases.Arbovirus Infections.Tick-Borne Diseases.Colorado Tick Fever,C02.081.885.200
+"Virus Diseases.Arbovirus Infections.Tick-Borne Diseases.Encephalitis, Tick-Borne",C02.081.885.400
+"Virus Diseases.Arbovirus Infections.Tick-Borne Diseases.Hemorrhagic Fever, Crimean",C02.081.885.430
+"Virus Diseases.Arbovirus Infections.Tick-Borne Diseases.Hemorrhagic Fever, Omsk",C02.081.885.440
+Virus Diseases.Arbovirus Infections.Tick-Borne Diseases.Kyasanur Forest Disease,C02.081.885.475
+Virus Diseases.Arbovirus Infections.Tick-Borne Diseases.Nairobi Sheep Disease,C02.081.885.550
+Virus Diseases.Arbovirus Infections.Yellow Fever,C02.081.980
+Virus Diseases.Arbovirus Infections.Zika Virus Infection,C02.081.990
+"Virus Diseases.Bronchiolitis, Viral",C02.109
+Virus Diseases.Central Nervous System Viral Diseases,C02.182
+"Virus Diseases.Central Nervous System Viral Diseases.Encephalitis, Viral",C02.182.525
+"Virus Diseases.Central Nervous System Viral Diseases.Encephalitis, Viral.Encephalitis, Arbovirus",C02.182.525.300
+"Virus Diseases.Central Nervous System Viral Diseases.Encephalitis, Viral.Encephalitis, Arbovirus.Encephalitis, California",C02.182.525.300.200
+"Virus Diseases.Central Nervous System Viral Diseases.Encephalitis, Viral.Encephalitis, Arbovirus.Encephalitis, Japanese",C02.182.525.300.250
+"Virus Diseases.Central Nervous System Viral Diseases.Encephalitis, Viral.Encephalitis, Arbovirus.Encephalitis, St. Louis",C02.182.525.300.300
+"Virus Diseases.Central Nervous System Viral Diseases.Encephalitis, Viral.Encephalitis, Arbovirus.Encephalitis, Tick-Borne",C02.182.525.300.350
+"Virus Diseases.Central Nervous System Viral Diseases.Encephalitis, Viral.Encephalitis, Arbovirus.West Nile Fever",C02.182.525.300.850
+"Virus Diseases.Central Nervous System Viral Diseases.Encephalitis, Viral.Encephalitis, Herpes Simplex",C02.182.525.350
+"Virus Diseases.Central Nervous System Viral Diseases.Encephalitis, Viral.Encephalitis, Varicella Zoster",C02.182.525.400
+"Virus Diseases.Central Nervous System Viral Diseases.Encephalitis, Viral.Encephalomyelitis, Equine",C02.182.525.450
+"Virus Diseases.Central Nervous System Viral Diseases.Encephalitis, Viral.Encephalomyelitis, Equine.Encephalomyelitis, Venezuelan Equine",C02.182.525.450.250
+"Virus Diseases.Central Nervous System Viral Diseases.Encephalitis, Viral.Encephalomyelitis, Equine.Encephalomyelitis, Western Equine",C02.182.525.450.300
+"Virus Diseases.Central Nervous System Viral Diseases.Encephalitis, Viral.Leukoencephalopathy, Progressive Multifocal",C02.182.525.500
+"Virus Diseases.Central Nervous System Viral Diseases.Encephalitis, Viral.Subacute Sclerosing Panencephalitis",C02.182.525.600
+"Virus Diseases.Central Nervous System Viral Diseases.Meningitis, Viral",C02.182.550
+"Virus Diseases.Central Nervous System Viral Diseases.Meningitis, Viral.Lymphocytic Choriomeningitis",C02.182.550.500
+Virus Diseases.Central Nervous System Viral Diseases.Pseudorabies,C02.182.710
+Virus Diseases.Coinfection,C02.219
+Virus Diseases.DNA Virus Infections,C02.256
+Virus Diseases.DNA Virus Infections.Adenoviridae Infections,C02.256.076
+"Virus Diseases.DNA Virus Infections.Adenoviridae Infections.Adenovirus Infections, Human",C02.256.076.045
+"Virus Diseases.DNA Virus Infections.Adenoviridae Infections.Hepatitis, Infectious Canine",C02.256.076.381
+Virus Diseases.DNA Virus Infections.African Swine Fever,C02.256.142
+Virus Diseases.DNA Virus Infections.Circoviridae Infections,C02.256.200
+Virus Diseases.DNA Virus Infections.Circoviridae Infections.Porcine Postweaning Multisystemic Wasting Syndrome,C02.256.200.500
+Virus Diseases.DNA Virus Infections.Hepadnaviridae Infections,C02.256.430
+Virus Diseases.DNA Virus Infections.Hepadnaviridae Infections.Hepatitis B,C02.256.430.400
+"Virus Diseases.DNA Virus Infections.Hepadnaviridae Infections.Hepatitis B.Hepatitis B, Chronic",C02.256.430.400.100
+Virus Diseases.DNA Virus Infections.Herpesviridae Infections,C02.256.466
+Virus Diseases.DNA Virus Infections.Herpesviridae Infections.Bell Palsy,C02.256.466.087
+Virus Diseases.DNA Virus Infections.Herpesviridae Infections.Cytomegalovirus Infections,C02.256.466.245
+Virus Diseases.DNA Virus Infections.Herpesviridae Infections.Cytomegalovirus Infections.Cytomegalovirus Retinitis,C02.256.466.245.150
+"Virus Diseases.DNA Virus Infections.Herpesviridae Infections.Encephalitis, Herpes Simplex",C02.256.466.262
+Virus Diseases.DNA Virus Infections.Herpesviridae Infections.Epstein-Barr Virus Infections,C02.256.466.313
+Virus Diseases.DNA Virus Infections.Herpesviridae Infections.Epstein-Barr Virus Infections.Burkitt Lymphoma,C02.256.466.313.165
+Virus Diseases.DNA Virus Infections.Herpesviridae Infections.Epstein-Barr Virus Infections.Infectious Mononucleosis,C02.256.466.313.400
+"Virus Diseases.DNA Virus Infections.Herpesviridae Infections.Epstein-Barr Virus Infections.Leukoplakia, Hairy",C02.256.466.313.500
+Virus Diseases.DNA Virus Infections.Herpesviridae Infections.Herpes Simplex,C02.256.466.382
+Virus Diseases.DNA Virus Infections.Herpesviridae Infections.Herpes Simplex.Herpes Genitalis,C02.256.466.382.290
+Virus Diseases.DNA Virus Infections.Herpesviridae Infections.Herpes Simplex.Herpes Labialis,C02.256.466.382.316
+Virus Diseases.DNA Virus Infections.Herpesviridae Infections.Herpes Simplex.Kaposi Varicelliform Eruption,C02.256.466.382.410
+"Virus Diseases.DNA Virus Infections.Herpesviridae Infections.Herpes Simplex.Keratitis, Herpetic",C02.256.466.382.465
+"Virus Diseases.DNA Virus Infections.Herpesviridae Infections.Herpes Simplex.Keratitis, Herpetic.Keratitis, Dendritic",C02.256.466.382.465.450
+"Virus Diseases.DNA Virus Infections.Herpesviridae Infections.Herpes Simplex.Stomatitis, Herpetic",C02.256.466.382.834
+Virus Diseases.DNA Virus Infections.Herpesviridae Infections.Infectious Bovine Rhinotracheitis,C02.256.466.488
+Virus Diseases.DNA Virus Infections.Herpesviridae Infections.Malignant Catarrh,C02.256.466.606
+Virus Diseases.DNA Virus Infections.Herpesviridae Infections.Marek Disease,C02.256.466.650
+Virus Diseases.DNA Virus Infections.Herpesviridae Infections.Pseudorabies,C02.256.466.793
+Virus Diseases.DNA Virus Infections.Herpesviridae Infections.Roseolovirus Infections,C02.256.466.850
+Virus Diseases.DNA Virus Infections.Herpesviridae Infections.Roseolovirus Infections.Exanthema Subitum,C02.256.466.850.290
+"Virus Diseases.DNA Virus Infections.Herpesviridae Infections.Sarcoma, Kaposi",C02.256.466.860
+Virus Diseases.DNA Virus Infections.Herpesviridae Infections.Varicella Zoster Virus Infection,C02.256.466.930
+Virus Diseases.DNA Virus Infections.Herpesviridae Infections.Varicella Zoster Virus Infection.Chickenpox,C02.256.466.930.250
+"Virus Diseases.DNA Virus Infections.Herpesviridae Infections.Varicella Zoster Virus Infection.Encephalitis, Varicella Zoster",C02.256.466.930.500
+Virus Diseases.DNA Virus Infections.Herpesviridae Infections.Varicella Zoster Virus Infection.Herpes Zoster,C02.256.466.930.750
+Virus Diseases.DNA Virus Infections.Herpesviridae Infections.Varicella Zoster Virus Infection.Herpes Zoster.Herpes Zoster Ophthalmicus,C02.256.466.930.750.466
+Virus Diseases.DNA Virus Infections.Herpesviridae Infections.Varicella Zoster Virus Infection.Herpes Zoster.Herpes Zoster Oticus,C02.256.466.930.750.733
+Virus Diseases.DNA Virus Infections.Herpesviridae Infections.Varicella Zoster Virus Infection.Herpes Zoster.Zoster Sine Herpete,C02.256.466.930.750.970
+Virus Diseases.DNA Virus Infections.Papillomavirus Infections,C02.256.650
+Virus Diseases.DNA Virus Infections.Papillomavirus Infections.Warts,C02.256.650.810
+Virus Diseases.DNA Virus Infections.Papillomavirus Infections.Warts.Condylomata Acuminata,C02.256.650.810.217
+Virus Diseases.DNA Virus Infections.Papillomavirus Infections.Warts.Condylomata Acuminata.Buschke-Lowenstein Tumor,C02.256.650.810.217.500
+Virus Diseases.DNA Virus Infections.Papillomavirus Infections.Warts.Epidermodysplasia Verruciformis,C02.256.650.810.345
+Virus Diseases.DNA Virus Infections.Parvoviridae Infections,C02.256.700
+Virus Diseases.DNA Virus Infections.Parvoviridae Infections.Aleutian Mink Disease,C02.256.700.091
+Virus Diseases.DNA Virus Infections.Parvoviridae Infections.Erythema Infectiosum,C02.256.700.300
+Virus Diseases.DNA Virus Infections.Parvoviridae Infections.Feline Panleukopenia,C02.256.700.363
+Virus Diseases.DNA Virus Infections.Parvoviridae Infections.Mink Viral Enteritis,C02.256.700.550
+Virus Diseases.DNA Virus Infections.Polyomavirus Infections,C02.256.721
+"Virus Diseases.DNA Virus Infections.Polyomavirus Infections.Carcinoma, Merkel Cell",C02.256.721.150
+"Virus Diseases.DNA Virus Infections.Polyomavirus Infections.Leukoencephalopathy, Progressive Multifocal",C02.256.721.500
+Virus Diseases.DNA Virus Infections.Poxviridae Infections,C02.256.743
+Virus Diseases.DNA Virus Infections.Poxviridae Infections.Cowpox,C02.256.743.175
+"Virus Diseases.DNA Virus Infections.Poxviridae Infections.Ecthyma, Contagious",C02.256.743.193
+"Virus Diseases.DNA Virus Infections.Poxviridae Infections.Ectromelia, Infectious",C02.256.743.239
+Virus Diseases.DNA Virus Infections.Poxviridae Infections.Fowlpox,C02.256.743.366
+Virus Diseases.DNA Virus Infections.Poxviridae Infections.Lumpy Skin Disease,C02.256.743.494
+Virus Diseases.DNA Virus Infections.Poxviridae Infections.Molluscum Contagiosum,C02.256.743.611
+Virus Diseases.DNA Virus Infections.Poxviridae Infections.Monkeypox,C02.256.743.615
+"Virus Diseases.DNA Virus Infections.Poxviridae Infections.Myxomatosis, Infectious",C02.256.743.665
+Virus Diseases.DNA Virus Infections.Poxviridae Infections.Smallpox,C02.256.743.826
+Virus Diseases.DNA Virus Infections.Poxviridae Infections.Vaccinia,C02.256.743.929
+"Virus Diseases.Encephalitis, Viral",C02.290
+"Virus Diseases.Encephalitis, Viral.Encephalitis, Arbovirus",C02.290.310
+"Virus Diseases.Encephalitis, Viral.Encephalitis, Arbovirus.Encephalitis, California",C02.290.310.140
+"Virus Diseases.Encephalitis, Viral.Encephalitis, Arbovirus.Encephalitis, Japanese",C02.290.310.280
+"Virus Diseases.Encephalitis, Viral.Encephalitis, Arbovirus.Encephalitis, St. Louis",C02.290.310.406
+"Virus Diseases.Encephalitis, Viral.Encephalitis, Arbovirus.Encephalitis, Tick-Borne",C02.290.310.530
+"Virus Diseases.Encephalitis, Viral.Encephalitis, Arbovirus.West Nile Fever",C02.290.310.950
+"Virus Diseases.Encephalitis, Viral.Encephalitis, Herpes Simplex",C02.290.325
+"Virus Diseases.Encephalitis, Viral.Encephalitis, Varicella Zoster",C02.290.355
+"Virus Diseases.Encephalitis, Viral.Encephalomyelitis, Equine",C02.290.450
+"Virus Diseases.Encephalitis, Viral.Encephalomyelitis, Equine.Encephalomyelitis, Eastern Equine",C02.290.450.200
+"Virus Diseases.Encephalitis, Viral.Encephalomyelitis, Equine.Encephalomyelitis, Venezuelan Equine",C02.290.450.225
+"Virus Diseases.Encephalitis, Viral.Encephalomyelitis, Equine.Encephalomyelitis, Western Equine",C02.290.450.250
+"Virus Diseases.Encephalitis, Viral.Leukoencephalopathy, Progressive Multifocal",C02.290.575
+"Virus Diseases.Encephalitis, Viral.Subacute Sclerosing Panencephalitis",C02.290.700
+"Virus Diseases.Eye Infections, Viral",C02.325
+"Virus Diseases.Eye Infections, Viral.Conjunctivitis, Viral",C02.325.250
+"Virus Diseases.Eye Infections, Viral.Conjunctivitis, Viral.Conjunctivitis, Acute Hemorrhagic",C02.325.250.250
+"Virus Diseases.Eye Infections, Viral.Cytomegalovirus Retinitis",C02.325.270
+"Virus Diseases.Eye Infections, Viral.Herpes Zoster Ophthalmicus",C02.325.450
+"Virus Diseases.Eye Infections, Viral.Keratitis, Herpetic",C02.325.465
+"Virus Diseases.Eye Infections, Viral.Keratitis, Herpetic.Keratitis, Dendritic",C02.325.465.450
+"Virus Diseases.Fatigue Syndrome, Chronic",C02.330
+"Virus Diseases.Hepatitis, Viral, Animal",C02.407
+"Virus Diseases.Hepatitis, Viral, Animal.Hepatitis, Infectious Canine",C02.407.432
+"Virus Diseases.Hepatitis, Viral, Animal.Rift Valley Fever",C02.407.810
+"Virus Diseases.Hepatitis, Viral, Human",C02.440
+"Virus Diseases.Hepatitis, Viral, Human.Hepatitis A",C02.440.420
+"Virus Diseases.Hepatitis, Viral, Human.Hepatitis B",C02.440.435
+"Virus Diseases.Hepatitis, Viral, Human.Hepatitis B.Hepatitis B, Chronic",C02.440.435.100
+"Virus Diseases.Hepatitis, Viral, Human.Hepatitis C",C02.440.440
+"Virus Diseases.Hepatitis, Viral, Human.Hepatitis C.Hepatitis C, Chronic",C02.440.440.120
+"Virus Diseases.Hepatitis, Viral, Human.Hepatitis D",C02.440.450
+"Virus Diseases.Hepatitis, Viral, Human.Hepatitis D.Hepatitis D, Chronic",C02.440.450.100
+"Virus Diseases.Hepatitis, Viral, Human.Hepatitis E",C02.440.470
+Virus Diseases.Opportunistic Infections,C02.597
+Virus Diseases.Opportunistic Infections.AIDS-Related Opportunistic Infections,C02.597.050
+Virus Diseases.Opportunistic Infections.Superinfection,C02.597.880
+"Virus Diseases.Pneumonia, Viral",C02.705
+Virus Diseases.RNA Virus Infections,C02.782
+Virus Diseases.RNA Virus Infections.Arenaviridae Infections,C02.782.082
+"Virus Diseases.RNA Virus Infections.Arenaviridae Infections.Hemorrhagic Fever, American",C02.782.082.440
+Virus Diseases.RNA Virus Infections.Arenaviridae Infections.Lassa Fever,C02.782.082.545
+Virus Diseases.RNA Virus Infections.Arenaviridae Infections.Lymphocytic Choriomeningitis,C02.782.082.580
+Virus Diseases.RNA Virus Infections.Astroviridae Infections,C02.782.105
+Virus Diseases.RNA Virus Infections.Birnaviridae Infections,C02.782.123
+Virus Diseases.RNA Virus Infections.Bunyaviridae Infections,C02.782.147
+"Virus Diseases.RNA Virus Infections.Bunyaviridae Infections.Encephalitis, California",C02.782.147.340
+Virus Diseases.RNA Virus Infections.Bunyaviridae Infections.Hantavirus Infections,C02.782.147.420
+Virus Diseases.RNA Virus Infections.Bunyaviridae Infections.Hantavirus Infections.Hantavirus Pulmonary Syndrome,C02.782.147.420.380
+Virus Diseases.RNA Virus Infections.Bunyaviridae Infections.Hantavirus Infections.Hemorrhagic Fever with Renal Syndrome,C02.782.147.420.400
+"Virus Diseases.RNA Virus Infections.Bunyaviridae Infections.Hemorrhagic Fever, Crimean",C02.782.147.444
+Virus Diseases.RNA Virus Infections.Bunyaviridae Infections.Nairobi Sheep Disease,C02.782.147.633
+Virus Diseases.RNA Virus Infections.Bunyaviridae Infections.Phlebotomus Fever,C02.782.147.700
+Virus Diseases.RNA Virus Infections.Bunyaviridae Infections.Rift Valley Fever,C02.782.147.810
+Virus Diseases.RNA Virus Infections.Caliciviridae Infections,C02.782.160
+Virus Diseases.RNA Virus Infections.Caliciviridae Infections.Vesicular Exanthema of Swine,C02.782.160.927
+"Virus Diseases.RNA Virus Infections.Encephalitis, Arbovirus",C02.782.310
+"Virus Diseases.RNA Virus Infections.Encephalitis, Arbovirus.Encephalitis, California",C02.782.310.340
+"Virus Diseases.RNA Virus Infections.Encephalitis, Arbovirus.Encephalitis, Japanese",C02.782.310.345
+"Virus Diseases.RNA Virus Infections.Encephalitis, Arbovirus.Encephalitis, St. Louis",C02.782.310.350
+"Virus Diseases.RNA Virus Infections.Encephalitis, Arbovirus.Encephalitis, Tick-Borne",C02.782.310.360
+"Virus Diseases.RNA Virus Infections.Encephalitis, Arbovirus.West Nile Fever",C02.782.310.950
+Virus Diseases.RNA Virus Infections.Flaviviridae Infections,C02.782.350
+Virus Diseases.RNA Virus Infections.Flaviviridae Infections.Flavivirus Infections,C02.782.350.250
+Virus Diseases.RNA Virus Infections.Flaviviridae Infections.Flavivirus Infections.Dengue,C02.782.350.250.214
+Virus Diseases.RNA Virus Infections.Flaviviridae Infections.Flavivirus Infections.Dengue.Severe Dengue,C02.782.350.250.214.200
+"Virus Diseases.RNA Virus Infections.Flaviviridae Infections.Flavivirus Infections.Encephalitis, Japanese",C02.782.350.250.300
+"Virus Diseases.RNA Virus Infections.Flaviviridae Infections.Flavivirus Infections.Encephalitis, St. Louis",C02.782.350.250.450
+"Virus Diseases.RNA Virus Infections.Flaviviridae Infections.Flavivirus Infections.Encephalitis, Tick-Borne",C02.782.350.250.500
+"Virus Diseases.RNA Virus Infections.Flaviviridae Infections.Flavivirus Infections.Hemorrhagic Fever, Omsk",C02.782.350.250.560
+Virus Diseases.RNA Virus Infections.Flaviviridae Infections.Flavivirus Infections.Kyasanur Forest Disease,C02.782.350.250.635
+Virus Diseases.RNA Virus Infections.Flaviviridae Infections.Flavivirus Infections.Louping Ill,C02.782.350.250.650
+Virus Diseases.RNA Virus Infections.Flaviviridae Infections.Flavivirus Infections.West Nile Fever,C02.782.350.250.900
+Virus Diseases.RNA Virus Infections.Flaviviridae Infections.Flavivirus Infections.Yellow Fever,C02.782.350.250.980
+Virus Diseases.RNA Virus Infections.Flaviviridae Infections.Flavivirus Infections.Zika Virus Infection,C02.782.350.250.990
+Virus Diseases.RNA Virus Infections.Flaviviridae Infections.Hepatitis C,C02.782.350.350
+"Virus Diseases.RNA Virus Infections.Flaviviridae Infections.Hepatitis C.Hepatitis C, Chronic",C02.782.350.350.120
+Virus Diseases.RNA Virus Infections.Flaviviridae Infections.Pestivirus Infections,C02.782.350.675
+Virus Diseases.RNA Virus Infections.Flaviviridae Infections.Pestivirus Infections.Border Disease,C02.782.350.675.100
+Virus Diseases.RNA Virus Infections.Flaviviridae Infections.Pestivirus Infections.Bovine Virus Diarrhea-Mucosal Disease,C02.782.350.675.106
+Virus Diseases.RNA Virus Infections.Flaviviridae Infections.Pestivirus Infections.Classical Swine Fever,C02.782.350.675.200
+"Virus Diseases.RNA Virus Infections.Flaviviridae Infections.Pestivirus Infections.Hemorrhagic Syndrome, Bovine",C02.782.350.675.400
+"Virus Diseases.RNA Virus Infections.Hemorrhagic Fevers, Viral",C02.782.417
+"Virus Diseases.RNA Virus Infections.Hemorrhagic Fevers, Viral.Dengue",C02.782.417.214
+"Virus Diseases.RNA Virus Infections.Hemorrhagic Fevers, Viral.Dengue.Severe Dengue",C02.782.417.214.200
+"Virus Diseases.RNA Virus Infections.Hemorrhagic Fevers, Viral.Hemorrhagic Fever, American",C02.782.417.400
+"Virus Diseases.RNA Virus Infections.Hemorrhagic Fevers, Viral.Hemorrhagic Fever, Crimean",C02.782.417.412
+"Virus Diseases.RNA Virus Infections.Hemorrhagic Fevers, Viral.Hemorrhagic Fever, Ebola",C02.782.417.415
+"Virus Diseases.RNA Virus Infections.Hemorrhagic Fevers, Viral.Hemorrhagic Fever, Omsk",C02.782.417.435
+"Virus Diseases.RNA Virus Infections.Hemorrhagic Fevers, Viral.Hemorrhagic Fever with Renal Syndrome",C02.782.417.450
+"Virus Diseases.RNA Virus Infections.Hemorrhagic Fevers, Viral.Kyasanur Forest Disease",C02.782.417.475
+"Virus Diseases.RNA Virus Infections.Hemorrhagic Fevers, Viral.Lassa Fever",C02.782.417.505
+"Virus Diseases.RNA Virus Infections.Hemorrhagic Fevers, Viral.Marburg Virus Disease",C02.782.417.560
+"Virus Diseases.RNA Virus Infections.Hemorrhagic Fevers, Viral.Rift Valley Fever",C02.782.417.762
+"Virus Diseases.RNA Virus Infections.Hemorrhagic Fevers, Viral.Yellow Fever",C02.782.417.881
+Virus Diseases.RNA Virus Infections.Hepatitis D,C02.782.450
+"Virus Diseases.RNA Virus Infections.Hepatitis D.Hepatitis D, Chronic",C02.782.450.100
+Virus Diseases.RNA Virus Infections.Hepatitis E,C02.782.455
+Virus Diseases.RNA Virus Infections.Mononegavirales Infections,C02.782.580
+Virus Diseases.RNA Virus Infections.Mononegavirales Infections.Borna Disease,C02.782.580.124
+Virus Diseases.RNA Virus Infections.Mononegavirales Infections.Filoviridae Infections,C02.782.580.250
+"Virus Diseases.RNA Virus Infections.Mononegavirales Infections.Filoviridae Infections.Hemorrhagic Fever, Ebola",C02.782.580.250.400
+Virus Diseases.RNA Virus Infections.Mononegavirales Infections.Filoviridae Infections.Marburg Virus Disease,C02.782.580.250.500
+Virus Diseases.RNA Virus Infections.Mononegavirales Infections.Paramyxoviridae Infections,C02.782.580.600
+Virus Diseases.RNA Virus Infections.Mononegavirales Infections.Paramyxoviridae Infections.Avulavirus Infections,C02.782.580.600.080
+Virus Diseases.RNA Virus Infections.Mononegavirales Infections.Paramyxoviridae Infections.Avulavirus Infections.Newcastle Disease,C02.782.580.600.080.600
+Virus Diseases.RNA Virus Infections.Mononegavirales Infections.Paramyxoviridae Infections.Henipavirus Infections,C02.782.580.600.400
+Virus Diseases.RNA Virus Infections.Mononegavirales Infections.Paramyxoviridae Infections.Morbillivirus Infections,C02.782.580.600.500
+Virus Diseases.RNA Virus Infections.Mononegavirales Infections.Paramyxoviridae Infections.Morbillivirus Infections.Distemper,C02.782.580.600.500.285
+Virus Diseases.RNA Virus Infections.Mononegavirales Infections.Paramyxoviridae Infections.Morbillivirus Infections.Measles,C02.782.580.600.500.500
+Virus Diseases.RNA Virus Infections.Mononegavirales Infections.Paramyxoviridae Infections.Morbillivirus Infections.Measles.Subacute Sclerosing Panencephalitis,C02.782.580.600.500.500.800
+Virus Diseases.RNA Virus Infections.Mononegavirales Infections.Paramyxoviridae Infections.Morbillivirus Infections.Peste-des-Petits-Ruminants,C02.782.580.600.500.600
+Virus Diseases.RNA Virus Infections.Mononegavirales Infections.Paramyxoviridae Infections.Morbillivirus Infections.Rinderpest,C02.782.580.600.500.700
+Virus Diseases.RNA Virus Infections.Mononegavirales Infections.Paramyxoviridae Infections.Respirovirus Infections,C02.782.580.600.600
+"Virus Diseases.RNA Virus Infections.Mononegavirales Infections.Paramyxoviridae Infections.Respirovirus Infections.Pasteurellosis, Pneumonic",C02.782.580.600.600.648
+Virus Diseases.RNA Virus Infections.Mononegavirales Infections.Paramyxoviridae Infections.Pneumovirus Infections,C02.782.580.600.620
+Virus Diseases.RNA Virus Infections.Mononegavirales Infections.Paramyxoviridae Infections.Pneumovirus Infections.Respiratory Syncytial Virus Infections,C02.782.580.600.620.750
+Virus Diseases.RNA Virus Infections.Mononegavirales Infections.Paramyxoviridae Infections.Rubulavirus Infections,C02.782.580.600.680
+Virus Diseases.RNA Virus Infections.Mononegavirales Infections.Paramyxoviridae Infections.Rubulavirus Infections.Mumps,C02.782.580.600.680.500
+Virus Diseases.RNA Virus Infections.Mononegavirales Infections.Rhabdoviridae Infections,C02.782.580.830
+Virus Diseases.RNA Virus Infections.Mononegavirales Infections.Rhabdoviridae Infections.Ephemeral Fever,C02.782.580.830.375
+"Virus Diseases.RNA Virus Infections.Mononegavirales Infections.Rhabdoviridae Infections.Hemorrhagic Septicemia, Viral",C02.782.580.830.450
+Virus Diseases.RNA Virus Infections.Mononegavirales Infections.Rhabdoviridae Infections.Rabies,C02.782.580.830.750
+Virus Diseases.RNA Virus Infections.Mononegavirales Infections.Rhabdoviridae Infections.Vesicular Stomatitis,C02.782.580.830.825
+Virus Diseases.RNA Virus Infections.Nidovirales Infections,C02.782.600
+Virus Diseases.RNA Virus Infections.Nidovirales Infections.Arterivirus Infections,C02.782.600.100
+Virus Diseases.RNA Virus Infections.Nidovirales Infections.Arterivirus Infections.Porcine Reproductive and Respiratory Syndrome,C02.782.600.100.700
+Virus Diseases.RNA Virus Infections.Nidovirales Infections.Coronaviridae Infections,C02.782.600.550
+Virus Diseases.RNA Virus Infections.Nidovirales Infections.Coronaviridae Infections.Coronavirus Infections,C02.782.600.550.200
+"Virus Diseases.RNA Virus Infections.Nidovirales Infections.Coronaviridae Infections.Coronavirus Infections.Enteritis, Transmissible, of Turkeys",C02.782.600.550.200.325
+Virus Diseases.RNA Virus Infections.Nidovirales Infections.Coronaviridae Infections.Coronavirus Infections.Feline Infectious Peritonitis,C02.782.600.550.200.360
+"Virus Diseases.RNA Virus Infections.Nidovirales Infections.Coronaviridae Infections.Coronavirus Infections.Gastroenteritis, Transmissible, of Swine",C02.782.600.550.200.400
+Virus Diseases.RNA Virus Infections.Nidovirales Infections.Coronaviridae Infections.Coronavirus Infections.Severe Acute Respiratory Syndrome,C02.782.600.550.200.750
+Virus Diseases.RNA Virus Infections.Nidovirales Infections.Coronaviridae Infections.Torovirus Infections,C02.782.600.550.800
+Virus Diseases.RNA Virus Infections.Orthomyxoviridae Infections,C02.782.620
+"Virus Diseases.RNA Virus Infections.Orthomyxoviridae Infections.Influenza, Human",C02.782.620.365
+Virus Diseases.RNA Virus Infections.Orthomyxoviridae Infections.Influenza in Birds,C02.782.620.375
+Virus Diseases.RNA Virus Infections.Picornaviridae Infections,C02.782.687
+Virus Diseases.RNA Virus Infections.Picornaviridae Infections.Cardiovirus Infections,C02.782.687.150
+Virus Diseases.RNA Virus Infections.Picornaviridae Infections.Common Cold,C02.782.687.207
+Virus Diseases.RNA Virus Infections.Picornaviridae Infections.Enterovirus Infections,C02.782.687.359
+"Virus Diseases.RNA Virus Infections.Picornaviridae Infections.Enterovirus Infections.Conjunctivitis, Acute Hemorrhagic",C02.782.687.359.201
+Virus Diseases.RNA Virus Infections.Picornaviridae Infections.Enterovirus Infections.Coxsackievirus Infections,C02.782.687.359.213
+"Virus Diseases.RNA Virus Infections.Picornaviridae Infections.Enterovirus Infections.Coxsackievirus Infections.Hand, Foot and Mouth Disease",C02.782.687.359.213.331
+Virus Diseases.RNA Virus Infections.Picornaviridae Infections.Enterovirus Infections.Coxsackievirus Infections.Herpangina,C02.782.687.359.213.466
+"Virus Diseases.RNA Virus Infections.Picornaviridae Infections.Enterovirus Infections.Coxsackievirus Infections.Pleurodynia, Epidemic",C02.782.687.359.213.737
+Virus Diseases.RNA Virus Infections.Picornaviridae Infections.Enterovirus Infections.Echovirus Infections,C02.782.687.359.347
+Virus Diseases.RNA Virus Infections.Picornaviridae Infections.Enterovirus Infections.Echovirus Infections.Herpangina,C02.782.687.359.347.500
+"Virus Diseases.RNA Virus Infections.Picornaviridae Infections.Enterovirus Infections.Encephalomyelitis, Enzootic Porcine",C02.782.687.359.456
+Virus Diseases.RNA Virus Infections.Picornaviridae Infections.Enterovirus Infections.Hepatitis A,C02.782.687.359.500
+Virus Diseases.RNA Virus Infections.Picornaviridae Infections.Enterovirus Infections.Poliomyelitis,C02.782.687.359.764
+"Virus Diseases.RNA Virus Infections.Picornaviridae Infections.Enterovirus Infections.Poliomyelitis.Poliomyelitis, Bulbar",C02.782.687.359.764.614
+Virus Diseases.RNA Virus Infections.Picornaviridae Infections.Enterovirus Infections.Poliomyelitis.Postpoliomyelitis Syndrome,C02.782.687.359.764.650
+Virus Diseases.RNA Virus Infections.Picornaviridae Infections.Enterovirus Infections.Swine Vesicular Disease,C02.782.687.359.855
+Virus Diseases.RNA Virus Infections.Picornaviridae Infections.Foot-and-Mouth Disease,C02.782.687.484
+Virus Diseases.RNA Virus Infections.Reoviridae Infections,C02.782.791
+Virus Diseases.RNA Virus Infections.Reoviridae Infections.African Horse Sickness,C02.782.791.142
+Virus Diseases.RNA Virus Infections.Reoviridae Infections.Bluetongue,C02.782.791.315
+Virus Diseases.RNA Virus Infections.Reoviridae Infections.Colorado Tick Fever,C02.782.791.482
+Virus Diseases.RNA Virus Infections.Reoviridae Infections.Rotavirus Infections,C02.782.791.814
+Virus Diseases.RNA Virus Infections.Retroviridae Infections,C02.782.815
+Virus Diseases.RNA Virus Infections.Retroviridae Infections.Avian Leukosis,C02.782.815.096
+Virus Diseases.RNA Virus Infections.Retroviridae Infections.Deltaretrovirus Infections,C02.782.815.200
+Virus Diseases.RNA Virus Infections.Retroviridae Infections.Deltaretrovirus Infections.Enzootic Bovine Leukosis,C02.782.815.200.260
+Virus Diseases.RNA Virus Infections.Retroviridae Infections.Deltaretrovirus Infections.HTLV-I Infections,C02.782.815.200.470
+"Virus Diseases.RNA Virus Infections.Retroviridae Infections.Deltaretrovirus Infections.HTLV-I Infections.Paraparesis, Tropical Spastic",C02.782.815.200.470.710
+Virus Diseases.RNA Virus Infections.Retroviridae Infections.Deltaretrovirus Infections.HTLV-II Infections,C02.782.815.200.480
+Virus Diseases.RNA Virus Infections.Retroviridae Infections.Lentivirus Infections,C02.782.815.616
+Virus Diseases.RNA Virus Infections.Retroviridae Infections.Lentivirus Infections.Equine Infectious Anemia,C02.782.815.616.300
+Virus Diseases.RNA Virus Infections.Retroviridae Infections.Lentivirus Infections.Feline Acquired Immunodeficiency Syndrome,C02.782.815.616.350
+Virus Diseases.RNA Virus Infections.Retroviridae Infections.Lentivirus Infections.HIV Infections,C02.782.815.616.400
+Virus Diseases.RNA Virus Infections.Retroviridae Infections.Lentivirus Infections.HIV Infections.Acquired Immunodeficiency Syndrome,C02.782.815.616.400.040
+Virus Diseases.RNA Virus Infections.Retroviridae Infections.Lentivirus Infections.HIV Infections.Acute Retroviral Syndrome,C02.782.815.616.400.044
+"Virus Diseases.RNA Virus Infections.Retroviridae Infections.Lentivirus Infections.HIV Infections.AIDS Arteritis, Central Nervous System",C02.782.815.616.400.048
+Virus Diseases.RNA Virus Infections.Retroviridae Infections.Lentivirus Infections.HIV Infections.AIDS-Associated Nephropathy,C02.782.815.616.400.050
+Virus Diseases.RNA Virus Infections.Retroviridae Infections.Lentivirus Infections.HIV Infections.AIDS Dementia Complex,C02.782.815.616.400.070
+Virus Diseases.RNA Virus Infections.Retroviridae Infections.Lentivirus Infections.HIV Infections.AIDS-Related Complex,C02.782.815.616.400.080
+Virus Diseases.RNA Virus Infections.Retroviridae Infections.Lentivirus Infections.HIV Infections.AIDS-Related Opportunistic Infections,C02.782.815.616.400.100
+Virus Diseases.RNA Virus Infections.Retroviridae Infections.Lentivirus Infections.HIV Infections.HIV-Associated Lipodystrophy Syndrome,C02.782.815.616.400.400
+Virus Diseases.RNA Virus Infections.Retroviridae Infections.Lentivirus Infections.HIV Infections.HIV Enteropathy,C02.782.815.616.400.480
+Virus Diseases.RNA Virus Infections.Retroviridae Infections.Lentivirus Infections.HIV Infections.HIV Seropositivity,C02.782.815.616.400.500
+Virus Diseases.RNA Virus Infections.Retroviridae Infections.Lentivirus Infections.HIV Infections.HIV Wasting Syndrome,C02.782.815.616.400.520
+"Virus Diseases.RNA Virus Infections.Retroviridae Infections.Lentivirus Infections.Pneumonia, Progressive Interstitial, of Sheep",C02.782.815.616.660
+Virus Diseases.RNA Virus Infections.Retroviridae Infections.Lentivirus Infections.Simian Acquired Immunodeficiency Syndrome,C02.782.815.616.850
+Virus Diseases.RNA Virus Infections.Retroviridae Infections.Lentivirus Infections.Visna,C02.782.815.616.900
+"Virus Diseases.RNA Virus Infections.Retroviridae Infections.Leukemia, Feline",C02.782.815.622
+Virus Diseases.RNA Virus Infections.Retroviridae Infections.Murine Acquired Immunodeficiency Syndrome,C02.782.815.650
+"Virus Diseases.RNA Virus Infections.Retroviridae Infections.Pulmonary Adenomatosis, Ovine",C02.782.815.725
+"Virus Diseases.RNA Virus Infections.Retroviridae Infections.Sarcoma, Avian",C02.782.815.800
+Virus Diseases.RNA Virus Infections.Togaviridae Infections,C02.782.930
+Virus Diseases.RNA Virus Infections.Togaviridae Infections.Alphavirus Infections,C02.782.930.100
+Virus Diseases.RNA Virus Infections.Togaviridae Infections.Alphavirus Infections.Chikungunya Fever,C02.782.930.100.184
+"Virus Diseases.RNA Virus Infections.Togaviridae Infections.Alphavirus Infections.Encephalomyelitis, Equine",C02.782.930.100.370
+"Virus Diseases.RNA Virus Infections.Togaviridae Infections.Alphavirus Infections.Encephalomyelitis, Equine.Encephalomyelitis, Eastern Equine",C02.782.930.100.370.162
+"Virus Diseases.RNA Virus Infections.Togaviridae Infections.Alphavirus Infections.Encephalomyelitis, Equine.Encephalomyelitis, Venezuelan Equine",C02.782.930.100.370.325
+"Virus Diseases.RNA Virus Infections.Togaviridae Infections.Alphavirus Infections.Encephalomyelitis, Equine.Encephalomyelitis, Western Equine",C02.782.930.100.370.662
+Virus Diseases.RNA Virus Infections.Togaviridae Infections.Rubivirus Infections,C02.782.930.700
+Virus Diseases.RNA Virus Infections.Togaviridae Infections.Rubivirus Infections.Rubella,C02.782.930.700.700
+"Virus Diseases.RNA Virus Infections.Togaviridae Infections.Rubivirus Infections.Rubella.Rubella Syndrome, Congenital",C02.782.930.700.700.700
+Virus Diseases.Sexually Transmitted Diseases,C02.800
+"Virus Diseases.Sexually Transmitted Diseases.Sexually Transmitted Diseases, Viral",C02.800.801
+"Virus Diseases.Sexually Transmitted Diseases.Sexually Transmitted Diseases, Viral.Condylomata Acuminata",C02.800.801.220
+"Virus Diseases.Sexually Transmitted Diseases.Sexually Transmitted Diseases, Viral.Condylomata Acuminata.Buschke-Lowenstein Tumor",C02.800.801.220.500
+"Virus Diseases.Sexually Transmitted Diseases.Sexually Transmitted Diseases, Viral.Herpes Genitalis",C02.800.801.350
+"Virus Diseases.Sexually Transmitted Diseases.Sexually Transmitted Diseases, Viral.HIV Infections",C02.800.801.400
+"Virus Diseases.Sexually Transmitted Diseases.Sexually Transmitted Diseases, Viral.HIV Infections.Acquired Immunodeficiency Syndrome",C02.800.801.400.040
+"Virus Diseases.Sexually Transmitted Diseases.Sexually Transmitted Diseases, Viral.HIV Infections.Acute Retroviral Syndrome",C02.800.801.400.044
+"Virus Diseases.Sexually Transmitted Diseases.Sexually Transmitted Diseases, Viral.HIV Infections.AIDS Arteritis, Central Nervous System",C02.800.801.400.048
+"Virus Diseases.Sexually Transmitted Diseases.Sexually Transmitted Diseases, Viral.HIV Infections.AIDS-Associated Nephropathy",C02.800.801.400.050
+"Virus Diseases.Sexually Transmitted Diseases.Sexually Transmitted Diseases, Viral.HIV Infections.AIDS Dementia Complex",C02.800.801.400.070
+"Virus Diseases.Sexually Transmitted Diseases.Sexually Transmitted Diseases, Viral.HIV Infections.AIDS-Related Complex",C02.800.801.400.080
+"Virus Diseases.Sexually Transmitted Diseases.Sexually Transmitted Diseases, Viral.HIV Infections.HIV-Associated Lipodystrophy Syndrome",C02.800.801.400.400
+"Virus Diseases.Sexually Transmitted Diseases.Sexually Transmitted Diseases, Viral.HIV Infections.HIV Enteropathy",C02.800.801.400.480
+"Virus Diseases.Sexually Transmitted Diseases.Sexually Transmitted Diseases, Viral.HIV Infections.HIV Seropositivity",C02.800.801.400.500
+"Virus Diseases.Sexually Transmitted Diseases.Sexually Transmitted Diseases, Viral.HIV Infections.HIV Wasting Syndrome",C02.800.801.400.520
+"Virus Diseases.Skin Diseases, Viral",C02.825
+"Virus Diseases.Skin Diseases, Viral.Erythema Infectiosum",C02.825.260
+"Virus Diseases.Skin Diseases, Viral.Exanthema Subitum",C02.825.290
+"Virus Diseases.Skin Diseases, Viral.Herpes Simplex",C02.825.320
+"Virus Diseases.Skin Diseases, Viral.Herpes Simplex.Herpes Labialis",C02.825.320.320
+"Virus Diseases.Skin Diseases, Viral.Herpes Simplex.Kaposi Varicelliform Eruption",C02.825.320.410
+"Virus Diseases.Skin Diseases, Viral.Molluscum Contagiosum",C02.825.550
+"Virus Diseases.Skin Diseases, Viral.Warts",C02.825.810
+"Virus Diseases.Skin Diseases, Viral.Warts.Condylomata Acuminata",C02.825.810.110
+"Virus Diseases.Skin Diseases, Viral.Warts.Condylomata Acuminata.Buschke-Lowenstein Tumor",C02.825.810.110.500
+"Virus Diseases.Skin Diseases, Viral.Warts.Epidermodysplasia Verruciformis",C02.825.810.260
+Virus Diseases.Slow Virus Diseases,C02.839
+Virus Diseases.Slow Virus Diseases.Acquired Immunodeficiency Syndrome,C02.839.040
+Virus Diseases.Slow Virus Diseases.AIDS-Related Complex,C02.839.080
+Virus Diseases.Slow Virus Diseases.Aleutian Mink Disease,C02.839.091
+Virus Diseases.Slow Virus Diseases.Equine Infectious Anemia,C02.839.375
+Virus Diseases.Slow Virus Diseases.Feline Acquired Immunodeficiency Syndrome,C02.839.400
+"Virus Diseases.Slow Virus Diseases.Leukoencephalopathy, Progressive Multifocal",C02.839.550
+"Virus Diseases.Slow Virus Diseases.Pneumonia, Progressive Interstitial, of Sheep",C02.839.660
+Virus Diseases.Slow Virus Diseases.Simian Acquired Immunodeficiency Syndrome,C02.839.850
+Virus Diseases.Slow Virus Diseases.Subacute Sclerosing Panencephalitis,C02.839.862
+Virus Diseases.Slow Virus Diseases.Visna,C02.839.900
+Virus Diseases.Tumor Virus Infections,C02.928
+Virus Diseases.Tumor Virus Infections.Avian Leukosis,C02.928.120
+"Virus Diseases.Tumor Virus Infections.Carcinoma, Merkel Cell",C02.928.216
+Virus Diseases.Tumor Virus Infections.Epstein-Barr Virus Infections,C02.928.313
+Virus Diseases.Tumor Virus Infections.Epstein-Barr Virus Infections.Burkitt Lymphoma,C02.928.313.165
+Virus Diseases.Tumor Virus Infections.Marek Disease,C02.928.489
+Virus Diseases.Tumor Virus Infections.Murine Acquired Immunodeficiency Syndrome,C02.928.650
+Virus Diseases.Tumor Virus Infections.Papillomavirus Infections,C02.928.725
+"Virus Diseases.Tumor Virus Infections.Pulmonary Adenomatosis, Ovine",C02.928.740
+"Virus Diseases.Tumor Virus Infections.Sarcoma, Avian",C02.928.800
+Virus Diseases.Tumor Virus Infections.Warts,C02.928.914
+Virus Diseases.Tumor Virus Infections.Warts.Condylomata Acuminata,C02.928.914.217
+Virus Diseases.Tumor Virus Infections.Warts.Condylomata Acuminata.Buschke-Lowenstein Tumor,C02.928.914.217.500
+Virus Diseases.Tumor Virus Infections.Warts.Epidermodysplasia Verruciformis,C02.928.914.345
+Virus Diseases.Viremia,C02.937
+Virus Diseases.Zoonoses,C02.968

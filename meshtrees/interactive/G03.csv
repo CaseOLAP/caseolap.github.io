@@ -1,0 +1,213 @@
+id,name
+G03,Metabolism
+G03.015,Absorption
+G03.015.500,"Absorption, Physiological"
+G03.015.500.374,Gastrointestinal Absorption
+G03.015.500.374.249,Gastric Absorption
+G03.015.500.374.500,Intestinal Absorption
+G03.015.500.374.500.500,Intestinal Reabsorption
+G03.015.500.374.650,Oral Mucosal Absorption
+G03.015.500.374.825,Rectal Absorption
+G03.015.500.562,Intramuscular Absorption
+G03.015.500.656,Ocular Absorption
+G03.015.500.667,Peritoneal Absorption
+G03.015.500.679,Renal Reabsorption
+G03.015.500.703,Respiratory Tract Absorption
+G03.015.500.703.500,Nasal Absorption
+G03.015.500.750,Skin Absorption
+G03.015.500.875,Subcutaneous Absorption
+G03.015.500.937,Vaginal Absorption
+G03.030,Acid-Base Equilibrium
+G03.040,Acylation
+G03.040.052,Acetylation
+G03.040.055,Aminoacylation
+G03.040.055.860,Transfer RNA Aminoacylation
+G03.049,Aerobiosis
+G03.059,Alkylation
+G03.059.538,Methylation
+G03.059.538.161,DNA Methylation
+G03.068,Amination
+G03.078,Anaerobiosis
+G03.087,Autotrophic Processes
+G03.087.314,Chemoautotrophic Growth
+G03.087.630,Nitrogen Fixation
+G03.105,Biocatalysis
+G03.143,Biological Transport
+G03.143.310,"Biological Transport, Active"
+G03.143.310.100,"Active Transport, Cell Nucleus"
+G03.143.330,Capillary Permeability
+G03.143.335,Cell Membrane Permeability
+G03.143.355,Cytoplasmic Streaming
+G03.143.355.040,Axonal Transport
+G03.143.427,Facilitated Diffusion
+G03.143.500,Ion Transport
+G03.143.500.100,Calcium Signaling
+G03.143.700,Protein Transport
+G03.143.700.100,"Active Transport, Cell Nucleus"
+G03.143.775,Respiratory Transport
+G03.143.775.602,Pulmonary Gas Exchange
+G03.143.850,RNA Transport
+G03.143.925,Secretory Pathway
+G03.143.962,Transcytosis
+G03.143.962.500,Transcellular Cell Migration
+G03.162,Biotinylation
+G03.171,Biotransformation
+G03.171.224,"Activation, Metabolic"
+G03.171.450,"Inactivation, Metabolic"
+G03.171.450.500,"Metabolic Detoxication, Phase I"
+G03.171.450.750,"Metabolic Detoxication, Phase II"
+G03.180,Body Composition
+G03.180.134,Body Fat Distribution
+G03.180.134.500,Adiposity
+G03.185,Brain Chemistry
+G03.191,Carbohydrate Metabolism
+G03.191.249,Fermentation
+G03.191.500,Gluconeogenesis
+G03.191.625,Glycogenolysis
+G03.191.750,Glycolysis
+G03.191.812,Glycosylation
+G03.191.875,Pentose Phosphate Pathway
+G03.191.937,Photosynthesis
+G03.191.937.700,Photophosphorylation
+G03.194,Catabolite Repression
+G03.197,Cell Respiration
+G03.197.300,Cell Hypoxia
+G03.197.300.500,Tumor Hypoxia
+G03.197.620,Respiratory Burst
+G03.208,Cyclization
+G03.219,Dealkylation
+G03.219.500,Demethylation
+G03.219.500.500,DNA Demethylation
+G03.222,Deamination
+G03.225,Decarboxylation
+G03.230,Dimerization
+G03.295,Energy Metabolism
+G03.295.154,Basal Metabolism
+G03.295.342,Citric Acid Cycle
+G03.295.436,Glycolysis
+G03.295.531,Oxidation-Reduction
+G03.295.531.403,Electron Transport
+G03.295.531.587,Lipid Peroxidation
+G03.295.631,Oxidative Phosphorylation
+G03.295.693,Pentose Phosphate Pathway
+G03.295.724,Photophosphorylation
+G03.295.770,Proton-Motive Force
+G03.295.770.500,"Membrane Potential, Mitochondrial"
+G03.295.835,Substrate Cycling
+G03.312,Enterohepatic Circulation
+G03.312.500,Intestinal Reabsorption
+G03.328,Enzyme Activation
+G03.344,Esterification
+G03.360,Halogenation
+G03.393,Heterotrophic Processes
+G03.409,Hydrogenation
+G03.425,Hydroxylation
+G03.458,Lipid Metabolism
+G03.458.249,Lipogenesis
+G03.458.500,Lipolysis
+G03.458.500.500,Lipid Mobilization
+G03.458.875,Lipoylation
+G03.490,Metabolic Clearance Rate
+G03.493,Metabolic Networks and Pathways
+G03.493.100,Biosynthetic Pathways
+G03.493.170,Citric Acid Cycle
+G03.493.350,Electron Transport
+G03.493.360,Glycolysis
+G03.493.485,Kallikrein-Kinin System
+G03.493.560,MAP Kinase Signaling System
+G03.493.628,Non-Neuronal Cholinergic System
+G03.493.695,Pentose Phosphate Pathway
+G03.493.700,Photosynthesis
+G03.493.750,Protein Interaction Maps
+G03.493.875,Secondary Metabolism
+G03.500,Metabolome
+G03.558,Nitrosation
+G03.615,Osmoregulation
+G03.615.500,Water-Electrolyte Balance
+G03.615.500.500,Kallikrein-Kinin System
+G03.615.500.750,"Water Loss, Insensible"
+G03.673,Oxidative Stress
+G03.673.345,Nitrosative Stress
+G03.673.690,Protein Carbonylation
+G03.680,Oxygen Consumption
+G03.680.110,Anaerobic Threshold
+G03.680.365,Metabolic Equivalent
+G03.734,Peptide Biosynthesis
+G03.734.050,Aminoacylation
+G03.734.050.860,Transfer RNA Aminoacylation
+G03.734.333,"Peptide Biosynthesis, Nucleic Acid-Independent"
+G03.734.871,Protein Biosynthesis
+G03.734.871.200,"Frameshifting, Ribosomal"
+G03.734.871.640,"Peptide Chain Elongation, Translational"
+G03.734.871.650,"Peptide Chain Initiation, Translational"
+G03.734.871.720,"Peptide Chain Termination, Translational"
+G03.734.871.790,"Protein Modification, Translational"
+G03.734.871.790.600,"Protein Processing, Post-Translational"
+G03.734.871.790.600.200,ADP-Ribosylation
+G03.734.871.790.600.200.500,Poly ADP Ribosylation
+G03.734.871.790.600.300,Citrullination
+G03.734.871.790.600.400,Protein Prenylation
+G03.734.871.790.600.700,Protein Splicing
+G03.734.871.790.600.831,Ubiquitination
+G03.734.871.790.600.831.500,Sumoylation
+G03.734.871.790.600.850,Unfolded Protein Response
+G03.734.871.790.600.850.500,Endoplasmic Reticulum-Associated Degradation
+G03.734.871.850,Transfer RNA Aminoacylation
+G03.787,Pharmacokinetics
+G03.787.024,Absorption
+G03.787.024.500,"Absorption, Physiological"
+G03.787.024.500.374,Gastrointestinal Absorption
+G03.787.024.500.374.249,Gastric Absorption
+G03.787.024.500.374.500,Intestinal Absorption
+G03.787.024.500.374.500.500,Intestinal Reabsorption
+G03.787.024.500.374.650,Oral Mucosal Absorption
+G03.787.024.500.374.825,Rectal Absorption
+G03.787.024.500.562,Intramuscular Absorption
+G03.787.024.500.656,Ocular Absorption
+G03.787.024.500.667,Peritoneal Absorption
+G03.787.024.500.679,Renal Reabsorption
+G03.787.024.500.703,Respiratory Tract Absorption
+G03.787.024.500.703.500,Nasal Absorption
+G03.787.024.500.750,Skin Absorption
+G03.787.024.500.875,Subcutaneous Absorption
+G03.787.024.500.937,Vaginal Absorption
+G03.787.101,Area Under Curve
+G03.787.151,Biological Availability
+G03.787.225,Biotransformation
+G03.787.225.224,"Activation, Metabolic"
+G03.787.225.450,"Inactivation, Metabolic"
+G03.787.225.450.500,"Metabolic Detoxication, Phase I"
+G03.787.225.450.750,"Metabolic Detoxication, Phase II"
+G03.787.273,Cutaneous Elimination
+G03.787.321,Drug Liberation
+G03.787.380,Hepatobiliary Elimination
+G03.787.383,Intestinal Elimination
+G03.787.387,Lacrimal Elimination
+G03.787.391,Lacteal Elimination
+G03.787.395,Pulmonary Elimination
+G03.787.410,Renal Elimination
+G03.787.440,Salivary Elimination
+G03.787.559,Therapeutic Equivalency
+G03.787.917,Tissue Distribution
+G03.796,Phosphorylation
+G03.796.550,Oxidative Phosphorylation
+G03.796.605,Photophosphorylation
+G03.800,Phototrophic Processes
+G03.800.700,Photosynthesis
+G03.800.700.700,Photophosphorylation
+G03.804,Prenylation
+G03.804.500,Protein Prenylation
+G03.808,Protein Binding
+G03.812,Proteolysis
+G03.816,Proteostasis
+G03.820,Renin-Angiotensin System
+G03.839,"RNA Processing, Post-Transcriptional"
+G03.839.112,Nonsense Mediated mRNA Decay
+G03.839.225,RNA 3' End Processing
+G03.839.225.710,Polyadenylation
+G03.839.250,RNA Editing
+G03.839.700,RNA Splicing
+G03.839.700.100,Alternative Splicing
+G03.839.700.750,Trans-Splicing
+G03.857,Secretory Rate
+G03.893,Toxicokinetics
